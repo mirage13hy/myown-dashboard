@@ -35,6 +35,15 @@ def _extract_images(container: BeautifulSoup | None, base_url: str, limit: int =
     return urls
 
 
+def _extract_clien_time(row: BeautifulSoup) -> str:
+    ts = row.select_one("span.timestamp")
+    if not ts:
+        return ""
+    raw = ts.get_text(strip=True)
+    m = re.search(r"(\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2})", raw)
+    return m.group(1) if m else raw[:16]
+
+
 def _fetch_detail(client, url: str, selectors: list[str]) -> tuple[str, list[str]]:
     try:
         resp = client.get(url)
@@ -115,14 +124,18 @@ def scrape_fmkorea(client, limit: int = 10) -> list[dict[str, Any]]:
         href = urljoin(url, a.get("href", ""))
         if not title or ("/best" in href and href.endswith("/best2")) or is_noise_post(title):
             continue
+        t_el = item.select_one("span.regdate, td.time, span.date")
+        t_str = t_el.get_text(strip=True) if t_el else ""
+        author_el = item.select_one("span.author, td.author")
+        author = author_el.get_text(strip=True) if author_el else ""
         content, imgs = _fetch_detail(client, href, ["div.rd_body article", "div.xe_content"])
         posts.append({
             "id": make_post_id("fm", href),
             "source": "에펨코리아",
             "title": title,
             "url": href,
-            "author": "",
-            "time": "",
+            "author": author,
+            "time": t_str,
             "likes": "",
             "comments": "",
             "content": content,
@@ -184,6 +197,10 @@ def scrape_mlbpark(client, limit: int = 8) -> list[dict[str, Any]]:
             continue
         title = a.get_text(strip=True)
         href = urljoin(url, a.get("href", ""))
+        t_el = row.select_one("span.date")
+        t_str = t_el.get_text(strip=True) if t_el else ""
+        if is_noise_post(title, "", t_str):
+            continue
         content, imgs = _fetch_detail(client, href, ["div#contentDetail", "div.ar_txt"])
         posts.append({
             "id": make_post_id("mp", href),
@@ -191,7 +208,7 @@ def scrape_mlbpark(client, limit: int = 8) -> list[dict[str, Any]]:
             "title": title,
             "url": href,
             "author": "",
-            "time": "",
+            "time": t_str,
             "likes": "",
             "comments": "",
             "content": content,
@@ -254,6 +271,7 @@ def scrape_clien(client, limit: int = 8) -> list[dict[str, Any]]:
             continue
         title = a.get_text(strip=True)
         href = urljoin(url, link_el.get("href", ""))
+        t_str = _extract_clien_time(row)
         like_el = row.select_one("div.list_symph span")
         cmt_el = row.select_one("span.rSymph05")
         content, imgs = _fetch_detail(client, href, ["div.post_article"])
@@ -263,7 +281,7 @@ def scrape_clien(client, limit: int = 8) -> list[dict[str, Any]]:
             "title": title,
             "url": href,
             "author": "",
-            "time": "",
+            "time": t_str,
             "likes": like_el.get_text(strip=True) if like_el else "",
             "comments": cmt_el.get_text(strip=True) if cmt_el else "",
             "content": content,

@@ -51,6 +51,7 @@ const state = {
   hotData: { updated_at: "", cross_topics: [], posts: [], source_status: {} },
   aiData: { updated_at: "", posts: [], source_status: {} },
   dealsData: { updated_at: "", posts: [], source_status: {} },
+  gamesData: { updated_at: "", posts: [], source_status: {} },
   economyData: { updated_at: "", markets: [], market_brief: "", videos: [] },
   scraps: [],
   scrollY: 0,
@@ -154,16 +155,18 @@ async function fetchDataset(name, fallback) {
 }
 
 async function loadAllData() {
-  const [hot, ai, deals, econ] = await Promise.all([
+  const [hot, ai, deals, games, econ] = await Promise.all([
     fetchDataset("community_hot", state.hotData),
     fetchDataset("community_ai", state.aiData),
     fetchDataset("deals", state.dealsData),
+    fetchDataset("games", state.gamesData),
     fetchDataset("economy_briefing", state.economyData),
     loadScraps(),
   ]);
   state.hotData = hot;
   state.aiData = ai;
   state.dealsData = deals;
+  state.gamesData = games;
   state.economyData = econ;
   render();
 }
@@ -172,6 +175,7 @@ function getAllPostsForCurrentTab() {
   if (state.tab === "hot") return state.hotData.posts || [];
   if (state.tab === "ai") return state.aiData.posts || [];
   if (state.tab === "deals") return state.dealsData.posts || [];
+  if (state.tab === "games") return state.gamesData.posts || [];
   if (state.tab === "scraps") return state.scraps || [];
   return state.economyData.videos || [];
 }
@@ -181,6 +185,7 @@ function findPostById(id) {
     ...(state.hotData.posts || []),
     ...(state.aiData.posts || []),
     ...(state.dealsData.posts || []),
+    ...(state.gamesData.posts || []),
     ...(state.economyData.videos || []),
   ];
   return all.find((p) => p.id === id) || null;
@@ -277,9 +282,10 @@ function renderMarkets() {
     .map((m) => {
       const cls = m.change_pct > 0 ? "up" : m.change_pct < 0 ? "down" : "flat";
       const sign = m.change_pct > 0 ? "+" : "";
+      const dateBadge = m.date ? ` (${esc(m.date)})` : "";
       return `
         <div class="market-card">
-          <div class="market-name">${esc(m.name)}</div>
+          <div class="market-name">${esc(m.name)}${dateBadge}</div>
           <div class="market-price">${esc(m.price)}</div>
           <div class="market-chg ${cls}">${sign}${esc(m.change_pct)}%</div>
         </div>
@@ -421,6 +427,7 @@ function updateTimestamp() {
     hot: state.hotData.updated_at,
     ai: state.aiData.updated_at,
     deals: state.dealsData.updated_at,
+    games: state.gamesData.updated_at,
     economy: state.economyData.updated_at,
     scraps: state.scraps.length ? `보관 ${state.scraps.length}건` : "비어 있음",
   };

@@ -64,6 +64,7 @@ def _summarize_market_with_gemini(market_lines: list[str], headlines: list[str])
 def _fetch_markets() -> tuple[list[dict[str, Any]], str]:
     results = []
     summary_lines = []
+    latest_dates: list[str] = []
 
     for name, symbol in MARKET_TICKERS:
         try:
@@ -72,21 +73,25 @@ def _fetch_markets() -> tuple[list[dict[str, Any]], str]:
                 continue
             prev_close = float(hist["Close"].iloc[-2])
             last_close = float(hist["Close"].iloc[-1])
+            trade_date = hist.index[-1].strftime("%Y-%m-%d")
+            latest_dates.append(trade_date)
             chg_pct = round(((last_close - prev_close) / prev_close) * 100, 2)
             price_str = f"{last_close:,.2f}"
-            results.append({"name": name, "price": price_str, "change_pct": chg_pct})
+            results.append({"name": name, "price": price_str, "change_pct": chg_pct, "date": trade_date[5:]})
             sign = "+" if chg_pct > 0 else ""
-            summary_lines.append(f"• {name}: {price_str} ({sign}{chg_pct}%)")
+            summary_lines.append(f"• {name} ({trade_date}): {price_str} ({sign}{chg_pct}%)")
         except Exception:
             continue
 
+    ref_date = max(latest_dates) if latest_dates else now_kst_str()[:10]
     headlines = _fetch_market_news(10)
     ai_brief = _summarize_market_with_gemini(summary_lines, headlines)
     if ai_brief:
-        brief = ai_brief
+        brief = f"[기준일: {ref_date} 최신 거래일 마감 기준]\n{ai_brief}"
     else:
         news_block = "\n".join(f"- {h}" for h in headlines[:5])
         brief = (
+            f"[기준일: {ref_date} 최신 거래일 마감 기준]\n"
             "※ GEMINI_API_KEY가 설정되면 지수+뉴스 기반 AI 원인 분석 브리핑이 표시됩니다.\n\n"
             + ("\n".join(summary_lines) if summary_lines else "")
             + (f"\n\n[최신 시황 헤드라인]\n{news_block}" if news_block else "")
@@ -216,8 +221,9 @@ def _load_cached_summaries() -> dict[str, str]:
 
 def _fetch_all_videos() -> list[dict[str, Any]]:
     cached = _load_cached_summaries()
-    videos = []
+    by_channel: list[list[dict[str, Any]]] = []
     for channel_name, channel_url, limit in YOUTUBE_CHANNELS:
+        ch_videos: list[dict[str, Any]] = []
         for entry in _fetch_channel_entries(channel_url, limit):
             video_id = entry["video_id"]
             title = entry["title"]
@@ -242,7 +248,7 @@ def _fetch_all_videos() -> list[dict[str, Any]]:
                 else "자막이 아직 제공되지 않았거나 가져올 수 없습니다. 원본 영상 링크를 확인해 주세요."
             )
 
-            videos.append({
+            ch_videos.append({
                 "id": pid,
                 "source": channel_name,
                 "category": "AI 요약" if summary else "자막 원문",
@@ -253,7 +259,16 @@ def _fetch_all_videos() -> list[dict[str, Any]]:
                 "content": content,
                 "images": [f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg"] if video_id else [],
             })
-    return videos
+        by_channel.append(ch_videos)
+
+    # 두 채널 영상이 '전체'에서도 골고루 보이도록 번갈아 배치
+    interleaved: list[dict[str, Any]] = []
+    max_len = max((len(lst) for lst in by_channel), default=0)
+    for idx in range(max_len):
+        for lst in by_channel:
+            if idx < len(lst):
+                interleaved.append(lst[idx])
+    return interleaved
 
 
 def run() -> dict[str, Any]:

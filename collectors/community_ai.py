@@ -6,7 +6,7 @@ from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
 from collectors.common import is_noise_post, load_previous_posts, make_client, make_post_id, merge_posts, now_kst_str, save_json
-from collectors.community_hot import _fetch_detail
+from collectors.community_hot import _extract_clien_time, _fetch_detail
 
 AI_KEYWORDS = (
     "ai", "gpt", "chatgpt", "챗gpt", "제미나이", "gemini", "클로드", "claude",
@@ -94,6 +94,7 @@ def _scrape_clien_board(client, board_path: str, source_name: str, filter_ai: bo
         if is_noise_post(title):
             continue
         href = urljoin(url, link_el.get("href", ""))
+        t_str = _extract_clien_time(row)
         like_el = row.select_one("div.list_symph span")
         cmt_el = row.select_one("span.rSymph05")
         content, imgs = _fetch_detail(client, href, ["div.post_article"])
@@ -104,7 +105,7 @@ def _scrape_clien_board(client, board_path: str, source_name: str, filter_ai: bo
             "title": title,
             "url": href,
             "author": "",
-            "time": "",
+            "time": t_str,
             "likes": like_el.get_text(strip=True) if like_el else "",
             "comments": cmt_el.get_text(strip=True) if cmt_el else "",
             "content": content,
@@ -132,6 +133,8 @@ def _scrape_fmkorea_board(client, url: str, source_name: str, filter_ai: bool, l
         if not title or (filter_ai and not _has_ai_keyword(title)) or is_noise_post(title):
             continue
         href = urljoin(url, a.get("href", ""))
+        t_el = row.select_one("td.time, span.regdate")
+        t_str = t_el.get_text(strip=True) if t_el else ""
         content, imgs = _fetch_detail(client, href, ["div.rd_body article", "div.xe_content"])
         posts.append({
             "id": make_post_id(source_name, href),
@@ -140,7 +143,7 @@ def _scrape_fmkorea_board(client, url: str, source_name: str, filter_ai: bool, l
             "title": title,
             "url": href,
             "author": "",
-            "time": "",
+            "time": t_str,
             "likes": "",
             "comments": "",
             "content": content,

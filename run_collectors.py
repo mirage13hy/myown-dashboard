@@ -2,7 +2,7 @@ import argparse
 import json
 from dotenv import load_dotenv
 
-from collectors import community_ai, community_hot, deals, economy_briefing
+from collectors import community_ai, community_hot, deals, economy_briefing, games
 
 
 def main() -> None:
@@ -10,7 +10,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="MyOwn 대시보드 데이터 수집기")
     parser.add_argument(
         "--only",
-        choices=["hot", "ai", "deals", "economy", "all"],
+        choices=["hot", "ai", "deals", "games", "economy", "all"],
         default="all",
         help="실행할 수집 모듈 선택",
     )
@@ -28,6 +28,10 @@ def main() -> None:
     if args.only in ("deals", "all"):
         res = deals.run()
         summary["deals"] = res.get("source_status", {})
+
+    if args.only in ("games", "all"):
+        res = games.run()
+        summary["games"] = res.get("source_status", {})
 
     if args.only in ("economy", "all"):
         res = economy_briefing.run()
