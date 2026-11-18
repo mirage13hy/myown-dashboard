@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-17 10:00",
+  "updated_at": "2026-11-18 21:23",
   "source_status": {
     "에펨코리아 핫딜": "cached (1, HTTPStatusError)",
-    "뽐뿌": "ok (1)",
-    "클리앙 알뜰구매": "ok (5)"
+    "뽐뿌": "cached (1, HTTPStatusError)",
+    "클리앙 알뜰구매": "ok (4)"
   },
   "posts": [
     {
@@ -49,7 +49,7 @@
       "author": "",
       "time": "",
       "likes": "",
-      "comments": "",
+      "comments": "1",
       "content": "모티브 출판사에서 도서 구독 서비스를 런칭하면서 이벤트로 2권을 무료로 증정합니다.\n12월의 책은 아래 2권입니다.\n모두가 그렇게 흔들리며 살아갑니다 (정가 17,800원)\nhttps://product.kyobobook.co.kr/detail/S000221242474\n교보문고\n반골 (정가 19,800원)\nhttps://product.kyobobook.co.kr/detail/S000220622564\n교보문고",
       "images": [
         "https://edgio.clien.net/F01/2026/11/15864486/17eaca10f84d30.jpg?scale=width:740",
@@ -117,21 +117,6 @@
       "content": "이번주 에픽 무료게임은\n해양 도시건설 생존(?) 게임\n표류도시\n(Flotsam)와\nD&D기반 방치형 게임\nIdel champion of the Forgotten Realms\n입니다.\n(이건 그냥 항시 무료게임같은데 왜 올라왔는지 모르겠네요;)\n표류도시 트레일러",
       "images": [
         "https://edgio.clien.net/F01/2026/11/15858166/14581623045e30.png?scale=width:740"
-      ]
-    },
-    {
-      "id": "ppom_deal_0faf46cc02e8",
-      "source": "뽐뿌",
-      "category": "게임·콘솔",
-      "title": "[지마켓]순면 고온 워싱 피그먼트 소파패드 (15,920원/무배)",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=118&no=749217",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "3인용 15,920원 / 4인용 18,320원 입니다\n디자인 2종류 있고 오코텍스, KC인증된 원단입니다",
-      "images": [
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1116/900w_20261116161408_sK5PrKbhU7.jpeg"
       ],
       "is_cross_hot": false
     }
