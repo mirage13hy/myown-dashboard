@@ -52,6 +52,7 @@ const state = {
   aiData: { updated_at: "", posts: [], source_status: {} },
   dealsData: { updated_at: "", posts: [], source_status: {} },
   gamesData: { updated_at: "", posts: [], source_status: {} },
+  redditData: { updated_at: "", posts: [], source_status: {} },
   economyData: { updated_at: "", markets: [], market_brief: "", videos: [] },
   scraps: [],
   scrollY: 0,
@@ -155,11 +156,12 @@ async function fetchDataset(name, fallback) {
 }
 
 async function loadAllData() {
-  const [hot, ai, deals, games, econ] = await Promise.all([
+  const [hot, ai, deals, games, reddit, econ] = await Promise.all([
     fetchDataset("community_hot", state.hotData),
     fetchDataset("community_ai", state.aiData),
     fetchDataset("deals", state.dealsData),
     fetchDataset("games", state.gamesData),
+    fetchDataset("reddit", state.redditData),
     fetchDataset("economy_briefing", state.economyData),
     loadScraps(),
   ]);
@@ -167,6 +169,7 @@ async function loadAllData() {
   state.aiData = ai;
   state.dealsData = deals;
   state.gamesData = games;
+  state.redditData = reddit;
   state.economyData = econ;
   render();
 }
@@ -176,6 +179,7 @@ function getAllPostsForCurrentTab() {
   if (state.tab === "ai") return state.aiData.posts || [];
   if (state.tab === "deals") return state.dealsData.posts || [];
   if (state.tab === "games") return state.gamesData.posts || [];
+  if (state.tab === "reddit") return state.redditData.posts || [];
   if (state.tab === "scraps") return state.scraps || [];
   return state.economyData.videos || [];
 }
@@ -186,6 +190,7 @@ function findPostById(id) {
     ...(state.aiData.posts || []),
     ...(state.dealsData.posts || []),
     ...(state.gamesData.posts || []),
+    ...(state.redditData.posts || []),
     ...(state.economyData.videos || []),
   ];
   return all.find((p) => p.id === id) || null;
@@ -428,6 +433,7 @@ function updateTimestamp() {
     ai: state.aiData.updated_at,
     deals: state.dealsData.updated_at,
     games: state.gamesData.updated_at,
+    reddit: state.redditData.updated_at,
     economy: state.economyData.updated_at,
     scraps: state.scraps.length ? `보관 ${state.scraps.length}건` : "비어 있음",
   };

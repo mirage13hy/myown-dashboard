@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-11-18 22:41",
+  "updated_at": "2026-11-18 22:54",
   "source_status": {
     "루리웹 예판·핫딜": "ok (10)",
     "루리웹 콘솔뉴스": "ok (10)",
     "루리웹 PC·스팀": "ok (10)",
+    "에펨코리아 PC·콘솔": "ok (10)",
     "에펨코리아 핫딜": "ok (0)",
     "뽐뿌 핫딜": "ok (0)",
     "클리앙 알뜰구매": "ok (3)"
@@ -126,11 +127,11 @@
       "id": "ruli_500dba9d36ba",
       "source": "루리웹 예판·핫딜",
       "category": "할인·예판",
-      "title": "[컴퓨존] RTX5080 AERO OC SFF D7 16GB WH 3,3...(15)",
+      "title": "[컴퓨존] RTX5080 AERO OC SFF D7 16GB WH 3,3...(16)",
       "url": "https://bbs.ruliweb.com/market/board/1020/read/109150?",
       "author": "lionen",
       "time": "21:24",
-      "likes": "3",
+      "likes": "4",
       "comments": "",
       "content": "[컴퓨존] RTX 5080 AERO OC SFF D7 16GB 화이트 3,388,000원\nhttps://www.compuzone.co.kr/product/product_detail.htm?ProductNo=1208204\n일주일 단위로 10~30만원씩 그래픽 카드가 계속 오르고 있네요.\n화이트 매물 품절 중이었는데 재입고 되었네요\n위 모델 장점은 크기가 작아서 미니타워 (조립0)\n가로(길이):\n304mm\n세로(높이):\n126mm\n두께:\n50mm\n(2.5슬롯 두께)\n현재 그래픽카드 시장은 알 수 없습니다\n금액변동은 12월까지 오른다고 하는데 더 상승할지 하락 할지는 미지수입니다.\nrtx6000시리즈 출시 후에 가격 변동이 될 수도 있으니, 꼭 필요하신 분만 구매하세요",
       "images": [
@@ -153,6 +154,35 @@
       ]
     },
     {
+      "id": "ruli_8a2ec4d16dd7",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "퓨전 XBOX 테스팅)GTA 6 엑스박스 시리즈 영상",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366695?",
+      "author": "틸로볼프",
+      "time": "22:47",
+      "likes": "",
+      "comments": "",
+      "content": "",
+      "images": []
+    },
+    {
+      "id": "ruli_00c261741827",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "[포브스] GTA 6 역대 최고 기록과 타이를 이루었습니다",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366694?",
+      "author": "빡통이",
+      "time": "22:47",
+      "likes": "3",
+      "comments": "",
+      "content": "'GTA 6' 메타크리틱 리뷰 점수가 공개되었으며 역대 최고 기록과 타이를 이루었습니다\nGrand Theft Auto 6(GTA 6)와 함께 3주를 보낸 후, 저는 오늘 아침 제 리뷰를 게시했습니다. 동료 비평가들도 저만큼이나 이 게임에 열광했을지 궁금했는데, 그들 역시 마찬가지였음을 알 수 있습니다. 100개가 넘는 리뷰가 등록된 가운데, Grand Theft Auto 6는 단 한 개의 다른 게임과 함께 역대 최고 메타크리틱 리뷰 점수 타이 기록을 세웠습니다.\nGTA 6는 메타크리틱에서 99점을 기록했는데, 이는 《젤다의 전설: 시간의 오카리나》를 제외하면 이 사이트에서 전례가 없는 점수입니다. 리메이크가 아닌 오리지널 버전 기준이며, 이는 1998년 이후 어떤 게임도 이 기록에 도달하지 못했음을 의미합니다. 이 평균 점수를 얻기 위해, 이 글을 쓰는 시점 기준 109개의 리뷰 중 80개가 10점 만점을 주었습니다. 90점 미만은 단 하나도 없습니다. 저는 이 기록이 《시간의 오카리나》보다도 더 인상적이라고 단언하고 싶습니다. 전작의 점수는 22개의 리뷰를 기반으로 한 반면, GTA 6는 그보다 5배나 많은 리뷰 수를 기록하고 있어 평균 점수를 유지하기가 훨씬 더 어렵기 때문입니다.\n이 점수가 계속 유지될까요? 확신할 수는 없습니다. 다시 말하지만 이 글을 쓰는 시점의 상황일 뿐이며, 시스템 작동 방식상 한두 개의 낮은 점수만 들어와도 1점 정도는 떨어질 수 있습니다. 하지만 지금까지는 그런 점수를 올린 곳이 전혀 없습니다. 리뷰 코드를 받지 못한 다른 매체들이 자체 의견을 게시함에 따라 앞으로 며칠, 몇 주 동안 더 많은 리뷰가 올라올 예정이지만, 일단 지금은 어떨까요? 네, 지금 당장 락스타(Rockstar)에서 샴페인을 터뜨리는 모습을 꼭 보고 싶습니다.\n역사상 그 어떤 엔터테인먼트 제품보다도 전 세계의 모든 무게를 짊어진 게임을 제작하기까지 13년의 기다림, 수년 동안의 작업, 그리고 수억 달러의 비용이 투입되었습니다. 이 게임은 이미 전 세계 판매 기록을 갈아치웠지만, 이제 비평 면에서도 성층권(최정상)에 도달했습니다.\n오늘 아침 살펴봐야 할 수많은 리뷰와 영상들이 있으며, 이제 스포일러는 현실적인 우려가 되었습니다. 반드시 그 평가들 때문만은 아니라, 게임이 이미 뉴질랜드에서 출시되었고 그곳을 시작으로 다른 모든 지역에서도 현지 시각 자정에 순차적으로 출시되고 있기 때문입니다. 이곳 미국에서는 출시까지 여전히 애타는 시간이 남아 있지만, 13년을 기다렸는데 13시간 더 기다리는 게 대수겠습니까?\nGTA 6와 함께한 저만의 3주간, 130시간 이상의 경험에 대해 할 말이 백만 가지는 더 있으며, 여기에서 읽어보실 수 있습니다. 역사를 목격하는 건 정말 즐거운 일이지 않나요?",
+      "images": [
+        "https://i1.ruliweb.com/img/26/11/18/1a1eee8cf00583866.webp",
+        "https://i1.ruliweb.com/img/26/11/18/1a1eee8d0ad583866.webp"
+      ]
+    },
+    {
       "id": "ruli_5876ca34714c",
       "source": "루리웹 콘솔뉴스",
       "category": "PlayStation",
@@ -160,7 +190,7 @@
       "url": "https://bbs.ruliweb.com/news/board/1001/read/2366692?",
       "author": "루리웹-5924911255",
       "time": "22:04",
-      "likes": "13",
+      "likes": "17",
       "comments": "",
       "content": "",
       "images": [
@@ -193,7 +223,7 @@
       "url": "https://bbs.ruliweb.com/news/board/1001/read/2366690?",
       "author": "아마존슨",
       "time": "21:49",
-      "likes": "8",
+      "likes": "10",
       "comments": "",
       "content": "만점",
       "images": [
@@ -244,7 +274,7 @@
       "url": "https://bbs.ruliweb.com/news/board/1001/read/2366687?",
       "author": "기다리는평가",
       "time": "21:37",
-      "likes": "13",
+      "likes": "14",
       "comments": "",
       "content": "",
       "images": [
@@ -281,41 +311,6 @@
       ]
     },
     {
-      "id": "ruli_aa8138e9395b",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "스포) 엑스박스 시리즈 s 실기 스크린샷",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366684?",
-      "author": "5060Ti",
-      "time": "21:18",
-      "likes": "14",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://i3.ruliweb.com/img/26/11/18/1a1ee96f6b859da50.webp",
-        "https://i2.ruliweb.com/img/26/11/18/1a1ee96f79659da50.webp",
-        "https://i3.ruliweb.com/img/26/11/18/1a1ee96f9da59da50.webp",
-        "https://i3.ruliweb.com/img/26/11/18/1a1ee96fcb559da50.webp",
-        "https://i3.ruliweb.com/img/26/11/18/1a1ee96fda159da50.webp",
-        "https://i2.ruliweb.com/img/26/11/18/1a1ee97012e59da50.webp"
-      ]
-    },
-    {
-      "id": "ruli_378102d4dd98",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "GTA6 80점 리뷰",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366683?",
-      "author": "Pathetique6",
-      "time": "21:16",
-      "likes": "19",
-      "comments": "",
-      "content": "핵심부터 말하자면, GTA 6은 꽤 괜찮은 게임입니다. 절대적으로 서사적이고 대단한 구간들이 있는가 하면, 지루하고 너무 제한적인 커다란 구간들도 존재합니다. 하지만 지루한 부분들을 꾹 참고 견뎌내어 게임이 진정한 GTA 타이틀다운 면모를 보여줄 만큼 충분히 개방되자, 그럴 만한 가치가 있었습니다. 게임이 재미있든 없든 간에, 이 작품은 언제나 피할 수 없는 문화적 현상이 될 운명이었습니다. 다행히도, 그 문화적 흐름은 동참할 가치가 큰 편입니다.\n근데 80점..???",
-      "images": [
-        "https://i1.ruliweb.com/img/26/11/18/1a1ee95a89e5a6f87.webp"
-      ]
-    },
-    {
       "id": "ruli_417a5db3b53d",
       "source": "루리웹 PC·스팀",
       "category": "PC·스팀",
@@ -323,7 +318,7 @@
       "url": "https://bbs.ruliweb.com/news/board/1003/read/2359640?",
       "author": "TopSpoiler",
       "time": "22:29",
-      "likes": "",
+      "likes": "1",
       "comments": "",
       "content": "리소스 모니터의 [디스크] 탭에서 NVDisplay.Container.exe가 거의 쉬지 않고 뭔가 쓰고 있다면 당첨입니다.",
       "images": [
@@ -355,7 +350,7 @@
       "url": "https://bbs.ruliweb.com/news/board/1003/read/2359638?",
       "author": "ComShepard",
       "time": "21:53",
-      "likes": "",
+      "likes": "1",
       "comments": "",
       "content": "https://store.steampowered.com/app/5269530/Deep_Rock_Galactic_Survivor_Knockout_Expansion/",
       "images": [
@@ -371,7 +366,7 @@
       "url": "https://bbs.ruliweb.com/news/board/1003/read/2359637?",
       "author": "ComShepard",
       "time": "21:50",
-      "likes": "2",
+      "likes": "4",
       "comments": "",
       "content": "",
       "images": []
@@ -461,12 +456,151 @@
       "url": "https://bbs.ruliweb.com/news/board/1003/read/2359631?",
       "author": "@Crash@",
       "time": "21:14",
-      "likes": "10",
+      "likes": "12",
       "comments": "",
       "content": "[ 개선사항 ]\n- 대상 프로그램 추가\nco∗∗fCe∗∗\nFi∗∗Age∗∗ ∗.∗\nGP∗∗∗MP∗∗\nKM∗ Cli∗∗∗ NA∗\ne∗PDFRe∗∗∗∗ ∗.∗∗\ne∗PDFPr∗∗∗∗∗\niFo∗∗Edit∗∗\nSCO∗∗∗ Sc∗∗Te∗∗ ∗.∗.∗.∗\n업데이트 되었습니다.",
       "images": [
         "https://i1.ruliweb.com/ori/26/02/09/19c4012363e2cc39.png"
       ]
+    },
+    {
+      "id": "fm_othergame_950c8cd8e0a2",
+      "source": "에펨코리아 PC·콘솔",
+      "category": "PC·스팀",
+      "title": "크레토스는 추위를 못느끼나",
+      "url": "https://www.fmkorea.com/10571176103",
+      "author": "",
+      "time": "22:53",
+      "likes": "",
+      "comments": "",
+      "content": "입김은 나는데 복장만 보면 추위를 못느끼는 거 같음",
+      "images": [
+        "https://image.fmkorea.com/./files/attach/new5/20261118/10571176103_2518140_c9a5c183949a4e3bed7f52af5f9df52f.png.webp"
+      ]
+    },
+    {
+      "id": "fm_othergame_50fa795f24a9",
+      "source": "에펨코리아 PC·콘솔",
+      "category": "PlayStation",
+      "title": "GTA6 ps5 노멀 ps5 pro 비교스샷",
+      "url": "https://www.fmkorea.com/10571172968",
+      "author": "",
+      "time": "22:52",
+      "likes": "",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://image.fmkorea.com/files/attach/new5/20261118/10571172968_2518140_91d9f9ddf8a62f5c8ab4465a3a1975cc.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261118/10571172968_2518140_50dc7219a96dcdcd388c36346f182540.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261118/10571172968_2518140_69d86c84a9ae6962f63e6758736a3456.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261118/10571172968_2518140_64321634b8527edc0d506b0932270bb9.webp"
+      ]
+    },
+    {
+      "id": "fm_othergame_c00937645820",
+      "source": "에펨코리아 PC·콘솔",
+      "category": "PC·스팀",
+      "title": "그타 6 억까리뷰 몇개당해도 98점이라는게 미쳤네",
+      "url": "https://www.fmkorea.com/10571171284",
+      "author": "",
+      "time": "22:52",
+      "likes": "",
+      "comments": "",
+      "content": "만점 리뷰수부터가 100개가 넘음 ㅋㅋㅋㅋㅋㅋ",
+      "images": []
+    },
+    {
+      "id": "fm_othergame_e8daf630ba05",
+      "source": "에펨코리아 PC·콘솔",
+      "category": "PlayStation",
+      "title": "GTA6 PS5 역대 리뷰 수 1위 달성, 99점 유지 중",
+      "url": "https://www.fmkorea.com/10571154606",
+      "author": "",
+      "time": "22:51",
+      "likes": "",
+      "comments": "",
+      "content": "GTA6은 점수 1위뿐 아니라,\nPS5 게임 역사상 가장 많은 리뷰 (153개) 를 기록\n점수는 여전히 역대 최고 점수인 99점\n참고로 스파이더맨2가 145개, 파판7 리버스가 142개, 갓옵 라그나로크가 141개, 아스트로봇이 136개임",
+      "images": [
+        "https://image.fmkorea.com/./files/attach/new5/20261118/10571154606_2518140_bb6af45a44d4691eae348235ac53214f.png.webp"
+      ]
+    },
+    {
+      "id": "fm_othergame_3c8d27faed11",
+      "source": "에펨코리아 PC·콘솔",
+      "category": "PC·스팀",
+      "title": "그타6 얼마나 재밌는건지 호주 워홀간 새끼 한시간 전에 카톡하고",
+      "url": "https://www.fmkorea.com/10571167873",
+      "author": "",
+      "time": "22:51",
+      "likes": "",
+      "comments": "",
+      "content": "후기 남기겠다더니 51분 동안 답장이 없음",
+      "images": []
+    },
+    {
+      "id": "fm_othergame_bae3d2e82d7d",
+      "source": "에펨코리아 PC·콘솔",
+      "category": "PC·스팀",
+      "title": "gta 80점 준 리뷰어 울버린 100점 줬다는 글 보이는 게",
+      "url": "https://www.fmkorea.com/10571162689",
+      "author": "",
+      "time": "22:49",
+      "likes": "",
+      "comments": "",
+      "content": "누가 처음에 gta 80점 리뷰 글 쓰면서\n이거 80점 준 리뷰어 울버린 100점 줬다고 글 쓰면서 같이 올려서 그거 보고 하는 소리 인 거 같던데",
+      "images": []
+    },
+    {
+      "id": "fm_othergame_d8e0109d06dd",
+      "source": "에펨코리아 PC·콘솔",
+      "category": "PlayStation",
+      "title": "혹시 모르니 psn, 락스타 연동 해놓는게",
+      "url": "https://www.fmkorea.com/10571159957",
+      "author": "",
+      "time": "22:48",
+      "likes": "",
+      "comments": "",
+      "content": "안전빵으로다가",
+      "images": []
+    },
+    {
+      "id": "fm_othergame_2663448ca1b3",
+      "source": "에펨코리아 PC·콘솔",
+      "category": "PC·스팀",
+      "title": "야 이거는 30프레임이라고 안 하면 안 되는 게임이네 ㅋㅋㅋㅋ",
+      "url": "https://www.fmkorea.com/10571157620",
+      "author": "",
+      "time": "22:48",
+      "likes": "",
+      "comments": "",
+      "content": "그냥 개레전드네..",
+      "images": []
+    },
+    {
+      "id": "fm_othergame_757fff0eb287",
+      "source": "에펨코리아 PC·콘솔",
+      "category": "PC·스팀",
+      "title": "듀센 배터리 없었네..",
+      "url": "https://www.fmkorea.com/10571156422",
+      "author": "",
+      "time": "22:47",
+      "likes": "",
+      "comments": "",
+      "content": "하마터면 오열할뻔 휴",
+      "images": []
+    },
+    {
+      "id": "fm_othergame_ef2ecc686ce6",
+      "source": "에펨코리아 PC·콘솔",
+      "category": "PC·스팀",
+      "title": "gta6 이러면 pc판 더 기다리기 힘들잖아 !!!!!",
+      "url": "https://www.fmkorea.com/10571152395",
+      "author": "",
+      "time": "22:46",
+      "likes": "",
+      "comments": "",
+      "content": "메타, 오픈 쌍 99는 어케 참음 ㅋㅋ",
+      "images": []
     },
     {
       "id": "clien_game_f2c3da437654",
@@ -535,6 +669,43 @@
         "https://i3.ruliweb.com/img/26/11/18/1a1ee077fcb481177.webp",
         "https://i3.ruliweb.com/img/26/11/18/1a1ee0781ac481177.webp",
         "https://i3.ruliweb.com/img/26/11/18/1a1ee07172d481177.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_aa8138e9395b",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "스포) 엑스박스 시리즈 s 실기 스크린샷",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366684?",
+      "author": "5060Ti",
+      "time": "21:18",
+      "likes": "14",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://i3.ruliweb.com/img/26/11/18/1a1ee96f6b859da50.webp",
+        "https://i2.ruliweb.com/img/26/11/18/1a1ee96f79659da50.webp",
+        "https://i3.ruliweb.com/img/26/11/18/1a1ee96f9da59da50.webp",
+        "https://i3.ruliweb.com/img/26/11/18/1a1ee96fcb559da50.webp",
+        "https://i3.ruliweb.com/img/26/11/18/1a1ee96fda159da50.webp",
+        "https://i2.ruliweb.com/img/26/11/18/1a1ee97012e59da50.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_378102d4dd98",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "GTA6 80점 리뷰",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366683?",
+      "author": "Pathetique6",
+      "time": "21:16",
+      "likes": "19",
+      "comments": "",
+      "content": "핵심부터 말하자면, GTA 6은 꽤 괜찮은 게임입니다. 절대적으로 서사적이고 대단한 구간들이 있는가 하면, 지루하고 너무 제한적인 커다란 구간들도 존재합니다. 하지만 지루한 부분들을 꾹 참고 견뎌내어 게임이 진정한 GTA 타이틀다운 면모를 보여줄 만큼 충분히 개방되자, 그럴 만한 가치가 있었습니다. 게임이 재미있든 없든 간에, 이 작품은 언제나 피할 수 없는 문화적 현상이 될 운명이었습니다. 다행히도, 그 문화적 흐름은 동참할 가치가 큰 편입니다.\n근데 80점..???",
+      "images": [
+        "https://i1.ruliweb.com/img/26/11/18/1a1ee95a89e5a6f87.webp"
       ],
       "is_cross_hot": false
     },

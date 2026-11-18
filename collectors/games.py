@@ -197,11 +197,51 @@ def _scrape_clien_game_deals(client, limit: int = 10) -> list[dict[str, Any]]:
     return posts
 
 
+def _scrape_fm_other_game(client, limit: int = 10) -> list[dict[str, Any]]:
+    url = "https://www.fmkorea.com/other_game"
+    time.sleep(1.2)
+    resp = client.get(url, headers={"Referer": "https://www.fmkorea.com/"})
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "lxml")
+    posts = []
+    for row in soup.select("table.bd_lst tbody tr"):
+        if "notice" in " ".join(row.get("class", [])) or row.select_one("td.notice"):
+            continue
+        a = row.select_one("td.title a:not(.replyNum)")
+        if not a:
+            continue
+        title = a.get_text(strip=True)
+        if not title or is_noise_post(title):
+            continue
+        href = urljoin(url, a.get("href", ""))
+        t_el = row.select_one("td.time, span.regdate")
+        t_str = t_el.get_text(strip=True) if t_el else ""
+        content, imgs, detail_t = _fetch_detail_with_time(client, href, ["div.rd_body article", "div.xe_content"])
+        posts.append({
+            "id": make_post_id("fm_othergame", href),
+            "source": "에펨코리아 PC·콘솔",
+            "category": _classify_game_post(title, "PC·스팀"),
+            "title": title,
+            "url": href,
+            "author": "",
+            "time": t_str or detail_t,
+            "likes": "",
+            "comments": "",
+            "content": content,
+            "images": imgs,
+        })
+        if len(posts) >= limit:
+            break
+        time.sleep(0.15)
+    return posts
+
+
 def run() -> dict[str, Any]:
     targets = [
         ("루리웹 예판·핫딜", lambda c: _scrape_ruliweb(c, "https://bbs.ruliweb.com/market/board/1020", "루리웹 예판·핫딜", "할인·예판", 10)),
         ("루리웹 콘솔뉴스", lambda c: _scrape_ruliweb(c, "https://bbs.ruliweb.com/news/board/1001", "루리웹 콘솔뉴스", "PlayStation", 10)),
         ("루리웹 PC·스팀", lambda c: _scrape_ruliweb(c, "https://bbs.ruliweb.com/news/board/1003", "루리웹 PC·스팀", "PC·스팀", 10)),
+        ("에펨코리아 PC·콘솔", _scrape_fm_other_game),
         ("에펨코리아 핫딜", _scrape_fm_game_deals),
         ("뽐뿌 핫딜", _scrape_ppomppu_game_deals),
         ("클리앙 알뜰구매", _scrape_clien_game_deals),
