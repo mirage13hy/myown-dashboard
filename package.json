@@ -1,0 +1,12 @@
+{
+  "name": "my-own-dashboard",
+  "version": "1.0.0",
+  "description": "개인 맞춤형 관심사 대시보드 (커뮤니티 화제글, AI 게시판, 핫딜, 경제/유튜브 브리핑)",
+  "scripts": {
+    "start": "python -m http.server 8080 --directory public",
+    "collect": "python run_collectors.py"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}

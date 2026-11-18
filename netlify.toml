@@ -1,0 +1,7 @@
+[build]
+  publish = "public"
+  command = "echo 'Static publish from public/'"
+
+[[edge_functions]]
+  path = "/*"
+  function = "auth"
