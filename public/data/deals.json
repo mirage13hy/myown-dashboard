@@ -1,11 +1,127 @@
 {
-  "updated_at": "2026-11-18 21:23",
+  "updated_at": "2026-11-18 22:41",
   "source_status": {
-    "에펨코리아 핫딜": "cached (1, HTTPStatusError)",
-    "뽐뿌": "cached (1, HTTPStatusError)",
-    "클리앙 알뜰구매": "ok (4)"
+    "에펨코리아 핫딜": "ok (5)",
+    "뽐뿌": "ok (1)",
+    "클리앙 알뜰구매": "ok (1)"
   },
   "posts": [
+    {
+      "id": "fm_deal_7d010ebce67c",
+      "source": "에펨코리아 핫딜",
+      "category": "AI·구독",
+      "title": "맥반석 구운란 대란 30구 (네이버멤버십)[12]",
+      "url": "https://www.fmkorea.com/10570997907",
+      "author": "",
+      "time": "22:06",
+      "likes": "",
+      "comments": "",
+      "content": "구운란 대란 30구 멤버십 무배 저렴한듯",
+      "images": [
+        "https://image.fmkorea.com/files/attach/new5/20261118/10570997907_1196365581_156fc0dda67c2f4cb0b4c541b7813f78.jpg.webp"
+      ]
+    },
+    {
+      "id": "fm_deal_fb04d7bbf474",
+      "source": "에펨코리아 핫딜",
+      "category": "항공·여행",
+      "title": "서울만 일본 가는 거 아니잖아요 (일본항공권모음)[31]",
+      "url": "https://www.fmkorea.com/10570888929",
+      "author": "",
+      "time": "22:05",
+      "likes": "",
+      "comments": "",
+      "content": "부산후쿠오카\n0320-0323\n31만\n부산후쿠오카\n0313-0316\n26만 제주항공\nhttps://flight.naver.com/flights/international/PUS:airport-FUK:airport-20270313/FUK:airport-PUS:airport-20270316?adult=1&isDirect=false&fareType=Y\n부산후쿠오카\n0116-0119\n37만 진에어\nhttps://flight.naver.com/flights/international/PUS:airport-FUK:airport-20270116/FUK:airport-PUS:airport-20270119?adult=1&isDirect=false&fareType=Y\n부산후쿠오카\n0127-0130\n32만\nhttps://flight.naver.com/flights/international/PUS:airport-FUK:airport-20270127/FUK:airport-PUS:airport-20270130?adult=1&isDirect=false&fareType=Y\n부산후쿠오카\n0211-0214\n33만\nhttps://flight.naver.com/flights/international/PUS:airport-FUK:airport-20270211/FUK:airport-PUS:airport-20270214?adult=1&isDirect=false&fareType=Y\n부산후쿠오카 1222-1225 34만\nhttps://flight.naver.com/flights/international/PUS:airport-FUK:airport-20261222/FUK:airport-PUS:airport-20261225?adult=1&isDirect=false&fareType=Y\n부산구마모토\n0131-0203\n21만\nhttps://flight.naver.com/flights/international/PUS:airport-KMJ:airport-20270131/KMJ:airport-PUS:airport-20270203?adult=1&isDirect=false&fareType=Y\n부산구마모토 1213-1216 23만\nhttps://flight.naver.com/flights/international/PUS:airport-KMJ:airport-20261213/KMJ:airport-PUS:airport-20261216?adult=1&isDirect=false&fareType=Y\n부산구마모토\n0127-0130\n23만\nhttps://flight.naver.com/flights/international/PUS:airport-KMJ:airport-20270127/KMJ:airport-PUS:airport-20270130?adult=1&isDirect=false&fareType=Y\n부산구마모토 1220-1223 23만\nhttps://flight.naver.com/flights/international/PUS:airport-KMJ:airport-20261220/KMJ:airport-PUS:airport-20261223?adult=1&isDirect=false&fareType=Y\n부산구마모토 1202-1205 24만\nhttps://flight.naver.com/flights/international/PUS:airport-KMJ:airport-20261202/KMJ:airport-PUS:airport-20261205?adult=1&isDirect=false&fareType=Y\n부산오사카 1206-1209 26만\nhttps://flight.naver.com/flights/international/PUS:airport-KIX:airport-20261206/KIX:airport-PUS:airport-20261209?adult=1&isDirect=false&fareType=Y\n부산오사카 1209-1212 28만\nhttps://flight.naver.com/flights/international/PUS:airport-KIX:airport-20261209/KIX:airport-PUS:airport-20261212?adult=1&isDirect=false&fareType=Y\n부산오사카 1220-1223 29만\nhttps://flight.naver.com/flights/international/PUS:airport-KIX:airport-20261220/KIX:airport-PUS:airport-20261223?adult=1&isDirect=false&fareType=Y\n부산오사카 1222-1225 27만\nhttps://flight.naver.com/flights/international/PUS:airport-KIX:airport-20261222/KIX:airport-PUS:airport-20261225?adult=1&isDirect=false&fareType=Y\n부산오키나와 1129-1202 27만\nhttps://flight.naver.com/flights/international/PUS:airport-OKA:airport-20261129/OKA:airport-PUS:airport-20261202?adult=1&isDirect=false&fareType=Y\n부산오키나와 1213-1216 30만\nhttps://flight.naver.com/flights/international/PUS:airport-OKA:airport-20261213/OKA:airport-PUS:airport-20261216?adult=1&isDirect=false&fareType=Y\n부산시즈오카\n0124-0127\n27만\nhttps://flight.naver.com/flights/international/PUS:airport-FSZ:airport-20270124/FSZ:airport-PUS:airport-20270127?adult=1&isDirect=false&fareType=Y\n부산시즈오카\n0127-0130\n27만\nhttps://flight.naver.com/flights/international/PUS:airport-FSZ:airport-20270127/FSZ:airport-PUS:airport-20270130?adult=1&isDirect=false&fareType=Y\n부산시즈오카\n0131-0203\n27만\nhttps://flight.naver.com/flights/international/PUS:airport-FSZ:airport-20270131/FSZ:airport-PUS:airport-20270203?adult=1&isDirect=false&fareType=Y\n부산시즈오카\n0204-0207\n28만 (추천)\nhttps://flight.naver.com/flights/international/PUS:airport-FSZ:airport-20270204/FSZ:airport-PUS:airport-20270207?adult=1&isDirect=false&fareType=Y\n부산시즈오카\n0117-0120\n28만\nhttps://flight.naver.com/flights/international/PUS:airport-FSZ:airport-20270117/FSZ:airport-PUS:airport-20270120?adult=1&isDirect=false&fareType=Y\n부산도쿄 1206-1209 40만\nhttps://flight.naver.com/flights/international/PUS:airport-NRT:airport-20261206/NRT:airport-PUS:airport-20261209?adult=1&isDirect=false&fareType=Y\n부산도쿄\n0310-0313\n34만\nhttps://flight.naver.com/flights/international/PUS:airport-NRT:airport-20270310/NRT:airport-PUS:airport-20270313?adult=1&isDirect=false&fareType=Y\n부산도쿄\n0307-0310\n34만\nhttps://flight.naver.com/flights/international/PUS:airport-NRT:airport-20270307/NRT:airport-PUS:airport-20270310?adult=1&isDirect=false&fareType=Y\n부산도쿄\n0228-0303\n34만\nhttps://flight.naver.com/flights/international/PUS:airport-NRT:airport-20270228/NRT:airport-PUS:airport-20270303?adult=1&isDirect=false&fareType=Y\n부산도쿄\n0312-0315\n35만 (추천)\nhttps://flight.naver.com/flights/international/PUS:airport-NRT:airport-20270312/NRT:airport-PUS:airport-20270315?adult=1&isDirect=false&fareType=Y\n부산마쓰야마\n0203-0206\n24만\nhttps://flight.naver.com/flights/international/PUS:airport-MYJ:airport-20270203/MYJ:airport-PUS:airport-20270206?adult=1&isDirect=false&fareType=Y\n부산마쓰야마\n0131-0203\n26만\nhttps://flight.naver.com/flights/international/PUS:airport-MYJ:airport-20270131/MYJ:airport-PUS:airport-20270203?adult=1&isDirect=false&fareType=Y\n부산마쓰야마\n0217-0220\n25만\nhttps://flight.naver.com/flights/international/PUS:airport-MYJ:airport-20270217/MYJ:airport-PUS:airport-20270220?adult=1&isDirect=false&fareType=Y\n부산나고야\n0303-0306\n28만\nhttps://flight.naver.com/flights/international/PUS:airport-NGO:airport-20270303/NGO:airport-PUS:airport-20270306?adult=1&isDirect=false&fareType=Y\n부산나고야\n0319-0322\n28만 (추천)\nhttps://flight.naver.com/flights/international/PUS:airport-NGO:airport-20270319/NGO:airport-PUS:airport-20270322?adult=1&isDirect=false&fareType=Y\n부산나고야\n0228-0303\n29만\nhttps://flight.naver.com/flights/international/PUS:airport-NGO:airport-20270228/NGO:airport-PUS:airport-20270303?adult=1&isDirect=false&fareType=Y\n부산삿포로\n0314-0317\n31만\nhttps://flight.naver.com/flights/international/PUS:airport-CTS:airport-20270314/CTS:airport-PUS:airport-20270317?adult=1&isDirect=false&fareType=Y\n부산삿포로\n0317-0320\n31만\nhttps://flight.naver.com/flights/international/PUS:airport-CTS:airport-20270317/CTS:airport-PUS:airport-20270320?adult=1&isDirect=false&fareType=Y\n부산나가사키\n0110-0112\n26만\nhttps://flight.naver.com/flights/international/PUS:airport-NGS:airport-20270110/NGS:airport-PUS:airport-20270112?adult=1&isDirect=false&fareType=Y\n부산나가사키\n0117-0119\n27만\nhttps://flight.naver.com/flights/international/PUS:airport-NGS:airport-20270117/NGS:airport-PUS:airport-20270119?adult=1&isDirect=false&fareType=Y\n부산나가사키\n0124-0126\n29만\nhttps://flight.naver.com/flights/international/PUS:airport-NGS:airport-20270124/NGS:airport-PUS:airport-20270126?adult=1&isDirect=false&fareType=Y\n부산미야코지마 1217-1220 31만 (추천)\nhttps://flight.naver.com/flights/international/PUS:airport-SHI:airport-20261217/SHI:airport-PUS:airport-20261220?adult=1&isDirect=false&fareType=Y\n청주히로시마\n0307-0309\n18만\nhttps://flight.naver.com/flights/international/CJJ:airport-HIJ:airport-20270307/HIJ:airport-CJJ:airport-20270309?adult=1&isDirect=false&fareType=Y\n청주히로시마\n0314-0316\n18만\nhttps://flight.naver.com/flights/international/CJJ:airport-HIJ:airport-20270314/HIJ:airport-CJJ:airport-20270316?adult=1&isDirect=false&fareType=Y\n청주히로시마\n0314-0318\n18만\nhttps://flight.naver.com/flights/international/CJJ:airport-HIJ:airport-20270314/HIJ:airport-CJJ:airport-20270318?adult=1&isDirect=false&fareType=Y\n청주구마모토\n0305-0310\n24만\nhttps://flight.naver.com/flights/international/CJJ:airport-KMJ:airport-20270305/KMJ:airport-CJJ:airport-20270310?adult=1&isDirect=false&fareType=Y\n청주구마모토\n0312-0317\n24만\nhttps://flight.naver.com/flights/international/CJJ:airport-KMJ:airport-20270312/KMJ:airport-CJJ:airport-20270317?adult=1&isDirect=false&fareType=Y\n청주고베\n0304-0307\n24만\nhttps://flight.naver.com/flights/international/CJJ:airport-UKB:airport-20270304/UKB:airport-CJJ:airport-20270307?adult=1&isDirect=false&fareType=Y\n청주고베\n0306-0309\n21만 (추천)\nhttps://flight.naver.com/flights/international/CJJ:airport-UKB:airport-20270306/UKB:airport-CJJ:airport-20270309?adult=1&isDirect=false&fareType=Y\n청주고베\n0311-0314\n21만 (추천)\nhttps://flight.naver.com/flights/international/CJJ:airport-UKB:airport-20270311/UKB:airport-CJJ:airport-20270314?adult=1&isDirect=false&fareType=Y\n청주나고야\n0110-0112\n22만\nhttps://flight.naver.com/flights/international/CJJ:airport-NGO:airport-20270110/NGO:airport-CJJ:airport-20270112?adult=1&isDirect=false&fareType=Y\n청주나고야\n0307-0309\n22만\nhttps://flight.naver.com/flights/international/CJJ:airport-NGO:airport-20270307/NGO:airport-CJJ:airport-20270309?adult=1&isDirect=false&fareType=Y\n청주나고야\n0314-0317\n22만\nhttps://flight.naver.com/flights/international/CJJ:airport-NGO:airport-20270314/NGO:airport-CJJ:airport-20270317?adult=1&isDirect=false&fareType=Y\n청주오사카 1122-1125 29만\nhttps://flight.naver.com/flights/international/CJJ:airport-KIX:airport-20261122/KIX:airport-CJJ:airport-20261125?adult=1&isDirect=false&fareType=Y\n청주오사카\n0219-0222\n22만\nhttps://flight.naver.com/flights/international/CJJ:airport-KIX:airport-20270219/KIX:airport-CJJ:airport-20270222?adult=1&isDirect=false&fareType=Y\n청주도쿄\n0304-0308\n35만\nhttps://flight.naver.com/flights/international/CJJ:airport-NRT:airport-20270304/NRT:airport-CJJ:airport-20270308?adult=1&isDirect=false&fareType=Y\n청주도쿄\n0310-0313\n33만\nhttps://flight.naver.com/flights/international/CJJ:airport-NRT:airport-20270310/NRT:airport-CJJ:airport-20270313?adult=1&isDirect=false&fareType=Y\n청주도쿄\n0306-0310\n33만 (추천)\nhttps://flight.naver.com/flights/international/CJJ:airport-NRT:airport-20270306/NRT:airport-CJJ:airport-20270310?adult=1&isDirect=false&fareType=Y\n청주오비히로\n0219-0222\n28만\nhttps://flight.naver.com/flights/international/CJJ:airport-OBO:airport-20270219/OBO:airport-CJJ:airport-20270222?adult=1&isDirect=false&fareType=Y\n흐흐",
+      "images": [
+        "https://image.fmkorea.com/./files/attach/new5/20261118/10570888929_1196365581_3de5c23904d0dbfac1e6f1ebc7e56491.png.webp",
+        "https://image.fmkorea.com/./files/attach/new5/20261118/10570888929_1196365581_e2131cd571efe4caa2ef58c756fedd05.png.webp"
+      ]
+    },
+    {
+      "id": "fm_deal_2ae0ea882752",
+      "source": "에펨코리아 핫딜",
+      "category": "상품권·이용권",
+      "title": "파리바게뜨 모바일 금액권 3만원권 (잔액관리형)[10]",
+      "url": "https://www.fmkorea.com/10570905428",
+      "author": "",
+      "time": "21:42",
+      "likes": "",
+      "comments": "",
+      "content": "최대3개 구매가능\n저번주에 24,000에 올라왔는데 600원 오름",
+      "images": [
+        "https://image.fmkorea.com/files/attach/new5/20261118/10570905428_1196365581_7a42a612f7ceb53056e5cc23bebf2aca.jpg.webp"
+      ]
+    },
+    {
+      "id": "fm_deal_030314f16b67",
+      "source": "에펨코리아 핫딜",
+      "category": "디지털·가전",
+      "title": "[이어폰] [블프] Hzsound CRYSTAL AE, TANGZU Xuan Wu Gate II 외[5]",
+      "url": "https://www.fmkorea.com/10570374146",
+      "author": "",
+      "time": "20:12",
+      "likes": "",
+      "comments": "",
+      "content": "가격은 추가 카드 할인 적용 전 기준입니다.\n달러 결제를 권장합니다.\n표시 가격과 결제 금액이 상이할 경우\n스토어 할인 및 코인 적용 여부를 확인해 주세요.\n26년 11월 19일에 시작되는 할인입니다.\n1. Hzsound CRYSTAL AE [이어폰]\n1dd 1ba 엔트리 제품입니다.\n밸런스 버전/ 하이 버전(저역과 초고역을 강조한 튜닝)\n기본 케이블은 3.5mm로 들어가있고, 치찰음에 민감하다면 밸런스 버전을 추천합니다.\n스토어코드 : CRYSTALAE02\n플랫폼코드 : SUKR03\n= 17.49\nhttps://www.aliexpress.com/item/1005013615382679.html\n2. Celest IRIS [이어폰]\n10mm LCP 1dd 다이어프램 엔트리 제품입니다.\n3.5/4.4mm 교체형 케이블을 제공하며, 착용감도 준수합니다.\n플랫폼코드 : SUKR03\n= 28.95\nhttps://www.aliexpress.com/item/1005013459387977.html\n3. TANGZU Xuan Wu Gate II [이어폰]\n탕주 현무문2 입니다.\n1dd 4ba 4est 하이엔드 제품입니다.\n풀 코퍼 캐비티로. 단단하고 묵직한 소리에 유리한 구조라고 합니다.\n스토어코드 : WUGATEII35\n플랫폼코드 : LKWA45\n= 594.1\nhttps://www.aliexpress.com/item/1005013037562582.html\n4. Angelears × Daruma Audio RyuRan [이어폰]\npu+lcp 10mm 1dd 제품으로, 4.4mm 케이블이 기본으로 들어가 있습니다.\n스토어코드 : 11SRYURAN05\n플랫폼코드 : GHRE08\n= 67.1\nhttps://ko.aliexpress.com/item/1005012766551841.html\n5. TANGZU Yuan Li [이어폰]\n신제품 10mm 1dd 이연 리메이크 에디션입니다.\n5주년기념 5555개 한정판 제품이라고 합니다.\n플랫폼코드 : GHRE08\n= 64.09\nhttps://www.aliexpress.com/item/1005013269223659.html\n6. HPOI × Celest Yaksha BC [이어폰]\nHPOI와 Celest의 Yaksha BC 이어폰입니다.\nHPOI는 피규어 굿즈 판매 사이트 같은 거라고 합니다.\n기존의 Yaksha BC 제품과 사운드는 동일합니다.\n스토어코드 : YASHABC28\n플랫폼코드 : POLK19\n= 130.39\nhttps://www.aliexpress.com/item/1005013436360388.html\n7. TANGZU DuFu Poet-Sage3 [이어폰]\n신제품 탕주 두보3 입니다.\n2dd 2ba, 메탈 하우징입니다.\n스토어코드 : BFDUFUPS08\n플랫폼코드 : ZXYH13\n= 96.90\nhttps://www.aliexpress.com/item/1005013625788354.html\n8. HE BULIANSHI [이어폰]\n신제품, 1dd 4ba, 알루미늄 합금과 레진캐비티를 사용한 중저음에 유리한 제품입니다.\n3.5/4.4mm 교체형 케이블을 제공합니다.\n코인 10% 할인과 플랫폼 할인 $26을 적용하는 조건입니다.\n플랫폼코드 : FXNT26\n= 191.80\nhttps://www.aliexpress.com/item/1005013408285995.html\n9. Sound Rhyme SR6 [이어폰]\n1dd 2ba 2pd 1bc , 다중 드라이버를 사용한 펀싸 제품입니다.\n플랫폼코드 : ZXYH13\n= 127.61\nhttps://ko.aliexpress.com/item/1005013144479617.html\n10. TANGZU LIJING [헤드폰]\nTANGZU LIJING 60mm dd 헤드폰입니다.\n오픈형구조로 , 다른 종류의 추가 이어컵을 함께 제공합니다.\n스토어코드 : BFLIJING35\n플랫폼코드 : FXNT26\n= 153.65\nhttps://www.aliexpress.com/item/1005012865289297.html\n11. YONGSE Lavender [케이블]\n4.4mm 리세스드 케이블입니다.\n스토어코드 : BFLAVEND01\n플랫폼코드 : SUKR03\n= 16.25\nhttps://www.aliexpress.com/item/1005013579733892.html\n12. Angelears Phoenix MKII [케이블]\n4.4mm 리세스드 케이블로,\n전작보다 디자인이나 구조가 좀 더 나아진 느낌입니다.\n스토어코드 : DRD1101\n플랫폼코드 : ZXYH13\n= 76.4\nhttps://ko.aliexpress.com/item/1005013341923867.html\n13. YONGSE FUJIN [케이블]\n적당히 유명한 용세 풍신입니다.\n4.4mm 리세스드 케이블입니다.\n플랫폼코드 : ZXYH13\n= 134.2\nhttps://www.aliexpress.com/item/1005012714819153.html\n14. YONGSE Spark [케이블]\n4.4mm 리세스드 케이블입니다.\n8코어 6n리츠 구조 케이블입니다.\n스토어코드 : DLKQBLIG8RN7\n플랫폼코드 : GHRE08\n= 40.6\nhttps://www.aliexpress.com/item/1005013311395783.html\n15. Kinera Oracle [이어팁]\nKinera Oracle 원통형 이어팁입니다.\n= 10.3\nhttps://www.aliexpress.com/item/1005013421733192.html\n16. Angelears AE300 [이어팁]\nAngelears AE300 황동노즐 실리콘 이어팁입니다.\n일반적인 실리콘 팁이라고 생각하면 후회할 가격은 아닙니다.\n= 4.77\nhttps://www.aliexpress.com/item/1005013202990593.html\n추가적인 질문이나 가격 오류가 있으면 댓글 부탁드립니다.\n확인 후 수정하도록 하겠습니다.\n다들 좋은 음감생활 되세요.",
+      "images": [
+        "https://image.fmkorea.com/./files/attach/new5/20261118/10570374146_1196365581_8894a297efbf85702cc75aca74287d24.png.webp",
+        "https://image.fmkorea.com/./files/attach/new5/20261118/10570374146_1196365581_8f9833ce2b61a0cfeb3b9a85466569d6.png.webp",
+        "https://image.fmkorea.com/./files/attach/new5/20261118/10570374146_1196365581_0196a1ee3f6d2bb52409562fefd373fd.png.webp",
+        "https://image.fmkorea.com/./files/attach/new5/20261118/10570374146_1196365581_57971e8e8ac68b4c2fd56e07201533b2.png.webp",
+        "https://image.fmkorea.com/./files/attach/new5/20261118/10570374146_1196365581_9e9390d4a01a7603e0c7aa8ae802ac66.png.webp",
+        "https://image.fmkorea.com/./files/attach/new5/20261118/10570374146_1196365581_4c9ab65643b680361a2563240419fa60.png.webp",
+        "https://image.fmkorea.com/./files/attach/new5/20261118/10570374146_1196365581_6972838c97b11b79316ae7370ea81bb3.png.webp",
+        "https://image.fmkorea.com/./files/attach/new5/20261118/10570374146_1196365581_44a2332b8adca4fab707b471b87bb0be.png.webp"
+      ]
+    },
+    {
+      "id": "fm_deal_7cd67a566bb8",
+      "source": "에펨코리아 핫딜",
+      "category": "디지털·가전",
+      "title": "9800X3D RX9070XT +32GB +1TB 조립PC[23]",
+      "url": "https://www.fmkorea.com/10570495399",
+      "author": "",
+      "time": "19:59",
+      "likes": "",
+      "comments": "",
+      "content": "전체적으로 부품이 함정이 없이 좋아 보여서 가지고 와봤습니다.\n요즘 완본체 특징이 특히 ssd랑 램 파워등에서 함정카드를 2~3개씩은 끼워파는데 얘는 그런건 없네요.\n대신 가격은 그런것들보다 조금 나갑니다.\n5대 카드 결제시 15만원 할인 들어가서 실 구매가는 3,349,900원입니다.\n꼭멤버쉽, 글카 포토리뷰 1만, 메인보드 후기 2만, 페이북 경유시 2프로 적립 6.7만으로 체감가는 318만원까지 내려가긴 합니다.\n그래픽카드는 9070xt에서 상급기이고 램은 무난합니다\nSSD는 TLC에 디램있어 이고, 메인보드 파워 쿨러 케이스 대부분 상급 제품입니다.",
+      "images": [
+        "https://image.fmkorea.com/./files/attach/new5/20261118/10570495399_1196365581_c3e204253396d7f12556015c17dce1d3.png.webp",
+        "https://image.fmkorea.com/./files/attach/new5/20261118/10570495399_1196365581_846848a10d6115aeba2b0d2fda2d9c37.png.webp",
+        "https://image.fmkorea.com/./files/attach/new5/20261118/10570495399_1196365581_3a452c8f36bd5504b1cdd534ad4ababb.png.webp"
+      ]
+    },
+    {
+      "id": "ppom_deal_6be0bd10e18b",
+      "source": "뽐뿌",
+      "category": "항공·여행",
+      "title": "[롯데온]제주 아쿠아플라넷 입장권 (34,080원/무료)",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&page=1&divpage=118&no=749909",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "평일, 주말 요금 동일합니다\n유효기간 12/31까지라 지금 사놓고 갈때 쓰면 됩니다",
+      "images": [
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1118/900w_20261118212244_COKKTGKMJy.jpg"
+      ]
+    },
+    {
+      "id": "clien_deal_971911cee20e",
+      "source": "클리앙 알뜰구매",
+      "category": "AI·구독",
+      "title": "[모티브 출판사] 북클럽 런칭 이벤트. 구독 시 책 2권 무료 (11월 23일까지)",
+      "url": "https://www.clien.net/service/board/jirum/19293189?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-16 13:27",
+      "likes": "",
+      "comments": "1",
+      "content": "모티브 출판사에서 도서 구독 서비스를 런칭하면서 이벤트로 2권을 무료로 증정합니다.\n12월의 책은 아래 2권입니다.\n모두가 그렇게 흔들리며 살아갑니다 (정가 17,800원)\nhttps://product.kyobobook.co.kr/detail/S000221242474\n교보문고\n반골 (정가 19,800원)\nhttps://product.kyobobook.co.kr/detail/S000220622564\n교보문고",
+      "images": [
+        "https://edgio.clien.net/F01/2026/11/15864486/17eaca10f84d30.jpg?scale=width:740",
+        "https://edgio.clien.net/F01/2026/11/15864487/16a8941aba5ee8.jpg?scale=width:740"
+      ]
+    },
     {
       "id": "fm_deal_979f276bdaf1",
       "source": "에펨코리아 핫딜",
@@ -20,7 +136,8 @@
       "images": [
         "https://image.fmkorea.com/files/attach/new5/20261116/10562155227_1196365581_21685cbb3f1c8aa672b3f39e1d5d6319.jpeg.webp",
         "https://image.fmkorea.com/files/attach/new5/20261116/10562155227_1196365581_41ffb0b90d18de3d43d6f97dc7aade48.jpeg.webp"
-      ]
+      ],
+      "is_cross_hot": false
     },
     {
       "id": "ppom_deal_c37913e62d60",
@@ -38,85 +155,6 @@
         "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1117/20261117085938_A2hbFV2t9c.png",
         "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1117/20261117090016_eqJIeLX8RA.png",
         "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1117/20261117090330_hfrVVSMBAA.png"
-      ]
-    },
-    {
-      "id": "clien_deal_971911cee20e",
-      "source": "클리앙 알뜰구매",
-      "category": "AI·구독",
-      "title": "[모티브 출판사] 북클럽 런칭 이벤트. 구독 시 책 2권 무료 (11월 23일까지)",
-      "url": "https://www.clien.net/service/board/jirum/19293189?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "1",
-      "content": "모티브 출판사에서 도서 구독 서비스를 런칭하면서 이벤트로 2권을 무료로 증정합니다.\n12월의 책은 아래 2권입니다.\n모두가 그렇게 흔들리며 살아갑니다 (정가 17,800원)\nhttps://product.kyobobook.co.kr/detail/S000221242474\n교보문고\n반골 (정가 19,800원)\nhttps://product.kyobobook.co.kr/detail/S000220622564\n교보문고",
-      "images": [
-        "https://edgio.clien.net/F01/2026/11/15864486/17eaca10f84d30.jpg?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15864487/16a8941aba5ee8.jpg?scale=width:740"
-      ]
-    },
-    {
-      "id": "clien_deal_7024fa964db6",
-      "source": "클리앙 알뜰구매",
-      "category": "게임·콘솔",
-      "title": "[에픽게임즈] knightica 무료",
-      "url": "https://www.clien.net/service/board/jirum/19291543?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "에픽게임즈 이번주의 무료게임입니다\niOS\nhttps://store.epicgames.com/p/knightica-ios-b4550a\n안드로이드\nhttps://store.epicgames.com/p/knightica-android-ad8285",
-      "images": [
-        "https://edgio.clien.net/F01/2026/11/15861948/15f0b7d4d93f41.jpg?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15861949/15f0b81035bc46.jpg?scale=width:740"
-      ]
-    },
-    {
-      "id": "clien_deal_4d215e5ccb6a",
-      "source": "클리앙 알뜰구매",
-      "category": "게임·콘솔",
-      "title": "(에픽 모바일) Chants of Sennaar 무료 (13일 새벽1시까지)",
-      "url": "https://www.clien.net/service/board/jirum/19291500?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "이번주에 에픽에서 무료 모바일게임도 있었네요; 퍼즐 어드벤처 게임인것같습니다.\nAndroid\niOS",
-      "images": [
-        "https://edgio.clien.net/F01/2026/11/15861874/15e92a9cc8459c.png?scale=width:740"
-      ]
-    },
-    {
-      "id": "clien_deal_3740661544e3",
-      "source": "클리앙 알뜰구매",
-      "category": "게임·콘솔",
-      "title": "[스팀] Crown Wars: The Black Prince 95% 할인 1,050원",
-      "url": "https://www.clien.net/service/board/jirum/19290948?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "SteamWorld Heist II 보유하고 있다면\n꾸러미 할인 적용되서 790원입니다.\n평가 복합적인데...\n뭐... 1천원이면.. 라이브러리 장식하고..\n중세 판타지 X-COM이 무엇인지 경험해볼만한 것 같습니다.",
-      "images": [
-        "https://edgio.clien.net/F01/2026/11/15861146/15993fd182952b.jpg?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15861147/15994003b3f7b6.jpg?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15861148/1681ae4c27d1b9.jpg?scale=width:740"
-      ]
-    },
-    {
-      "id": "clien_deal_f9d1621c36b6",
-      "source": "클리앙 알뜰구매",
-      "category": "게임·콘솔",
-      "title": "(에픽 게임즈) 표류도시 & Idle Champions of the Forgotten Realms 무료 (11월13",
-      "url": "https://www.clien.net/service/board/jirum/19289138?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "2",
-      "content": "이번주 에픽 무료게임은\n해양 도시건설 생존(?) 게임\n표류도시\n(Flotsam)와\nD&D기반 방치형 게임\nIdel champion of the Forgotten Realms\n입니다.\n(이건 그냥 항시 무료게임같은데 왜 올라왔는지 모르겠네요;)\n표류도시 트레일러",
-      "images": [
-        "https://edgio.clien.net/F01/2026/11/15858166/14581623045e30.png?scale=width:740"
       ],
       "is_cross_hot": false
     }

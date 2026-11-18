@@ -6,7 +6,7 @@ from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
 from collectors.common import is_noise_post, load_previous_posts, make_client, make_post_id, merge_posts, now_kst_str, save_json
-from collectors.community_hot import _extract_clien_time, _fetch_detail
+from collectors.community_hot import _extract_clien_time, _fetch_detail_with_time
 
 AI_KEYWORDS = (
     "ai", "gpt", "chatgpt", "챗gpt", "제미나이", "gemini", "클로드", "claude",
@@ -55,7 +55,7 @@ def _scrape_dc_mgallery(client, gall_id: str, source_name: str, limit: int = 8) 
 
         rec_el = row.select_one("td.gall_recommend")
         cmt_el = row.select_one("span.reply_num")
-        content, imgs = _fetch_detail(client, href, ["div.write_div"])
+        content, imgs, detail_t = _fetch_detail_with_time(client, href, ["div.write_div"])
         posts.append({
             "id": make_post_id(gall_id, href),
             "source": source_name,
@@ -63,7 +63,7 @@ def _scrape_dc_mgallery(client, gall_id: str, source_name: str, limit: int = 8) 
             "title": title,
             "url": href,
             "author": author,
-            "time": t_str,
+            "time": t_str or detail_t,
             "likes": rec_el.get_text(strip=True) if rec_el else "",
             "comments": re.sub(r"[\[\]]", "", cmt_el.get_text(strip=True)) if cmt_el else "",
             "content": content,
@@ -97,7 +97,7 @@ def _scrape_clien_board(client, board_path: str, source_name: str, filter_ai: bo
         t_str = _extract_clien_time(row)
         like_el = row.select_one("div.list_symph span")
         cmt_el = row.select_one("span.rSymph05")
-        content, imgs = _fetch_detail(client, href, ["div.post_article"])
+        content, imgs, detail_t = _fetch_detail_with_time(client, href, ["div.post_article"])
         posts.append({
             "id": make_post_id(board_path, href),
             "source": source_name,
@@ -105,7 +105,7 @@ def _scrape_clien_board(client, board_path: str, source_name: str, filter_ai: bo
             "title": title,
             "url": href,
             "author": "",
-            "time": t_str,
+            "time": t_str or detail_t,
             "likes": like_el.get_text(strip=True) if like_el else "",
             "comments": cmt_el.get_text(strip=True) if cmt_el else "",
             "content": content,
@@ -135,7 +135,7 @@ def _scrape_fmkorea_board(client, url: str, source_name: str, filter_ai: bool, l
         href = urljoin(url, a.get("href", ""))
         t_el = row.select_one("td.time, span.regdate")
         t_str = t_el.get_text(strip=True) if t_el else ""
-        content, imgs = _fetch_detail(client, href, ["div.rd_body article", "div.xe_content"])
+        content, imgs, detail_t = _fetch_detail_with_time(client, href, ["div.rd_body article", "div.xe_content"])
         posts.append({
             "id": make_post_id(source_name, href),
             "source": source_name,
@@ -143,7 +143,7 @@ def _scrape_fmkorea_board(client, url: str, source_name: str, filter_ai: bool, l
             "title": title,
             "url": href,
             "author": "",
-            "time": t_str,
+            "time": t_str or detail_t,
             "likes": "",
             "comments": "",
             "content": content,
@@ -155,6 +155,79 @@ def _scrape_fmkorea_board(client, url: str, source_name: str, filter_ai: bool, l
     return posts
 
 
+def _scrape_ruliweb_ai(client, limit: int = 6) -> list[dict[str, Any]]:
+    url = "https://bbs.ruliweb.com/news/board/1003"
+    resp = client.get(url)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "lxml")
+    posts = []
+    for row in soup.select("tr.table_body:not(.notice)"):
+        a = row.select_one("a.deco")
+        if not a:
+            continue
+        title = a.get_text(strip=True)
+        if not title or not _has_ai_keyword(title) or is_noise_post(title):
+            continue
+        href = urljoin(url, a.get("href", ""))
+        time_el = row.select_one("td.time")
+        t_str = time_el.get_text(strip=True) if time_el else ""
+        content, imgs, detail_t = _fetch_detail_with_time(client, href, ["div.view_content", "article.view_content"])
+        posts.append({
+            "id": make_post_id("ruli_ai", href),
+            "source": "루리웹 IT·AI",
+            "category": _classify_ai_post(title),
+            "title": title,
+            "url": href,
+            "author": "",
+            "time": t_str or detail_t,
+            "likes": "",
+            "comments": "",
+            "content": content,
+            "images": imgs,
+        })
+        if len(posts) >= limit:
+            break
+        time.sleep(0.15)
+    return posts
+
+
+def _scrape_ppomppu_ai(client, limit: int = 6) -> list[dict[str, Any]]:
+    url = "https://www.ppomppu.co.kr/hot.php"
+    resp = client.get(url)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "lxml")
+    posts = []
+    seen: set[str] = set()
+    for a in soup.find_all("a", href=True):
+        if "view.php" not in a["href"]:
+            continue
+        title = a.get_text(strip=True)
+        if not title or len(title) < 3 or not _has_ai_keyword(title) or is_noise_post(title):
+            continue
+        href = urljoin(url, a["href"])
+        if href in seen:
+            continue
+        seen.add(href)
+        content, imgs, detail_t = _fetch_detail_with_time(client, href, ["td.board-contents", "div.board-contents"])
+        posts.append({
+            "id": make_post_id("ppom_ai", href),
+            "source": "뽐뿌 AI",
+            "category": _classify_ai_post(title),
+            "title": title,
+            "url": href,
+            "author": "",
+            "time": detail_t,
+            "likes": "",
+            "comments": "",
+            "content": content,
+            "images": imgs,
+        })
+        if len(posts) >= limit:
+            break
+        time.sleep(0.15)
+    return posts
+
+
 def run() -> dict[str, Any]:
     targets = [
         ("디시 특이점이온다", lambda c: _scrape_dc_mgallery(c, "thesingularity", "디시 특이점이온다", 8)),
@@ -162,6 +235,8 @@ def run() -> dict[str, Any]:
         ("에펨코리아 디지털(AI)", lambda c: _scrape_fmkorea_board(c, "https://www.fmkorea.com/?mid=digital", "에펨코리아 디지털", True, 6)),
         ("클리앙 AI당", lambda c: _scrape_clien_board(c, "cm_ai", "클리앙 AI당", False, 6)),
         ("클리앙 새소식(AI)", lambda c: _scrape_clien_board(c, "news", "클리앙 새소식", True, 6)),
+        ("루리웹 IT·AI", _scrape_ruliweb_ai),
+        ("뽐뿌 AI", _scrape_ppomppu_ai),
     ]
 
     prev_by_source = load_previous_posts("community_ai.json")

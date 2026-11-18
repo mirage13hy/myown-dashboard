@@ -1,4 +1,4 @@
-const DEAL_CATEGORIES = ["AI·구독", "게임·콘솔", "디지털·가전", "상품권·이용권", "항공·여행"];
+const DEAL_CATEGORIES = ["AI·구독", "디지털·가전", "상품권·이용권", "항공·여행"];
 const LOCAL_SCRAP_KEY = "myown_dash_scraps_v1";
 const PIN_AUTH_KEY = "myown_dash_pin_exp_v1";
 const PIN_HASH = "d2c3f2c1"; // lightweight gate for static Pages hosting

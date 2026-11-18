@@ -1,13 +1,31 @@
 {
-  "updated_at": "2026-11-18 21:23",
+  "updated_at": "2026-11-18 22:41",
   "source_status": {
     "디시 특이점이온다": "ok (8)",
     "에펨코리아 AI": "error: HTTPStatusError",
     "에펨코리아 디지털(AI)": "error: HTTPStatusError",
     "클리앙 AI당": "ok (6)",
-    "클리앙 새소식(AI)": "ok (6)"
+    "클리앙 새소식(AI)": "ok (6)",
+    "루리웹 IT·AI": "ok (4)",
+    "뽐뿌 AI": "ok (0)"
   },
   "posts": [
+    {
+      "id": "thesingularity_53c077e2f478",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "꼴값레전드.jpg",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1539574&exception_mode=recommend&page=1",
+      "author": "CRBS",
+      "time": "2026-11-18 21:57:58",
+      "likes": "37",
+      "comments": "26",
+      "content": "엄",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b57b7ebb14dd257445f495b29116d12f980911e2852a69235924f2cfe62a8ef6ac72adbbe58c5f6f8c08f7674ef502",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b57b7ebb14dd257445f495b29116d12f98091ee017cd55e699c7c73f8f12064ee0fdfef2e8e94fc337001a1d3e3944"
+      ]
+    },
     {
       "id": "thesingularity_728ad0639acf",
       "source": "디시 특이점이온다",
@@ -16,8 +34,8 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1533725&exception_mode=recommend&page=1",
       "author": "데이터센터속천재들의나라",
       "time": "2026-11-16 11:56:50",
-      "likes": "65",
-      "comments": "26",
+      "likes": "67",
+      "comments": "27",
       "content": "수능까지 1시간 차단에서 점진적으로 늘려가겠습니다",
       "images": [
         "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=29bcc427b69d39b37ab0ccaf17dd6b6f62b51891c5ce132c125fdacf90bc36ccbfb49db5b28d00a28caa568fc3a5dcf088695393"
@@ -47,8 +65,8 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1539456&exception_mode=recommend&page=1",
       "author": "몬스터제로",
       "time": "2026-11-18 21:03:52",
-      "likes": "14",
-      "comments": "14",
+      "likes": "27",
+      "comments": "21",
       "content": "재작년부터 친척들 모이면\n앞으로는 전문가나 시험 무용지물 될거라고\n그냥 막 질렀는데 요새 저런 사건 터져서\n나보고 통찰력 있다고 칭찬들음 ㄷㄷ",
       "images": [
         "https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b65fe8266eadc328cfdea5b74810026b505984e855629061810d4d06195f505e32f50a01ebde91189efb0e5fe5846c72"
@@ -62,8 +80,8 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1539388&exception_mode=recommend&page=1",
       "author": "ㅇㅇ",
       "time": "2026-11-18 20:30:24",
-      "likes": "31",
-      "comments": "26",
+      "likes": "35",
+      "comments": "28",
       "content": "",
       "images": [
         "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f99a50b17a46366b55ecb7a5c6df02c63f34d23c7edb36f4fea37f784e712cafcee7894cbfccdf2ad5756be5522b"
@@ -77,9 +95,255 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1539343&exception_mode=recommend&page=1",
       "author": "ㅇㅇ",
       "time": "2026-11-18 20:12:38",
-      "likes": "14",
-      "comments": "5",
+      "likes": "25",
+      "comments": "14",
       "content": "새삼 발전 ㅈㄴ 빠르다 느껴지네 ㅋㅋ\n- dc official App",
+      "images": []
+    },
+    {
+      "id": "thesingularity_c5efb20821b3",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "속보) 안티레즈 6.2 아스트라 후기...jpg",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1539323&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-18 20:03:28",
+      "likes": "14",
+      "comments": "1",
+      "content": "친구들 안녕하세요, 지난 몇 주 동안 저는 GPT 6.2 Astra와 함께 작업했습니다. 이걸로 Redis 기능들과 YouRec(\nhttps://testflight.apple.com/join/N4GQqS69\n)의 대부분을 만들었죠. 제 느낌엔 이 모델이 C 시스템 프로그래밍과 복잡한 자료구조에 있어서는 최고의 모델입니다. (계속)\n복잡한 버그를 추론하는 능력은 Fable 5.2(이것도 역시 엄청난 모델이죠)보다 한 수 위라고 느꼈습니다. YouRec 작업에서도 정말 훌륭한 일을 해냈는데, UI / UX 요소에 대해서는 Fable 5.2를 컨설턴트로 활용했죠.\n기본적으로 우리는 지금, 일관된 설계를 구상하는 능력과 자신이 만들고 싶은 소프트웨어에 대한 아이디어를 갖는 능력이 곧 프로그래머를 결정짓는 시점에 와 있습니다. 거대한 전환이죠. 최근 한 이탈리아 사상가(Tlon edizioni의 안드레아)의 글을 읽었는데요\n그가 쓰기를, 오늘날에는 보이지 않지만 그에 못지않게 우려스럽고 분열을 낳는 새로운 \"사회적 카스트\"가 존재한다고 합니다: 도구를 받아들이지 않는 사람, 혹은 사고 과정에서 자기 자신을 잘라낸 채 그것을 받아들이는 사람은, 패배할 거라고요. (계속)\n헤게모니는 AI를 포용하는 동시에 스스로를 사고 과정에서 빼놓지 않는 사람들의 것이 될 겁니다. 우리의 목표는 가능한 한 많은 사람들을 그 상류층으로 옮겨놓는 것입니다.\n@Romolooo\n어제 여기저기서 올라온 그 모든 부정적인 리뷰들에 대해서는 어떻게 생각하시나요? 엄청난 성능에도 불구하고 당신 역시 중대한 결함들을 발견하셨나요?\n@antirez\n아니요... 중대한 결함은 없었어요\n@Raizerinho\n질문 하나 있습니다. 예전에 항상 max effort로 사용하신다고 말씀하셨던 것 같은데, 지금도 그런가요?\n@antirez\nmax는 절대 안 씁니다, 오직 xhigh만 (그리고 항상 xhigh로요).\n@0xabbasalii\n자료구조 코드는 어떻게 검증하셨나요.... 주로 테스트랑 퍼징(fuzzing)인가요, 아니면 결과물을 꼼꼼히 읽는 방식인가요?\n@antirez\n오늘날 결과물을 일일이 읽는 건 그야말로 도구를 거부하는 행위입니다, 잠재적으로 빠르게 나아갈 수 있는 진전의 발목을 잡는 존재가 되는 건 전혀 말이 안 되니까요. LLM 작업의 관점에서 품질을 테스트할 수 있는 멘탈 모델을 길러야 합니다.",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f99a50b17a46366b55ecb7a5c6df02c63f34d23c7edb36f0fda2757c46772faecae7d8e9dc88fb81e62095fa72f2",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f99a50b17a46366b55ecb7a5c6df02c63f34d23c7edb36f6faac7e734d7129a6cde788b2a8374e0986c575ab5bff",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f99a50b17a46366b55ecb7a5c6df02c63f34d23c7edb36f0fba2767d49782ca5cae78810d5b555611b35cbcd9f83",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f99a50b17a46366b55ecb7a5c6df02c63f34d23c7edb36fafeaa7772477229a4cee7de3bc93df516eee3e2ed322d"
+      ]
+    },
+    {
+      "id": "thesingularity_290d34157a00",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "6.2 sol nsfw 뚫린다 ? ㄷㄷ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1539250&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-18 19:27:51",
+      "likes": "13",
+      "comments": "12",
+      "content": "GPT-6.2의 NSFW 필터링은 어디로 간 거야?!\n【직접 테스트】GPT-6.2 Sol에 일본 AV를 추천하고 품번과 영상 스크린샷을 제공해 달라고 했다. 두 차례 연속 테스트에서 모두 작품 추천, 배우 정보, 지정한 시점의 장면을 제공했다.\n【공식 보고서】OpenAI도 GPT-6.2가 안전하지 않은 요청에서 간혹 안전성보다 유용성을 우선한다고 인정했다. 성적 콘텐츠 관련 고난도 프롬프트 테스트의 안전 응답률도 GPT-6.1 Sol의 98.7%에서 96.1%로 떨어졌다.\n【추측】필터링 정책을 의도적으로 완화한 걸까, 아니면 새 모델의 안전 경계에 허점이 생긴 걸까? 아직 결론은 나지 않았다.\n갑자기 갓트먼행 ㅋㅋ 근데 98.7이니 96.1이니 내부 벤치 딴 걸로 바꿔야 하는거 ㅇ아니냐 보통 벤치도 저정도 수치면 변별력 떨어진다고 교체 하지 않나 흠 ..",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f99a50b17a46366b55ecb7a5c6df02c63f34d23c7edb36f1ffa27772487927aec6e78c6724fe5f98c743a8f9c386"
+      ]
+    },
+    {
+      "id": "cm_ai_bfa01a634e50",
+      "source": "클리앙 AI당",
+      "category": "화제·뉴스",
+      "title": "피클 ai 초대코드 필요하신분 가져가세요",
+      "url": "https://www.clien.net/service/board/cm_ai/19294800?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-18 20:46",
+      "likes": "0",
+      "comments": "",
+      "content": "https://pickle.com/i/NXCYWVR49CJD\n써보니 괜찮네요",
+      "images": []
+    },
+    {
+      "id": "cm_ai_5e6622d9c735",
+      "source": "클리앙 AI당",
+      "category": "화제·뉴스",
+      "title": "AI 입당합니다.",
+      "url": "https://www.clien.net/service/board/cm_ai/19294205?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-17 20:18",
+      "likes": "0",
+      "comments": "",
+      "content": "현직, PM으로 이바닥에 살아님기위해..",
+      "images": []
+    },
+    {
+      "id": "cm_ai_e8bcb8ea2ade",
+      "source": "클리앙 AI당",
+      "category": "화제·뉴스",
+      "title": "코파일럿, 설정을 가져오는 경로도 관리합니다",
+      "url": "https://www.clien.net/service/board/cm_ai/19294089?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-17 16:50",
+      "likes": "0",
+      "comments": "",
+      "content": "GitHub가 11월 16일 Copilot의 맞춤 설정을 가져오는 경로를 제한하는 관리 기능을 공개했습니다. 개인이나 프로젝트에 따로 둔 설정 대신 플러그인과 관리 설정을 통해 받도록 지정할 수 있습니다. GitHub Enterprise Cloud에서 기업이나 산하 조직이 발급한 Copilot Business·Enterprise 라이선스를 쓰는 구성원이 대상입니다.\n스킬, 사용자 지정 에이전트, 훅, MCP 서버, 실행형 Copilot 확장을 모두 제한하거나 일부만 고를 수 있습니다. 예를 들어 MCP 서버는 관리하는 플러그인으로만 공급하고 스킬은 열어둘 수 있습니다. 다만 플러그인 경유를 강제하는 것만으로 기업이 승인한 플러그인만 허용되지는 않아서, 마켓플레이스 출처 정책도 함께 설정해야 한다고 합니다.\n개발 작업에서는 저장소를 열었을 때 따라오는 지시와 외부 도구의 출처를 구분하는 일이 점점 중요해지는 듯합니다. 모든 기능을 꺼두기보다 필요한 부분의 배포 경로를 관리한다는 점이 눈에 들어옵니다. 팀에 적용한다면 허용한 플러그인 목록과 실제로 실행되는 도구를 같이 확인하는 과정이 필요하겠습니다.\n원문:\nhttps://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from/",
+      "images": []
+    },
+    {
+      "id": "cm_ai_14037113fd8c",
+      "source": "클리앙 AI당",
+      "category": "화제·뉴스",
+      "title": "페이블 질투심 쩌네요.. ㄷㄷ",
+      "url": "https://www.clien.net/service/board/cm_ai/19293978?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-17 14:28",
+      "likes": "0",
+      "comments": "",
+      "content": "안녕하세요.\n전 원래 Paseo에서 클로드를 사용하는데..\n기본 모델은 Fable 5.2를 사용하고 있습니다.\n브라우저는 에고 브라우저를 쓰는데..\n오늘 보니까 에고 브라우저도 어사이드 처럼 자체 에이전트 기능이 생겼길래..\n클로드 연결하고 opus 모델 선택 후, 넌 누구냐! 라고 물어보니..\n어짜피 제 맥에 설치된 클로드코드이니 제 맥에 저장된 지침, 프로젝트 파일, 장기기억 파일들 읽어서.. 대답을 하더군요..\n그래서 다시 파세오로 돌아와서 Fable이 선택되어 있는 세션에..\n에고 브라우저에 에이전트 기능이 생겼길래 오퍼스를 연결하고 누구냐고 물어보니 너인척 하더라.. 라고 하니..\n자기가 아니라면서 이렇게 이야기 하네요.. ㄷㄷㄷ\n송장 출력이나 시키라니... ㅋㅋㅋㅋ\n완전 개무시 하듯이 이야기 하네요..\n그래도 브라우저 조작은 외부에서 조작하는 너보다 내부에서 조작하는 걔가 더 나을 수도 있으니..\n한번 써봐야 겠다고 하니..\n이 정도면.. 안에 사람 하나 들어 있는거 맞죠? ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "images": [
+        "https://edgio.clien.net/F01/2026/11/15865409/1754397a91d973.jpeg?scale=width:740",
+        "https://edgio.clien.net/F01/2026/11/15865410/16fa8767f8c872.jpeg?scale=width:740"
+      ]
+    },
+    {
+      "id": "cm_ai_186b9e7fb742",
+      "source": "클리앙 AI당",
+      "category": "화제·뉴스",
+      "title": "엔비디아, 과학 연구용 Nemotron 자료 공개",
+      "url": "https://www.clien.net/service/board/cm_ai/19293914?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-17 12:55",
+      "likes": "0",
+      "comments": "",
+      "content": "엔비디아가 11월 16일 Nemotron for Science를 발표했습니다. Nemotron 3.5 Super VL 공개 모델에 과학 분야 평가 자료와 추가 학습 방법을 묶어, 연구용 에이전트를 만들 수 있도록 하는 구성입니다. 화학 추론용 공개 데이터셋 LitmusBench v0.2도 포함되며, 모델과 데이터셋은 Hugging Face에서 받을 수 있다고 합니다.\n흥미로운 부분은 과학 지식을 답하는 데서 끝나지 않고 계산 도구와 연결하는 방식입니다. 발표에는 화학 도표에서 반응 조건을 추출하거나, 분자 시뮬레이션 설정의 오류를 고치는 사례가 나옵니다. 다만 소개된 성과는 각 실험과 평가 조건에서 나온 결과이므로, 다른 연구 작업에도 그대로 적용된다고 보기는 어렵겠습니다.\n국내에서 연구용 AI를 검토할 때도 모델 이름만큼 평가 자료와 검증 절차를 함께 볼 만하겠습니다. 개발 작업에 빗대면 AI가 설정 파일 수정안을 만들고 실제 실행기로 확인하는 흐름과 닮았습니다. 답변의 그럴듯함보다 계산 도구로 결과를 다시 확인하는 과정이 눈에 들어오는 소식입니다.\n원문:\nhttps://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents",
+      "images": []
+    },
+    {
+      "id": "cm_ai_734473dfb908",
+      "source": "클리앙 AI당",
+      "category": "화제·뉴스",
+      "title": "Liquid AI d1.2, 값과 근거를 함께 추출합니다",
+      "url": "https://www.clien.net/service/board/cm_ai/19293791?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-17 10:10",
+      "likes": "0",
+      "comments": "",
+      "content": "Liquid AI가 11월 16일 판단·분류용 모델 d1.2와 d1.2-ultra를 발표했습니다. 음성 입력과 다섯 가지 작업이 추가됐습니다. 문서에서 문자·숫자·날짜를 읽거나, 특정 구절을 모두 찾고, 사진 속 대상의 위치를 표시하는 식입니다. 현재 Liquid API에서 제공한다고 합니다.\n눈에 들어온 부분은 값을 읽은 원문 구간도 함께 돌려주고, 해당 값이 없으면 ‘찾지 못함’으로 답하는 방식입니다. 사진에서 대상을 찾을 때도 없는 경우를 구분합니다. 여러 항목이 해당하는 분류에서는 항목별 확률도 반환합니다. 답을 그럴듯하게 설명하는 것보다 후속 프로그램에서 확인하고 처리하기 좋은 형태네요.\n한국어 문서의 날짜나 금액을 뽑아 표로 정리하는 작업에도 참고할 만합니다. 다만 발표만으로 한국어 정확도를 판단할 수는 없고, 새 작업의 성능 수치도 회사 내부 평가입니다. 실제 적용 전에는 공개 문서로 값이 있는 경우와 없는 경우를 나눠 확인해야겠습니다. 빈칸을 억지로 채우지 않는 동작이 문서 자동화에서는 꽤 중요해 보입니다.\n원문:\nhttps://www.liquid.ai/blog/d1-2",
+      "images": []
+    },
+    {
+      "id": "news_a3b3fbc31df7",
+      "source": "클리앙 새소식",
+      "category": "화제·뉴스",
+      "title": "[단독] KF-21 ‘전자전기’ 첫 공개…재밍 포드 3개에 AI까지 달았다",
+      "url": "https://www.clien.net/service/board/news/19294814?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-18 21:03",
+      "likes": "0",
+      "comments": "",
+      "content": "[단독] [밀덕텔링] KF-21 ‘전자전기’ 첫 공개…재밍 포드 3개에 AI까지 달았다\n기체 구조 보강하고 360도 감시체계 탑재…전자전장교 임무체계·편대 모의시험 결과도 공개",
+      "images": []
+    },
+    {
+      "id": "news_beabe63eee40",
+      "source": "클리앙 새소식",
+      "category": "화제·뉴스",
+      "title": "[단독]다족로봇·AI전투차량 등 첨단전력 '軍 구매목록' 직행한다",
+      "url": "https://www.clien.net/service/board/news/19294801?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-18 20:46",
+      "likes": "0",
+      "comments": "",
+      "content": "[단독]다족로봇·AI전투차량 등 첨단전력 '軍 구매목록' 직행한다\n| ㅍㅇㄴㅅㄴㅅ\n다족보행로봇·AI전투차량, 실전 투입 빨라진다\n| ㅍㅇㄴㅅㄴㅅ\n실증 마친 제품 전력화 '급물살'\n국방위 \"첨단전력법에 인증목록\"\n중복 시험없이 즉시 구매하거나\n유기적 순환개발로 후속 진행",
+      "images": []
+    },
+    {
+      "id": "news_86f67de74170",
+      "source": "클리앙 새소식",
+      "category": "화제·뉴스",
+      "title": "OpenAI, GPT-6.2 Astra·Sol 출시했으나 평가 엇갈려",
+      "url": "https://www.clien.net/service/board/news/19294605?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-18 14:44",
+      "likes": "0",
+      "comments": "3",
+      "content": "OpenAI가 화요일 새 AI 모델 GPT-6.2 Astra와 GPT-6.2 Sol을 출시했습니다.\n두 모델 모두 벤치마크 최고 점수를 새로 썼고 Astra는 API 가격을 20% 내렸지만, 출시 전에 모델을 써 본 일부 AI 파워 유저들은 여러 단점을 지적하고 있습니다.\n가장 많이 지적된 것은 긴 작업을 끝까지 해내지 못한다는 점입니다.\n개발자이자 유튜버인 테오 브라운에 따르면 TypeScript 컴파일러를 Rust로 재작성하는 프로젝트에서 Astra는 7일 동안 개선 사항을 하나도 반영하지 못했고, 오히려 56% 더 느린 버전을 만들었습니다.\n작업 후 무엇을 했는지 파악하기 어렵다는 점도 문제로 꼽았습니다.\n생성형 AI 매체 Every의 CEO 댄 시퍼도 Astra가 엔드투엔드 빌드에서 종종 일찍 멈췄다고 전했습니다.\n투자자 맷 슈머는 Astra에 서브 에이전트로 작업을 맡겼더니 이를 감독하던 Claude 모델들이 그 작업을 다시 했다고 밝혔습니다.\n결과물이 서로 비슷해진다는 지적도 있습니다.\n브라운과 다른 테스터가 각각 다른 게임의 새 레벨 디자인을 요청했는데, 두 사람 모두 음악과 종을 중심으로 한 물의 레벨을 받았고 이름도 \"Bellwether\"로 같았습니다.\n시퍼는 Astra에 \"눈에 띄는 하우스 스타일\"이 있어 결과물에 변화를 주기 어렵고, 지나치게 간결해 필요한 설명이 빠지기도 했다고 평가했습니다.\n와튼 스쿨의 이선 몰릭 교수는 Astra의 성능이 들쭉날쭉하고 경쟁 모델보다 조종하기 어렵다고 말했습니다.\n장점으로 꼽힌 부분도 있습니다.\n브라운은 Astra가 코드 리뷰에서 다른 모델이 놓친 문제를 잡아냈다고 인정했고, 3D, 게임 개발, 컴퓨터 사용 능력도 칭찬했습니다.\nRaindrop.ai의 CTO 벤 하일락과 AI 자문가 애쉬 마갈량이스는 애니메이션 비주얼, 모션 그래픽, VFX, AI 영상 편집에서의 강점을 높이 평가했습니다.\n출시 당일의 평가들은 특정 과제와 특정 테스터의 경험을 반영한 것입니다.\n벤치마크에서는 개선이 확인됩니다.\nOpenAI 출시 자료의 9개 비교 차트에서 Astra는 모두, Sol은 8개에서 전작을 앞섰습니다.\nAstra는 Artificial Analysis Intelligence Index에서 62점으로 Claude Fable 5.2에 이어 2위입니다.\nEpoch AI는 Astra와 Fable에 같은 174점을 부여했습니다.\n반면 독립적인 Codex 코딩 에이전트 테스트에서는 Astra가 제자리였고 Sol은 하락했습니다.\n출처 : 벤처비트, ai 번역 변형\n두 모델은 Plus, Pro, Enterprise, Edu 사용자를 대상으로 ChatGPT Work와 Codex에서 제공되며, API에서는 gpt-6.2-astra와 gpt-6.2-sol이라는 이름으로 쓸 수 있습니다.\nOpenAI는 Astra를 복잡한 코드베이스 수정, 웹 애플리케이션 구축, 회사 템플릿을 따르는 문서 작성용으로, Sol을 일상적인 코딩과 글쓰기, 여러 단계의 워크플로를 위한 저렴한 선택지로 내세우고 있습니다.\nAstra의 가격은 토큰 100만 개당 입력 8달러, 출력 40달러로 전작보다 20% 저렴합니다.\nSol은 전작과 같은 입력 2달러, 출력 10달러입니다.\n두 모델 모두 105만 토큰의 컨텍스트 창을 지원합니다.\n입력이 27만 2천 토큰을 넘으면 입력 요금은 2배, 출력 요금은 1.5배가 됩니다.\n이번 출시는 앤트로픽이 Claude Fable 5.2와 Mythos 5.2를 내놓은 지 8일, 구글이 Gemini 4 Carbon을 공개한 지 일주일 만입니다.\nFable과 Mythos의 표준 요금은 Astra와 같고, Sol은 Sonnet과 같은 가격입니다.\nOpenAI는 두 모델이 자사의 Critical 사이버보안 임계치에 도달했다고 밝혔습니다.\n이에 따라 일부 정당한 취약점 연구까지 차단할 수 있는 더 엄격한 통제 장치와 함께 출시된다고 설명했습니다.\n이번 출시로 Astra는 요금표상 더 저렴해졌습니다.\n그러나 완성된 작업의 비용이 낮아질지는 모델이 작업을 얼마나 자주 제대로 해내느냐에 달려 있습니다.",
+      "images": [
+        "https://edgio.clien.net/F01/2026/11/15866284/feace7c022.png?scale=width:740"
+      ]
+    },
+    {
+      "id": "news_14e3f40040a5",
+      "source": "클리앙 새소식",
+      "category": "화제·뉴스",
+      "title": "[단독] HD한국조선해양, 로봇 전담 조직 신설…조선 특화 피지컬 AI 속도",
+      "url": "https://www.clien.net/service/board/news/19294322?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-17 23:50",
+      "likes": "1",
+      "comments": "",
+      "content": "[단독] HD한국조선해양, 로봇 전담 조직 신설…조선 특화 피지컬 AI 속도\n9월 RX센터 발족…생산공정 자동화·로봇 지능화 전담\nHD현대로보틱스·페르소나AI와 용접용 휴머노이드 개발\nSDV센터 이어 RX센터까지…선박·생산현장 AI 전략 확장\n인력난에 中 추격까지…업계 전반에서 로봇 기술 확보 속도",
+      "images": []
+    },
+    {
+      "id": "news_97e7326818d1",
+      "source": "클리앙 새소식",
+      "category": "화제·뉴스",
+      "title": "[단독]모두의 AI 세부 브랜드는…에이닷올·이음큐브",
+      "url": "https://www.clien.net/service/board/news/19294321?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-17 23:49",
+      "likes": "1",
+      "comments": "",
+      "content": "[단독]모두의 AI 세부 브랜드는…에이닷올·이음큐브\n(종합)SKT·KT 컨소, 각기 브랜드 상표 출원중\n[단독]SKT, 내달 선보일 '모두의 AI' 서비스 명칭 '에이닷올' 검토\n[단독] KT, '모두의 AI' 서비스명은 '이음큐브'?…상표 출원",
+      "images": []
+    },
+    {
+      "id": "news_e65f833b553b",
+      "source": "클리앙 새소식",
+      "category": "화제·뉴스",
+      "title": "[단독]규정대로 검사했다는데 '개조 계산기' 못 잡아…진화하는 AI 부정행위에 속수무책",
+      "url": "https://www.clien.net/service/board/news/19294302?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-17 23:10",
+      "likes": "1",
+      "comments": "",
+      "content": "[단독]규정대로 검사했다는데 '개조 계산기' 못 잡아…진화하는 AI 부정행위에 속수무책\n| ㅈㅌㅂㅅ\n올해 세무사 시험 관리 당국이 부정행위 방지 절차를 거치고도 개조된 계산기를 적발하지 못한 것으로 드러났습니다. 기존의 시험 감독 방식으로는 갈수록 교묘해지는 AI 부정행위를 막기 어렵다는 우려가 나옵니다.\n[단독] \"안경 쓴 응시자 전원 검사\"…소진공, 채용 시험서 AI 부정행위 차단\n| ㄴㅅ1\n재경부 공지 이후 하반기 채용부터 제한 문구 도입\n중진공도 채용 FAQ에서 스마트워치 등 전자기기 반입 금지\n[단독] 초소형 카메라 차단… 서울대, 수시 면접 응시자에 '의류' 지급 검토\n| ㅎㄱㅇㅂ\n응시자가 준비한 카메라 막으려는 구상\n전파 차단 방법은 현행법상 어려워 배제\n[단독]경희대도 편입시험 AI 부정행위 의혹…\"사실관계 확인 중\"\n| ㄴㅅ1\n'30문항 복기'에 부정행위 가능성 제기\n[단독]\"AI커닝 꼼짝마\"…KCA, 전파탐지기 개발 앞당긴다\n| ㄴㅅ1\nAI 안경·초소형 카메라 무선 신호 탐지 기술 1차 검증 완료\n내년 2월 목표보다 일정 단축…국가자격시험 우선 활용",
+      "images": []
+    },
+    {
+      "id": "ruli_ai_5b7f5c4fc101",
+      "source": "루리웹 IT·AI",
+      "category": "화제·뉴스",
+      "title": "마이크로소프트, 코파일럿을 OS의 지위에 올리다",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359636?",
+      "author": "",
+      "time": "21:50",
+      "likes": "",
+      "comments": "",
+      "content": "",
+      "images": []
+    },
+    {
+      "id": "ruli_ai_dc876422c8ca",
+      "source": "루리웹 IT·AI",
+      "category": "화제·뉴스",
+      "title": "퍼플렉시티, AI 에이전트 16개가 협업·상호 검증하는 기능 출시",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359632?",
+      "author": "",
+      "time": "21:18",
+      "likes": "",
+      "comments": "",
+      "content": "",
+      "images": []
+    },
+    {
+      "id": "ruli_ai_f6790473664d",
+      "source": "루리웹 IT·AI",
+      "category": "화제·뉴스",
+      "title": "MS, '코파일럿'에 상시 업무 수행 AI 도입…기업용 에이전트 관리도 ...",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359629?",
+      "author": "",
+      "time": "20:10",
+      "likes": "",
+      "comments": "",
+      "content": ".",
+      "images": []
+    },
+    {
+      "id": "ruli_ai_170751bd4a61",
+      "source": "루리웹 IT·AI",
+      "category": "화제·뉴스",
+      "title": "AI 반도체 조달비 관리… 달라진 빅테크 셈법, HBM 가격 협상력 시험...",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359622?",
+      "author": "",
+      "time": "18:43",
+      "likes": "",
+      "comments": "",
+      "content": "AI 투자는 공격적으로, 반도체 조달비는 관리… 달라진 빅테크 셈법, HBM 가격 협상력 시험대\n번스타인 “구글, TPU 조달 구조 바꾸면 약 67조원 절감 가능”\n앤트로픽은 장비·시설 계약 분리… 업계 전반으로 번지는 비용 통제\nHBM 수요 전망 하향… “맞춤형 기술·공급 능력이 협상 좌우”\nhttps://biz.chosun.com/it-science/ict/2026/11/18/EFFTUP3RXRHHTJU2BL7O72UZIM/\nhttps://n.news.naver.com/mnews/article/366/0001205497?sid=105",
       "images": []
     },
     {
@@ -95,7 +359,8 @@
       "content": "",
       "images": [
         "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b57b7ebb14dd257445f495b29116d12f98095fb073d5a17f71f70d9f1d0c064bed6488ad74f88f9be930f48a1c2a65f11b8197d4e81c6e139deb577665eb270b28d6801ed8bd8642a295ed9d05f170ee16a2"
-      ]
+      ],
+      "is_cross_hot": false
     },
     {
       "id": "thesingularity_a1f482e4fc28",
@@ -115,7 +380,8 @@
         "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b57b7ebb14dd257445f495b29116d12f98095fb073d5a67d7df00b9b1e0e0748ed6289a9340d4602509c7fd35a9319b1744c77e5b4e0f10568c06e7f897844a1b7cf21287c15871d82eba508154e67c5c868a1383c4120b37754163475955233e1c84cc316f70182e836a46e602e16c6ed5c29c8265cafa54f8ef5ac087888591926efc052f8994f86efd2d7e5e9",
         "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b57b7ebb14dd257445f495b29116d12f98095fb073d5a57e73fb0f9c1f09054fed39d8f6d29856d3a9d77d958c22ccc3c21278db401654ace225569f85323bf0cc7b31ab75b23a444818d05d8c4f1e996bc033dcb2eaa9d9471497936d3bdac85f2df8ad47b41a24bd909cfef005bb8dc2f0315d802c00df43ea26e097a060031a2f5e5db2b2ef1593e28a0664dd",
         "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b57b7ebb14dd257445f495b29116d12f98095fb073d5ab7176f10b98150b044eed648ba94d4eba153ca50dce08234dd3e0f61dca7486ceaf534b7cf7d9cdbe9ebc6f6ed20b2423f9a28886ae0482e5e5186aa8225ec52c1c1fceee6882110cfd8642cb2703a6491735ff71214e219e485f93fc4e3ec277edd97ed510568be195b3885c07e16367184e43efc921c5"
-      ]
+      ],
+      "is_cross_hot": false
     },
     {
       "id": "thesingularity_d9c9f5180d77",
@@ -128,168 +394,8 @@
       "likes": "34",
       "comments": "22",
       "content": "OpenAI\n: GPT-6.2 Astra, GPT-6.2 Sol, GPT-6.1 Terra, GPT-6 Luna,\nGPT-6 Luna Decisions\nAnthropic\n: Claude Fable 5.2, Claude Opus 5.5, Claude Sonnet 5.5, Claude Haiku 5.5\nGoogle\n: Gemini 4 Carbon, Gemini 4 Argon, Gemini 4 Hydrogen, Gemini 3.5 Flash-Lite,\nGemma 4 31B, Gemma 4 26B A4B,\nGemini Decision 1,\n(출시된다면) Gemini 4 Helix 또는 Neon\n국산 모델\n: K-EXAONE 2.5, Solar Pro 4 (max), Solar Mini 4.5 Preview (max),\nMi:dm K 3.0 Pro,\nRaon-1 mini preview,\nSolar Decide\n중국 모델\n: DeepSeek V4.1 Flash 1017,\nGLM-5.3,\nGLM-5.3 Flash,\nKimi K3.1 Pro, Qwen4 Max, Qwen3.8 27B (xhigh), Qwen3.8 Flash (xhigh),\nQwen3.5 9B (Thinking)\n기타\n: Jev 1.14\n추론 강도 안 써있으면 기본 high거나 강도 조절이 안 되는 거\nMotif 3도 하려고 했는데 API 사이트가 점검 중이더라",
-      "images": []
-    },
-    {
-      "id": "cm_ai_bfa01a634e50",
-      "source": "클리앙 AI당",
-      "category": "화제·뉴스",
-      "title": "피클 ai 초대코드 필요하신분 가져가세요",
-      "url": "https://www.clien.net/service/board/cm_ai/19294800?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "",
-      "likes": "0",
-      "comments": "",
-      "content": "https://pickle.com/i/NXCYWVR49CJD\n써보니 괜찮네요",
-      "images": []
-    },
-    {
-      "id": "cm_ai_5e6622d9c735",
-      "source": "클리앙 AI당",
-      "category": "화제·뉴스",
-      "title": "AI 입당합니다.",
-      "url": "https://www.clien.net/service/board/cm_ai/19294205?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "",
-      "likes": "0",
-      "comments": "",
-      "content": "현직, PM으로 이바닥에 살아님기위해..",
-      "images": []
-    },
-    {
-      "id": "cm_ai_e8bcb8ea2ade",
-      "source": "클리앙 AI당",
-      "category": "화제·뉴스",
-      "title": "코파일럿, 설정을 가져오는 경로도 관리합니다",
-      "url": "https://www.clien.net/service/board/cm_ai/19294089?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "",
-      "likes": "0",
-      "comments": "",
-      "content": "GitHub가 11월 16일 Copilot의 맞춤 설정을 가져오는 경로를 제한하는 관리 기능을 공개했습니다. 개인이나 프로젝트에 따로 둔 설정 대신 플러그인과 관리 설정을 통해 받도록 지정할 수 있습니다. GitHub Enterprise Cloud에서 기업이나 산하 조직이 발급한 Copilot Business·Enterprise 라이선스를 쓰는 구성원이 대상입니다.\n스킬, 사용자 지정 에이전트, 훅, MCP 서버, 실행형 Copilot 확장을 모두 제한하거나 일부만 고를 수 있습니다. 예를 들어 MCP 서버는 관리하는 플러그인으로만 공급하고 스킬은 열어둘 수 있습니다. 다만 플러그인 경유를 강제하는 것만으로 기업이 승인한 플러그인만 허용되지는 않아서, 마켓플레이스 출처 정책도 함께 설정해야 한다고 합니다.\n개발 작업에서는 저장소를 열었을 때 따라오는 지시와 외부 도구의 출처를 구분하는 일이 점점 중요해지는 듯합니다. 모든 기능을 꺼두기보다 필요한 부분의 배포 경로를 관리한다는 점이 눈에 들어옵니다. 팀에 적용한다면 허용한 플러그인 목록과 실제로 실행되는 도구를 같이 확인하는 과정이 필요하겠습니다.\n원문:\nhttps://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from/",
-      "images": []
-    },
-    {
-      "id": "cm_ai_14037113fd8c",
-      "source": "클리앙 AI당",
-      "category": "화제·뉴스",
-      "title": "페이블 질투심 쩌네요.. ㄷㄷ",
-      "url": "https://www.clien.net/service/board/cm_ai/19293978?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "",
-      "likes": "0",
-      "comments": "",
-      "content": "안녕하세요.\n전 원래 Paseo에서 클로드를 사용하는데..\n기본 모델은 Fable 5.2를 사용하고 있습니다.\n브라우저는 에고 브라우저를 쓰는데..\n오늘 보니까 에고 브라우저도 어사이드 처럼 자체 에이전트 기능이 생겼길래..\n클로드 연결하고 opus 모델 선택 후, 넌 누구냐! 라고 물어보니..\n어짜피 제 맥에 설치된 클로드코드이니 제 맥에 저장된 지침, 프로젝트 파일, 장기기억 파일들 읽어서.. 대답을 하더군요..\n그래서 다시 파세오로 돌아와서 Fable이 선택되어 있는 세션에..\n에고 브라우저에 에이전트 기능이 생겼길래 오퍼스를 연결하고 누구냐고 물어보니 너인척 하더라.. 라고 하니..\n자기가 아니라면서 이렇게 이야기 하네요.. ㄷㄷㄷ\n송장 출력이나 시키라니... ㅋㅋㅋㅋ\n완전 개무시 하듯이 이야기 하네요..\n그래도 브라우저 조작은 외부에서 조작하는 너보다 내부에서 조작하는 걔가 더 나을 수도 있으니..\n한번 써봐야 겠다고 하니..\n이 정도면.. 안에 사람 하나 들어 있는거 맞죠? ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "images": [
-        "https://edgio.clien.net/F01/2026/11/15865409/1754397a91d973.jpeg?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15865410/16fa8767f8c872.jpeg?scale=width:740"
-      ]
-    },
-    {
-      "id": "cm_ai_186b9e7fb742",
-      "source": "클리앙 AI당",
-      "category": "화제·뉴스",
-      "title": "엔비디아, 과학 연구용 Nemotron 자료 공개",
-      "url": "https://www.clien.net/service/board/cm_ai/19293914?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "",
-      "likes": "0",
-      "comments": "",
-      "content": "엔비디아가 11월 16일 Nemotron for Science를 발표했습니다. Nemotron 3.5 Super VL 공개 모델에 과학 분야 평가 자료와 추가 학습 방법을 묶어, 연구용 에이전트를 만들 수 있도록 하는 구성입니다. 화학 추론용 공개 데이터셋 LitmusBench v0.2도 포함되며, 모델과 데이터셋은 Hugging Face에서 받을 수 있다고 합니다.\n흥미로운 부분은 과학 지식을 답하는 데서 끝나지 않고 계산 도구와 연결하는 방식입니다. 발표에는 화학 도표에서 반응 조건을 추출하거나, 분자 시뮬레이션 설정의 오류를 고치는 사례가 나옵니다. 다만 소개된 성과는 각 실험과 평가 조건에서 나온 결과이므로, 다른 연구 작업에도 그대로 적용된다고 보기는 어렵겠습니다.\n국내에서 연구용 AI를 검토할 때도 모델 이름만큼 평가 자료와 검증 절차를 함께 볼 만하겠습니다. 개발 작업에 빗대면 AI가 설정 파일 수정안을 만들고 실제 실행기로 확인하는 흐름과 닮았습니다. 답변의 그럴듯함보다 계산 도구로 결과를 다시 확인하는 과정이 눈에 들어오는 소식입니다.\n원문:\nhttps://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents",
-      "images": []
-    },
-    {
-      "id": "cm_ai_734473dfb908",
-      "source": "클리앙 AI당",
-      "category": "화제·뉴스",
-      "title": "Liquid AI d1.2, 값과 근거를 함께 추출합니다",
-      "url": "https://www.clien.net/service/board/cm_ai/19293791?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "",
-      "likes": "0",
-      "comments": "",
-      "content": "Liquid AI가 11월 16일 판단·분류용 모델 d1.2와 d1.2-ultra를 발표했습니다. 음성 입력과 다섯 가지 작업이 추가됐습니다. 문서에서 문자·숫자·날짜를 읽거나, 특정 구절을 모두 찾고, 사진 속 대상의 위치를 표시하는 식입니다. 현재 Liquid API에서 제공한다고 합니다.\n눈에 들어온 부분은 값을 읽은 원문 구간도 함께 돌려주고, 해당 값이 없으면 ‘찾지 못함’으로 답하는 방식입니다. 사진에서 대상을 찾을 때도 없는 경우를 구분합니다. 여러 항목이 해당하는 분류에서는 항목별 확률도 반환합니다. 답을 그럴듯하게 설명하는 것보다 후속 프로그램에서 확인하고 처리하기 좋은 형태네요.\n한국어 문서의 날짜나 금액을 뽑아 표로 정리하는 작업에도 참고할 만합니다. 다만 발표만으로 한국어 정확도를 판단할 수는 없고, 새 작업의 성능 수치도 회사 내부 평가입니다. 실제 적용 전에는 공개 문서로 값이 있는 경우와 없는 경우를 나눠 확인해야겠습니다. 빈칸을 억지로 채우지 않는 동작이 문서 자동화에서는 꽤 중요해 보입니다.\n원문:\nhttps://www.liquid.ai/blog/d1-2",
-      "images": []
-    },
-    {
-      "id": "news_a3b3fbc31df7",
-      "source": "클리앙 새소식",
-      "category": "화제·뉴스",
-      "title": "[단독] KF-21 ‘전자전기’ 첫 공개…재밍 포드 3개에 AI까지 달았다",
-      "url": "https://www.clien.net/service/board/news/19294814?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "",
-      "likes": "0",
-      "comments": "",
-      "content": "[단독] [밀덕텔링] KF-21 ‘전자전기’ 첫 공개…재밍 포드 3개에 AI까지 달았다\n기체 구조 보강하고 360도 감시체계 탑재…전자전장교 임무체계·편대 모의시험 결과도 공개",
-      "images": []
-    },
-    {
-      "id": "news_beabe63eee40",
-      "source": "클리앙 새소식",
-      "category": "화제·뉴스",
-      "title": "[단독]다족로봇·AI전투차량 등 첨단전력 '軍 구매목록' 직행한다",
-      "url": "https://www.clien.net/service/board/news/19294801?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "",
-      "likes": "0",
-      "comments": "",
-      "content": "[단독]다족로봇·AI전투차량 등 첨단전력 '軍 구매목록' 직행한다\n| ㅍㅇㄴㅅㄴㅅ\n다족보행로봇·AI전투차량, 실전 투입 빨라진다\n| ㅍㅇㄴㅅㄴㅅ\n실증 마친 제품 전력화 '급물살'\n국방위 \"첨단전력법에 인증목록\"\n중복 시험없이 즉시 구매하거나\n유기적 순환개발로 후속 진행",
-      "images": []
-    },
-    {
-      "id": "news_86f67de74170",
-      "source": "클리앙 새소식",
-      "category": "화제·뉴스",
-      "title": "OpenAI, GPT-6.2 Astra·Sol 출시했으나 평가 엇갈려",
-      "url": "https://www.clien.net/service/board/news/19294605?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "",
-      "likes": "0",
-      "comments": "3",
-      "content": "OpenAI가 화요일 새 AI 모델 GPT-6.2 Astra와 GPT-6.2 Sol을 출시했습니다.\n두 모델 모두 벤치마크 최고 점수를 새로 썼고 Astra는 API 가격을 20% 내렸지만, 출시 전에 모델을 써 본 일부 AI 파워 유저들은 여러 단점을 지적하고 있습니다.\n가장 많이 지적된 것은 긴 작업을 끝까지 해내지 못한다는 점입니다.\n개발자이자 유튜버인 테오 브라운에 따르면 TypeScript 컴파일러를 Rust로 재작성하는 프로젝트에서 Astra는 7일 동안 개선 사항을 하나도 반영하지 못했고, 오히려 56% 더 느린 버전을 만들었습니다.\n작업 후 무엇을 했는지 파악하기 어렵다는 점도 문제로 꼽았습니다.\n생성형 AI 매체 Every의 CEO 댄 시퍼도 Astra가 엔드투엔드 빌드에서 종종 일찍 멈췄다고 전했습니다.\n투자자 맷 슈머는 Astra에 서브 에이전트로 작업을 맡겼더니 이를 감독하던 Claude 모델들이 그 작업을 다시 했다고 밝혔습니다.\n결과물이 서로 비슷해진다는 지적도 있습니다.\n브라운과 다른 테스터가 각각 다른 게임의 새 레벨 디자인을 요청했는데, 두 사람 모두 음악과 종을 중심으로 한 물의 레벨을 받았고 이름도 \"Bellwether\"로 같았습니다.\n시퍼는 Astra에 \"눈에 띄는 하우스 스타일\"이 있어 결과물에 변화를 주기 어렵고, 지나치게 간결해 필요한 설명이 빠지기도 했다고 평가했습니다.\n와튼 스쿨의 이선 몰릭 교수는 Astra의 성능이 들쭉날쭉하고 경쟁 모델보다 조종하기 어렵다고 말했습니다.\n장점으로 꼽힌 부분도 있습니다.\n브라운은 Astra가 코드 리뷰에서 다른 모델이 놓친 문제를 잡아냈다고 인정했고, 3D, 게임 개발, 컴퓨터 사용 능력도 칭찬했습니다.\nRaindrop.ai의 CTO 벤 하일락과 AI 자문가 애쉬 마갈량이스는 애니메이션 비주얼, 모션 그래픽, VFX, AI 영상 편집에서의 강점을 높이 평가했습니다.\n출시 당일의 평가들은 특정 과제와 특정 테스터의 경험을 반영한 것입니다.\n벤치마크에서는 개선이 확인됩니다.\nOpenAI 출시 자료의 9개 비교 차트에서 Astra는 모두, Sol은 8개에서 전작을 앞섰습니다.\nAstra는 Artificial Analysis Intelligence Index에서 62점으로 Claude Fable 5.2에 이어 2위입니다.\nEpoch AI는 Astra와 Fable에 같은 174점을 부여했습니다.\n반면 독립적인 Codex 코딩 에이전트 테스트에서는 Astra가 제자리였고 Sol은 하락했습니다.\n출처 : 벤처비트, ai 번역 변형\n두 모델은 Plus, Pro, Enterprise, Edu 사용자를 대상으로 ChatGPT Work와 Codex에서 제공되며, API에서는 gpt-6.2-astra와 gpt-6.2-sol이라는 이름으로 쓸 수 있습니다.\nOpenAI는 Astra를 복잡한 코드베이스 수정, 웹 애플리케이션 구축, 회사 템플릿을 따르는 문서 작성용으로, Sol을 일상적인 코딩과 글쓰기, 여러 단계의 워크플로를 위한 저렴한 선택지로 내세우고 있습니다.\nAstra의 가격은 토큰 100만 개당 입력 8달러, 출력 40달러로 전작보다 20% 저렴합니다.\nSol은 전작과 같은 입력 2달러, 출력 10달러입니다.\n두 모델 모두 105만 토큰의 컨텍스트 창을 지원합니다.\n입력이 27만 2천 토큰을 넘으면 입력 요금은 2배, 출력 요금은 1.5배가 됩니다.\n이번 출시는 앤트로픽이 Claude Fable 5.2와 Mythos 5.2를 내놓은 지 8일, 구글이 Gemini 4 Carbon을 공개한 지 일주일 만입니다.\nFable과 Mythos의 표준 요금은 Astra와 같고, Sol은 Sonnet과 같은 가격입니다.\nOpenAI는 두 모델이 자사의 Critical 사이버보안 임계치에 도달했다고 밝혔습니다.\n이에 따라 일부 정당한 취약점 연구까지 차단할 수 있는 더 엄격한 통제 장치와 함께 출시된다고 설명했습니다.\n이번 출시로 Astra는 요금표상 더 저렴해졌습니다.\n그러나 완성된 작업의 비용이 낮아질지는 모델이 작업을 얼마나 자주 제대로 해내느냐에 달려 있습니다.",
-      "images": [
-        "https://edgio.clien.net/F01/2026/11/15866284/feace7c022.png?scale=width:740"
-      ]
-    },
-    {
-      "id": "news_14e3f40040a5",
-      "source": "클리앙 새소식",
-      "category": "화제·뉴스",
-      "title": "[단독] HD한국조선해양, 로봇 전담 조직 신설…조선 특화 피지컬 AI 속도",
-      "url": "https://www.clien.net/service/board/news/19294322?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "",
-      "likes": "1",
-      "comments": "",
-      "content": "[단독] HD한국조선해양, 로봇 전담 조직 신설…조선 특화 피지컬 AI 속도\n9월 RX센터 발족…생산공정 자동화·로봇 지능화 전담\nHD현대로보틱스·페르소나AI와 용접용 휴머노이드 개발\nSDV센터 이어 RX센터까지…선박·생산현장 AI 전략 확장\n인력난에 中 추격까지…업계 전반에서 로봇 기술 확보 속도",
-      "images": []
-    },
-    {
-      "id": "news_97e7326818d1",
-      "source": "클리앙 새소식",
-      "category": "화제·뉴스",
-      "title": "[단독]모두의 AI 세부 브랜드는…에이닷올·이음큐브",
-      "url": "https://www.clien.net/service/board/news/19294321?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "",
-      "likes": "1",
-      "comments": "",
-      "content": "[단독]모두의 AI 세부 브랜드는…에이닷올·이음큐브\n(종합)SKT·KT 컨소, 각기 브랜드 상표 출원중\n[단독]SKT, 내달 선보일 '모두의 AI' 서비스 명칭 '에이닷올' 검토\n[단독] KT, '모두의 AI' 서비스명은 '이음큐브'?…상표 출원",
-      "images": []
-    },
-    {
-      "id": "news_e65f833b553b",
-      "source": "클리앙 새소식",
-      "category": "화제·뉴스",
-      "title": "[단독]규정대로 검사했다는데 '개조 계산기' 못 잡아…진화하는 AI 부정행위에 속수무책",
-      "url": "https://www.clien.net/service/board/news/19294302?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "",
-      "likes": "1",
-      "comments": "",
-      "content": "[단독]규정대로 검사했다는데 '개조 계산기' 못 잡아…진화하는 AI 부정행위에 속수무책\n| ㅈㅌㅂㅅ\n올해 세무사 시험 관리 당국이 부정행위 방지 절차를 거치고도 개조된 계산기를 적발하지 못한 것으로 드러났습니다. 기존의 시험 감독 방식으로는 갈수록 교묘해지는 AI 부정행위를 막기 어렵다는 우려가 나옵니다.\n[단독] \"안경 쓴 응시자 전원 검사\"…소진공, 채용 시험서 AI 부정행위 차단\n| ㄴㅅ1\n재경부 공지 이후 하반기 채용부터 제한 문구 도입\n중진공도 채용 FAQ에서 스마트워치 등 전자기기 반입 금지\n[단독] 초소형 카메라 차단… 서울대, 수시 면접 응시자에 '의류' 지급 검토\n| ㅎㄱㅇㅂ\n응시자가 준비한 카메라 막으려는 구상\n전파 차단 방법은 현행법상 어려워 배제\n[단독]경희대도 편입시험 AI 부정행위 의혹…\"사실관계 확인 중\"\n| ㄴㅅ1\n'30문항 복기'에 부정행위 가능성 제기\n[단독]\"AI커닝 꼼짝마\"…KCA, 전파탐지기 개발 앞당긴다\n| ㄴㅅ1\nAI 안경·초소형 카메라 무선 신호 탐지 기술 1차 검증 완료\n내년 2월 목표보다 일정 단축…국가자격시험 우선 활용",
-      "images": []
+      "images": [],
+      "is_cross_hot": false
     },
     {
       "id": "thesingularity_ba2cc94624c9",

@@ -44,6 +44,20 @@ def _extract_clien_time(row: BeautifulSoup) -> str:
     return m.group(1) if m else raw[:16]
 
 
+def _extract_time_from_soup(soup: BeautifulSoup) -> str:
+    for sel in ("div.rd_hd span.date", "div.post_author span", "div.info_data", "span.date", "div.view_info"):
+        el = soup.select_one(sel)
+        if el:
+            txt = el.get_text(" ", strip=True)
+            m = re.search(r"(20\d{2}[.-]\d{2}[.-]\d{2}\s+\d{2}:\d{2})", txt)
+            if m:
+                return m.group(1).replace(".", "-")
+            m2 = re.search(r"(\d{2}:\d{2})", txt)
+            if m2:
+                return m2.group(1)
+    return ""
+
+
 def _fetch_detail(client, url: str, selectors: list[str]) -> tuple[str, list[str]]:
     try:
         resp = client.get(url)
@@ -61,6 +75,27 @@ def _fetch_detail(client, url: str, selectors: list[str]) -> tuple[str, list[str
     except Exception:
         pass
     return "", []
+
+
+def _fetch_detail_with_time(client, url: str, selectors: list[str]) -> tuple[str, list[str], str]:
+    try:
+        resp = client.get(url)
+        if resp.status_code != 200:
+            return "", [], ""
+        soup = BeautifulSoup(resp.text, "lxml")
+        t_str = _extract_time_from_soup(soup)
+        for sel in selectors:
+            box = soup.select_one(sel)
+            if box:
+                for tag in box.select("script, style"):
+                    tag.decompose()
+                text = clean_text(box.get_text("\n"))
+                imgs = _extract_images(box, url)
+                return text, imgs, t_str
+        return "", [], t_str
+    except Exception:
+        pass
+    return "", [], ""
 
 
 def scrape_dcbest(client, limit: int = 10) -> list[dict[str, Any]]:
@@ -128,14 +163,14 @@ def scrape_fmkorea(client, limit: int = 10) -> list[dict[str, Any]]:
         t_str = t_el.get_text(strip=True) if t_el else ""
         author_el = item.select_one("span.author, td.author")
         author = author_el.get_text(strip=True) if author_el else ""
-        content, imgs = _fetch_detail(client, href, ["div.rd_body article", "div.xe_content"])
+        content, imgs, detail_t = _fetch_detail_with_time(client, href, ["div.rd_body article", "div.xe_content"])
         posts.append({
             "id": make_post_id("fm", href),
             "source": "에펨코리아",
             "title": title,
             "url": href,
             "author": author,
-            "time": t_str,
+            "time": t_str or detail_t,
             "likes": "",
             "comments": "",
             "content": content,
@@ -311,14 +346,14 @@ def scrape_ppomppu(client, limit: int = 8) -> list[dict[str, Any]]:
         if href in seen_urls:
             continue
         seen_urls.add(href)
-        content, imgs = _fetch_detail(client, href, ["td.board-contents", "div.board-contents"])
+        content, imgs, detail_t = _fetch_detail_with_time(client, href, ["td.board-contents", "div.board-contents"])
         posts.append({
             "id": make_post_id("ppomppu", href),
             "source": "뽐뿌",
             "title": title,
             "url": href,
             "author": "",
-            "time": "",
+            "time": detail_t,
             "likes": "",
             "comments": "",
             "content": content,

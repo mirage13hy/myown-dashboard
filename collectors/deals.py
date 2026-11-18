@@ -13,11 +13,10 @@ from collectors.common import (
     now_kst_str,
     save_json,
 )
-from collectors.community_hot import _extract_clien_time, _fetch_detail
+from collectors.community_hot import _extract_clien_time, _fetch_detail_with_time
 
 DEAL_CATEGORIES = [
     ("AI·구독", ("ai", "gpt", "제미나이", "gemini", "클로드", "퍼플렉시티", "유튜브", "스포티파이", "넷플릭스", "디즈니", "티빙", "웨이브", "구독", "멤버십", "프리미엄")),
-    ("게임·콘솔", ("게임", "스팀", "steam", "닌텐도", "스위치", "플스", "ps5", "ps4", "엑스박스", "xbox", "컨트롤러", "게임패드", "듀얼센스", "에픽", "로블록스")),
     ("디지털·가전", ("노트북", "모니터", "ssd", "그래픽카드", "rtx", "키보드", "마우스", "아이패드", "갤럭시", "애플", "워치", "에어팟", "이어폰", "헤드셋", "충전기", "가전", "청소기", "tv", "태블릿", "pc", "램", "메모리")),
     ("상품권·이용권", ("상품권", "금액권", "기프트카드", "컬쳐랜드", "해피머니", "네이버페이", "빕스", "vips", "애슐리", "아웃백", "뷔페", "에버랜드", "롯데월드", "놀이동산", "자유이용권", "파리바게트", "파리바게뜨", "배스킨", "스타벅스")),
     ("항공·여행", ("항공", "항공권", "비행기", "호텔", "리조트", "숙박", "여행", "제주", "도쿄", "오사카", "후쿠오카", "방콕", "다낭", "유럽", "면세", "에어부산", "진에어", "티웨이")),
@@ -66,7 +65,7 @@ def _scrape_fmkorea_hotdeal(client, limit: int = 25) -> list[dict[str, Any]]:
         href = urljoin(url, a.get("href", ""))
         t_el = item.select_one("span.regdate, td.time")
         t_str = t_el.get_text(strip=True) if t_el else ""
-        content, imgs = _fetch_detail(client, href, ["div.rd_body article", "div.xe_content"])
+        content, imgs, detail_t = _fetch_detail_with_time(client, href, ["div.rd_body article", "div.xe_content"])
         posts.append({
             "id": make_post_id("fm_deal", href),
             "source": "에펨코리아 핫딜",
@@ -74,7 +73,7 @@ def _scrape_fmkorea_hotdeal(client, limit: int = 25) -> list[dict[str, Any]]:
             "title": title,
             "url": href,
             "author": "",
-            "time": t_str,
+            "time": t_str or detail_t,
             "likes": "",
             "comments": "",
             "content": content,
@@ -107,7 +106,7 @@ def _scrape_ppomppu_board(client, limit: int = 25) -> list[dict[str, Any]]:
         if href in seen:
             continue
         seen.add(href)
-        content, imgs = _fetch_detail(client, href, ["td.board-contents", "div.board-contents"])
+        content, imgs, detail_t = _fetch_detail_with_time(client, href, ["td.board-contents", "div.board-contents"])
         posts.append({
             "id": make_post_id("ppom_deal", href),
             "source": "뽐뿌",
@@ -115,7 +114,7 @@ def _scrape_ppomppu_board(client, limit: int = 25) -> list[dict[str, Any]]:
             "title": title,
             "url": href,
             "author": "",
-            "time": "",
+            "time": detail_t,
             "likes": "",
             "comments": "",
             "content": content,
@@ -150,7 +149,7 @@ def _scrape_clien_jirum(client, limit: int = 25) -> list[dict[str, Any]]:
         t_str = _extract_clien_time(row)
         like_el = row.select_one("div.list_symph span")
         cmt_el = row.select_one("span.rSymph05")
-        content, imgs = _fetch_detail(client, href, ["div.post_article"])
+        content, imgs, detail_t = _fetch_detail_with_time(client, href, ["div.post_article"])
         posts.append({
             "id": make_post_id("clien_deal", href),
             "source": "클리앙 알뜰구매",
@@ -158,7 +157,7 @@ def _scrape_clien_jirum(client, limit: int = 25) -> list[dict[str, Any]]:
             "title": title,
             "url": href,
             "author": "",
-            "time": t_str,
+            "time": t_str or detail_t,
             "likes": like_el.get_text(strip=True) if like_el else "",
             "comments": cmt_el.get_text(strip=True) if cmt_el else "",
             "content": content,
