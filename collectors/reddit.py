@@ -2,7 +2,7 @@ import json
 import os
 import re
 import time
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timedelta, timezone
 from typing import Any
 
 import feedparser
@@ -14,7 +14,6 @@ from collectors.common import (
     clean_text,
     load_previous_posts,
     make_post_id,
-    merge_posts,
     now_kst_str,
     save_json,
 )
@@ -25,20 +24,15 @@ REDDIT_HEADERS = {
     "User-Agent": "windows:myown-dashboard:v1.0 (by /u/mirage13hy)",
 }
 
-# 시사/정치 대신 일반 시민 화제 + AI/테크 중심 서브레딧
+# 미국·세계 실제 사회 이슈 + 트렌드 + AI/테크 중심 서브레딧
 SUBREDDITS = [
-    ("AskReddit", "r/AskReddit", "미국·일상 여론", 5),
-    ("todayilearned", "r/todayilearned", "글로벌 화제", 5),
-    ("mildlyinteresting", "r/mildlyinteresting", "글로벌 화제", 4),
-    ("LocalLLaMA", "r/LocalLLaMA", "AI·테크", 6),
-    ("artificial", "r/artificial", "AI·테크", 5),
+    ("OutOfTheLoop", "r/OutOfTheLoop", "미국·글로벌 트렌드", 5),
+    ("news", "r/news", "미국 사회·이슈", 5),
+    ("worldnews", "r/worldnews", "세계 주요 이슈", 5),
     ("technology", "r/technology", "AI·테크", 5),
+    ("LocalLLaMA", "r/LocalLLaMA", "AI·테크", 5),
+    ("artificial", "r/artificial", "AI·테크", 4),
 ]
-
-POLITICAL_NOISE = (
-    "trump", "biden", "election", "senate", "congress", "democrat", "republican",
-    "parliament", "minister", "vote", "ballot", "gop", "impeach",
-)
 
 
 def _load_translation_cache() -> dict[str, dict[str, str]]:
@@ -94,15 +88,22 @@ def _translate_to_korean(title: str, body: str) -> tuple[str, str, bool]:
     return title, body, False
 
 
+def _buzz_score(item: dict[str, Any]) -> int:
+    score = int(item.get("score") or 0)
+    cmts = int(item.get("num_comments") or 0)
+    return score + cmts * 2
+
+
 def _fetch_subreddit_arctic(client: httpx.Client, sub: str, limit: int) -> list[dict[str, Any]]:
     now_ts = int(time.time())
     after = now_ts - 86400 * 2
-    before = now_ts - 3600 * 4
-    url = f"https://arctic-shift.photon-reddit.com/api/posts/search?subreddit={sub}&after={after}&before={before}&limit=60"
+    before = now_ts - 3600 * 2
+    url = f"https://arctic-shift.photon-reddit.com/api/posts/search?subreddit={sub}&after={after}&before={before}&limit=100"
     resp = client.get(url)
     resp.raise_for_status()
     rows = resp.json().get("data", [])
-    rows = sorted(rows, key=lambda x: x.get("score", 0), reverse=True)
+    # 1~2일 이내 글 중 추천수 + 댓글수*2 화제성 순 정렬
+    rows = sorted(rows, key=_buzz_score, reverse=True)
 
     items = []
     for d in rows:
@@ -110,8 +111,6 @@ def _fetch_subreddit_arctic(client: httpx.Client, sub: str, limit: int) -> list[
             continue
         title = (d.get("title") or "").strip()
         if not title:
-            continue
-        if sub in ("technology", "AskReddit") and any(pk in title.lower() for pk in POLITICAL_NOISE):
             continue
         permalink = f"https://www.reddit.com{d.get('permalink', '')}"
         selftext = clean_text(d.get("selftext") or "")
@@ -136,8 +135,9 @@ def _fetch_subreddit_arctic(client: httpx.Client, sub: str, limit: int) -> list[
             "url": permalink,
             "author": d.get("author", ""),
             "time": t_str,
-            "likes": d.get("score", ""),
-            "comments": d.get("num_comments", ""),
+            "likes": int(d.get("score") or 0),
+            "comments": int(d.get("num_comments") or 0),
+            "buzz": _buzz_score(d),
             "images": imgs,
         })
         if len(items) >= limit:
@@ -146,7 +146,7 @@ def _fetch_subreddit_arctic(client: httpx.Client, sub: str, limit: int) -> list[
 
 
 def _fetch_subreddit_json(client: httpx.Client, sub: str, limit: int) -> list[dict[str, Any]]:
-    url = f"https://old.reddit.com/r/{sub}/hot.json?limit={limit + 6}"
+    url = f"https://old.reddit.com/r/{sub}/top.json?t=day&limit={limit + 6}"
     resp = client.get(url)
     resp.raise_for_status()
     data = resp.json()
@@ -158,8 +158,6 @@ def _fetch_subreddit_json(client: httpx.Client, sub: str, limit: int) -> list[di
             continue
         title = (d.get("title") or "").strip()
         if not title:
-            continue
-        if sub in ("popular", "technology") and any(pk in title.lower() for pk in POLITICAL_NOISE):
             continue
         permalink = f"https://www.reddit.com{d.get('permalink', '')}"
         selftext = clean_text(d.get("selftext") or "")
@@ -183,41 +181,10 @@ def _fetch_subreddit_json(client: httpx.Client, sub: str, limit: int) -> list[di
             "url": permalink,
             "author": d.get("author", ""),
             "time": t_str,
-            "likes": d.get("score", ""),
-            "comments": d.get("num_comments", ""),
+            "likes": int(d.get("score") or 0),
+            "comments": int(d.get("num_comments") or 0),
+            "buzz": _buzz_score(d),
             "images": imgs,
-        })
-        if len(items) >= limit:
-            break
-    return items
-
-
-def _fetch_subreddit_rss(client: httpx.Client, sub: str, limit: int) -> list[dict[str, Any]]:
-    url = f"https://old.reddit.com/r/{sub}/.rss"
-    resp = client.get(url)
-    resp.raise_for_status()
-    feed = feedparser.parse(resp.text)
-    items = []
-    for entry in feed.entries:
-        title = (entry.get("title") or "").strip()
-        if not title:
-            continue
-        if sub in ("popular", "technology") and any(pk in title.lower() for pk in POLITICAL_NOISE):
-            continue
-        link = entry.get("link", "")
-        raw_html = entry.get("summary", "") or (entry.get("content", [{}])[0].get("value", "") if entry.get("content") else "")
-        body = clean_text(BeautifulSoup(raw_html, "lxml").get_text("\n")) if raw_html else ""
-        published = entry.get("published", "")[:16].replace("T", " ")
-        items.append({
-            "id": make_post_id(f"reddit_{sub}", link),
-            "title_orig": title,
-            "body_orig": body,
-            "url": link,
-            "author": entry.get("author", ""),
-            "time": published,
-            "likes": "",
-            "comments": "",
-            "images": [],
         })
         if len(items) >= limit:
             break
@@ -227,7 +194,7 @@ def _fetch_subreddit_rss(client: httpx.Client, sub: str, limit: int) -> list[dic
 def run() -> dict[str, Any]:
     trans_cache = _load_translation_cache()
     prev_by_source = load_previous_posts("reddit.json")
-    all_posts: list[dict[str, Any]] = []
+    by_sub: list[list[dict[str, Any]]] = []
     source_status: dict[str, str] = {}
 
     with httpx.Client(headers=REDDIT_HEADERS, timeout=12.0, follow_redirects=True) as client:
@@ -243,7 +210,7 @@ def run() -> dict[str, Any]:
                 except Exception as exc:
                     cached = prev_by_source.get(label, [])
                     if cached:
-                        all_posts.extend(cached)
+                        by_sub.append(cached)
                         source_status[label] = f"cached ({len(cached)}, {type(exc).__name__})"
                     else:
                         source_status[label] = f"error: {type(exc).__name__}"
@@ -259,13 +226,16 @@ def run() -> dict[str, Any]:
                 else:
                     t_ko, b_ko, translated = _translate_to_korean(item["title_orig"], item["body_orig"])
                     if translated:
-                        time.sleep(0.5)
+                        time.sleep(0.4)
 
-                full_content = (
-                    f"{b_ko}\n\n---\n[원문 제목] {item['title_orig']}"
-                    if b_ko
-                    else f"[원문 제목] {item['title_orig']}"
-                )
+                # 캐시된 번역에 이미 원문 제목이 포함되어 있으면 중복 방지
+                if "[원문 제목]" in b_ko:
+                    full_content = b_ko
+                elif b_ko:
+                    full_content = f"{b_ko}\n\n---\n[원문 제목] {item['title_orig']}"
+                else:
+                    full_content = f"[원문 제목] {item['title_orig']}"
+
                 built.append({
                     "id": pid,
                     "source": label,
@@ -280,15 +250,22 @@ def run() -> dict[str, Any]:
                     "images": item["images"],
                     "translated": translated,
                 })
-            all_posts.extend(built)
+            by_sub.append(built)
             source_status[label] = f"ok ({len(built)}, {mode})"
-            time.sleep(0.8)
+            time.sleep(0.5)
 
-    merged = merge_posts(all_posts, prev_by_source, max_total=120)
+    # 각 서브레딧의 화제성 상위 글이 골고루 보이도록 교차 배치
+    interleaved: list[dict[str, Any]] = []
+    max_len = max((len(lst) for lst in by_sub), default=0)
+    for idx in range(max_len):
+        for lst in by_sub:
+            if idx < len(lst):
+                interleaved.append(lst[idx])
+
     payload = {
         "updated_at": now_kst_str(),
         "source_status": source_status,
-        "posts": merged,
+        "posts": interleaved,
     }
     save_json("reddit.json", payload)
     return payload
