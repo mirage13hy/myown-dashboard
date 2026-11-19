@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 05:59",
+  "updated_at": "2026-11-19 11:54",
   "source_status": {
     "루리웹 예판·핫딜": "ok (10)",
     "루리웹 콘솔뉴스": "ok (10)",
@@ -26,80 +26,29 @@
       ]
     },
     {
-      "id": "ruli_9466af99a1db",
+      "id": "ruli_7150983a2679",
       "source": "루리웹 예판·핫딜",
       "category": "할인·예판",
-      "title": "[네이버페이] 일일적립, 클릭 38원, 라이브예고 13원",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109156",
+      "title": "[지마켓] 동원 개성 교자 만두 1.2kg × 4봉 17,900원 (무배...",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109162",
       "author": "",
-      "time": "02:25",
-      "likes": "64",
-      "comments": "",
-      "content": "클릭적립 합계 38원\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=pointdraw_benefit_261119\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=pointdraw_moneycardY_261119\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=pointdraw_global_china_261119\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=cr_pointdraw_261119_1217\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=cr_pointdraw_261119_1277\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=cr_2026111904_2611_03_1047\n라이브 예고 적립 합계 13원\nhttps://external-token.pay.naver.com/entry/pincrux?gd=ab8e18ef4ebebeddc0b3152ce9c9006e14fc05242e3fc9ce32246ea6a9543074\n일일적립\n마이카 방문 혜택\nhttps://mycar.naver.com/\n포인트뽑기 토스트 적립 (여기 누르면 ?원 클릭)\nhttps://home.pay.naver.com\n결제홈 깜짝 방문 (10원+5원, 스크롤 15초 유지, 월 5회 제한)\nhttps://new-m.pay.naver.com/historybenefit/home\n클릭 미션 (자정 초기화, 초록색 클릭버튼)\nhttps://point.pay.naver.com/pc/main?category=quickreward\n네이버페이 보험 방문 미션 (자정 초기화)\nhttps://insurance.pay.naver.com/?inflow=point_category\n네이버페이 운세 (1원, 자정 초기화)\nhttps://ofw.adison.co/u/naverpay/ads/730013\n제주항공 (모바일 적립 12원, 08시 초기화)\nhttps://ofw.adison.co/u/naverpay/ads/889076\n가장 빠른 즉시적립 혜택 보기 (1원, 10시 초기화)\nhttps://ofw.adison.co/u/naverpay/ads/67823\n브랜드뽑기 후 결제하러 가기 클릭 (10원, 14시 초기화)\nhttps://campaign2.naver.com/npay/branddraw/?from=pointtab\n직링 적립 실패 시 네이버페이->즉시적립에서 직접 받아주세요\nhttps://point.pay.naver.com/pc/mission-detail?dataType=category&rank=18&pageKey=quickreward\n반코이님이 늦으시는거 같아서 오랬만에 한번 올려봅니다",
-      "images": []
-    },
-    {
-      "id": "ruli_de589fa713d5",
-      "source": "루리웹 예판·핫딜",
-      "category": "할인·예판",
-      "title": "[오늘의집]닌텐도 스위치2 타이틀 제노블레이드 크로니클스2 62,620원...",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109149",
-      "author": "",
-      "time": "2026.11.18",
-      "likes": "11",
-      "comments": "",
-      "content": "오늘의집 선착순쿠폰링크\nhttps://events.ohou.se/promotion-pages/big-promotion?owap=true&webviewType=page\n오늘의집 쿠폰 받기\n닌텐도 스위치 2 젤다의 전설 시간의 오카리나 78,000원\nhttps://store.ohou.se/goods/4244453\n스위치2 제노블레이드 크로니클스2 62,620원\nhttps://store.ohou.se/goods/4321681\n스위치2 파이어엠블렘 만자천홍 78,900원\nhttps://store.ohou.se/goods/4187633.\n최신 타이틀만 적었습니다 다른 타이틀들은 찾아서 구매하시기 바랍니다\nhttps://store.ohou.se/brands/15717?affect_id=4187633&affect_type=ProductSaleDetail&query=%EB%8B%8C%ED%85%90%EB%8F%84",
-      "images": [
-        "https://img2.quasarzone.com/editor/2026/11/17/c738e3d086245901d47bc884b4734afe.webp"
-      ]
-    },
-    {
-      "id": "ruli_42847a9e1b69",
-      "source": "루리웹 예판·핫딜",
-      "category": "할인·예판",
-      "title": "[공차] 해리포터 콜라보 메뉴 & 굿즈 출시 (11/18~12/31)",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109146",
-      "author": "",
-      "time": "2026.11.18",
-      "likes": "13",
-      "comments": "",
-      "content": "콜라보 음료의 가격은 6300원입니다.\n콜라보 메뉴를 구입할시 콜라보 굿즈가 할인되며 기숙사 코스터(컵받침)도 준다고 합니다.",
-      "images": [
-        "https://i3.ruliweb.com/img/26/11/18/1a1edd8e6231874ce.webp",
-        "https://i3.ruliweb.com/img/26/11/18/1a1edd8f7b71874ce.webp"
-      ]
-    },
-    {
-      "id": "ruli_4c4d7eb8486e",
-      "source": "루리웹 예판·핫딜",
-      "category": "할인·예판",
-      "title": "[대형마트] 롯데마트&이마트&GS더프레시&킴스클럽 이번주 전단(11/19...",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109141",
-      "author": "",
-      "time": "2026.11.18",
+      "time": "08:03",
       "likes": "14",
       "comments": "",
-      "content": "롯데마트/이마트 행사는 목요일부터 시작됩니다\nGS더프레시/킴스클럽 행사는 오늘부터 시작됩니다.\n홈플러스는 여러 물품을 할인하는것 같은데 전단은 아직도 확인되지 않았습니다.\n혹시 추가되면 올리겠습니다.\n-롯데마트\n+이마트\n-GS더프레시\n-킴스클럽",
+      "content": "가격 좋아 보여서 공유 드립니다\n오늘 12시까지 할인인 듯하네요",
       "images": [
-        "https://i2.ruliweb.com/img/26/11/18/1a1ed0e47601874ce.webp",
-        "https://i1.ruliweb.com/img/26/11/18/1a1ed0e55d91874ce.webp",
-        "https://i3.ruliweb.com/img/26/11/18/1a1ed0e640b1874ce.webp",
-        "https://i1.ruliweb.com/img/26/11/18/1a1ed0e72931874ce.webp",
-        "https://i3.ruliweb.com/img/26/11/18/1a1ed0e80981874ce.webp",
-        "https://i2.ruliweb.com/img/26/11/18/1a1ed0e8ef61874ce.webp",
-        "https://i2.ruliweb.com/img/26/11/18/1a1ed0e9e571874ce.webp",
-        "https://i2.ruliweb.com/img/26/11/18/1a1ed0eae4a1874ce.webp"
+        "https://i2.ruliweb.com/img/26/11/19/1a1f0e5e2274f06ca.webp"
       ]
     },
     {
       "id": "ruli_533cdcf98353",
       "source": "루리웹 예판·핫딜",
       "category": "PC·스팀",
-      "title": "[스팀] 파이널 판타지 7 인터그레이드/ 8,960원(1)",
+      "title": "[스팀] 파이널 판타지 7 인터그레이드/ 8,960원",
       "url": "https://bbs.ruliweb.com/market/board/1020/read/109159",
-      "author": "에이다웡",
+      "author": "",
       "time": "05:49",
-      "likes": "2",
+      "likes": "20",
       "comments": "",
       "content": "파이널 판타지 7 리메이크 인터그레이드 / 8,960원\nhttps://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/\n파이널 판타지 7 리버스 / 9,420원\nhttps://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/",
       "images": [
@@ -110,11 +59,11 @@
       "id": "ruli_ed1a93d5342b",
       "source": "루리웹 예판·핫딜",
       "category": "할인·예판",
-      "title": "[네이버페이] 라방 랜덤 5원(1)",
+      "title": "[네이버페이] 라방 랜덤 5원",
       "url": "https://bbs.ruliweb.com/market/board/1020/read/109158",
-      "author": "후히",
+      "author": "",
       "time": "04:14",
-      "likes": "5",
+      "likes": "18",
       "comments": "",
       "content": "라이브방송\nhttps://external-token.pay.naver.com/entry/pincrux?gd=ab8e18ef4ebebeddc0b3152ce9c9006e14fc05242e3fc9ce32246ea6a9543074\n일정표에 올라온 기준으로 작성\n금일 라이브일정\n오전\n10시 1개\n11시 5개\n오후\n2시 1개\n6시 1개\n7시 4개\n8시 1개",
       "images": []
@@ -123,11 +72,11 @@
       "id": "ruli_32b58fb76fda",
       "source": "루리웹 예판·핫딜",
       "category": "PlayStation",
-      "title": "[플스] 플스 기프트 카드 10만원권 92000원(2)",
+      "title": "[플스] 플스 기프트 카드 10만원권 92000원",
       "url": "https://bbs.ruliweb.com/market/board/1020/read/109157",
-      "author": "모자걸하실분",
+      "author": "",
       "time": "03:00",
-      "likes": "4",
+      "likes": "9",
       "comments": "",
       "content": "엄청난 핫딜 그런건 아니지만\n혹시 GTA6 플스로 플레이하실분들은\n조금이라도 저렴하게 구매하셨으면해서 올려봤어요",
       "images": [
@@ -136,196 +85,312 @@
       ]
     },
     {
-      "id": "ruli_759118abebba",
+      "id": "ruli_ba0128bda06d",
       "source": "루리웹 예판·핫딜",
       "category": "할인·예판",
-      "title": "[카카오톡]메가커피 아이스 아메리카노 (1,600원/무료)",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109155",
-      "author": "berserkfan",
-      "time": "01:46",
+      "title": "[아마존] 9100 PRO 2TB 397.99달러",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109171",
+      "author": "lionen",
+      "time": "11:23",
+      "likes": "2",
+      "comments": "",
+      "content": "[아마존] 9100 PRO 2TB 397.99달러\nhttps://a.co/d/0hJRuYr0\n직배 가능합니다\n제가 구매했을때 보다 2달러 하락함\n관세는 한번에 결제하시는게 좋습니다.\n추가 관세비 붙어서 비용청구 안되며,\n금액이 작을 경우 차지백 됩니다\n현존 끝판왕\nM.2 Nvme SSD PCle 5.0\n미마존이라 MRA 난이도가 높진 않습니다.\n국내 대비 많이 저렴하니 필요하신 분 구매하세요.\n독마존 사건도 있으니 직구하실 때 참고하세요.\n아마존 공식 셀러 아니면 품절이니 구매하시면 안됩니다",
+      "images": [
+        "https://i3.ruliweb.com/img/26/11/19/1a1f1a25c061a14bc.webp"
+      ]
+    },
+    {
+      "id": "ruli_14d49a8d2624",
+      "source": "루리웹 예판·핫딜",
+      "category": "할인·예판",
+      "title": "[롯데온] 가제연 오렌지라벨 순살 고등어 550g 3개 (36,510원/...(3)",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109170",
+      "author": "코스코수",
+      "time": "11:17",
       "likes": "1",
       "comments": "",
-      "content": "아메리카노 20% 그외 23%까지 할인됩니다\nhttps://gift.kakao.com/brand/5429?input_channel_id=2636",
+      "content": "오렌지라벨이 먹기 적당한 사이즈라 좋더라고요\n노르웨이산 고등어 가시없는거고 총 3팩 배송와요",
       "images": [
-        "https://i3.ruliweb.com/img/26/11/19/1a1ef76a38b5d693.webp"
+        "https://i3.ruliweb.com/img/26/11/19/1a1f197f3da5824bf.webp"
       ]
     },
     {
-      "id": "ruli_258bd9c19a06",
-      "source": "루리웹 콘솔뉴스",
+      "id": "ruli_50fae6c94557",
+      "source": "루리웹 예판·핫딜",
       "category": "PlayStation",
-      "title": "GTA 6에서 수배 6성에 도달하는 방법",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366716",
-      "author": "컵머리",
-      "time": "05:39",
+      "title": "[지마켓] ps5 콜 오브 듀티 모던 워페어4 /88900/2500(2)",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109169",
+      "author": "All Lucky",
+      "time": "11:09",
       "likes": "3",
       "comments": "",
-      "content": "새로운 최고 수배 단계에 도달하면 어떤 일이 벌어지는지도 알아본다.\n핵심 내용\n- 수배 6성에 도달하려면 대규모 파괴와 인명 피해를 일으켜야 한다.\n- 우리가 실제로 수배 6성에 도달할 수 있었던 방법은 전차를 훔쳐 주변을 파괴하는 것이었다.\n- 일단 6성이 되면 더 이상 추적 상태인 ‘Heat’를 해제할 수 없다. 경찰과 군대는 추격을 멈추지 않는다.\nGTA 6의 새로운 수배 시스템에서 6성은 게임 내에서 도달할 수 있는 최고 수배 단계다. 여기에 도달할 만큼 많은 경찰과 군인을 죽이면 ‘범죄자 프로필’에도 상당한 영향을 미칠 가능성이 높다. 범죄자 프로필은 사실상 이 게임에서 레드 데드 리뎀션 2의 명예 시스템에 해당하는 요소다.\n전작들과 마찬가지로 공항에 무단 침입해 여객기를 훔치거나, 군사기지에 들어가 장갑차(APC)를 탈취하는 등의 행동을 하면 높은 수배 단계에 도달하게 된다. 그리고 늘 그랬듯이, 수배 5성이 되면 전차가 출동한다.\n하지만 수배 6성까지 올라가려면 대규모 파괴와 인명 피해를 일으켜야 한다. 우리가 GTA 6에서 실제로 6성에 도달할 수 있었던 방법은 군사기지에서 전차를 훔친 뒤 다른 전차와 차량들을 폭파하는 것뿐이었다.\n다만 다음 사항은 반드시 기억해야 한다.\n- 수배 6성이 되면 더 이상 Heat나 수배 단계를 해제할 수 없다.\n도망칠 수는 있어도 숨을 수는 없다. 일단 6성이 되면 경찰은 추격을 절대 멈추지 않기 때문이다. 사실상 이 상황에서 벗어나는 유일한 방법은 죽는 것이라는 뜻이다. 또한 그 과정에서 수많은 경찰을 죽이는 행동이 범죄자 프로필에 매우 큰 영향을 미칠 수 있다는 점도 고려해야 한다.",
+      "content": "",
       "images": [
-        "https://i1.ruliweb.com/img/26/11/19/1a1f0619bab4a9a1c.webp"
+        "https://i1.ruliweb.com/img/26/11/19/1a1f190e5fe1312e6.webp"
       ]
     },
     {
-      "id": "ruli_7a04e78ef25e",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "GTA 6 플스 PRO , 노말 비교 , DLSS5 비교",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366715",
-      "author": "루리웹-912735355120",
-      "time": "04:22",
-      "likes": "5",
+      "id": "ruli_af06b41f0d16",
+      "source": "루리웹 예판·핫딜",
+      "category": "할인·예판",
+      "title": "[닌텐도] NS2 몬스터헌터 와일즈 세트 예약 (778,000원)(4)",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109168",
+      "author": "이토 시즈카",
+      "time": "10:49",
+      "likes": "2",
       "comments": "",
-      "content": "이미지 클릭시 확대\n노말 반사 하옵션\n노말 세부 그림자 OFF\n(철창 그림자)\nPS5 프로 + 5070ti + 베이라 60프레임 + 엘가토 프로 캡쳐보드 세팅\nPS5 프로 원본 30프레임\nDLSS5 + 60프레임",
+      "content": "https://store.nintendo.co.kr/70010000102606\nhttps://smartstore.naver.com/yepanrun/products/13881173525\nhttps://smartstore.naver.com/cometostore/products/13882211191\nhttps://smartstore.naver.com/top/products/13882294026\nhttps://smartstore.naver.com/playswitch/products/13881862716\nhttps://smartstore.naver.com/gametouchmall/products/13881951957\nhttps://smartstore.naver.com/gammac/products/13882262473\nhttps://smartstore.naver.com/aidermall/products/13882309204\nhttps://www.yes24.com/product/goods/201262190\n※ 본 상품은「Nintendo Switch 2」본체와 『Monster Hunter Wilds』 다운로드 버전,\n그리고 Nintendo Switch Online 개인 플랜 3개월(90일간)\n이용권으로 구성된 세트 상품입니다.\n발매일: 2026년 12월 4일 (금)\n■ 희망소비자가격: 778,000원\n■ 세트 내용\n・Nintendo Switch 2 본체\n・Joy-Con™ 2 (L)과 Joy-Con™ 2 (R)\n・Joy-Con 2 그립\n・Joy-Con 2 스트랩\n・Nintendo Switch 2 독\n・초고속 HDMI® 케이블\n・Nintendo Switch 2 AC 어댑터 · USB-C® 충전 케이블\n・『Monster Hunter Wilds』다운로드 버전\n・Nintendo Switch Online 개인 플랜 3개월(90일간) 이용권\n※ 구입하시는 상품 가격 총합이 3만원 이상일 경우, 배송비는 한국닌텐도에서 부담합니다.\n※ 구입하신 제품은 결제일 이후 2~3일 이내에 발송되며, 공휴일이나 당사의 휴무일에는 발송되지 않습니다.\n※ 모든 제품은 포장이 심하게 훼손되거나 포장재가 분실되었을 경우, 반품이 불가능할 수도 있으니 주의해 주십시오.\n※본 상품은 다운로드 소프트웨어 및 추가 콘텐츠와 함께 구매할 수 없으며, 예약판매 기간 중 Nintendo Switch 2 관련 실물 상품 외 일부 상품과는 함께 구입이 어려울 수 있습니다.\n※ 12월 2일(수)까지 결제 완료된 예약 구입 건에 대해서는 12월 4일(금) 도착으로 배송될 예정이며,\n12월 3일(목) 이후 결제 완료된 예약 구입 건에 대해서는 12월 4일(금) 이후 순차 배송 됩니다.\n『Nintendo Switch 2 Monster Hunter Wilds 세트』의 예약 판매가 시작되었습니다.  Nintendo Switch 2 본체와 『Monster Hunter Wilds』의 Standard Edition 다운로드 버전, 그리고 Nintendo Switch Online 개인 플랜 3개월(90일간) 이용권이 포함되어 있는 세트 상품을 합리적인 가격 778,000원에 구매하실 수 있습니다.\n※닌텐도 e숍에서의 다운로드가 필요합니다. 소프트웨어를 처음 기동할 때에는 인터넷 접속 환경과 성인(19세가 되는 해의 1월 1일부터 해당)의 닌텐도 어카운트가 필요합니다.\nNintendo Switch 2 Monster Hunter Wilds 세트 자세히 보기\n※ 예약 실시 여부에 대해서는 판매처에 확인을 바랍니다. 판매처에 따라 예약 일정이 다를 수 있습니다.\n각 판매처에 대한 정보는 아래에서 확인해 주세요.\n오프라인\n대원샵(아이파크몰 용산점, 더현대 대구, 현대프리미엄아울렛 송도점, 롯데백화점 부산본점), 전국 게임 전문점(일부 점포 제외)\n온라인\nNintendo Store, 닌텐도 브랜드관(G마켓, 옥션, 11번가, SSG.COM), 롯데홈쇼핑, YES24 , 신세계라이브쇼핑, 29CM, 토이저러스몰, 카카오톡 선물하기, 카카오톡 톡딜, 예판넷, 컬리, 하이마트 온라인\nNintendo Switch 2 Monster Hunter Wilds\nNintendo Switch 2 Monster Hunter Wilds 세트",
       "images": [
-        "https://i2.ruliweb.com/img/26/11/19/1a1f01bd80353d19c.webp",
-        "https://i1.ruliweb.com/img/26/11/19/1a1f01c266753d19c.webp",
-        "https://i1.ruliweb.com/img/26/11/19/1a1f01c283853d19c.webp",
-        "https://i1.ruliweb.com/img/26/11/19/1a1f01c2a1e53d19c.webp",
-        "https://i1.ruliweb.com/img/26/11/19/1a1f01c4b3153d19c.webp",
-        "https://i2.ruliweb.com/img/26/11/19/1a1f01c4ce453d19c.webp",
-        "https://i3.ruliweb.com/img/26/11/19/1a1f01c4ef853d19c.webp",
-        "https://i2.ruliweb.com/img/26/11/19/1a1f01c5e1053d19c.webp"
+        "https://i1.ruliweb.com/img/26/11/19/1a1f17d07f1137dbd.webp",
+        "https://i2.ruliweb.com/img/26/11/19/1a1f17de226137dbd.webp",
+        "https://i2.ruliweb.com/img/26/11/19/1a1f18377e9137dbd.webp"
       ]
     },
     {
-      "id": "ruli_007b32873f52",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "메타크리틱 최상위 순위 변동",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366714",
-      "author": "리버휘닉스",
-      "time": "04:11",
-      "likes": "8",
+      "id": "ruli_590891e1aae4",
+      "source": "루리웹 예판·핫딜",
+      "category": "할인·예판",
+      "title": "[맥도날드앱] 맥크리스피 고추장 버터 콤보 7천원 (11/19~22)(3)",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109167",
+      "author": "아타호-_-",
+      "time": "10:47",
+      "likes": "1",
       "comments": "",
-      "content": "메타크리틱은 소수점 1자리를 반올림 하여 점수를 책정\n같은 점수라도 소수점이 존재햐여 이에 따라 순위가 매겨짐.\n1위 GTA6\n리뷰\n147개\n에 99점.\n.\n﻿\n2위 젤다 시간의 오카리나(1998) 리뷰\n22개\n99점.\n3위 소울칼리버1 드림캐스트판. 리뷰 24개 98점.\n4위 슈퍼마리오 갤럭시2 리뷰 87개 98점.\nGTA4 리뷰 86개에 98점.",
+      "content": "다음주 수요일 단종되기 전 마지막으로 진행하는 행사입니다.\n일반적인 판매가는 다음과 같습니다.",
       "images": [
-        "https://i3.ruliweb.com/img/26/11/19/1a1f00dd52c4b2497.webp",
-        "https://i1.ruliweb.com/img/26/11/19/1a1f00d6c794b2497.webp",
-        "https://i3.ruliweb.com/img/26/11/19/1a1f00d6e684b2497.webp",
-        "https://i2.ruliweb.com/img/26/11/19/1a1f00d70594b2497.webp",
-        "https://i3.ruliweb.com/img/26/11/19/1a1f00d725c4b2497.webp",
-        "https://i1.ruliweb.com/img/26/11/19/1a1f00d744f4b2497.webp"
+        "https://i1.ruliweb.com/img/26/11/19/1a1f17ae00b1874ce.webp",
+        "https://i3.ruliweb.com/img/26/11/19/1a1f17b121e1874ce.webp",
+        "https://i3.ruliweb.com/img/26/11/19/1a1f17b21a11874ce.webp"
       ]
     },
     {
-      "id": "ruli_a11c01f847de",
+      "id": "ruli_47a1c548cf1a",
       "source": "루리웹 콘솔뉴스",
       "category": "PlayStation",
-      "title": "레이맨 레전드 리톨드 - BTS 다이너마이트 뮤지컬 맵 트레일러",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366713",
-      "author": "민초맛돈까스",
-      "time": "03:13",
-      "likes": "4",
+      "title": "하늘의 궤적 the 2nd 찬사 트레일러",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366746",
+      "author": "nokcha",
+      "time": "11:33",
+      "likes": "6",
+      "comments": "",
+      "content": "평론가들로부터 \"완벽하다\"는 극찬을 받은 RPG 어드벤처를 경험해 보세요:\n🌟더 게임 어워드 최우수 RPG 부문 후보\n🌟골든 조이스틱스 최우수 리메이크/리마스터 부문 후보\n🌟메타크리틱 추천 게임",
+      "images": []
+    },
+    {
+      "id": "ruli_7dcac69d571c",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "낙원추방 -The Stellar Angel- 초반 플레이 영상",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366745",
+      "author": "이토 시즈카",
+      "time": "11:31",
+      "likes": "",
       "comments": "",
       "content": "",
       "images": []
     },
     {
-      "id": "ruli_ade20f33d330",
+      "id": "ruli_12ce1d675708",
       "source": "루리웹 콘솔뉴스",
       "category": "PlayStation",
-      "title": "위쳐3 송즈 오브 더 패스트 한국어 더빙 게임플레이 및 위쳐4 디렉터 인...",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366712",
+      "title": "GTA6, XSX PS5 비슷하지만 PS5가 액션 장면에서 조금 더 안정...",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366744",
+      "author": "루리웹-5924911255",
+      "time": "11:22",
+      "likes": "10",
+      "comments": "",
+      "content": "락스타는 GTA 6가 두 콘솔 모두에서 1440p 해상도를 4K로 업스케일링하여 30fps로 실행된다고 밝혔습니다. 하지만 디지털 파운드리는 시리즈 X가 대규모 전투에서 프레임 드롭이 약간 발생하는 것을 발견했습니다. 시리즈 S가 약점으로 꼽혔습니다.\n간신히 차이가 납니다. 락스타 게임즈는 그랜드 테프트 오토 VI가 Xbox Series X와 일반 PS5에서 동일한 해상도와 초당 30프레임으로 실행된다고 밝혔으며, 디지털 파운드리의 출시 전날 테스트 결과 PS5는 가장 혼란스러운 장면에서 약간 더 나은 성능을 보이는 것으로 나타났습니다. Xbox Series X를 소유하고 있다면 11월 19일 목요일 출시일에 게임을 즐기기에 전혀 문제가 없습니다. 확실히 뒤처지는 콘솔은 더 저렴한 Xbox Series S입니다.\n락스타가 각 콘솔에 대해 확정한 내용은 다음과 같습니다.\n락스타의 기술팀은 수요일에 공개된 인터뷰에서 각 기기별 해상도와 업스케일링에 대해 설명했으며, 이 내용은 iXBT.games 와 AltChar 에서 보도했고 , 해당 인터뷰의 출처는 Wccftech라고 밝혔습니다.\nXbox Series X: 1440p로 렌더링되며 락스타 자체의 시간적 안티앨리어싱(TAA)을 통해 4K로 업스케일링됩니다.\nPS5: 완전히 동일하며, 락스타의 TAA(Task-Anti-Adaptive) 기술을 적용하여 1440p 해상도를 4K로 업스케일링한 것입니다.\nPS5 Pro: 소니의 PSSR 2 업스케일러를 사용하여 1440p 해상도를 4K로 업스케일링했습니다.\nXbox Series S는 720p로 렌더링되며 AMD의 FSR 4를 통해 1080p로 업스케일링됩니다.\n모든 콘솔은 프레임 속도가 30fps로 제한되어 있으며, iXBT.games 의 보도에 따르면 이는 개발 초기 단계에서 결정된 사항입니다. PS5 Pro를 포함한 모든 콘솔에서 40fps 또는 60fps 모드는 지원되지 않습니다. 모든 플랫폼에서 레이 트레이싱 기반의 전역 조명이 사용되며, 게임 자체의 렌더링 해상도와 관계없이 메뉴와 화면 표시는 모든 버전에서 4K 해상도로 제공됩니다.\nSeries X의 실제 테스트 성능은 어땠을까요?\nDigital Foundry의 올리버 맥켄지는 Xbox Series X에서 약 45시간 동안 게임을 플레이해 본 결과, 대부분의 시간 동안 안정적인 30fps를 유지한다고 AltChar 가 보도했습니다 . 빠른 추격전, 충돌, 대규모 총격전에서는 프레임률이 20fps 후반대로 떨어지고, 혼잡한 공공장소에서 가장 격렬한 전투가 벌어질 때는 최악의 경우 20fps까지 내려간다고 WindowsForum 에 게재된 Digital Foundry의 조사 결과 요약에서 밝혔습니다.\n지금까지 가장 근접한 성능 비교는 같은 바이스 시티 거리에서 이루어졌습니다. AltChar 의 보도에 따르면, 기본 PS5는 차량 파괴 테스트에서 23fps를 기록했고, 시리즈 X는 경찰 총격전에서 21fps를 기록했습니다. 해당 기사의 부제목에는 시리즈 X의 프레임 속도가 22fps로 나와 있으므로 정확한 수치는 대략적인 값으로 간주해야 합니다. Digital Foundry는 두 기종의 성능 차이에 대해 간략하게 다음과 같이 평가했습니다.\n차이는 크지 않아요.\n두 테스트는 서로 다른 스트레스 테스트였으며, 두 기기에서 동일한 장면을 캡처한 것이 아니므로 정확한 순위를 매기기보다는 두 콘솔의 성능이 비슷하다는 것을 보여줍니다.\nXbox Series X 소유자가 켤 수 있는 단 한 가지 기능\nAltChar 에 따르면 Digital Foundry의 연구 결과, TV가 가변 주사율(VRR)을 지원하는 경우 Xbox의 출력 주사율을 120Hz로 설정하고 VRR을 켜면 프레임 드롭 현상이 완화되고 화면 끊김 현상이 덜 두드러진다고 합니다. 하지만 이 설정은 프레임률을 30 이상으로 높이지는 않으며, 입력 지연 시간도 크게 줄여주지는 않습니다. Digital Foundry는 입력 지연 시간을 약 180밀리초로 측정했다고 WindowsForum이 보도했습니다. 이 설정은 게임 내 설정이 아닌 Xbox의 디스플레이 옵션에서 변경할 수 있습니다.\nPS5 Pro와 Xbox Series S의 위치는 어디일까요?\nPS5 Pro는 네 가지 모델 중 가장 안정적입니다. Digital Foundry는 50시간 이상 테스트를 진행한 결과 일반적인 게임 플레이에서 프레임 저하 현상을 전혀 발견하지 못했으며, 폭발 장면이 많은 테스트에서도 순간적으로 24fps까지 떨어졌다가 곧바로 회복되었다고 AltChar는 보도했습니다. 또한, 기본 PS5에는 없는 레이 트레이싱 그림자 기능이 추가되었습니다. PS5 Pro와 일반 PS5의 차이점에 대한 자세한 내용은 다음에서 확인할 수 있습니다 .\nXbox Series S는 약점으로 작용합니다. Digital Foundry는 일반적인 게임 플레이에서도 프레임 속도가 30fps 아래로 떨어지는 경우가 많으며, 장시간 동안 20fps 중반대에 머무른다고 지적했습니다. WindowsForum 에 따르면 Mackenzie는 \"심각한 프레임 속도 문제\"가 있다고 설명했습니다. 레이 트레이싱 조명은 유지되지만, 반사가 부드러워지고 그림자 품질이 저하되며 오브젝트가 갑자기 나타나는 현상이 더 심해졌습니다. iXBT.games 에 따르면 Rockstar 개발팀은 Series S의 메모리 용량 내에서 이러한 조명 효과를 구현하는 것이 특히 어려웠다고 밝혔습니다 .\nGTA 6를 위해 콘솔을 바꿔야 할까요?\n공개된 테스트 결과에 따르면, Xbox Series X 사용자가 일반 PS5로 업그레이드해도 얻는 이점은 미미합니다. 해상도와 프레임률 제한은 동일하며, 가장 부하가 큰 장면에서는 프레임 드롭이 몇 프레임 정도 발생할 뿐입니다. 안정적인 성능과 더욱 선명한 화면을 원한다면 PS5 Pro로 업그레이드하는 것이 훨씬 효과적입니다. 만약 아직 Xbox One을 사용하고 있다면, 이 게임은 Xbox One용으로 제작된 것이 아니지만, Xbox One에서도 클라우드 게임 서비스를 이용할 수 있습니다 .\n우리가 모르는 것\nRockstar는 Series S에 탑재된 AMD의 FSR 4 대신 Series X가 Rockstar의 TAA를 사용하는 이유에 대해 설명하지 않았다고 AltChar는 지적했습니다.\n네 가지 버전의 장면별 차이점을 살펴보겠습니다. Digital Foundry의 전체 4개 콘솔 비교 보고서는 \"다음 주쯤\"에 공개될 예정 이라고 AltChar가 보도했습니다.\n추후 패치가 콘솔 성능에 어떤 변화를 가져올지는 미지수입니다.\nGTA 6 출시일을 손꼽아 기다리고 계신다면, GTA 6의 출시일과 플랫폼 정보를 알려드립니다 .",
+      "images": []
+    },
+    {
+      "id": "ruli_a8a3869365af",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "한국닌텐도, 닌텐도 스위치 2 셀렉트 원 세트 소개 영상",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366743",
+      "author": "이토 시즈카",
+      "time": "11:15",
+      "likes": "2",
+      "comments": "",
+      "content": "",
+      "images": []
+    },
+    {
+      "id": "ruli_a43167e6ff3d",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "라노벨 원작 '탐정은 이미 죽었다.' 게임 2027년 발매 결정",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366742",
       "author": "nokcha",
-      "time": "02:48",
+      "time": "11:13",
+      "likes": "",
+      "comments": "",
+      "content": "라노벨 원작 '탐정은 이미 죽었다.' 게임 2027년 발매 결정\n장르: 주인공 휘말림형 추리 어드벤처 게임\n대응 기종: Nintendo Switch™\n메이커: 주식회사 타이토",
+      "images": [
+        "https://i2.ruliweb.com/img/26/11/19/1a1f19122ca242da.webp",
+        "https://i3.ruliweb.com/img/26/11/19/1a1f19124aa242da.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1f1912688242da.webp",
+        "https://i2.ruliweb.com/img/26/11/19/1a1f1912889242da.webp",
+        "https://i2.ruliweb.com/img/26/11/19/1a1f1912a87242da.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1f1912c73242da.webp",
+        "https://i3.ruliweb.com/img/26/11/19/1a1f1913450242da.webp",
+        "https://i2.ruliweb.com/img/26/11/19/1a1f1913611242da.webp"
+      ]
+    },
+    {
+      "id": "ruli_6dd7de1de8c0",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "메타크리틱 최상위 순위 시간의 오카리나 1등에서 2등으로 변동",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366741",
+      "author": "JW's",
+      "time": "11:08",
+      "likes": "5",
+      "comments": "",
+      "content": "메타크리틱은 소수점 반올림 하여 점수를 책정\n같은 점수라도 소수점이 존재함 이에 따라 순위 결정\n1위 GTA6 리뷰 147개에 99점\n2위 젤다 시간의 오카리나(1998) 리뷰 22개 99점",
+      "images": [
+        "https://i3.ruliweb.com/img/26/11/19/1a1f18bc00848ea63.webp"
+      ]
+    },
+    {
+      "id": "ruli_74c48feb41d4",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "루머: 페르소나 6 더 게임 어워드 2026 공개 vs 2027년 공개",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366740",
+      "author": "Winter Love",
+      "time": "11:06",
+      "likes": "1",
+      "comments": "",
+      "content": "루머: 페르소나 6 공개일 예상\n1. 2026년 12월에 열리는 더 게임 어워드 2026에서 공개\n이유: 페르소나 4 리바이벌이 도메인 업데이트 한달 후 공개\n이유: 11월 페르소나 6 도메인 업데이트 한달 후 더 게임 어워드 2026\n2. 2027년 3월에 열리는 페르소나 슈퍼 라이브 2027에서 공개\n이유: 유출에 따르면 페르소나 6 배경은 요코하마, 페르소나 슈퍼 라이브 2027 요코하마에서 개최\n이유: 2027년 3월은 페르소나 4 리바이벌 출시 이후(XSX, PS5, PC 2월 18일 발매)라서 페르소나 6 마케팅 적절한 시기\n3. 2027년 6월에 열리는 엑스박스 쇼케이스에서 공개\n이유: 2027년 6월은 페르소나 4 리바이벌 모든 플랫폼 출시 이후(NS2 5월 20일 발매)라서 페르소나 6 마케팅 적절한 시기\n이유: 최근 페르소나 시리즈는 엑스박스 쇼케이스에서 공개\n--------\n푸시스퀘어\n11월 8일에 페르소나 6 해당 사이트에 변화가 있었습니다. 단순히 일상적인 업데이트 수준이 아니었습니다.\n이는 기업이 도메인을 전면적으로 개편할 때 나타나는 유형의 변화로, 대형 발표에 맞춰 웹사이트를 새롭게 디자인하고, 깜짝 발표가 있을 때 즉시 공개할 수 있도록 준비해 둔 것으로 보입니다.\n'페르소나 4 리바이벌' 출시를 불과 3개월 앞둔 시점에, 아틀라스가 '페르소나 6'를 더 게임 어워드 2026에서 대대적으로 공개하는 전략을 택할까요? 마케팅 관점에서 보면 다소 직관적이지 않게 느껴질 수도 있습니다.\n저는 개인적으로(푸시스퀘어) '페르소나 4 리바이벌'이 출시된 이후에 본격적으로 '페르소나 6' 관련 움직임이 시작될 것이라고 생각해 왔거든요.\n실제로 2027년 3월에는 '페르소나 슈퍼 라이브 2027'이 예정되어 있는데, 시기적으로는 이곳이 적절한 발표 무대처럼 보였습니다.\n하지만 '더 게임 어워드'만큼 영향력이 큰 행사는 없습니다. 압도적인 격차로 가장 많은 사람이 시청하는 게임 이벤트니까요. 여러 정황을 종합해 볼 때 '페르소나 6'는 2027년 중 출시될 가능성이 있는데, 그렇다면 아틀라스에게 이번만큼 좋은 기회는 다시 오지 않을지도 모릅니다.\n여러분은 어떻게 생각하시나요? '페르소나 6'가 '더 게임 어워드에서 공개될 것이 확실할까요?, 아니면 아틀라스가 '페르소나 4 리바이벌'이 출시될 때까지는 계속해서 침묵을 지킬까요? 여러분의 예상을 들려주세요.\n현재 푸시스퀘어 투표 결과\n더 게임 어워드 2026에서 공개될 것 54%\n2027년 3월에 열리는 페르소나 슈퍼 라이브 2027에서 공개될 것 19%\n페르소나 4 리바이벌이 출시된 이후 공개될 것 27%",
+      "images": [
+        "https://i2.ruliweb.com/img/26/11/19/1a1f18cb2f12af81.webp"
+      ]
+    },
+    {
+      "id": "ruli_ed22ff127366",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "GTA 6가 메타크리틱에서 100점 리뷰 수가 가장 많은 게임 1위로 등...",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366739",
+      "author": "nokcha",
+      "time": "10:44",
+      "likes": "16",
+      "comments": "",
+      "content": "현재 리뷰 수 156개 기준\n만점 리뷰는 120개로\n종전 기록 1위였던\n젤다의 전설 티어스 오브 더 킹덤의 100점 리뷰 89개를 넘어서\n메타크리틱에서 100점 리뷰 수가 가장 많은 게임 1위로 등극",
+      "images": [
+        "https://i1.ruliweb.com/img/26/11/19/1a1f17aff5f242da.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1f17b08d5242da.webp"
+      ]
+    },
+    {
+      "id": "ruli_ab78e8d578c7",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "호무라 히메 PS5판 2027년 발매 예정",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366738",
+      "author": "이토 시즈카",
+      "time": "10:27",
+      "likes": "2",
+      "comments": "",
+      "content": "『호무라 히메』 PS5판 발매 확정!🎮🔥\n기다리셨습니다! 3D 액션×탄막 배틀 『호무라 히메』가 2027년 PlayStation5로 출시됩니다!\n대형 화면에서 시원한 배틀 경험을 선사할 수 있도록 개발을 진행하고 있습니다. 후속 소식을 기대해 주세요!✨",
+      "images": [
+        "https://i3.ruliweb.com/img/26/11/19/1a1f16a4ba8137dbd.webp"
+      ]
+    },
+    {
+      "id": "ruli_9713a8dd2d54",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "캡처보드 없이 XSX GTA6 유사 60프레임 (Greenlight+LS...",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366737",
+      "author": "루리웹-85248527",
+      "time": "10:22",
       "likes": "13",
       "comments": "",
-      "content": "아래의 다시보기 영상 52:50부터\nhttps://chzzk.naver.com/video/16242559\n위쳐 3: 송즈 오브 더 패스트 한국어 더빙 게임플레이 영상과\n위쳐 4 디렉터인 세바스티안 칼렘바 씨의 인터뷰 영상을 보실 수 있습니다.\n인터뷰는 영상 38:00부터",
+      "content": "GTA 6 콘솔판이 30프레임 고정이라 아쉬운 분들을 위해, 별도의 캡처보드 구매 없이 기존에 가진 윈도우 PC와 로컬 네트워크(집안 공유기)만으로 유사\n60프레임(또는 90/120프레임)\n환경으로 플레이하는 세팅 방법 정리합니다.\n원리는 간단합니다.\n1. XSX 화면을 PC로 리모트 스트리밍(원격 출력)으로 받아오되, 공식 Xbox 앱 대신 비트레이트 제한을 풀 수 있는 오픈소스 클라이언트 **Greenlight**를 사용해 화질 열화를 최소화합니다.\n2. 이렇게 띄운 PC 리모트 창에 스팀 유료 유틸리티인 Lossless Scaling(일명 오리, LSFG)을 걸어 프레임을 2배~3배 보간하는 방식입니다.\n※ 시작 전 참고사항\n* Xbox 리모트 플레이 프로토콜 특성상 원본 해상도는 **1080p**로 제한됩니다.\n* 리모트 전송 지연 + 프레임 보간 버퍼로 인해 미세한 인풋렉이 추가됩니다. 1인칭 경쟁 FPS처럼 극한의 반응속도가 필요한 장르에는 비추천하며, GTA 시리즈처럼 3인칭 오픈월드 싱글 플레이 위주일 때 체감이 좋습니다.\n* 원활한 화질과 끊김 방지를 위해 **XSX와 PC 모두 공유기에 유선 LAN으로 연결**하는 것을 권장합니다. (무선 사용 시 반드시 5GHz/6GHz 대역 사용)\n* 구성 환경\n[공유기 (로컬 망)]\n├── (유선) ──▶ XSX (30fps 렌더링) ◀──(무선/유선 직결)── [컨트롤러]\n└── (유·무선) ─▶ PC/노트북 (그린라이트 + 오리) ──▶ [모니터 출력 (60fps or 120fps)]\n■ 1단계: XSX 본체 사전 설정\n1. XSX 본체 [설정] -> [장치 및 연결] -> [원격 기능] 진입 후 '원격 기능 사용' 체크\n2. [설정] -> [일반] -> [전원 옵션]에서 '절전(대기 모드)' 선택 (PC에서 원격 부팅 가능)\n3. [설정] -> [일반] -> [네트워크 설정] -> [네트워크 속도 및 통계 테스트]에서 패킷 손실 0% 확인\n■ 2단계: Greenlight 다운로드 및 세팅\n공식 Xbox 앱은 로컬 망에서도 비트레이트가 약 15Mbps 수준으로 제한되어 어두운 화면에서 블록 노이즈가 심하고, 이 노이즈 때문에 오리(LSFG) 보간 시 화면이 일그러집니다. 비트레이트를 높일 수 있는 Greenlight를 사용합니다.\n1. GitHub 공식 릴리즈 페이지([github.com/unknownskl/greenlight/releases)에서] 최신 안정화 버전(**v2.4.2**) 다운로드\n* 무설치 포터블 권장: **Greenlight-2.4.2-win.zip** (압축 풀고 Greenlight.exe 실행)\n2. 첫 실행 시 로그인 방법:\n프로그램 실행 후 팝업창에 승인 코드가 뜨면, 창을 닫지 않은 상태로 브라우저에서 [\nhttps://www.microsoft.com/link\n](\nhttps://www.microsoft.com/link\n)에 접속해 코드를 입력하고 엑박에서 쓰는 MS 계정으로 로그인하시면 자동으로 연동됩니다.\n실행된 프로그램에서 셋팅 항목에 Set H.264 profile 부분을 High 로 변경, 제공 언어도 한국어로 바꿔 주세요\n비디오 & 오디오 부분에서 Video aspect size 부분을 Stretch 로 변경\n■ 3단계: Lossless Scaling (오리 / LSFG) 세팅\n저는 다음과 같이 설정 했습니다\nAPI 캡쳐 부분은 WGC 로 바꿔야 된다고 , 그린라이트 사용자 정보를 바탕으로 설정 했습니다\n목표 프레임은 사용하시는 출력 장치에 맞게 원하시는 값으로 올리시면 될 거 같습니다\n제 장비에서\n목표 프레임 60 / 90 / 120 각각 시험해 봤는데 120 프레임 추천 드립니다\n■ 4단계: [NVIDIA 제어판 & G-SYNC 추가 설정]\nGPU 할당:\nNVIDIA 제어판 > 3D 설정 관리 > 프로그램 설정\n에서 Greenlight를 추가하고 '고성능 NVIDIA 프로세서'를 선택해 주십시오.\nG-SYNC / FreeSync 설정 (창 모드 필수):\n창 모드로 구동해야 오리(LSFG) 캡처가 안정적이므로 아래 중 하나를 적용합니다.\nNVIDIA 제어판 > G-SYNC 설정\n에서\n'창 모드 및 전체 화면 모드 활성화'\n체크\n전역 창 모드 G-SYNC가 싫으신 분들은\nNVIDIA Profile Inspector\n에서 Greenlight 프로파일만 선택한 뒤, 창 모드 G-SYNC 활성화를 개별 적용해 주시면 됩니다.\n■ 5단계: 사용 방법\n1. Greenlight 실행 후 My Console 메뉴에서 엑스박스가 켜진 것을 확인하고 Start Stream을 클릭합니다.\n2. 엑스박스 화면이 스트리밍되면 윈도우 창 우측 상단의 최대화(□) 버튼을 눌러 창을 화면에 꽉 채웁니다.\n3. Lossless Scaling을 실행해 Scale 버튼을 누르고, 카운트다운 동안 Greenlight 창을 클릭해 포커스를 맞추면 유사 60프레임 보간이 즉시 작동합니다.\n■ 실사용 체감 후기 및 총평\nPC에서 직접 구동하는 네이티브 게임에 Lossless Scaling(30→60fps)을 적용했을 때처럼 완전히 매끄러운 수준까지는 아닙니다. 스트리밍 특성상 미세한 전송 편차가 존재하기 때문입니다.\n하지만 엑스박스 30프레임 게임 특유의 무거운 프레임타임 때문에\n카메라(시야)를 좌우로 돌릴 때 배경이 뚝뚝 끊기며 눈에 거슬리는 현상은 체감될 만큼 크게 완화\n됩니다.\n다만 리모트 스트리밍(1080p 제한 및 영상 압축)을 거치는 구조상\n원본 직결 출력 대비 화질 저하는 분명히 발생\n합니다. 따라서 화질 손실을 감수하더라도 30프레임 특유의 화면 전환 멀미나 뚝뚝 끊기는 느낌을 도저히 견디기 힘든 분들에 한해 대안으로 추천해 드립니다.\n추가 :\n최종 프레임은 원본 30 > 그린라이트 60 > 오리 120 프레임\n전환하기 때문에, 화면 전환은 매우 만족하실 겁니다\n아래 찍은 사진은 폰이 너무 구형이라 더 구리게 보일 수 있습니다\n실제 체감은 원본보다 심각하게 훼손한 수준은 아닙니다..\nSM-F700N\n은 갤럭시 Z 플립(Galaxy Z Flip) 1세대로\n찍어서 너무 구리게 보이네요",
       "images": [
-        "https://i2.ruliweb.com/img/26/11/19/1a1ef93bbb3242da.webp",
-        "https://i2.ruliweb.com/img/26/11/19/1a1ef93bd98242da.webp",
-        "https://i1.ruliweb.com/img/26/11/19/1a1ef93bf6a242da.webp",
-        "https://i1.ruliweb.com/img/26/11/19/1a1ef93c167242da.webp",
-        "https://i1.ruliweb.com/img/26/11/19/1a1efa09f6c242da.webp",
-        "https://i2.ruliweb.com/img/26/11/19/1a1efa0a0ec242da.webp",
-        "https://i3.ruliweb.com/img/26/11/19/1a1efa0a2ef242da.webp",
-        "https://i2.ruliweb.com/img/26/11/19/1a1efa0a4e2242da.webp"
+        "https://i2.ruliweb.com/img/26/11/19/1a1f13ad4283ed9b5.webp",
+        "https://i2.ruliweb.com/img/26/11/19/1a1f13c72113ed9b5.webp",
+        "https://i2.ruliweb.com/img/26/11/19/1a1f14101a53ed9b5.webp",
+        "https://i2.ruliweb.com/img/26/11/19/1a1f14f1de53ed9b5.webp",
+        "https://i3.ruliweb.com/img/26/11/19/1a1f1559c793ed9b5.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1f15cf0013ed9b5.webp",
+        "https://i3.ruliweb.com/img/26/11/19/1a1f1646ee43ed9b5.webp"
       ]
     },
     {
-      "id": "ruli_6b0a081d420b",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "록맨: 듀얼 오버라이드 한국어판 캡쳐샷 및 신규 보스 '보트맨' 공개",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366711",
-      "author": "nokcha",
-      "time": "02:44",
-      "likes": "12",
-      "comments": "",
-      "content": "아래의 다시보기 영상 1:11:55부터\nhttps://chzzk.naver.com/video/16242559\n신규 보스 '보트맨'의 영상을 보실 수 있습니다.\n그리고 57:35부터\n록맨: 듀얼 오버라이드 개발자의 인터뷰 내용을 확인하실 수 있습니다.",
-      "images": [
-        "https://i1.ruliweb.com/img/26/11/19/1a1efbdf6ff242da.webp",
-        "https://i1.ruliweb.com/img/26/11/19/1a1efbde5a4242da.webp",
-        "https://i1.ruliweb.com/img/26/11/19/1a1efbde73e242da.webp",
-        "https://i2.ruliweb.com/img/26/11/19/1a1efbde931242da.webp",
-        "https://i1.ruliweb.com/img/26/11/19/1a1efbdef0d242da.webp",
-        "https://i2.ruliweb.com/img/26/11/19/1a1efbdef0e242da.webp",
-        "https://i3.ruliweb.com/img/26/11/19/1a1efbdf273242da.webp",
-        "https://i3.ruliweb.com/img/26/11/19/1a1efbdf2a9242da.webp"
-      ]
-    },
-    {
-      "id": "ruli_e735a8180e74",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "GTA 6는 PS5 Pro에서도 성능이 충분하지 않아 60fps을 지원하...",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366710",
-      "author": "nokcha",
-      "time": "02:34",
-      "likes": "18",
-      "comments": "",
-      "content": "조만간 40 FPS 성능 모드가 추가될 것이라는 기대도 접으시는 것이 좋습니다\n이달 초, 락스타 게임즈는 PS5 PRO를 포함한 모든 플랫폼에서 GTA 6가 30 FPS를 목표로 한다고 공식 확인했습니다. 이 소식이 발표되기 전, 본지는 락스타 측에 향후 GTA 6에 60 FPS 혹은 40 FPS 모드가 추가될 가능성이 있는지 문의했습니다. 그리고 그 답변을 들어보면, 적어도 현세대 콘솔에서는 그런 일은 일어나지 않을 것으로 보입니다.\n락스타가 GTA 6를 PS5, PS5 Pro, Xbox Series X, Xbox Series S에서 30 FPS 타깃으로 출시한다고 밝혔을 때, 일부 플레이어들은 이를 달갑게 받아들이지 않았습니다. 많은 이들이 이번 콘솔 세대의 수많은 다른 개발사들처럼 락스타 게임즈 역시 일종의 성능 모드를 제공하기를 바랐기 때문입니다.\n따라서 누군가에게는 매우 실망스러운 소식이었습니다. 하지만 또 다른 이들은 120Hz TV로 게임을 즐기는 플레이어들을 위해 락스타가 출시 후 업데이트를 통해 60 FPS 옵션이나 최소한 40 FPS 옵션이라도 추가해 줄 것이라는 희망을 품고 있었습니다.\n하지만 락스타 게임즈는 코타쿠와의 인터뷰에서 GTA 6의 너무 높은 사양 때문에 PS5 Pro에서도 그러한 업데이트는 없을 것이라고 확인했습니다. GTA 6의 방대한 규모와 사양이 현세대 콘솔들이 감당하기에는 너무 버겁다는 것입니다.\n락스타 게임즈 기술 프로덕션 디렉터인 마크 챔버스(Marc Chambers)는 다음과 같이 설명했습니다.\n“저희의 기본 그래픽 구현에는 레이 트레이싱 반사와 글로벌 일루미네이션이 활용됩니다. PS5 Pro에서는 여기에 레이 트레이싱 그림자가 추가되고, PSSR 기술을 통해 전반적인 선명도가 더욱 향상됩니다. 저희는 PS5 Pro에 탑재된 업그레이드된 그래픽 프로세서(GPU)와 업스케일링 기술을 활용해 게임의 시각적 완성도를 높였습니다. 하지만 PS5 Pro의 중앙 처리 장치(CPU)는 기본형 PS5 콘솔보다 소폭 나아졌을 뿐, 게임 내 복잡한 시뮬레이션을 더 높은 프레임률로 구동할 만큼 강력하지는 않습니다.”",
-      "images": [
-        "https://i2.ruliweb.com/img/26/11/19/1a1efae5a6c242da.webp"
-      ]
-    },
-    {
-      "id": "ruli_9957b7bb6609",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "타래: 언바운드 '투귀' 게임플레이 최초공개",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366709",
-      "author": "wind orbit",
-      "time": "01:55",
-      "likes": "5",
-      "comments": "",
-      "content": "타래: 언바운드 투귀 게임플레이 최초 공개\nG-STAR 2026에서 투귀를 첫 공개합니다.\nG-STAR 현장에서 타래를 체험해보세요!\n타래는 동양풍 핵앤슬래시 장르의 게임으로\n2027년 PC,콘솔로 출시될 예정입니다.",
-      "images": []
-    },
-    {
-      "id": "ruli_99f733968a04",
-      "source": "루리웹 콘솔뉴스",
-      "category": "주변기기·하드웨어",
-      "title": "8BitDo 게임큐브 블루투스 게임패드 발매 결정 및 게임패드 특징",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366708",
-      "author": "nokcha",
-      "time": "01:10",
-      "likes": "11",
-      "comments": "",
-      "content": "2026년 12월 10일부터 출고\n가격 :$49.99\n=\n🎮 주요 특징\n클래식 GC 디자인 및 버튼 레이아웃\nTMR 조이스틱: 정밀하고 내구성이 뛰어난 TMR 조이스틱에 팔각형 게이트 적용\n홀 효과 리니어 트리거: 자기장을 이용해 마모가 적고 부드러운 입력이 가능한 리니어 트리거\n진동 지원\n대칭형 Z 및 ZL 범퍼: 양쪽 대칭 구조의 범퍼 버튼\n캡처 버튼: 스크린샷 촬영 및 영상 녹화용 전용 버튼\n터보 기능\n🖥️ 호환성\n닌텐도 스위치 1 / 2 (Switch 1/2)\n윈도우 PC (Windows)\n※ 8BitDo 레트로 무선 리시버를 구입하면 게임큐브에서도 무선으로 사용 가능\nhttps://www.amazon.com/dp/B0DB4NQNB7\n🔌 연결 방식\n2.4GHz 무선: 스위치 / 윈도우 지원\nUSB-C 유선: 스위치 / 윈도우 지원\n블루투스 5.0 (Bluetooth® 5.0): 스위치 지원\n📏 크기 및 무게\n크기: 140.1 × 102.95 × 67.6 mm\n무게: 218.1g\n구성품\nGC 블루투스 게임패드 본체 × 1\n2.4GHz 어댑터 × 1\nUSB 케이블 × 1\n사용자 매뉴얼(설명서) × 1",
-      "images": [
-        "https://i1.ruliweb.com/img/26/11/19/1a1ef6a3546242da.webp",
-        "https://i3.ruliweb.com/img/26/11/19/1a1ef6a36e9242da.webp",
-        "https://i3.ruliweb.com/img/26/11/19/1a1ef6a3ada242da.webp",
-        "https://i1.ruliweb.com/img/26/11/19/1a1ef6a3cdc242da.webp",
-        "https://i3.ruliweb.com/img/26/11/19/1a1ef6a3ed6242da.webp",
-        "https://i1.ruliweb.com/img/26/11/19/1a1ef6a40c3242da.webp",
-        "https://i3.ruliweb.com/img/26/11/19/1a1ef71548e242da.webp",
-        "https://i1.ruliweb.com/img/26/11/19/1a1ef715681242da.webp"
-      ]
-    },
-    {
-      "id": "ruli_b62be3c40dd2",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "GTA 6 PS5 노말에선 전투 및 과부화 상황 23~26프레임",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366707",
-      "author": "루리웹-912735355120",
-      "time": "00:54",
-      "likes": "14",
+      "id": "ruli_695266d59cd7",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "기인 캐니언 빠진 젠지, 탑 ‘시우’ 유력 정글 ‘샤벨’-‘카나비’ 두고...",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359655",
+      "author": "슈뢰딩거의 박스",
+      "time": "11:26",
+      "likes": "",
       "comments": "",
       "content": "",
       "images": []
+    },
+    {
+      "id": "ruli_5c6a9c0ee8ed",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "사무라이 유니콘 - 트레일러",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359654",
+      "author": "Trust No.1",
+      "time": "10:41",
+      "likes": "",
+      "comments": "",
+      "content": "광활한 메가시티 시드니3를 배경으로 한 레트로 그래픽 액션 호러 게임입니다.",
+      "images": []
+    },
+    {
+      "id": "ruli_d377ac86a5fd",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "CES 27> 삼성, 내년 'TV-I' 첫 정보 공개: 소파 떠나면 일시...",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359653",
+      "author": "심심해♥",
+      "time": "10:33",
+      "likes": "2",
+      "comments": "",
+      "content": "해외 기사를 번역한 것이므로 오역이 있을 수 있습니다.\nhttps://www.avcesar.com/ces-27-samsung-un-tv-dope-a-l-ia-qui-fait-pause-quand-vous-quittez-le-canape-et-qui-mise-sur-les-services-49091\nCES 27> 삼성, 소파를 떠나면 일시 정지하고 서비스에 주력하는 AI 탑재 TV 선보여\n삼성전자가 내년 1월 초 열리는 라스베이거스 CES 2027을 앞두고 시청자가 소파를 떠나면 프로그램을 일시 정지했다가 돌아오면 다시 재생하는 스마트 TV 프로젝트를 준비하고 있습니다.\n이 새로운 TV는 특히 TV 화면을 장기적인 수익 창출을 위한 강력한 인터랙티브 상업 쇼케이스로 탈바꿈시키겠다는 노골적인 전략의 일환입니다.\n내년 1월 6일부터 9일까지 열리는 라스베이거스 CES 2027 개막을 몇 주 앞두고, 삼성전자는 자사 디스플레이 제품군에 인공지능을 통합하는 데 있어 새로운 단계로 도약할 준비를 하고 있습니다. 임시로 'TV-I'라고 명명된 이 똑똑한 신형 TV는 진정한 행동 분석 허브로 자리매김할 전망입니다.\n배달원이 초인종을 누르거나 갑자기 목이 마를 때 리모컨을 찾으려 허둥지둥 뛰어다닐 필요가 사라집니다. TV가 스스로 시청자가 소파에서 일어나는 것을 감지해 시청 중인 프로그램을 일시 중지하고, 자리에 다시 앉는 즉시 자동으로 재생을 재개합니다. '거실의 동반자'라는 꽤 매력적인 약속이지만, 실제로는 이 한국 기업의 훨씬 더 원대한 야망이 숨어 있습니다.\n클릭 투 서치(Click to Search) : 검색 엔진이 된 화면\n삼성은 이러한 자동 일시 정지 기능을 넘어 시청자와 화면 간의 상호작용을 대폭 강화할 계획입니다. 2025년형 라인업에서 이미 선보였던 '클릭 투 서치(Click to Search)' 기능을 계승하고 발전시킨 TV-I를 통해, 사용자는 방송 중인 콘텐츠에 대해 내장된 인공지능에 직접 질문할 수 있습니다.\n리모컨의 AI 버튼을 누르고 간단한 음성 명령(\"이 장면은 어디서 촬영되었나요?\" 또는 \"배우가 입은 재킷 브랜드가 무엇인가요?\")만 내리면, TV가 시각적 맥락을 분석해 정답을 바로 제공합니다. 번거롭게 스마트폰을 꺼내 화면을 찍고 검색할 필요가 더 이상 없습니다. 이제 화면 그 자체로 충분합니다.\n삼성 TV 플러스를 통한 'T-커머스'의 도래\n바로 이 지점이 핵심 승부처입니다. 삼성은 화면 속 사물 식별을 용이하게 함으로써 자사 보급 기기를 통한 대규모 수익 창출의 길을 열고 있습니다. 미국에서 삼성은 이미 거대 기업 아마존과 파트너십을 맺고 광고 영상을 즉시 '쇼핑 가능(shoppable)'하게 만들었습니다.\n최근 전 세계 월간 활성 사용자 수(MAU) 1억 명이라는 상징적인 기록을 돌파한 광고 기반 무료 스트리밍 서비스(FAST)인 자체 애플리케이션 '삼성 TV 플러스'에서는 리모컨 클릭 한 번만으로 화면에 나오는 광고 제품을 아마존 장바구니에 바로 담을 수 있습니다. 구매 전환 과정이 가장 단순한 형태로 축소된 것입니다. 보고, 클릭하고, 구매하면 끝입니다.\n하드웨어 위기 타개를 위해 지휘봉을 잡은 이원진\n삼성 영상디스플레이(VD) 사업부 DNA의 이러한 근본적인 변화에는 '이원진'이라는 이름이 자리하고 있습니다. 통상 연말에 인사가 단행되는 한국에서 모두의 예상을 깨고 지난 5월 이 부문의 수장으로 임명된 구글 코리아 출신의 이 인물은 순수 서비스 및 마케팅 전문가입니다. 그의 임무는 명확합니다. 바로 물리적 제품 판매 정체를 만회하는 것입니다.\n실제로 교체 주기가 걷잡을 수 없이 길어지고 중국 제조업체들의 치열한 가격 경쟁이 이어지면서, 단순히 TV를 파는 것만으로는 충분한 수익성을 보장할 수 없게 되었습니다. 시장조사업체 트렌드포스(TrendForce)에 따르면 올해 전 세계 TV 출하량은 0.8% 감소한 1억 9,465만 대에 그칠 전망입니다. 따라서 삼성이 찾아낸 해결책은 판매된 모든 TV를 콘텐츠, 맞춤형 광고, 쇼핑을 통해 지속적인 수익 흐름을 창출하는 영구적인 수익 센터로 전환하는 것입니다.\n삼성 TV-I 주요 특징 요약 :\n• 인공지능으로 구동되는 차세대 TV\n• 사용자 행동 분석을 통한 콘텐츠 자동 일시 정지 및 재생 기능\n• 음성 기반 '클릭 투 서치(Click to Search)' 기능의 고도화된 통합(화면의 맥락적 이미지 인식)\n• 장바구니 직접 추가 기능을 갖춘 인터랙티브 광고 생태계(삼성 TV 플러스를 통한 아마존과의 파트너십)\n• 구매 후 수익화 비즈니스 전략(광고, 서비스, T-커머스)",
+      "images": [
+        "https://cdn.mania.kr/dvdprime/file/2611/tvmonitor_475809_20261119102108_3ba5edff704231bd_thumb.jpg",
+        "https://cdn.mania.kr/dvdprime/file/2611/tvmonitor_475809_20261119102202_02097df6bbcc4bfb_thumb.jpg",
+        "https://cdn.mania.kr/dvdprime/file/2611/tvmonitor_475809_20261119102616_c682ec733f9bba2f_thumb.jpg"
+      ]
+    },
+    {
+      "id": "ruli_e81a6afd9b83",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "[산나비]수험생 응원",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359652",
+      "author": "블루원트",
+      "time": "08:19",
+      "likes": "9",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://i3.ruliweb.com/img/26/11/19/1a1f0f4b4a254ec89.webp"
+      ]
+    },
+    {
+      "id": "ruli_5c8fe2ff82dd",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "제우스 선수, T1 2029년까지 3년 계약 합의",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359651",
+      "author": "하코자키 세리카♪",
+      "time": "06:20",
+      "likes": "30",
+      "comments": "",
+      "content": "이달초 인벤의 보도에 따르면\n한화생명 e스포츠는 11월 17일 FA기간을 앞두고 계약 연장을 제안하며 2027시즌 제우스를 유지하기를 원함\n그러나 제우스와 그의 에이전트는 한화생명 e스포츠와의 계약이 만료되면 시장을 탐색하겠다며 제안을 거절\n그 이후 T1은 협상에 들어가 강력하고 좋은 제안을 제시\n수요일, T1 경영진은 제우스 선수 합의에 도달\n쉽 이스포츠의 소식통에 따르면\n제우스 선수는 그간 루머로 알려진 2+1년이 아닌\n3년 계약의 확정형태로 T1에 돌아올 예정",
+      "images": [
+        "https://i1.ruliweb.com/img/26/11/19/1a1f07ac63c2a488c.webp"
+      ]
     },
     {
       "id": "ruli_e107c74483bd",
@@ -348,7 +413,7 @@
       "url": "https://bbs.ruliweb.com/news/board/1003/read/2359649",
       "author": "Naeri",
       "time": "05:29",
-      "likes": "",
+      "likes": "2",
       "comments": "",
       "content": ":: 원문(링크) ::\n오버워치 x 포트나이트 콜라보레이션 키리코와 위도우메이커 스킨 게임 내 모습 공개! 🦊🕷️\n새로운 오버워치 포트나이트 콜라보레이션 스킨은 11월 21일에 출시됩니다.\n그리고 LE SSERAFIM의 콜라보레이션으로 LE SSERAFIM의 \"Perfect Night\" 잼 트랙이 위도우메이커와 키리코 스킨과 함께 추가됩니다.\n#오버워치\n#옵치\n#블리자드\n#액티비전\n#나에리\n#NAERI\n#블쟈\n#Blizzard\n#Overwatch\n#시즌5",
       "images": [
@@ -365,7 +430,7 @@
       "url": "https://bbs.ruliweb.com/news/board/1003/read/2359648",
       "author": "Naeri",
       "time": "03:06",
-      "likes": "2",
+      "likes": "4",
       "comments": "",
       "content": "<font color=\"#0F0F0F\" face=\"Nanum Gothic\"><span style=\"font-size: 22.4px;\"></span></font>\n명예 점수:\n기존과 같이 PvP 활동을 통해 획득하며, 이제는 등급을 결정하는 것이 아니라\n보상을 구매하는 전용 화폐\n로만 사용됩니다.\n등급 점수:\n이제\nPvP 등급을 결정하는 새로운 지표\n입니다. 매일/매주 퀘스트, 전장, 월드 PvP 이벤트(예: 구루바시 투기장)를 통해 획득합니다.\n시즌의 여정:\n등급 점수를 얻는 가장 큰 수단입니다. 매주 새로운 퀘스트가 제공되며, 지난 퀘스트를 놓쳤더라도 손실 없이 나중에 완료할 수 있습니다.\n※\n등급 및 보상\n등급 점수가 오르면 등급이 상승하며 더 높은 품질의 장비를 잠금 해제할 수 있습니다.\n8등급(기사 대장/군단병):\n희귀 등급 아이템을 에픽 품질로 업그레이드할 수 있는 구간입니다.\n14등급:\n레이드 장비와 동등한 성능의\nPvP 특화 에픽 무기\n를 획득할 수 있습니다.\n운영 방식의 변화:\n등급 점수 기반의 개인 진행 방식으로 변경되어, 다른 플레이어의 실적에 영향을 받지 않습니다.\n시즌 중반(8~9주 차)이면 최고 등급 도달이 가능하도록 설계되어, 매일 반복되는 '강제적인 등급 정체'에서 벗어나도록 유도합니다.",
       "images": []
@@ -378,7 +443,7 @@
       "url": "https://bbs.ruliweb.com/news/board/1003/read/2359647",
       "author": "nokcha",
       "time": "02:49",
-      "likes": "2",
+      "likes": "12",
       "comments": "",
       "content": "아래의 다시보기 영상 52:50부터\nhttps://chzzk.naver.com/video/16242559\n위쳐 3: 송즈 오브 더 패스트 한국어 더빙 게임플레이 영상과\n위쳐 4 디렉터인 세바스티안 칼렘바 씨의 인터뷰 영상을 보실 수 있습니다.\n인터뷰는 다시보기 영상 38:00부터",
       "images": [
@@ -400,7 +465,7 @@
       "url": "https://bbs.ruliweb.com/news/board/1003/read/2359646",
       "author": "아타호-_-",
       "time": "02:19",
-      "likes": "1",
+      "likes": "3",
       "comments": "",
       "content": "덱을 짜지 않는 난투입니다.\n보상은 검은 제국 카드팩 1개입니다.\n직업을 고르고 게임을 시작하면 무작위 카드로 이루어진 덱으로 게임을 하게 됩니다.\n매턴 시작시 자신이 가지고 있는 카드의 비용이 무작위로 변경됩니다. 원래 카드의 비용보다 높아지는 일은 없습니다.\n자신과 상대의 덱에 어떤 카드가 있는지 모르며 비용이 어떻게 변경될지 모르기 때문에 평소보다 운이 중요한 난투입니다.\n고코스트 카드를 초반에 내면 게임을 바로 터트릴수 있기 때문에 시작 손패는 최대한 고코스트 카드로 잡고 가는게 좋습니다.",
       "images": [
@@ -410,88 +475,6 @@
         "https://i3.ruliweb.com/img/26/11/19/1a1efa9c3881874ce.webp",
         "https://i2.ruliweb.com/img/26/11/19/1a1efa9b0b01874ce.webp",
         "https://i2.ruliweb.com/img/26/11/19/1a1efa96bb81874ce.webp"
-      ]
-    },
-    {
-      "id": "ruli_de80b435d465",
-      "source": "루리웹 PC·스팀",
-      "category": "PC·스팀",
-      "title": "[단독] 한화생명, ‘기인’ 김기인·'캐니언' 김건부 영입",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359645",
-      "author": "하지만구",
-      "time": "01:57",
-      "likes": "6",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://i3.ruliweb.com/img/26/11/19/1a1ef97afdf32b630.webp"
-      ]
-    },
-    {
-      "id": "ruli_524c40459e1c",
-      "source": "루리웹 PC·스팀",
-      "category": "주변기기·하드웨어",
-      "title": "8BitDo 게임큐브 블루투스 게임패드 발매 결정 및 게임패드 특징",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359643",
-      "author": "nokcha",
-      "time": "01:26",
-      "likes": "1",
-      "comments": "",
-      "content": "2026년 12월 10일부터 출고\n가격 :$49.99\n=\n🎮 주요 특징\n클래식 GC 디자인 및 버튼 레이아웃\nTMR 조이스틱: 정밀하고 내구성이 뛰어난 TMR 조이스틱에 팔각형 게이트 적용\n홀 효과 리니어 트리거: 자기장을 이용해 마모가 적고 부드러운 입력이 가능한 리니어 트리거\n진동 지원\n대칭형 Z 및 ZL 범퍼: 양쪽 대칭 구조의 범퍼 버튼\n캡처 버튼: 스크린샷 촬영 및 영상 녹화용 전용 버튼\n터보 기능\n🖥️ 호환성\n닌텐도 스위치 1 / 2 (Switch 1/2)\n윈도우 PC (Windows)\n※ 8BitDo 레트로 무선 리시버를 구입하면 게임큐브에서도 무선으로 사용 가능\nhttps://www.amazon.com/dp/B0DB4NQNB7\n🔌 연결 방식\n2.4GHz 무선: 스위치 / 윈도우 지원\nUSB-C 유선: 스위치 / 윈도우 지원\n블루투스 5.0 (Bluetooth® 5.0): 스위치 지원\n📏 크기 및 무게\n크기: 140.1 × 102.95 × 67.6 mm\n무게: 218.1g\n구성품\nGC 블루투스 게임패드 본체 × 1\n2.4GHz 어댑터 × 1\nUSB 케이블 × 1\n사용자 매뉴얼(설명서) × 1",
-      "images": [
-        "https://i1.ruliweb.com/img/26/11/19/1a1ef6a3546242da.webp",
-        "https://i3.ruliweb.com/img/26/11/19/1a1ef6a36e9242da.webp",
-        "https://i3.ruliweb.com/img/26/11/19/1a1ef6a3ada242da.webp",
-        "https://i1.ruliweb.com/img/26/11/19/1a1ef6a3cdc242da.webp",
-        "https://i3.ruliweb.com/img/26/11/19/1a1ef6a3ed6242da.webp",
-        "https://i1.ruliweb.com/img/26/11/19/1a1ef6a40c3242da.webp",
-        "https://i3.ruliweb.com/img/26/11/19/1a1ef71548e242da.webp",
-        "https://i1.ruliweb.com/img/26/11/19/1a1ef715681242da.webp"
-      ]
-    },
-    {
-      "id": "ruli_4bb5b425da73",
-      "source": "루리웹 PC·스팀",
-      "category": "PC·스팀",
-      "title": "타래: 언바운드 - 투귀 공식 데모 플레이",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359641",
-      "author": "이토 시즈카",
-      "time": "2026.11.18",
-      "likes": "4",
-      "comments": "",
-      "content": "동양 다크 판타지 탑다운 액션 RPG 타래: 언바운드의 게임플레이 프리뷰에서 여섯 명의 탐색자가 활약하는 모습을 보고, 각자의 고유한 전투 스타일을 확인해 보세요.\n여러분은 어떤 클래스를 선택하시겠어요?\n*알파 버전 게임플레이 영상으로, 변경될 수 있습니다",
-      "images": []
-    },
-    {
-      "id": "ruli_ad382fa42b60",
-      "source": "루리웹 PC·스팀",
-      "category": "PC·스팀",
-      "title": "지포스 621.24 드라이버 과도한 디스크 쓰기 문제 보고",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359640",
-      "author": "TopSpoiler",
-      "time": "2026.11.18",
-      "likes": "16",
-      "comments": "",
-      "content": "리소스 모니터의 [디스크] 탭에서 NVDisplay.Container.exe가 거의 쉬지 않고 뭔가 쓰고 있다면 당첨입니다.",
-      "images": [
-        "https://i2.ruliweb.com/img/26/11/18/1a1eed717f7a05c9.webp",
-        "https://i1.ruliweb.com/img/26/11/18/1a1eeda795aa05c9.webp"
-      ]
-    },
-    {
-      "id": "ruli_d11404bb9dab",
-      "source": "루리웹 PC·스팀",
-      "category": "PC·스팀",
-      "title": "소닉 레이싱 크로스월드 - 맥라렌 레이싱 콜라보 시작",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359639",
-      "author": "ComShepard",
-      "time": "2026.11.18",
-      "likes": "1",
-      "comments": "",
-      "content": "맥라렌 레이싱 콜라보 시작!\n맥라렌 레이싱 페스타도 개최 결정!\n모터스포츠계의 빛나는 금자탑 '맥라렌 레이싱'과의 콜라보로 '소닉(맥라렌 레이싱)'이 크로스월드에 참전!\n※획득하시려면 인터넷 로그인이 필요합니다.\n・스킨: '소닉(맥라렌 레이싱)'\n・머신: 'McLaren Racing Car'\n'맥라렌 레이싱 페스타' 콜라보를 기념하여 특별한 이벤트 개최!\n기간：2026년 11월 20일(금) 9:00 ~ 11월 30일(월) 8:59 KST",
-      "images": [
-        "https://i3.ruliweb.com/img/26/11/18/1a1eec55d7f15e737.webp",
-        "https://i2.ruliweb.com/img/26/11/18/1a1eec5710115e737.webp"
       ]
     },
     {
@@ -682,6 +665,92 @@
       ]
     },
     {
+      "id": "ruli_9466af99a1db",
+      "source": "루리웹 예판·핫딜",
+      "category": "할인·예판",
+      "title": "[네이버페이] 일일적립, 클릭 38원, 라이브예고 13원",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109156",
+      "author": "",
+      "time": "02:25",
+      "likes": "64",
+      "comments": "",
+      "content": "클릭적립 합계 38원\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=pointdraw_benefit_261119\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=pointdraw_moneycardY_261119\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=pointdraw_global_china_261119\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=cr_pointdraw_261119_1217\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=cr_pointdraw_261119_1277\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=cr_2026111904_2611_03_1047\n라이브 예고 적립 합계 13원\nhttps://external-token.pay.naver.com/entry/pincrux?gd=ab8e18ef4ebebeddc0b3152ce9c9006e14fc05242e3fc9ce32246ea6a9543074\n일일적립\n마이카 방문 혜택\nhttps://mycar.naver.com/\n포인트뽑기 토스트 적립 (여기 누르면 ?원 클릭)\nhttps://home.pay.naver.com\n결제홈 깜짝 방문 (10원+5원, 스크롤 15초 유지, 월 5회 제한)\nhttps://new-m.pay.naver.com/historybenefit/home\n클릭 미션 (자정 초기화, 초록색 클릭버튼)\nhttps://point.pay.naver.com/pc/main?category=quickreward\n네이버페이 보험 방문 미션 (자정 초기화)\nhttps://insurance.pay.naver.com/?inflow=point_category\n네이버페이 운세 (1원, 자정 초기화)\nhttps://ofw.adison.co/u/naverpay/ads/730013\n제주항공 (모바일 적립 12원, 08시 초기화)\nhttps://ofw.adison.co/u/naverpay/ads/889076\n가장 빠른 즉시적립 혜택 보기 (1원, 10시 초기화)\nhttps://ofw.adison.co/u/naverpay/ads/67823\n브랜드뽑기 후 결제하러 가기 클릭 (10원, 14시 초기화)\nhttps://campaign2.naver.com/npay/branddraw/?from=pointtab\n직링 적립 실패 시 네이버페이->즉시적립에서 직접 받아주세요\nhttps://point.pay.naver.com/pc/mission-detail?dataType=category&rank=18&pageKey=quickreward\n반코이님이 늦으시는거 같아서 오랬만에 한번 올려봅니다",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_de589fa713d5",
+      "source": "루리웹 예판·핫딜",
+      "category": "할인·예판",
+      "title": "[오늘의집]닌텐도 스위치2 타이틀 제노블레이드 크로니클스2 62,620원...",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109149",
+      "author": "",
+      "time": "2026.11.18",
+      "likes": "11",
+      "comments": "",
+      "content": "오늘의집 선착순쿠폰링크\nhttps://events.ohou.se/promotion-pages/big-promotion?owap=true&webviewType=page\n오늘의집 쿠폰 받기\n닌텐도 스위치 2 젤다의 전설 시간의 오카리나 78,000원\nhttps://store.ohou.se/goods/4244453\n스위치2 제노블레이드 크로니클스2 62,620원\nhttps://store.ohou.se/goods/4321681\n스위치2 파이어엠블렘 만자천홍 78,900원\nhttps://store.ohou.se/goods/4187633.\n최신 타이틀만 적었습니다 다른 타이틀들은 찾아서 구매하시기 바랍니다\nhttps://store.ohou.se/brands/15717?affect_id=4187633&affect_type=ProductSaleDetail&query=%EB%8B%8C%ED%85%90%EB%8F%84",
+      "images": [
+        "https://img2.quasarzone.com/editor/2026/11/17/c738e3d086245901d47bc884b4734afe.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_42847a9e1b69",
+      "source": "루리웹 예판·핫딜",
+      "category": "할인·예판",
+      "title": "[공차] 해리포터 콜라보 메뉴 & 굿즈 출시 (11/18~12/31)",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109146",
+      "author": "",
+      "time": "2026.11.18",
+      "likes": "13",
+      "comments": "",
+      "content": "콜라보 음료의 가격은 6300원입니다.\n콜라보 메뉴를 구입할시 콜라보 굿즈가 할인되며 기숙사 코스터(컵받침)도 준다고 합니다.",
+      "images": [
+        "https://i3.ruliweb.com/img/26/11/18/1a1edd8e6231874ce.webp",
+        "https://i3.ruliweb.com/img/26/11/18/1a1edd8f7b71874ce.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_4c4d7eb8486e",
+      "source": "루리웹 예판·핫딜",
+      "category": "할인·예판",
+      "title": "[대형마트] 롯데마트&이마트&GS더프레시&킴스클럽 이번주 전단(11/19...",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109141",
+      "author": "",
+      "time": "2026.11.18",
+      "likes": "14",
+      "comments": "",
+      "content": "롯데마트/이마트 행사는 목요일부터 시작됩니다\nGS더프레시/킴스클럽 행사는 오늘부터 시작됩니다.\n홈플러스는 여러 물품을 할인하는것 같은데 전단은 아직도 확인되지 않았습니다.\n혹시 추가되면 올리겠습니다.\n-롯데마트\n+이마트\n-GS더프레시\n-킴스클럽",
+      "images": [
+        "https://i2.ruliweb.com/img/26/11/18/1a1ed0e47601874ce.webp",
+        "https://i1.ruliweb.com/img/26/11/18/1a1ed0e55d91874ce.webp",
+        "https://i3.ruliweb.com/img/26/11/18/1a1ed0e640b1874ce.webp",
+        "https://i1.ruliweb.com/img/26/11/18/1a1ed0e72931874ce.webp",
+        "https://i3.ruliweb.com/img/26/11/18/1a1ed0e80981874ce.webp",
+        "https://i2.ruliweb.com/img/26/11/18/1a1ed0e8ef61874ce.webp",
+        "https://i2.ruliweb.com/img/26/11/18/1a1ed0e9e571874ce.webp",
+        "https://i2.ruliweb.com/img/26/11/18/1a1ed0eae4a1874ce.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_759118abebba",
+      "source": "루리웹 예판·핫딜",
+      "category": "할인·예판",
+      "title": "[카카오톡]메가커피 아이스 아메리카노 (1,600원/무료)",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109155",
+      "author": "berserkfan",
+      "time": "01:46",
+      "likes": "1",
+      "comments": "",
+      "content": "아메리카노 20% 그외 23%까지 할인됩니다\nhttps://gift.kakao.com/brand/5429?input_channel_id=2636",
+      "images": [
+        "https://i3.ruliweb.com/img/26/11/19/1a1ef76a38b5d693.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
       "id": "ruli_68588e5c9dbe",
       "source": "루리웹 예판·핫딜",
       "category": "할인·예판",
@@ -837,6 +906,193 @@
         "https://i3.ruliweb.com/img/26/11/18/1a1ee0781ac481177.webp",
         "https://i3.ruliweb.com/img/26/11/18/1a1ee07172d481177.webp"
       ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_258bd9c19a06",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "GTA 6에서 수배 6성에 도달하는 방법",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366716",
+      "author": "컵머리",
+      "time": "05:39",
+      "likes": "3",
+      "comments": "",
+      "content": "새로운 최고 수배 단계에 도달하면 어떤 일이 벌어지는지도 알아본다.\n핵심 내용\n- 수배 6성에 도달하려면 대규모 파괴와 인명 피해를 일으켜야 한다.\n- 우리가 실제로 수배 6성에 도달할 수 있었던 방법은 전차를 훔쳐 주변을 파괴하는 것이었다.\n- 일단 6성이 되면 더 이상 추적 상태인 ‘Heat’를 해제할 수 없다. 경찰과 군대는 추격을 멈추지 않는다.\nGTA 6의 새로운 수배 시스템에서 6성은 게임 내에서 도달할 수 있는 최고 수배 단계다. 여기에 도달할 만큼 많은 경찰과 군인을 죽이면 ‘범죄자 프로필’에도 상당한 영향을 미칠 가능성이 높다. 범죄자 프로필은 사실상 이 게임에서 레드 데드 리뎀션 2의 명예 시스템에 해당하는 요소다.\n전작들과 마찬가지로 공항에 무단 침입해 여객기를 훔치거나, 군사기지에 들어가 장갑차(APC)를 탈취하는 등의 행동을 하면 높은 수배 단계에 도달하게 된다. 그리고 늘 그랬듯이, 수배 5성이 되면 전차가 출동한다.\n하지만 수배 6성까지 올라가려면 대규모 파괴와 인명 피해를 일으켜야 한다. 우리가 GTA 6에서 실제로 6성에 도달할 수 있었던 방법은 군사기지에서 전차를 훔친 뒤 다른 전차와 차량들을 폭파하는 것뿐이었다.\n다만 다음 사항은 반드시 기억해야 한다.\n- 수배 6성이 되면 더 이상 Heat나 수배 단계를 해제할 수 없다.\n도망칠 수는 있어도 숨을 수는 없다. 일단 6성이 되면 경찰은 추격을 절대 멈추지 않기 때문이다. 사실상 이 상황에서 벗어나는 유일한 방법은 죽는 것이라는 뜻이다. 또한 그 과정에서 수많은 경찰을 죽이는 행동이 범죄자 프로필에 매우 큰 영향을 미칠 수 있다는 점도 고려해야 한다.",
+      "images": [
+        "https://i1.ruliweb.com/img/26/11/19/1a1f0619bab4a9a1c.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_7a04e78ef25e",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "GTA 6 플스 PRO , 노말 비교 , DLSS5 비교",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366715",
+      "author": "루리웹-912735355120",
+      "time": "04:22",
+      "likes": "5",
+      "comments": "",
+      "content": "이미지 클릭시 확대\n노말 반사 하옵션\n노말 세부 그림자 OFF\n(철창 그림자)\nPS5 프로 + 5070ti + 베이라 60프레임 + 엘가토 프로 캡쳐보드 세팅\nPS5 프로 원본 30프레임\nDLSS5 + 60프레임",
+      "images": [
+        "https://i2.ruliweb.com/img/26/11/19/1a1f01bd80353d19c.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1f01c266753d19c.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1f01c283853d19c.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1f01c2a1e53d19c.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1f01c4b3153d19c.webp",
+        "https://i2.ruliweb.com/img/26/11/19/1a1f01c4ce453d19c.webp",
+        "https://i3.ruliweb.com/img/26/11/19/1a1f01c4ef853d19c.webp",
+        "https://i2.ruliweb.com/img/26/11/19/1a1f01c5e1053d19c.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_007b32873f52",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "메타크리틱 최상위 순위 변동",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366714",
+      "author": "리버휘닉스",
+      "time": "04:11",
+      "likes": "8",
+      "comments": "",
+      "content": "메타크리틱은 소수점 1자리를 반올림 하여 점수를 책정\n같은 점수라도 소수점이 존재햐여 이에 따라 순위가 매겨짐.\n1위 GTA6\n리뷰\n147개\n에 99점.\n.\n﻿\n2위 젤다 시간의 오카리나(1998) 리뷰\n22개\n99점.\n3위 소울칼리버1 드림캐스트판. 리뷰 24개 98점.\n4위 슈퍼마리오 갤럭시2 리뷰 87개 98점.\nGTA4 리뷰 86개에 98점.",
+      "images": [
+        "https://i3.ruliweb.com/img/26/11/19/1a1f00dd52c4b2497.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1f00d6c794b2497.webp",
+        "https://i3.ruliweb.com/img/26/11/19/1a1f00d6e684b2497.webp",
+        "https://i2.ruliweb.com/img/26/11/19/1a1f00d70594b2497.webp",
+        "https://i3.ruliweb.com/img/26/11/19/1a1f00d725c4b2497.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1f00d744f4b2497.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_a11c01f847de",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "레이맨 레전드 리톨드 - BTS 다이너마이트 뮤지컬 맵 트레일러",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366713",
+      "author": "민초맛돈까스",
+      "time": "03:13",
+      "likes": "4",
+      "comments": "",
+      "content": "",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_ade20f33d330",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "위쳐3 송즈 오브 더 패스트 한국어 더빙 게임플레이 및 위쳐4 디렉터 인...",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366712",
+      "author": "nokcha",
+      "time": "02:48",
+      "likes": "13",
+      "comments": "",
+      "content": "아래의 다시보기 영상 52:50부터\nhttps://chzzk.naver.com/video/16242559\n위쳐 3: 송즈 오브 더 패스트 한국어 더빙 게임플레이 영상과\n위쳐 4 디렉터인 세바스티안 칼렘바 씨의 인터뷰 영상을 보실 수 있습니다.\n인터뷰는 영상 38:00부터",
+      "images": [
+        "https://i2.ruliweb.com/img/26/11/19/1a1ef93bbb3242da.webp",
+        "https://i2.ruliweb.com/img/26/11/19/1a1ef93bd98242da.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1ef93bf6a242da.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1ef93c167242da.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1efa09f6c242da.webp",
+        "https://i2.ruliweb.com/img/26/11/19/1a1efa0a0ec242da.webp",
+        "https://i3.ruliweb.com/img/26/11/19/1a1efa0a2ef242da.webp",
+        "https://i2.ruliweb.com/img/26/11/19/1a1efa0a4e2242da.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_6b0a081d420b",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "록맨: 듀얼 오버라이드 한국어판 캡쳐샷 및 신규 보스 '보트맨' 공개",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366711",
+      "author": "nokcha",
+      "time": "02:44",
+      "likes": "12",
+      "comments": "",
+      "content": "아래의 다시보기 영상 1:11:55부터\nhttps://chzzk.naver.com/video/16242559\n신규 보스 '보트맨'의 영상을 보실 수 있습니다.\n그리고 57:35부터\n록맨: 듀얼 오버라이드 개발자의 인터뷰 내용을 확인하실 수 있습니다.",
+      "images": [
+        "https://i1.ruliweb.com/img/26/11/19/1a1efbdf6ff242da.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1efbde5a4242da.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1efbde73e242da.webp",
+        "https://i2.ruliweb.com/img/26/11/19/1a1efbde931242da.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1efbdef0d242da.webp",
+        "https://i2.ruliweb.com/img/26/11/19/1a1efbdef0e242da.webp",
+        "https://i3.ruliweb.com/img/26/11/19/1a1efbdf273242da.webp",
+        "https://i3.ruliweb.com/img/26/11/19/1a1efbdf2a9242da.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_e735a8180e74",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "GTA 6는 PS5 Pro에서도 성능이 충분하지 않아 60fps을 지원하...",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366710",
+      "author": "nokcha",
+      "time": "02:34",
+      "likes": "18",
+      "comments": "",
+      "content": "조만간 40 FPS 성능 모드가 추가될 것이라는 기대도 접으시는 것이 좋습니다\n이달 초, 락스타 게임즈는 PS5 PRO를 포함한 모든 플랫폼에서 GTA 6가 30 FPS를 목표로 한다고 공식 확인했습니다. 이 소식이 발표되기 전, 본지는 락스타 측에 향후 GTA 6에 60 FPS 혹은 40 FPS 모드가 추가될 가능성이 있는지 문의했습니다. 그리고 그 답변을 들어보면, 적어도 현세대 콘솔에서는 그런 일은 일어나지 않을 것으로 보입니다.\n락스타가 GTA 6를 PS5, PS5 Pro, Xbox Series X, Xbox Series S에서 30 FPS 타깃으로 출시한다고 밝혔을 때, 일부 플레이어들은 이를 달갑게 받아들이지 않았습니다. 많은 이들이 이번 콘솔 세대의 수많은 다른 개발사들처럼 락스타 게임즈 역시 일종의 성능 모드를 제공하기를 바랐기 때문입니다.\n따라서 누군가에게는 매우 실망스러운 소식이었습니다. 하지만 또 다른 이들은 120Hz TV로 게임을 즐기는 플레이어들을 위해 락스타가 출시 후 업데이트를 통해 60 FPS 옵션이나 최소한 40 FPS 옵션이라도 추가해 줄 것이라는 희망을 품고 있었습니다.\n하지만 락스타 게임즈는 코타쿠와의 인터뷰에서 GTA 6의 너무 높은 사양 때문에 PS5 Pro에서도 그러한 업데이트는 없을 것이라고 확인했습니다. GTA 6의 방대한 규모와 사양이 현세대 콘솔들이 감당하기에는 너무 버겁다는 것입니다.\n락스타 게임즈 기술 프로덕션 디렉터인 마크 챔버스(Marc Chambers)는 다음과 같이 설명했습니다.\n“저희의 기본 그래픽 구현에는 레이 트레이싱 반사와 글로벌 일루미네이션이 활용됩니다. PS5 Pro에서는 여기에 레이 트레이싱 그림자가 추가되고, PSSR 기술을 통해 전반적인 선명도가 더욱 향상됩니다. 저희는 PS5 Pro에 탑재된 업그레이드된 그래픽 프로세서(GPU)와 업스케일링 기술을 활용해 게임의 시각적 완성도를 높였습니다. 하지만 PS5 Pro의 중앙 처리 장치(CPU)는 기본형 PS5 콘솔보다 소폭 나아졌을 뿐, 게임 내 복잡한 시뮬레이션을 더 높은 프레임률로 구동할 만큼 강력하지는 않습니다.”",
+      "images": [
+        "https://i2.ruliweb.com/img/26/11/19/1a1efae5a6c242da.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_9957b7bb6609",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "타래: 언바운드 '투귀' 게임플레이 최초공개",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366709",
+      "author": "wind orbit",
+      "time": "01:55",
+      "likes": "5",
+      "comments": "",
+      "content": "타래: 언바운드 투귀 게임플레이 최초 공개\nG-STAR 2026에서 투귀를 첫 공개합니다.\nG-STAR 현장에서 타래를 체험해보세요!\n타래는 동양풍 핵앤슬래시 장르의 게임으로\n2027년 PC,콘솔로 출시될 예정입니다.",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_99f733968a04",
+      "source": "루리웹 콘솔뉴스",
+      "category": "주변기기·하드웨어",
+      "title": "8BitDo 게임큐브 블루투스 게임패드 발매 결정 및 게임패드 특징",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366708",
+      "author": "nokcha",
+      "time": "01:10",
+      "likes": "11",
+      "comments": "",
+      "content": "2026년 12월 10일부터 출고\n가격 :$49.99\n=\n🎮 주요 특징\n클래식 GC 디자인 및 버튼 레이아웃\nTMR 조이스틱: 정밀하고 내구성이 뛰어난 TMR 조이스틱에 팔각형 게이트 적용\n홀 효과 리니어 트리거: 자기장을 이용해 마모가 적고 부드러운 입력이 가능한 리니어 트리거\n진동 지원\n대칭형 Z 및 ZL 범퍼: 양쪽 대칭 구조의 범퍼 버튼\n캡처 버튼: 스크린샷 촬영 및 영상 녹화용 전용 버튼\n터보 기능\n🖥️ 호환성\n닌텐도 스위치 1 / 2 (Switch 1/2)\n윈도우 PC (Windows)\n※ 8BitDo 레트로 무선 리시버를 구입하면 게임큐브에서도 무선으로 사용 가능\nhttps://www.amazon.com/dp/B0DB4NQNB7\n🔌 연결 방식\n2.4GHz 무선: 스위치 / 윈도우 지원\nUSB-C 유선: 스위치 / 윈도우 지원\n블루투스 5.0 (Bluetooth® 5.0): 스위치 지원\n📏 크기 및 무게\n크기: 140.1 × 102.95 × 67.6 mm\n무게: 218.1g\n구성품\nGC 블루투스 게임패드 본체 × 1\n2.4GHz 어댑터 × 1\nUSB 케이블 × 1\n사용자 매뉴얼(설명서) × 1",
+      "images": [
+        "https://i1.ruliweb.com/img/26/11/19/1a1ef6a3546242da.webp",
+        "https://i3.ruliweb.com/img/26/11/19/1a1ef6a36e9242da.webp",
+        "https://i3.ruliweb.com/img/26/11/19/1a1ef6a3ada242da.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1ef6a3cdc242da.webp",
+        "https://i3.ruliweb.com/img/26/11/19/1a1ef6a3ed6242da.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1ef6a40c3242da.webp",
+        "https://i3.ruliweb.com/img/26/11/19/1a1ef71548e242da.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1ef715681242da.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_b62be3c40dd2",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "GTA 6 PS5 노말에선 전투 및 과부화 상황 23~26프레임",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2366707",
+      "author": "루리웹-912735355120",
+      "time": "00:54",
+      "likes": "14",
+      "comments": "",
+      "content": "",
+      "images": [],
       "is_cross_hot": false
     },
     {
@@ -1132,6 +1388,93 @@
       "content": "",
       "images": [
         "https://i2.ruliweb.com/img/26/11/18/1a1ee7a5f815a6f87.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_de80b435d465",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "[단독] 한화생명, ‘기인’ 김기인·'캐니언' 김건부 영입",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359645",
+      "author": "하지만구",
+      "time": "01:57",
+      "likes": "6",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://i3.ruliweb.com/img/26/11/19/1a1ef97afdf32b630.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_524c40459e1c",
+      "source": "루리웹 PC·스팀",
+      "category": "주변기기·하드웨어",
+      "title": "8BitDo 게임큐브 블루투스 게임패드 발매 결정 및 게임패드 특징",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359643",
+      "author": "nokcha",
+      "time": "01:26",
+      "likes": "1",
+      "comments": "",
+      "content": "2026년 12월 10일부터 출고\n가격 :$49.99\n=\n🎮 주요 특징\n클래식 GC 디자인 및 버튼 레이아웃\nTMR 조이스틱: 정밀하고 내구성이 뛰어난 TMR 조이스틱에 팔각형 게이트 적용\n홀 효과 리니어 트리거: 자기장을 이용해 마모가 적고 부드러운 입력이 가능한 리니어 트리거\n진동 지원\n대칭형 Z 및 ZL 범퍼: 양쪽 대칭 구조의 범퍼 버튼\n캡처 버튼: 스크린샷 촬영 및 영상 녹화용 전용 버튼\n터보 기능\n🖥️ 호환성\n닌텐도 스위치 1 / 2 (Switch 1/2)\n윈도우 PC (Windows)\n※ 8BitDo 레트로 무선 리시버를 구입하면 게임큐브에서도 무선으로 사용 가능\nhttps://www.amazon.com/dp/B0DB4NQNB7\n🔌 연결 방식\n2.4GHz 무선: 스위치 / 윈도우 지원\nUSB-C 유선: 스위치 / 윈도우 지원\n블루투스 5.0 (Bluetooth® 5.0): 스위치 지원\n📏 크기 및 무게\n크기: 140.1 × 102.95 × 67.6 mm\n무게: 218.1g\n구성품\nGC 블루투스 게임패드 본체 × 1\n2.4GHz 어댑터 × 1\nUSB 케이블 × 1\n사용자 매뉴얼(설명서) × 1",
+      "images": [
+        "https://i1.ruliweb.com/img/26/11/19/1a1ef6a3546242da.webp",
+        "https://i3.ruliweb.com/img/26/11/19/1a1ef6a36e9242da.webp",
+        "https://i3.ruliweb.com/img/26/11/19/1a1ef6a3ada242da.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1ef6a3cdc242da.webp",
+        "https://i3.ruliweb.com/img/26/11/19/1a1ef6a3ed6242da.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1ef6a40c3242da.webp",
+        "https://i3.ruliweb.com/img/26/11/19/1a1ef71548e242da.webp",
+        "https://i1.ruliweb.com/img/26/11/19/1a1ef715681242da.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_4bb5b425da73",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "타래: 언바운드 - 투귀 공식 데모 플레이",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359641",
+      "author": "이토 시즈카",
+      "time": "2026.11.18",
+      "likes": "4",
+      "comments": "",
+      "content": "동양 다크 판타지 탑다운 액션 RPG 타래: 언바운드의 게임플레이 프리뷰에서 여섯 명의 탐색자가 활약하는 모습을 보고, 각자의 고유한 전투 스타일을 확인해 보세요.\n여러분은 어떤 클래스를 선택하시겠어요?\n*알파 버전 게임플레이 영상으로, 변경될 수 있습니다",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_ad382fa42b60",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "지포스 621.24 드라이버 과도한 디스크 쓰기 문제 보고",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359640",
+      "author": "TopSpoiler",
+      "time": "2026.11.18",
+      "likes": "16",
+      "comments": "",
+      "content": "리소스 모니터의 [디스크] 탭에서 NVDisplay.Container.exe가 거의 쉬지 않고 뭔가 쓰고 있다면 당첨입니다.",
+      "images": [
+        "https://i2.ruliweb.com/img/26/11/18/1a1eed717f7a05c9.webp",
+        "https://i1.ruliweb.com/img/26/11/18/1a1eeda795aa05c9.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ruli_d11404bb9dab",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "소닉 레이싱 크로스월드 - 맥라렌 레이싱 콜라보 시작",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359639",
+      "author": "ComShepard",
+      "time": "2026.11.18",
+      "likes": "1",
+      "comments": "",
+      "content": "맥라렌 레이싱 콜라보 시작!\n맥라렌 레이싱 페스타도 개최 결정!\n모터스포츠계의 빛나는 금자탑 '맥라렌 레이싱'과의 콜라보로 '소닉(맥라렌 레이싱)'이 크로스월드에 참전!\n※획득하시려면 인터넷 로그인이 필요합니다.\n・스킨: '소닉(맥라렌 레이싱)'\n・머신: 'McLaren Racing Car'\n'맥라렌 레이싱 페스타' 콜라보를 기념하여 특별한 이벤트 개최!\n기간：2026년 11월 20일(금) 9:00 ~ 11월 30일(월) 8:59 KST",
+      "images": [
+        "https://i3.ruliweb.com/img/26/11/18/1a1eec55d7f15e737.webp",
+        "https://i2.ruliweb.com/img/26/11/18/1a1eec5710115e737.webp"
       ],
       "is_cross_hot": false
     },

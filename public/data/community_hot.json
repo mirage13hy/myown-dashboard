@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 05:57",
+  "updated_at": "2026-11-19 11:53",
   "source_status": {
     "디시인사이드": "ok (10)",
     "에펨코리아": "cached (10, HTTPStatusError)",
@@ -9,8 +9,1126 @@
     "클리앙": "ok (8)",
     "뽐뿌": "ok (8)"
   },
-  "cross_topics": [],
+  "cross_topics": [
+    {
+      "topic": "수능 재난문자 적발 22명",
+      "sources": [
+        "디시인사이드",
+        "보배드림",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "id": "dc_d437bab7522a",
+          "source": "디시인사이드",
+          "title": "[싱갤]22명 적발"
+        },
+        {
+          "id": "bobae_86db57225595",
+          "source": "보배드림",
+          "title": "전국 수능 시험장 ‘재난문자’ 적발 22명"
+        },
+        {
+          "id": "clien_8b2f6de0fc41",
+          "source": "클리앙",
+          "title": "재난벨 울린 22개 고사실 수험행 5~600명은 그냥 넘어가는건가요?"
+        }
+      ]
+    },
+    {
+      "topic": "리트 만점자 이진우 관련 논란",
+      "sources": [
+        "디시인사이드",
+        "에펨코리아",
+        "보배드림",
+        "MLB파크"
+      ],
+      "posts": [
+        {
+          "id": "dc_1d2081e78651",
+          "source": "디시인사이드",
+          "title": "[싱갤]자수했던 세무냥이 근황"
+        },
+        {
+          "id": "fm_f5efb20c08c1",
+          "source": "에펨코리아",
+          "title": "싱글벙글 파묘된 리트냥이 유튜브 채널[382]"
+        },
+        {
+          "id": "fm_6f0734407930",
+          "source": "에펨코리아",
+          "title": "리트냥이 이진우 합리적추측.JPG[312]"
+        },
+        {
+          "id": "fm_2dfa9b7b6b13",
+          "source": "에펨코리아",
+          "title": "진심) 리트냥이에게 고마운점.jpg[158]"
+        },
+        {
+          "id": "bobae_365132094729",
+          "source": "보배드림",
+          "title": "리트만점자 이진우가 작성한 글"
+        },
+        {
+          "id": "bobae_32231c420b98",
+          "source": "보배드림",
+          "title": "리트 만점 이진우 사태가 심각한 이유"
+        },
+        {
+          "id": "mp_642b563eb708",
+          "source": "MLB파크",
+          "title": "이진우 믿던 분들은 진심 사기 조심해야할 듯"
+        },
+        {
+          "id": "mp_33beb6eec8f4",
+          "source": "MLB파크",
+          "title": "세무냥이는 '상대적 선녀' 효과가 있네요"
+        },
+        {
+          "id": "mp_9bd6afeaa80e",
+          "source": "MLB파크",
+          "title": "이진우는 인터뷰 잠깐만 봐도 저능한게 티가 남"
+        }
+      ]
+    },
+    {
+      "topic": "김창민 감독 살인 사건 1심 선고",
+      "sources": [
+        "보배드림",
+        "클리앙"
+      ],
+      "posts": [
+        {
+          "id": "bobae_121a7333cedf",
+          "source": "보배드림",
+          "title": "꼴랑 징역 12년"
+        },
+        {
+          "id": "bobae_811152404cfc",
+          "source": "보배드림",
+          "title": "속보] '김창민 감독 살인' 30대 2명 징역 12년·3년 .."
+        },
+        {
+          "id": "clien_4c853c2ed5fa",
+          "source": "클리앙",
+          "title": "'김창민 감독 폭행 사망' 피고인 2명 징역 12년·3년…'반성도 없다'"
+        }
+      ]
+    }
+  ],
   "posts": [
+    {
+      "id": "dc_d437bab7522a",
+      "source": "디시인사이드",
+      "title": "[싱갤]22명 적발",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480071&_dcbest=1&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-19 11:51:02",
+      "likes": "33",
+      "comments": "40",
+      "content": "출처: 싱글벙글 지구촌 갤러리\n[원본 보기]",
+      "images": [
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b57a7ebc10acea3b3126e4ec10153c80007667d46fccb42708266686abf02c291e084cc66cb573f4411bfc2cbed06b8dac3812d8f2abca12360e81877dbc91c1096d47f9098678dfad0b0fa8b32e8a24"
+      ],
+      "is_cross_hot": true
+    },
+    {
+      "id": "dc_69a806cd2def",
+      "source": "디시인사이드",
+      "title": "[시갤]이분 음해한거 죄송하면 개추ㅋㅋㄱㅋㅋ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480069&_dcbest=1&page=1",
+      "author": "ㅇㅇ(121.164)",
+      "time": "2026-11-19 11:46:01",
+      "likes": "841",
+      "comments": "96",
+      "content": "계엄?\n꼬라지가 개시발 할만했으면 개추ㅋㅋㅋㅋㅋ\n출처: 시대인재 N 재수종합 갤러리\n[원본 보기]",
+      "images": [
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb9d92ceb&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b57b7ebcf485ec7939a5132f6666fdc82795ef04d36d7bb4e9f6b82639eb443f57a9f645fab998bc62b855e4fd60856ee59dd3e92b6a14e3d61c014be3a35e094fef0547c82061d1e575da3439bdf6d9760f801c886177d5b9f30a072bd7fca48145e1a7a60560f1b81d3a4f34f0949576f7664cc514f33a"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "dc_37ad0437a00d",
+      "source": "디시인사이드",
+      "title": "[특갤]속보) 앳코더 관리자 : 6.2 아스트라는 괴물이야",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480067&_dcbest=1&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-19 11:41:05",
+      "likes": "27",
+      "comments": "16",
+      "content": "출처: 특이점이 온다 갤러리\n[원본 보기]",
+      "images": [
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f99b505b5fccd49b628899cc5b77b7f2e1f353c8491942e8fd5f05e671a299158be8761fbf70d87f49cdfb79f87f"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "dc_5f529977ea21",
+      "source": "디시인사이드",
+      "title": "[기갤]나영석이 남자배우 와꾸에 이렇게 홀려서 극찬하는거 첨봄",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480063&_dcbest=1&page=1",
+      "author": "긷갤러(106.101)",
+      "time": "2026-11-19 11:31:08",
+      "likes": "8",
+      "comments": "45",
+      "content": "나영석 유재석 강호동이 극찬한\n아시아 1황 조각미남 박지훈\n출처: 기타 국내 드라마 갤러리\n[원본 보기]",
+      "images": [
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e75778453b81b9366a643c2ee21068e06034802bf5ec5c4b01c486c09edca50a719ff00955f1638e7a2f1c184e6a209aa5f344994c569ef76f751e63926bbb5ff179b66d61466583a75fd6648437e",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e75778453b81b9366a643c2ee21068e06034800b6a3a3a9a4615cbb738f96554dab4d4cfa5eb603a27dd9f206de0d1650918bd5d341e57eb67ab9235f0cfe1fa0e7cd10cfbcd5e374762eddc73257",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e75778453b81b9366a643c2ee21068e06034803be228ed4d86d3bf0ce1de0ed89c09623abf635d14a1b164f251eab0f3abd65c7af23c22c55f72aa0deca1028c90d7c115b25766c78d36ff13d2101",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e75778453b81b9366a643c2ee21068e06034803bc773c49fe993fdc79f49dc1fc40f5050f5c6fee819b49c2708422fc0bb8fdc5ae66c4d116e7b04f6b547f3de8bf78d5e8d64440a21b290871bb81",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e75778453b81b9366a643c2ee21068e0603480cb78c7a05db8e4cad95261627af22dc1bc43344d46cc9072a65e7e1cd580afe55e3340e711c37fc270361980c651abc207f72cb6b40534862cd1b2e",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e75778453b81b9366a643c2ee21068e0603480db6f8c8943c5897992299a677c70892a5e6d084fd206a8d1cde439337d5119fc7317ba5c96cdd15025394f085dc8d2cf05d5440738788a8e3abc113",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e75778453b81b9366a643c2ee21068e06034805be30e799797e1c5f2f041b1b73b23bf7fa907f3b104edafb39ed2815518f1849d0753dbbf7ed1dea7959b8ff06e120e20f77f626c2e9a412bc20f3",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e75778453b81b9366a643c2ee21068e06034802bf56c6c4b1184f6808ed9b05a71efd02c0397c1e74332496f903fde1121e3f32787d0ac7102759c4f9ee765e3c4524d7028e0730f9547fab79d376"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "dc_2bfce7e97368",
+      "source": "디시인사이드",
+      "title": "[현갤]헉 지금 방금 실시간라이브 “그분” 등장함 ㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480061&_dcbest=1&page=1",
+      "author": "후뇨",
+      "time": "2026-11-19 11:26:04",
+      "likes": "108",
+      "comments": "19",
+      "content": "나는 축구도 잘하고 얼굴도 잘생기고 돈도 많다 진우군\n출처: 현강(수능) 갤러리\n[원본 보기]",
+      "images": [
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2eaed132e9d73bb27badd3&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e757784549db2f8dba59f946c60a4b264b2ba07962274a3f6d7d34a90e55666b504ae3177a96752be44bbb6ab86b60464"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "dc_1d2081e78651",
+      "source": "디시인사이드",
+      "title": "[싱갤]자수했던 세무냥이 근황",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480057&_dcbest=1&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-19 11:16:01",
+      "likes": "183",
+      "comments": "160",
+      "content": "경찰에 제출한 기기들이 훼손돼서\n자택 압수수색 하기로 함\n출처: 싱글벙글 지구촌 갤러리\n[원본 보기]",
+      "images": [
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b57b7ebcf982e17b73f25773333fadc12591e874422946b43ef33796e38d6f70c22108c99a9313bf28dde1c8a2f1646cc2f5dba1356d20a47d6efc3ac2316c8c2fe5"
+      ],
+      "is_cross_hot": true
+    },
+    {
+      "id": "dc_7687f2870edf",
+      "source": "디시인사이드",
+      "title": "[아갤]생생정보 홍주연",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480055&_dcbest=1&page=1",
+      "author": "아갤러(211.185)",
+      "time": "2026-11-19 11:11:03",
+      "likes": "28",
+      "comments": "35",
+      "content": "출처: 아나운서 갤러리\n[원본 보기]",
+      "images": [
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2cb3de29f0dc3ba37ced&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e757684562b50f670b63a31d37d4841d6dcb5595098eeea0b1e961ceb64040a1efb5ea06ace279d3561",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2cb3de29f0dc3ba37ced&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e757684562b50f670b63a31d37d4841d6dcb5595a7f3395c9272776a6f5fa944e5e8274eadf36a67b34",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2cb3de29f0dc3ba37ced&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e757684562b50f670b63a31d37d4841d6dcb5595860013fbfe82584846881c7a40380c393fe36951f1f",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2cb3de29f0dc3ba37ced&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e757684562b50f670b63a31d37d4841d6dcb5545916fde5339f10fec323f75abb6e1a335cb4dcf66109",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2cb3de29f0dc3ba37ced&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e757684562b50f670b63a31d37d4841d6dcb5595866023eb4ec2e878768d0c7a2578696959408cf913d",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2cb3de29f0dc3ba37ced&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e757684562b50f670b63a31d37d4841d6dcb5595bdcef800497fa7cbbdf48f9938d2c8c08db190060a6"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "dc_de474dbf3221",
+      "source": "디시인사이드",
+      "title": "[중갤]리뷰 존나 웃기네 ㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480053&_dcbest=1&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-19 11:06:02",
+      "likes": "218",
+      "comments": "225",
+      "content": "민주당 시뮬레이터 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n- dc official App\n출처: 중세게임 갤러리\n[원본 보기]",
+      "images": [
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2cb2d521e4df3d&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e757784566e2fd4f9121d80aa777415e15837827bbf9b56d43b01ea25915abde5f5f9c1866498ed4dd299d3d3e577566049be4c473a9a0bf8b0ea2f1a831d18bf7d6d"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "dc_59d28ee9ff24",
+      "source": "디시인사이드",
+      "title": "[시갤]억빠가 아니라고 ㅋㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480051&_dcbest=1&page=1",
+      "author": "ㅇㅇ(123.212)",
+      "time": "2026-11-19 11:01:02",
+      "likes": "291",
+      "comments": "64",
+      "content": "그냥 얘가 하는 행동들이 다 개쳐웃긴걸 어떡하라고 ㅅㅂㅋㅋㅋㅋㅋ\n출처: 시대인재 N 재수종합 갤러리\n[원본 보기]",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "dc_03c3cbc48f68",
+      "source": "디시인사이드",
+      "title": "[싱갤]아 내일 수능 보는데 ㅈㄴ 떨린다",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=480046&_dcbest=1&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-19 10:51:04",
+      "likes": "225",
+      "comments": "61",
+      "content": "응 사실 좆구라고 수능 본 지 10년 넘음\n내일 수능보는 새끼들 화이팅 해라\n근데 내일 수능 보는데 이 글을 본다?\n답 없으니까 그냥 흙일화 하셈 ㅋㅋ\n출처: 싱글벙글 지구촌 갤러리\n[원본 보기]",
+      "images": [
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b57b7ebcf982e17b73f25773333fadc12591e874067413d332fc3495e78d0177912c32cd0d13763f43ccf0738946c9ba2ce0b7bbec8840b01b"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "fm_8114a9a4a7b2",
+      "source": "에펨코리아",
+      "title": "수능 연기 찬성파 vs 반대파[1591]",
+      "url": "https://www.fmkorea.com/best2/10564281194",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "수능 연기 찬성파\n미미미누, 정승제, 이지영 (사탐 1타), 윤도영 (입시 1타), 유대종, 조정식( 영어 1타) 현우진 (수학 1타) 등등 입시 전문가들 대부분\nVS\n반대파\n교육부",
+      "images": [
+        "https://image.fmkorea.com/files/attach/new5/20261117/10564281194_486616_1abf17fd064c6aaf8c9b9e7c6480ca6a.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261117/10564281194_486616_2f049db6df47c7ec71fbfb73a0cc7dcf.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261117/10564289070_486616_f3ac5ce1e5913c9b435b102ede3295aa.jpeg",
+        "https://image.fmkorea.com/files/attach/new5/20261117/10564281194_486616_d69bde2ce073373ae3f2655696e62497.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261117/10564281194_486616_6fe6d5c299cbfabe374e5cad6ce1e4c7.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261117/10564281194_486616_0a3cd5c5f685f99145239e559f7bdffa.png.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261117/10564281194_486616_204b61a649f5251ede99d2b114e169d2.jpeg.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261117/10564281194_486616_fb3982284ffbcedc1f4a6cc55bf80b04.png.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "fm_f5efb20c08c1",
+      "source": "에펨코리아",
+      "title": "싱글벙글 파묘된 리트냥이 유튜브 채널[382]",
+      "url": "https://www.fmkorea.com/best2/10564253086",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "한 달 전까지 오버워치하다 검거\nhttps://youtu.be/9JmULkChVdk?si=1mNAxsI4zOxtfyxA\n엄...ㅋㅋㅋㅋ\n참고로 인방에서도 수십차례 주작하다 걸린 옵치갤 정병고닉이라고 함",
+      "images": [
+        "https://image.fmkorea.com/files/attach/new5/20261117/10564253086_486616_1f7cb0a9f9072f405b3d36e8dd03f2e7.jpg.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261117/10564253086_486616_8b97178c4e3b241da6d43cf9c2b66af9.jpg.webp"
+      ],
+      "is_cross_hot": true
+    },
+    {
+      "id": "fm_6f0734407930",
+      "source": "에펨코리아",
+      "title": "리트냥이 이진우 합리적추측.JPG[312]",
+      "url": "https://www.fmkorea.com/best2/10564219328",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "고려대에 다니던 이진우\n사실 그의 원래 목표는 수능만점 인플루언서였음\n26수능을 접수한 후 수능만점으로 유명해져서 책판매 등 인플루언서 활동을 하며 돈을 벌려고 했던 것\n수능만점자가 다수일 것을 대비해 그 중에서도 독보적인 취급을 받고자 화2생2 선택\n->\n수능이 다가오는데 시뮬을 돌려봐도 생2에서 이미지인식 문제가 자꾸 발생함.\n국어,영어: 이미지가 없거나 문제푸는데에 영향이 적음\n수학: 이미지가 큼지막해서 이미지인식이 잘 됨\n화2: 이미지가 있으나 보통 표,그래프거나 간단한 이미지임.\n반면 생2는 이미지가 작고 상세해서 인식이 잘 안 됨. 만점을 위해서 급하게 생2만 과외가 필요했던 이유임. 이미지를 대충이라도 설명글로 문제 옆에 쓴 뒤 카메라에 인식시키려는 속셈이었던 것.\n->\n근데 수능 며칠전에 하려니 그게 되나\n결국 26수능에서 생2 이미지인식 문제로 만점을 받지 못하고 1개를 틀림\n->\n서울대 의대는 면접이 있어서 걸러질 위험 + 당시 뜨던 영상(의대가 치대의 10배 공부량이다)을 보고 서울대 치대 진학\nhttps://youtu.be/-8_nOsCGumw?si=QkC_bYoqRCu7npnD\n->\n수능만점을 받지 못해 인플루언서가 되지 못한 점을 만회하고자\n수능만점 대신 유명해질 수 있는 더 빠른 방법(7월 리트시험)을 치게 된 것으로 추측.\n진로와 관계없는 리트를 갑자기 치게 된 이유임.\n->\n그렇게 정말 리트만점을 받게되고 이 사달이 난 것\n=====\n라이어게임 승률80% 씹고수로서 추측해봤다",
+      "images": [
+        "https://image.fmkorea.com/files/attach/new5/20261117/10564219328_486616_22fd1c2c5038efe53dec6fc20ef402fa.webp"
+      ],
+      "is_cross_hot": true
+    },
+    {
+      "id": "fm_7d4d82075f06",
+      "source": "에펨코리아",
+      "title": "리트 만점자가 실수한것[356]",
+      "url": "https://www.fmkorea.com/best2/10564220061",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "서울대 치대까지는 어떻게든 들어갔는데\n과정 따라가는게 너무 힘들었다고 생각한듯\n예과 과정이 치대 본격 교육 들어가기전에 기본교양 배우는 과정인데\n거기에서도 과락이라는 소문이 있긴함...\n그래서 머리굴려서 생각한게 리트시험으로 고득점받고 강사루트타자 이거였던거 같음\n세상이 다 자기 뜻대로 되니까 배경믿고 리트만점 믿어주겠지? 라고 생각하고 무리수 둔게\n지금 스노우볼 굴러서 여기까지온것ㅋㅋㅋ\n그냥 조용히 살았으면 아무도 뭐라고 할사람 없는데\n괜히 대중매체 나와서 인지도 쌓으려고 한게 화근이었음\n그나저나 존나 소름돋는건 3~4등급 애들이 조절해가며 적당히 해먹고\n명문대 들어가고 조용히 살고있다는게 개 소름이네 ㅋㅋㅋ",
+      "images": [],
+      "is_cross_hot": true
+    },
+    {
+      "id": "fm_1a01f49fa8e8",
+      "source": "에펨코리아",
+      "title": "현재 개 좆된 100만 유튜버[767]",
+      "url": "https://www.fmkorea.com/best2/10563193557",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "양어장에 \"그 천연기념물\" 5마리 이상 나타남 ㄷㄷㄷ",
+      "images": [
+        "https://image.fmkorea.com/files/attach/new5/20261116/10563193557_486616_765fdeca1fb4d00be46000426d42a136.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261116/10563193557_486616_6d5ae7eb6ee6c4553886b40d7a0e3839.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261116/10563193557_486616_8f6adead80fd4ec44f6163ecdaa245b9.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261116/10563193557_486616_58817c1c1c2c812388c2a0eae5d35ac0.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261116/10563193557_486616_5a554b89feadc3b6ef907aa5df83dec7.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261116/10563193557_486616_7f93ee4938acf6eb2689291586ef3289.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261116/10563193557_486616_51dcc38dc84caf62af378270b04d62fb.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261116/10563193557_486616_e3722201499d0f435c21332ba1c5ba96.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "fm_2dfa9b7b6b13",
+      "source": "에펨코리아",
+      "title": "진심) 리트냥이에게 고마운점.jpg[158]",
+      "url": "https://www.fmkorea.com/best2/10564246718",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "수능친지10년은 더된\n304050늙크크들도\n수능날을 기대되게 만듬\n다 개구라인거 알면서도 보게되는\n“대국민 치팅 마술쇼“",
+      "images": [
+        "https://image.fmkorea.com/files/attach/new5/20261117/10564246718_486616_104c331e3c093b7ed6724e3d450b3178.jpeg.webp"
+      ],
+      "is_cross_hot": true
+    },
+    {
+      "id": "fm_c3b315afe1d6",
+      "source": "에펨코리아",
+      "title": "고출력+과속은 한순간이다[283]",
+      "url": "https://www.fmkorea.com/best2/10564308517",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "7만 정도 탄 M5 컴페 라는데…..\n도심에서 얼마를 때려 밟은거야 ;;\n외국인 수출업자 사고\n운전자 멀쩡히 걸어나옴",
+      "images": [
+        "https://image.fmkorea.com/files/attach/new5/20261117/10564308517_6761627_a8f19d84ee2e527cc10dca7e382c8dad.jpeg.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261117/10564308517_6761627_76fd2fa4dc6fa364ace7b3fa5816ecd9.jpeg.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261117/10564308517_6761627_b687b9d12b63208a6fc3c86022aefb58.jpeg.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261117/10564357238_6761627_e39a1172f693e1a6574c387c813ab1f4.jpeg",
+        "https://image.fmkorea.com/files/attach/new5/20261117/10564357238_6761627_2f761949920310c106bcd6ad220b5807.jpeg",
+        "https://image.fmkorea.com/files/attach/new5/20261117/10564357238_6761627_7360a94d828635df1d8ebdd55c173ade.jpeg"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "fm_25e992734ff8",
+      "source": "에펨코리아",
+      "title": "교육부장관 입장발표ㅋㅋㅋㅋㅋ[669]",
+      "url": "https://www.fmkorea.com/best2/10562978529",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "이렇게까지 한다고(쳐쪼개며,설마 수능에서 하겠냐고 ㅋㅋㅋㅋ)\n아 몰라 무섭다노 ㅋㅋㅋㅋ",
+      "images": [
+        "https://image.fmkorea.com/files/attach/new5/20261116/10562978529_486616_1205cc2a646c7aaa321fc351d00d47d5.jpg.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261116/10562978529_486616_483efc3548779f9b193a5595d22494da.jpg.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "fm_592fb21be292",
+      "source": "에펨코리아",
+      "title": "LEET 만점자, \"7개년 기출은 학습 도구로 사용했다\"[163]",
+      "url": "https://www.fmkorea.com/best2/10564219022",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "이제 이해가 되네 ㄷㄷ\n좋은 기계학습 도구였습니다..",
+      "images": [
+        "https://image.fmkorea.com/./files/attach/new5/20261117/10564219022_486616_7866e3260f0fec087e2b81e655165939.png.webp"
+      ],
+      "is_cross_hot": true
+    },
+    {
+      "id": "fm_0df97d81f44c",
+      "source": "에펨코리아",
+      "title": "27학년도 메디컬 합격자 배출 1위[183]",
+      "url": "https://www.fmkorea.com/best2/10563081365",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "용산전자상가\n의과대학 1,000명 배출\n축하합니다",
+      "images": [
+        "https://image.fmkorea.com/./files/attach/new5/20261116/10563081365_486616_ea924c4b1ad06228e840ac1c2f1ba0e7.jpeg.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "bobae_86db57225595",
+      "source": "보배드림",
+      "title": "전국 수능 시험장 ‘재난문자’ 적발 22명",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048685&vdate=",
+      "author": "은빛설원위..",
+      "time": "11:17",
+      "likes": "44",
+      "comments": "",
+      "content": "https://www.hani.co.kr/arti/society/schooling/1288090.html",
+      "images": [
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/11/hcra1795054612_820206789.jpg"
+      ],
+      "is_cross_hot": true
+    },
+    {
+      "id": "bobae_121a7333cedf",
+      "source": "보배드림",
+      "title": "꼴랑 징역 12년",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048681&vdate=",
+      "author": "백제의4번..",
+      "time": "10:52",
+      "likes": "79",
+      "comments": "",
+      "content": "(남양주=연합뉴스) 심민규 기자 = 의정부지법 남양주지원 형사1부(김국식 부장판사)는 19일 김창민 영화감독을 폭행해 살해한 혐의 등으로 구속기소 된 피고인 이모(32)씨와 임모(32)씨에게 각각 징역 12년과 징역 3년을 선고했다.\n이들은 지난해 10월 20일 새벽 경기 구리시의 한 식당에서 소음 문제로 다투던 김 감독을 골목으로 끌고 가 주먹과 발 등으로 마구 때려 살해한 혐의로 재판에 넘겨졌다.\n당시 김 감독과 함께 있던 발달장애 아들이 폭행 장면을 목격해 겁에 질리게 하는 등 정서적으로 학대한 혐의도 있다.\n김 감독은 폭행당한 뒤 정신을 잃고 119구급대에 의해 병원으로 옮겨졌으나 깨어나지 못하고 17일 만에 뇌사 판정을 받았으며 4명에게 장기를 기증하고 숨졌다.\n형기 다 마치고 나와도 44살\n나와서 사람 3~4명은 더 보내겠네",
+      "images": [
+        "https://imgnews.pstatic.net/image/001/2026/11/19/PYH2026050404220006002_P4_20261119103416896.jpg?type=w860"
+      ],
+      "is_cross_hot": true
+    },
+    {
+      "id": "bobae_811152404cfc",
+      "source": "보배드림",
+      "title": "속보] '김창민 감독 살인' 30대 2명 징역 12년·3년 ..",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048682&vdate=",
+      "author": "사패산꼴데",
+      "time": "10:52",
+      "likes": "46",
+      "comments": "",
+      "content": "https://www.news1.kr/local/gyeonggi/6359213",
+      "images": [
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/10/BwkW1795053127_833743856.png",
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/10/BwkW1795053129_1791034089.png",
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/10/BwkW1795052952_1947124750.png",
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/11/BwkW1795053949_1445814001.png",
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/11/BwkW1795053950_372522879.png",
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/11/BwkW1795053950_425749483.png",
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/10/BwkW1795052968_180386207.jpg"
+      ],
+      "is_cross_hot": true
+    },
+    {
+      "id": "bobae_1f3d8e0fbc29",
+      "source": "보배드림",
+      "title": "수능 날이면 봐줘야 하는 짤 ㅋㅋ",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048683&vdate=",
+      "author": "마포보안관",
+      "time": "10:47",
+      "likes": "39",
+      "comments": "",
+      "content": "수능날 그어떤 사진보다 기억에 남는 ㅋㅋ\n절하는 학생른 여고생 이라고 ㅎ",
+      "images": [
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/10/ckgu1795052794_1704363453.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/10/ckgu1795052795_334389090.jpg"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "bobae_365132094729",
+      "source": "보배드림",
+      "title": "리트만점자 이진우가 작성한 글",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048678&vdate=",
+      "author": "풀모닝",
+      "time": "10:41",
+      "likes": "86",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/10/AwhL1795052466_396399930.jpg"
+      ],
+      "is_cross_hot": true
+    },
+    {
+      "id": "bobae_4e43fc62d4b5",
+      "source": "보배드림",
+      "title": "대놓고 담배 피는 요즘 애들",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048684&vdate=",
+      "author": "테메노스",
+      "time": "10:02",
+      "likes": "41",
+      "comments": "",
+      "content": "청소년 흡연 행위 자체는 형사 처벌 대상이 아니라서\n길거리에서 떳떳하게 흡연하는 요즘애들.\n천안공고 골목 가보면 사복 입고 대놓고 담배 핌.\n흡연 제지하면 욕하고 폭행까지함.\n그런데 이런 쓰레기 같은 애들을 경찰과 학교가\n편들고 봐주는 꼴을 보고 더 기가 막혔음.\n그래서일까.. 천안공고 골목 주민들은\n학생들만 보이면 바로 집으로 들어가심.\n애들이 깽판을 치고 싸움을 해도 모른척 함.",
+      "images": [
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/09/show1795048683_335346288.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/09/show1795048684_1301908534.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/09/show1795048685_187262034.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/09/show1795048687_2120821914.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/09/show1795048688_734260990.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/09/show1795048689_1514814947.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/09/show1795050094_564160425.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/09/show1795050095_180957821.jpg"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "bobae_4b0ecb472ad7",
+      "source": "보배드림",
+      "title": "백종원, 최소 수백명 고소. 여러 경찰서에 쪼개기”…‘합의금..",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048675&vdate=",
+      "author": "보배드럼통..",
+      "time": "09:58",
+      "likes": "94",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/09/hoko1795049891_458172720.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "bobae_fbaad0661c96",
+      "source": "보배드림",
+      "title": "요즘 작살난 소아과 병원 근황",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048677&vdate=",
+      "author": "달리는신짱..",
+      "time": "09:54",
+      "likes": "60",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/09/77621795049669_1244448668.webp",
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/09/77621795049670_1334548351.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "bobae_32231c420b98",
+      "source": "보배드림",
+      "title": "리트 만점 이진우 사태가 심각한 이유",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048673&vdate=",
+      "author": "봄의왈츠네",
+      "time": "09:49",
+      "likes": "146",
+      "comments": "",
+      "content": "평생 공부 못하던 애가 뜬금없이 고대-> 서울대 치대-> 리트 만점까지 온거임\n대략 24수능부터 다 치팅했다고 봐도 무방\n이진우 외 24 25 26수능 지난 3년간 전국에 AI치팅으로 의치대 서울대간 애들이 얼마나 될런지...\n그걸 27수능 보기 직전까지 교육부가 눈치도 못챘다는게 진짜 코메디",
+      "images": [
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/09/AVQS1795049348_784752664.jpg"
+      ],
+      "is_cross_hot": true
+    },
+    {
+      "id": "bobae_06ba25de18e9",
+      "source": "보배드림",
+      "title": "블라인드에 올라온 지난주 로또 1등 후기",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048671&vdate=",
+      "author": "전문대는꿈",
+      "time": "09:47",
+      "likes": "127",
+      "comments": "",
+      "content": "이번주는 보배형들 중에서 1등 나오시길★",
+      "images": [
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/09/GQkJ1795049241_1443585956.webp",
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/09/GQkJ1795049242_1658696909.webp",
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/09/GQkJ1795049242_1909144255.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "mp_642b563eb708",
+      "source": "MLB파크",
+      "title": "이진우 믿던 분들은 진심 사기 조심해야할 듯",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611190120204897&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "author": "",
+      "time": "11:52:11",
+      "likes": "",
+      "comments": "",
+      "content": "",
+      "images": [],
+      "is_cross_hot": true
+    },
+    {
+      "id": "mp_33beb6eec8f4",
+      "source": "MLB파크",
+      "title": "세무냥이는 '상대적 선녀' 효과가 있네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611190120204891&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "author": "",
+      "time": "11:52:08",
+      "likes": "",
+      "comments": "",
+      "content": "‌일찍이 자수 + 끝없는 반성 + 성실히 조사에 임함 + 사회에 경각심\n처음에는 괘씸했는데\n리트 만점자 보다가 보니까\n선녀 였네요\n추천\n0\n공유",
+      "images": [],
+      "is_cross_hot": true
+    },
+    {
+      "id": "mp_9bd6afeaa80e",
+      "source": "MLB파크",
+      "title": "이진우는 인터뷰 잠깐만 봐도 저능한게 티가 남",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611190120204888&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "author": "",
+      "time": "11:52:02",
+      "likes": "",
+      "comments": "",
+      "content": "디지털 디톡스, 당류 금지를 3주동안 했다고 수능 7등급 맞은 대가리가 고대,서울대 치대합격에 리트만점받는 수준으로 각성을한다? 이걸 믿고 이놈 책 산 사람도 똑같은 능지일 듯\n추천\n0\n공유",
+      "images": [],
+      "is_cross_hot": true
+    },
+    {
+      "id": "mp_b82f5cdb0f2a",
+      "source": "MLB파크",
+      "title": "축구 국대 감독 윤정환이나 이정효 어떤가요?",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611190120204885&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "author": "",
+      "time": "11:52:01",
+      "likes": "",
+      "comments": "",
+      "content": "‌\n국내 감독 여론 안좋아질 때마다 반사적으로 외국 감독 선임하는거 같은데,\n윤정환이나 이정효 정도면 그래도 어느정도 능력 검증됐다고 봐도 되지 않나요?\n외국 감독보다는 훨씬 성과가 괜찮을 것 같은데..\n추천\n0\n공유",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "mp_a55a728d941f",
+      "source": "MLB파크",
+      "title": "앤트로픽 내일 새벽2시 매수! 공모가 83불 방법과 주가 전망",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611190120204882&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "author": "",
+      "time": "11:51:05",
+      "likes": "",
+      "comments": "",
+      "content": "내일 새벽 앤트로픽 상장\n83불 공모가 확정 내일 새벽 2시쯤 매수할 수 있다는데?!\n앤트로픽 상장 직후 한 90불 라인에서 매수 가능.\n매수해야 하는 이유 내일 삼전닉스 주가 상승 가능?\n파트라슈의 주식이야기 : 네이버 블로그\nblog.naver.com\n앤트로픽 상장 관련 정보와 분석\n추천\n0\n공유",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "mp_6e0e3330cc7c",
+      "source": "MLB파크",
+      "title": "지금도 ai 치팅이 불가능하지는 않네요",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611190120204879&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "author": "",
+      "time": "11:50:48",
+      "likes": "",
+      "comments": "",
+      "content": "‌ai 두개와 대화를 해봤는데 불법이기 때문에 자세히 답할 수 없다고 하는데\n빙빙 돌려서 말하니, 가능한 방법을 알게되네요\n1. 섬유 형태 초소형 카메라 존재, 단추형이 아니라 검정색 후드 같은 옷 입고 바느질로 정교하게 설치하면 티 안남\n2. 기존 통신망을 통해 고사장 밖에 주차하고 대기 중인 공범에게 사진 전송\n3. ai로 문제를 풀고 정답 발송\n4. 이어폰은 위험하고, 모니터 컨택트 렌즈나, 소형 진동 디바이스를 은밀한 부분에 설치하면 소통 가능\n5. 전원이 문제인데, 수능 시험 시간 버틸 초소형 전원 공급장치는 너무나 많다고 함\n결국 중국같이 통신망 끊는 방법이 필요한 것 같습니다. 중국도 다 조사하고 연구해서 결국 부정의 근본을 차단하는거네요\n왠지 현재 저 방식으로 시험 보는 범죄자들이 있을 듯 ㅜㅜ\n추천\n0\n공유",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "mp_02374284e2e2",
+      "source": "MLB파크",
+      "title": "AI로 가짜 진단서 41장 '뚝딱'…사회복무요원, 50일 복무 이탈",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611190120204876&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "author": "",
+      "time": "11:50:48",
+      "likes": "",
+      "comments": "",
+      "content": "‌\nAI로 가짜 진단서 41장 '뚝딱'…사회복무요원, 50일 복무 이탈 : 네이트 뉴스\n네이트 뉴스\n한눈에 보는 오늘 : 사회 - 뉴스 : 19일 부산지법 형사4단독은 생성형 인공지능(AI) 챗GPT로 병원 진단서 41장을 위조해 50일간 무단으로 복무를 이탈한 20대 사회복무요원에게 징역 8개월에 집행유예 2년을 선고했다. /사진=게티이미지뱅크생성형 인공지능(AI) 챗GPT로 병원 진단\n생성형 인공지능(AI) 챗GPT로 병원 진단서 41장을 위조해 50일간 무단으로 복무를 이탈한 20대 사회복무요원에게 집행유예가 선고됐다.\n19일 뉴시스에 따르면 부산지법 형사4단독은 사문서위조 등 혐의로 기소된 20대 A씨에게 징역 8개월에 집행유예 2년을 선고했다.\n부산 한 구청 소속 사회복무요원이던 A씨는 지난해 7월부터 올해 3월까지 챗GPT를 이용해 병원 진단서 41장을 위조한 뒤 이를 제출하는 수법으로 총 50일간 정당한 사유 없이 복무를 이탈한 혐의로 재판에 넘겨졌다.\n진짜 온 세상이 난리네요\n신기술만 나오면 어째 이렇게 나쁜쪽으로만 쓸 생각을 하는지\n추천\n0\n공유",
+      "images": [
+        "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/mt/2026/11/19/mt_1795051024776_721865_0.jpg"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "mp_1784077584b3",
+      "source": "MLB파크",
+      "title": "AI가 남들 얘기라고 생각했던 사람들",
+      "url": "https://mlbpark.donga.com/mp/b.php?id=202611190120204873&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
+      "author": "",
+      "time": "11:50:34",
+      "likes": "",
+      "comments": "",
+      "content": "이제는 그 생각을 못 하겠죠?\n거품이 아니라 오히려 과소 평가라는 느낌이 드네요.\n추천\n0\n공유",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ou_7fd806185ea8",
+      "source": "오늘의유머",
+      "title": "일본인 한국 병원 후기.jpg",
+      "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=484138&s_no=484138&page=1",
+      "author": "우가가",
+      "time": "26/11/17 00:35",
+      "likes": "63",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://thimg.todayhumor.co.kr/upfile/202611/17947524918a160c37b7904bc582522e243c3249bd__mn117629__w694__h341__f54649__Ym202611.png",
+        "https://thimg.todayhumor.co.kr/upfile/202611/179475249284380a74be354d4eb5b4b9adba385e08__mn117629__w702__h262__f30302__Ym202611.png",
+        "https://thimg.todayhumor.co.kr/upfile/202611/1794752493c376ad5f11a2431f9d37ed489ef49714__mn117629__w694__h199__f15416__Ym202611.png",
+        "https://thimg.todayhumor.co.kr/upfile/202611/1794752500a7f001e3755a4dbab8179c55008f78f1__mn117629__w674__h159__f14287__Ym202611.png"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ou_519992abb803",
+      "source": "오늘의유머",
+      "title": "장애가 옮으면 어쩌라고 그래!!",
+      "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=484137&s_no=484137&page=1",
+      "author": "우가가",
+      "time": "26/11/16 16:26",
+      "likes": "70",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://thimg.todayhumor.co.kr/upfile/202611/17946557364132babcf598453f9b0ff00bd7227be0__w538__h8101__f675611__Ym202611.jpg",
+        "https://thimg.todayhumor.co.kr/upfile/202611/1794655736fd290fa3f327457ea384ec3c297a3554__w674__h484__f47817__Ym202611.png"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ou_40ea1876c7fa",
+      "source": "오늘의유머",
+      "title": "펌) 이번에 젠슨황 보면서 든 생각인데",
+      "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=484136&s_no=484136&page=1",
+      "author": "우가가",
+      "time": "26/11/14 21:53",
+      "likes": "90",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://thimg.todayhumor.co.kr/upfile/202611/179429644260f52735448b46239631aab4bd6bcac9__w1079__h2243__f248625__Ym202611.jpg",
+        "https://thimg.todayhumor.co.kr/upfile/202611/17942964419b865cea0ccc40d694f57acbb68ddef0__w674__h305__f31288__Ym202611.png"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ou_29cea9cae52b",
+      "source": "오늘의유머",
+      "title": "일본인이 생각하는 한국 드라마가 세계적으로 히트한 이유.jpg",
+      "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=484135&s_no=484135&page=1",
+      "author": "우가가",
+      "time": "26/11/14 08:04",
+      "likes": "83",
+      "comments": "",
+      "content": "(짤)\n(본문)",
+      "images": [
+        "https://thimg.todayhumor.co.kr/upfile/202611/1794149661cc1a125015bc425088300013995dee99__mn117629__w800__h1064__f122603__Ym202611.png",
+        "https://thimg.todayhumor.co.kr/upfile/202611/17941496721e6347d430154478b513c002978a98ca__mn117629__w762__h1004__f121267__Ym202611.jpg",
+        "https://thimg.todayhumor.co.kr/upfile/202611/179414967244232c2da9114289a3a263c04d2bf9da__mn117629__w758__h412__f41697__Ym202611.jpg",
+        "https://thimg.todayhumor.co.kr/upfile/202611/17941496730312d236c6874f16ae4cad6ae02899d3__mn117629__w762__h986__f147930__Ym202611.jpg",
+        "https://thimg.todayhumor.co.kr/upfile/202611/17941497818573a893dca248f983a44a5aa88c5ccb__mn117629__w456__h99__f9858__Ym202611.png",
+        "https://thimg.todayhumor.co.kr/upfile/202611/1794149796b99c02140d084453a781b7d29d9af336__mn117629__w674__h618__f78636__Ym202611.png"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ou_db08c080ded4",
+      "source": "오늘의유머",
+      "title": "300년 전 영국 여자들이 해피엔딩 내달라고 작가 협박한 사건.jpg",
+      "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=484134&s_no=484134&page=1",
+      "author": "우가가",
+      "time": "26/11/14 08:04",
+      "likes": "80",
+      "comments": "",
+      "content": "씹선비 하니까 우리 오유가 생각나서 그만....\n아 네 걍 퍼온거에요",
+      "images": [
+        "https://thimg.todayhumor.co.kr/upfile/202611/17940421196121fca5bbe14152bed0471f45ed7f6a__w538__h14099__f934587__Ym202611.jpg",
+        "https://thimg.todayhumor.co.kr/upfile/202611/179404211894045815c46d4f0c98001a628842fa85__w674__h372__f38817__Ym202611.png"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ou_88eac8a1eeaa",
+      "source": "오늘의유머",
+      "title": "여친 쌩얼보고 못생겼다고 하면 안 되는 이유",
+      "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=484133&s_no=484133&page=1",
+      "author": "감동브레이커",
+      "time": "26/11/14 07:43",
+      "likes": "95",
+      "comments": "",
+      "content": "",
+      "images": [
+        "http://thimg.todayhumor.co.kr/upfile/202611/17944147119e54cfd074da4c1db9cd3c8cff4ec4cc__mn422209__w1080__h509__f40946__Ym202611.jpg"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ou_69f3b3180def",
+      "source": "오늘의유머",
+      "title": "소심한 댕댕이 입양 후기",
+      "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=484132&s_no=484132&page=1",
+      "author": "우가가",
+      "time": "26/11/13 22:54",
+      "likes": "86",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://thimg.todayhumor.co.kr/upfile/202611/1794467912ecaaa0e099da4b53bf2f35f928c145fb__w537__h13600__f708920__Ym202611.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ou_93f79fdf922f",
+      "source": "오늘의유머",
+      "title": "멸종위기로부터 자신의 종족을 구한 아다 영웅",
+      "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=484131&s_no=484131&page=1",
+      "author": "감동브레이커",
+      "time": "26/11/13 22:47",
+      "likes": "85",
+      "comments": "",
+      "content": "",
+      "images": [
+        "http://thimg.todayhumor.co.kr/upfile/202611/17944598236375a2e404e84181a98dde92304606c8__mn422209__w850__h1063__f122657__Ym202611.jpg",
+        "http://thimg.todayhumor.co.kr/upfile/202611/1794459823a7fe308a70cf4ea49a9fb66a03eae1e0__mn422209__w850__h714__f109732__Ym202611.jpg"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ou_636238da8091",
+      "source": "오늘의유머",
+      "title": "김민석 이 ㅂ신은 일 안하나?",
+      "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=484130&s_no=484130&page=1",
+      "author": "퇴개미",
+      "time": "26/11/13 15:28",
+      "likes": "93",
+      "comments": "",
+      "content": "별 개짓꺼리 다동원해서 당대표하더만\n한다는짓이 이낙연 시즌2\n총선때 많이 날아간다\n에라이 ㅂ신들",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ou_39f2582b9d29",
+      "source": "오늘의유머",
+      "title": "미국사람들이 아플때 먹는 약값봐 ㄷㄷㄷ",
+      "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=484129&s_no=484129&page=1",
+      "author": "우가가",
+      "time": "26/11/13 14:52",
+      "likes": "79",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://thimg.todayhumor.co.kr/upfile/202611/17941936831ac78ed0ade64ebba723bbdb94bf13d3__w1079__h10655__f1568004__Ym202611.jpg",
+        "https://thimg.todayhumor.co.kr/upfile/202611/17941936828ca5f01c7197417f991902f8fb234237__w674__h883__f107026__Ym202611.png"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "clien_8b2f6de0fc41",
+      "source": "클리앙",
+      "title": "재난벨 울린 22개 고사실 수험행 5~600명은 그냥 넘어가는건가요?",
+      "url": "https://www.clien.net/service/board/park/19295151?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-19 11:49",
+      "likes": "0",
+      "comments": "14",
+      "content": "전체 55만명 수험생중 22개 휴대폰 재난벨이 울린 고사실 학생들 대략 5~600명 수험생들은\n요란한 벨이 울리고 그 과정에서 감독관과 수험생간의 소동을 겪고 시험을 봤을 거잖아요\n피해 정도는 측정이 어렵지만\n나머지 54만명 수험생들보단 불리한 상황이란건 명백한 팩트일텐데 그냥 아무일 없다는 듯이 넘어가는건가요?",
+      "images": [],
+      "is_cross_hot": true
+    },
+    {
+      "id": "clien_a4b1ac076779",
+      "source": "클리앙",
+      "title": "확실히 라면은 열라면입니다",
+      "url": "https://www.clien.net/service/board/park/19295148?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-19 11:46",
+      "likes": "0",
+      "comments": "2",
+      "content": "LINK\n맛있네요..",
+      "images": [
+        "https://i.imgur.com/kDQQHyE.jpeg"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "clien_3112eca496e2",
+      "source": "클리앙",
+      "title": "(펌) 이번 수능 국어 문제에 아차산이 나왔다는데요?",
+      "url": "https://www.clien.net/service/board/park/19295147?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-19 11:42",
+      "likes": "0",
+      "comments": "",
+      "content": "리트냥이 그는 대체 ㄷㄷ....",
+      "images": [
+        "https://image.fmkorea.com/files/attach/new5/20261119/10572837343_486616_cb90c6007d44fc7d15f4908916ea2f6e.png.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261119/10572837343_486616_0444843d5e0937c39e0a333b8fb86640.png.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "clien_196392e0687c",
+      "source": "클리앙",
+      "title": "오늘 탄핵해야죠. 조. 희.대.",
+      "url": "https://www.clien.net/service/board/park/19295146?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-19 11:41",
+      "likes": "0",
+      "comments": "6",
+      "content": "더이상 기다릴 수 ...없습니다.\n집권당 여당은 도대체 뭐하는건가요.",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "clien_ba41d8b193e5",
+      "source": "클리앙",
+      "title": "김민석, 최민희 여론조사. 계파 및 징계수위 예측",
+      "url": "https://www.clien.net/service/board/park/19295145?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-19 11:34",
+      "likes": "2",
+      "comments": "15",
+      "content": "미디어토마토 여론조사를 보면 김민석 대표 사퇴 요구가 전체 국민의 51.6%로 높게 나왔는데, 여기에는 국민의힘이나 조국혁신당 지지층의 8~90%에 달하는 압도적인 사퇴 요구가 크게 반영되어 있죠. 이건 그들에게 김민석이 눈에 가시같다는 얘기죠.\n반면 민주당 지지층 내부에서는 약 66%가 현 상황에서 마무리하거나 공개 사과하는 선에서 수습하자고 봤고, 사퇴 요구는  20.4% 정도였습니다. 20%가 누구인지는...\n최민희 최고위원의 징계 문제에서는 정반대 흐름이 나타났습니다. 민주당 지지층 안에서도 제명 의견이 37.0%로 가장 높았고, 당직 정지나 당원권 정지까지 합치면 지지층의 64.4%가 지도부 직무 배제 이상의 중징계를 원했습니다. 단순 경고나 징계 불필요를 합쳐도 30%가 안 되는데, 결국 다수의 당심은 지도부 안정과 리스크 정리를 원하는 반면 약 15~20% 규모의 특정 계파 지지층은 지도부 교체와 최 최고위원 엄호라는 정반대 목소리를 내고 있는 셈입니다.\n최민희 징계는 결혼식축의금 사건 경고 전력과 대통령 관련 발언 파장, 그리고 80%가 넘는 자당 지지층의 징계 요구 때문에 단순 경고로 넘어가기는 어려워 보입니다. 다만 제명은 당내 분열 부담이 큰 만큼, 당원권이나 당직을 일정 기간 정지시켜 최고위원직에서 물러나게 하는 선에서 중징계가 내려질 가능성이 가장 높게 보이네요.\n이 조사만으로 보자면 김민석을 공격하는 소위 반명, 강경 친청부류는 20% 정도이고 반청친명은 37%라 실제 민주당의 주류가 누구인가 분명해지는 대목입니다.",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "clien_e77754193ae8",
+      "source": "클리앙",
+      "title": "지금 보니 공각기동대 완전 엉터리자나요...",
+      "url": "https://www.clien.net/service/board/park/19295144?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-19 11:33",
+      "likes": "0",
+      "comments": "9",
+      "content": "전뇌로 딸깍하면 다되는 세상인데\n학교도 다니고....청소부도 있고(취미가 청소인가??)\n거기서도 똑똑한 사람도 나오고......뭔가 머리속에 AI가 다해주는 세상일텐데......다 취미 생활로 하는거겠죠??\nAI 미래를 상상할수가 없네요...",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "clien_4c853c2ed5fa",
+      "source": "클리앙",
+      "title": "'김창민 감독 폭행 사망' 피고인 2명 징역 12년·3년…'반성도 없다'",
+      "url": "https://www.clien.net/service/board/park/19295143?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-19 11:32",
+      "likes": "1",
+      "comments": "7",
+      "content": "'김창민 감독 폭행 사망' 피고인 2명 징역 12년·3년…\"반성도 없다\"(종합)\n| ㄴㅅ1\n법원, 주범 살인 혐의 적용·공범엔 폭행치사 혐의\n\"피해자 사인 주범 폭행에 의한 것…정황도 나빠\"\n'김창민 감독 살인 사건' 피고인 2명에 징역 12년·3년 선고(종합)\n| ㅇㅎㄴㅅ\n이씨 살인죄 인정…임씨는 살인 공모 입증 안 돼 폭행치사 적용",
+      "images": [],
+      "is_cross_hot": true
+    },
+    {
+      "id": "clien_76ef8e38ad5e",
+      "source": "클리앙",
+      "title": "앞으로의 시험과, 사람에 대한 평가 기준에 대한 단상.",
+      "url": "https://www.clien.net/service/board/park/19295142?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-19 11:30",
+      "likes": "0",
+      "comments": "5",
+      "content": "오늘 리트냥이가 노쇼하면서 LEET, 나아가서는 2026학년도 대학수학능력시험 및 그 이전에 이뤄졌던 수능에 대해서도 AI를 사용해 부정하게 고득점을 취득했다는 내용이 기정사실화 되어가고 있는 것 같네요.\n그런 와중에, 앞으로의 시험 시스템과 사람에 대한 평가 기준이 어떻게 바뀌게 될 지\n개인적인 생각을 짧게 적어봅니다.\n그냥 끄적이듯 적는 상상이니까 많은 부분이 개소리입니다.\n1. 평가 방식이 장기간에 걸친 상시평가형태로 이뤄지게 될 것 같습니다.\n객관식이나 단답형은 안된다, 주관식이나 논술형으로 가야 한다. 혹은 MIT에서 최근 권고한 것과 같이, 구술시험이나 면접 평가를 확대해야 한다는 의견이 많이 나오는 것 같습니다. 하지만 결국 일회성 시험은, AI시대에 한 사람을 평가하기에 부적절하다고 생각합니다. 당장은 구술시험에 대응할 수 있는 AI모델과 기기가 없을 지 몰라도, AI의 반응성이 더 빨라지고, 피지컬 기기가 더 발전하면 구술시험에서도 초소형 마이크 등의 장비와 AI를 활용하여 부정을 저지를 여지는 충분히 있다고 봅니다. (물론 마이크 등 전파탐지해서 기기 자체를 잡으면 그만 아니냐 하실수도 있는데, 그렇게 따지면 현재 실시되는 시험도 기기사용만 원천차단하면 그대로 시행할 수 있으니까요.)\n객관식이든, 주관식이든, 면접이든 결과적으로는 한 인간의 \"지능\"영역을 테스트하는 것입니다. 근데 앞으로는 인간의 지적 능력이 인재선발에 중요한 가치로 평가되지는 않을 것 같습니다. 그건 AI가 전부 대신 해줄 수 있거든요. 그렇다면 인재에게 중요한 점은 무엇이냐, 결국 그 인간의 성향과 습관이라고 봅니다. 마치 고등학교 생기부 관리하는 것과 같이, 성실도나 개인의 습관, 성향을 판단할 수 있는 평가방식이 도입되지 않을까 싶습니다. 예를 들면 본인이 가지고있는 스마트기기나, 채용기관에서 나눠준 기기를 활용해서 일정 기간동안 그 사람의 생활에 관한 데이터를 수집하고, 수집한 정보를 AI가 분석하는거죠. (기상시간, 수면시간, 만약 약속이 있을 경우 어떻게 행동하는지, 소비패턴은 어떤지...등등 개인의 성향과 습관을 모두 분석하는겁니다.) 이런 부분은 AI의 도움을 받더라도 개인의 성향과 의지적인 문제이기에 쉽게 바뀔 수 없고, AI를 활용하여 업무를 진행하게 될 앞으로의 미래를 상상하면 단순히 문제 좀 잘 푸는것보단 이렇게 각 기관에 맞는 성향과 습관을 갖고있는 사람을 채용하는 방식이 알맞다고 봅니다. (물론 뉴럴링크같은 BCI기술이 발달해서 개인의 습관과 성향까지 교정할 수 있게 된다면...근데 그때쯤 되면 이런 취업고민은 할 필요 없을 것 같네요.)\n2. 인간 자체의 매력이 평가 기준이 될 것 같습니다.\n약간 외모지상주의처럼 들리는 말이기도 하지만, 결국 그렇게 될 것 같습니다. 사실 사람을 평가할 때 지적 능력을 제외하면, 남는건 외모랑 성격뿐입니다. 현 시점에도 누구나 AI 어시스턴트를 활용하면 며칠만에 한 분야의 전문가에 버금가는 지식을 활용해서 다양한 일을 할 수 있는데, 앞으로는 점차 이런 전문지식을 갈고닦는 지적 능력의 필요성이 떨어질거라고 봅니다. 물론 인류 존속을 위해서, 각 분야마다 해당 분야의 전문성을 유지할 인재는 필요하겠지만, 그건 소수의 천재(지금도 각 분야를 이끌어나가는 아웃라이어급의 천재들)면 충분하고, 대부분의 일반인들은 전문지식을 갈고닦을 필요 자체가 사라질겁니다. 누구나 같은 일을 할 수 있다면, 웬만하면 이쁘거나 잘생긴 사람과, 그리고 긍정적이고 밝은 사람과 일하고 싶겠죠. 조금 암울한 이야기지만, 이제는 외모도 실력이 되는 시대가 올 것 같습니다. 성형까지는 아니더라도, 적어도 간단한 피부과 시술이나 자기관리는 되어있고, 무엇보다도 사람과 커뮤니케이션하는 능력이 정말 큰 강점으로 작용할 것 같습니다. 특히 젠지세대로 내려갈수록 타인과의 소통능력이 점점 약해지고 있는 상황이라, 이런 능력을 갖고 있는 사람이 상대적으로 돋보일 것 같네요.\n저도 외모가 뛰어나지도 않고 집돌이에 컴퓨터공학 전공한 입장이지만, 인터넷 혁명 이후 외모나 성격이 찐따같더라도 능력만 좋으면(예를 들어 개발만 잘하면) 대우받고 사는 시대였다고 생각하는데, 이제 호시절은 다 간 것 같습니다.",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ppomppu_cb0fe517ae25",
+      "source": "뽐뿌",
+      "title": "제주 무사증 폐지 논란 \"반드시 철회해야\"",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=26410",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "Your browser does not support the video tag.\n,",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ppomppu_c88974b5e600",
+      "source": "뽐뿌",
+      "title": "택배 퀀텀7 5만*아이폰18프로 62만*Sk기변 폴드8 S26류*KT17프로 S26류*SK유심 55만**택배대란",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket2&no=1560416",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "카톡즉시상담하기\nhttp://pf.kakao.com/_uxnAdxl/chat\n카톡즉시상담하기\nhttp://pf.kakao.com/_uxnAdxl/chat\n카톡즉시상담하기\nhttp://pf.kakao.com/_uxnAdxl/chat",
+      "images": [
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1119/900w_20261119085815_OrjMK0Jpda.png",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1119/900w_20261119085832_D9D4lzQIeB.jpg",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1119/900w_20261119085834_g7VOcfPQ8v.jpg",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1119/900w_20261119085837_zKb1w5IxJW.jpg"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ppomppu_d5a7e331167d",
+      "source": "뽐뿌",
+      "title": "[뽐뿌단독 공동구매] 뽐뿌X랭킹닭컴, 맛있는 식단! 특가 왔닭! 오늘단하루!! 24시간 타임세일!! (990원부터~)",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=749923",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1119/900w_20261119000232_84rMWqdVln.jpg",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1119/900w_20261119000233_0tWWJ8MkaY.jpg",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1119/20261119000234_fDjaTNZe7M.png",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1119/900w_20261119000238_tpBoJgkLdl.jpg"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ppomppu_adefe8e1403e",
+      "source": "뽐뿌",
+      "title": "11월 정수기 지원금 52만원 견적 받아보세요",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket7&no=428418",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1104/900w_20261104162954_DvTucpQab2.jpg",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1104/900w_20261104131500_IIX2UmLiGt.jpg",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1104/900w_20261104131501_QH5wjvSkLS.jpg",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1111/900w_20261111123216_rqiLUBtQrl.jpg",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1104/900w_20261104161010_IDW5kpz67v.png"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ppomppu_185fdbc732b8",
+      "source": "뽐뿌",
+      "title": "타이어 일시불로 사면 손해인 이유",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket7&no=428413",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1030/900w_20261030150329_ux9t52p1d0.jpg",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1007/900w_20261007160024_P0IizjWIOZ.jpg",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1013/900w_20261013093644_rkGMMt0hMg.jpg",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1019/900w_20261019093511_Vk7WrJ3EVp.jpg",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/0930/900w_20260930144326_M2zSzEWYiZ.jpg",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1007/900w_20261007160152_hYUrm5DS4z.jpg",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1013/900w_20261013093842_O1A9Pnb9b8.jpg",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1019/900w_20261019093728_eiPiyWhlaE.jpg"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ppomppu_cb7394b98092",
+      "source": "뽐뿌",
+      "title": "AD[뽐뿌스폰서] #24시간상담중 #뽐뿌 역대최대지원업체 #설치후즉시지급 올웨이즈렌탈#@코웨이#SK매직#현대큐밍#L...",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket7&no=428417",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "TALK\n카톡상담\nTALK\n카톡상담하기\nCAFE\n후기보기\n✕\n☰",
+      "images": [
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/0921/20260921094503_5ZOLOl94hT.png",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/0921/20260921094505_17TpptmQC7.png",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/0921/20260921094507_wJkJOP1lKM.png",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/0921/20260921094508_tSrQZKNd6B.png",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/0921/20260921094509_RKKbFb9Zgb.png",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/0921/20260921094501_BdpTLLRqRN.png",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/0921/20260921094503_HLuHas9Zxg.png",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2025/0507/20250507234845_7VQkoJfJDW.png"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ppomppu_9dc0f168758e",
+      "source": "뽐뿌",
+      "title": "흑백 요리사 시즌3 두명의 심사위원.jpg",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=movie&no=92330",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "으음....?? 할많하않....\n참조하세요\n백종원·안성재, 논란 불구'흑백요리사3' 심사 위원 복귀\n넷플릭스 요리 서바이벌 예능 '흑백요리사'가 각종 구설에 휘말렸던 백종원과 안성재를 시즌3에서도 심사위원으로 기용했다. 프로그램의 대대적인\nhttps://www.mediafine.co.kr/news/articleView.html?idxno=95541",
+      "images": [
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1119/20261119094256_NSuxb0LIL1.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ppomppu_9d4c2d7d0ce5",
+      "source": "뽐뿌",
+      "title": "박지윤, 상간 소송 판결에 반박…\"최동석도 알던 사이\"",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=news_broadcast&no=439759",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "",
+      "images": [],
+      "is_cross_hot": false
+    },
     {
       "id": "dc_bce5df2cb066",
       "source": "디시인사이드",
@@ -228,863 +1346,6 @@
         "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f9945068dc41450918c706fc7ab755b45c0bba0f580c995278b66a1e44af1d87fa35fcfa7afdbbc92545be7596731e2b",
         "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f9945068dc41450918c706fc7ab755b45c0bba0f580c995278bb631f46ae1684fb3ff835347922a19d0469b32e47d2e3",
         "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f9945068dc41450918c706fc7ab755b45c0bba0f580c995278ba681042a11882ff36fcd010173cbe9dff1066cfec76e9"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "fm_8114a9a4a7b2",
-      "source": "에펨코리아",
-      "title": "수능 연기 찬성파 vs 반대파[1591]",
-      "url": "https://www.fmkorea.com/best2/10564281194",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "수능 연기 찬성파\n미미미누, 정승제, 이지영 (사탐 1타), 윤도영 (입시 1타), 유대종, 조정식( 영어 1타) 현우진 (수학 1타) 등등 입시 전문가들 대부분\nVS\n반대파\n교육부",
-      "images": [
-        "https://image.fmkorea.com/files/attach/new5/20261117/10564281194_486616_1abf17fd064c6aaf8c9b9e7c6480ca6a.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261117/10564281194_486616_2f049db6df47c7ec71fbfb73a0cc7dcf.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261117/10564289070_486616_f3ac5ce1e5913c9b435b102ede3295aa.jpeg",
-        "https://image.fmkorea.com/files/attach/new5/20261117/10564281194_486616_d69bde2ce073373ae3f2655696e62497.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261117/10564281194_486616_6fe6d5c299cbfabe374e5cad6ce1e4c7.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261117/10564281194_486616_0a3cd5c5f685f99145239e559f7bdffa.png.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261117/10564281194_486616_204b61a649f5251ede99d2b114e169d2.jpeg.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261117/10564281194_486616_fb3982284ffbcedc1f4a6cc55bf80b04.png.webp"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "fm_f5efb20c08c1",
-      "source": "에펨코리아",
-      "title": "싱글벙글 파묘된 리트냥이 유튜브 채널[382]",
-      "url": "https://www.fmkorea.com/best2/10564253086",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "한 달 전까지 오버워치하다 검거\nhttps://youtu.be/9JmULkChVdk?si=1mNAxsI4zOxtfyxA\n엄...ㅋㅋㅋㅋ\n참고로 인방에서도 수십차례 주작하다 걸린 옵치갤 정병고닉이라고 함",
-      "images": [
-        "https://image.fmkorea.com/files/attach/new5/20261117/10564253086_486616_1f7cb0a9f9072f405b3d36e8dd03f2e7.jpg.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261117/10564253086_486616_8b97178c4e3b241da6d43cf9c2b66af9.jpg.webp"
-      ],
-      "is_cross_hot": true
-    },
-    {
-      "id": "fm_6f0734407930",
-      "source": "에펨코리아",
-      "title": "리트냥이 이진우 합리적추측.JPG[312]",
-      "url": "https://www.fmkorea.com/best2/10564219328",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "고려대에 다니던 이진우\n사실 그의 원래 목표는 수능만점 인플루언서였음\n26수능을 접수한 후 수능만점으로 유명해져서 책판매 등 인플루언서 활동을 하며 돈을 벌려고 했던 것\n수능만점자가 다수일 것을 대비해 그 중에서도 독보적인 취급을 받고자 화2생2 선택\n->\n수능이 다가오는데 시뮬을 돌려봐도 생2에서 이미지인식 문제가 자꾸 발생함.\n국어,영어: 이미지가 없거나 문제푸는데에 영향이 적음\n수학: 이미지가 큼지막해서 이미지인식이 잘 됨\n화2: 이미지가 있으나 보통 표,그래프거나 간단한 이미지임.\n반면 생2는 이미지가 작고 상세해서 인식이 잘 안 됨. 만점을 위해서 급하게 생2만 과외가 필요했던 이유임. 이미지를 대충이라도 설명글로 문제 옆에 쓴 뒤 카메라에 인식시키려는 속셈이었던 것.\n->\n근데 수능 며칠전에 하려니 그게 되나\n결국 26수능에서 생2 이미지인식 문제로 만점을 받지 못하고 1개를 틀림\n->\n서울대 의대는 면접이 있어서 걸러질 위험 + 당시 뜨던 영상(의대가 치대의 10배 공부량이다)을 보고 서울대 치대 진학\nhttps://youtu.be/-8_nOsCGumw?si=QkC_bYoqRCu7npnD\n->\n수능만점을 받지 못해 인플루언서가 되지 못한 점을 만회하고자\n수능만점 대신 유명해질 수 있는 더 빠른 방법(7월 리트시험)을 치게 된 것으로 추측.\n진로와 관계없는 리트를 갑자기 치게 된 이유임.\n->\n그렇게 정말 리트만점을 받게되고 이 사달이 난 것\n=====\n라이어게임 승률80% 씹고수로서 추측해봤다",
-      "images": [
-        "https://image.fmkorea.com/files/attach/new5/20261117/10564219328_486616_22fd1c2c5038efe53dec6fc20ef402fa.webp"
-      ],
-      "is_cross_hot": true
-    },
-    {
-      "id": "fm_7d4d82075f06",
-      "source": "에펨코리아",
-      "title": "리트 만점자가 실수한것[356]",
-      "url": "https://www.fmkorea.com/best2/10564220061",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "서울대 치대까지는 어떻게든 들어갔는데\n과정 따라가는게 너무 힘들었다고 생각한듯\n예과 과정이 치대 본격 교육 들어가기전에 기본교양 배우는 과정인데\n거기에서도 과락이라는 소문이 있긴함...\n그래서 머리굴려서 생각한게 리트시험으로 고득점받고 강사루트타자 이거였던거 같음\n세상이 다 자기 뜻대로 되니까 배경믿고 리트만점 믿어주겠지? 라고 생각하고 무리수 둔게\n지금 스노우볼 굴러서 여기까지온것ㅋㅋㅋ\n그냥 조용히 살았으면 아무도 뭐라고 할사람 없는데\n괜히 대중매체 나와서 인지도 쌓으려고 한게 화근이었음\n그나저나 존나 소름돋는건 3~4등급 애들이 조절해가며 적당히 해먹고\n명문대 들어가고 조용히 살고있다는게 개 소름이네 ㅋㅋㅋ",
-      "images": [],
-      "is_cross_hot": true
-    },
-    {
-      "id": "fm_1a01f49fa8e8",
-      "source": "에펨코리아",
-      "title": "현재 개 좆된 100만 유튜버[767]",
-      "url": "https://www.fmkorea.com/best2/10563193557",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "양어장에 \"그 천연기념물\" 5마리 이상 나타남 ㄷㄷㄷ",
-      "images": [
-        "https://image.fmkorea.com/files/attach/new5/20261116/10563193557_486616_765fdeca1fb4d00be46000426d42a136.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261116/10563193557_486616_6d5ae7eb6ee6c4553886b40d7a0e3839.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261116/10563193557_486616_8f6adead80fd4ec44f6163ecdaa245b9.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261116/10563193557_486616_58817c1c1c2c812388c2a0eae5d35ac0.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261116/10563193557_486616_5a554b89feadc3b6ef907aa5df83dec7.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261116/10563193557_486616_7f93ee4938acf6eb2689291586ef3289.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261116/10563193557_486616_51dcc38dc84caf62af378270b04d62fb.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261116/10563193557_486616_e3722201499d0f435c21332ba1c5ba96.webp"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "fm_2dfa9b7b6b13",
-      "source": "에펨코리아",
-      "title": "진심) 리트냥이에게 고마운점.jpg[158]",
-      "url": "https://www.fmkorea.com/best2/10564246718",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "수능친지10년은 더된\n304050늙크크들도\n수능날을 기대되게 만듬\n다 개구라인거 알면서도 보게되는\n“대국민 치팅 마술쇼“",
-      "images": [
-        "https://image.fmkorea.com/files/attach/new5/20261117/10564246718_486616_104c331e3c093b7ed6724e3d450b3178.jpeg.webp"
-      ],
-      "is_cross_hot": true
-    },
-    {
-      "id": "fm_c3b315afe1d6",
-      "source": "에펨코리아",
-      "title": "고출력+과속은 한순간이다[283]",
-      "url": "https://www.fmkorea.com/best2/10564308517",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "7만 정도 탄 M5 컴페 라는데…..\n도심에서 얼마를 때려 밟은거야 ;;\n외국인 수출업자 사고\n운전자 멀쩡히 걸어나옴",
-      "images": [
-        "https://image.fmkorea.com/files/attach/new5/20261117/10564308517_6761627_a8f19d84ee2e527cc10dca7e382c8dad.jpeg.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261117/10564308517_6761627_76fd2fa4dc6fa364ace7b3fa5816ecd9.jpeg.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261117/10564308517_6761627_b687b9d12b63208a6fc3c86022aefb58.jpeg.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261117/10564357238_6761627_e39a1172f693e1a6574c387c813ab1f4.jpeg",
-        "https://image.fmkorea.com/files/attach/new5/20261117/10564357238_6761627_2f761949920310c106bcd6ad220b5807.jpeg",
-        "https://image.fmkorea.com/files/attach/new5/20261117/10564357238_6761627_7360a94d828635df1d8ebdd55c173ade.jpeg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "fm_25e992734ff8",
-      "source": "에펨코리아",
-      "title": "교육부장관 입장발표ㅋㅋㅋㅋㅋ[669]",
-      "url": "https://www.fmkorea.com/best2/10562978529",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "이렇게까지 한다고(쳐쪼개며,설마 수능에서 하겠냐고 ㅋㅋㅋㅋ)\n아 몰라 무섭다노 ㅋㅋㅋㅋ",
-      "images": [
-        "https://image.fmkorea.com/files/attach/new5/20261116/10562978529_486616_1205cc2a646c7aaa321fc351d00d47d5.jpg.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261116/10562978529_486616_483efc3548779f9b193a5595d22494da.jpg.webp"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "fm_592fb21be292",
-      "source": "에펨코리아",
-      "title": "LEET 만점자, \"7개년 기출은 학습 도구로 사용했다\"[163]",
-      "url": "https://www.fmkorea.com/best2/10564219022",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "이제 이해가 되네 ㄷㄷ\n좋은 기계학습 도구였습니다..",
-      "images": [
-        "https://image.fmkorea.com/./files/attach/new5/20261117/10564219022_486616_7866e3260f0fec087e2b81e655165939.png.webp"
-      ],
-      "is_cross_hot": true
-    },
-    {
-      "id": "fm_0df97d81f44c",
-      "source": "에펨코리아",
-      "title": "27학년도 메디컬 합격자 배출 1위[183]",
-      "url": "https://www.fmkorea.com/best2/10563081365",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "용산전자상가\n의과대학 1,000명 배출\n축하합니다",
-      "images": [
-        "https://image.fmkorea.com/./files/attach/new5/20261116/10563081365_486616_ea924c4b1ad06228e840ac1c2f1ba0e7.jpeg.webp"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_2148293885e9",
-      "source": "보배드림",
-      "title": "카광사건관련) 살해협박을 받았습니다 (공개)",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048576&vdate=",
-      "author": "종로초이스..",
-      "time": "00:38",
-      "likes": "29",
-      "comments": "",
-      "content": "노상균 변호사는 지난 7월 성적욕설을 해서 성폭력범죄에 관한 특별법 위반으로 현재 수사중에 있는 사람입니다.\n혐의는 인정되어 현재 공소청에 송치되어 있습니다.\n이런분이 카광크루 태국사건이 터지자 \"이계덕은 언급되지 않게 하겠다\"며 자신이 고소를 취하해달라고 연락해왔고, 김앤장명함을 보내면서 \"저 그냥변호사 아니구요\" \"카광크루는 끝난거다\"  \"줄잘서세요\"  언급을 하였습니다. 저는 몇일간 그가 김앤장 변호사인줄알았습니다.\n그런데 그가 갑자기 김앤장에서 일한건 맞는데 지금은 아니라며 휴직중이라고 말하더군요. 전 카광사건과 관련해서 카광이 처벌받아야한다는 생각으로 계속 협조하고, 수사기관에 진술했습니다.\n그런데 이분은 제게 연락을 할때마다 자는데 깨우더니 \"심심하니 술마시러 나오라\"등에 갑질을 하게됐고, 이러한 본인의 행동으로 본인이 비난을 받게되자 저에 대한 욕설이나 비방을 하도록 유도하더니 급기야는 제게 보이스톡을 거라고 해서 제가 걸자, 그걸 캡쳐해 게시하면서 \"이계덕 보이스톡 그만\"이라고 게시하였습니다.\n저는 해당변호사가 고소사건 취하를 위해 먼저 접근한점, 요청하지도 않았는데 사건에서 빼주겠다고 연락한점, 김앤장 소속이 아님에도 김앤장 변호사를 사칭한점, 그리고 실제 피해자 사건을 선임한적 없음에도 피해자 변호사로 여러 인터뷰를 하고있는점, 사건관계인들에게 무료대리를 해주겠다고 해놓고 그분들은 신상으로 협박으로 활용한점 등에 화가나 그분과 주고받은 통화와 카톡을 오픈했습니다.\n그분이 변호사에게 법적대응을 할줄알았습니다. 그런데 그분은 최고다영만.승냥이방에 후원하면서 \"이계덕 트래픽을 가져가라\" \"이계덕 차단풍 얼마냐\"  \"이계덕은 범죄자다\" \"참전해라\"  \"이계덕 생일에 후원하지 말아라\"고 외부적인 공격을 시작하셨고, 장도방송에 나가 짜깁기한 영상을 게시하며 이계덕을 비난하는 영상을 틀게 하였으며, 오픈톡방을 개설한뒤에 이계덕 유튜브채널을 신고하라고 하고, 경찰에게 이계덕이 경찰과 언론을 조롱하고 해외도피를 허위사실 유포를 하고 있습니다.\n경찰은 제가 참고인조사를 받을때 노상균변호사가 자꾸 수사정보를 커뮤니티에 유출한다며 만류해달라고 요청했습니다. 그분이 올린 수사정보가 카광이나 그 주변인이 방어할수 있는 시간과 기회를 주기때문입니다. 이분이 그것이알고싶다에 이번주 금요일에 4시간 인터뷰했답니다.\n그러던중 오늘 이계덕을 살해하겠다는 통화녹음이 음지저장소에 올라왔고 충격을 금치 못하고 있습니다. 노상균변호사는 현재 제가 피해자로 있는 성범죄특별법 위반 가해자입니다. 그리고 그런 가해자가 저런 살해협박을 한다는것에 대해 두려워 경찰에 신고를 넣어둔 상태입니다. 변호사는 변호사답게 행동하십시오\nhttps://youtu.be/pF945PpcQng?si=qr9Aps2qvCcLjJWG\nhttps://youtu.be/aFGCsoO19ls?si=-dpFeK3bo7WPWCkS\nhttps://youtu.be/TgCLve4W7r0?si=QcMGtdNJDdX1lhFb\nhttps://youtube.com/shorts/k_3fWR34Y34?si=RDjoJXG7eWsY-0wg\nhttps://youtube.com/shorts/qEcIhTL5KUI?si=330kzPpgWb3xb3my\nhttps://youtube.com/shorts/z5oXmjXQ-cs?si=ezWSUqbmaj7YaPMZ\nhttps://youtube.com/shorts/6BznxJAH5Kk?si=3ySnxWfwo8ceEocv",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_b00e1395912e",
-      "source": "보배드림",
-      "title": "여자들이 편의점 알바를 오래 못하는 이유",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048580&vdate=",
-      "author": "포핸즈",
-      "time": "00:10",
-      "likes": "46",
-      "comments": "",
-      "content": "종종 변태같이 글쓰는 양반 생각나네..\n그렇게 늙어가지 말아야지..",
-      "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/19/00/loga1795014527_468540566.webp",
-        "https://file1.bobaedream.co.kr/humor/2026/11/19/00/loga1795014528_324070255.webp",
-        "https://file1.bobaedream.co.kr/humor/2026/11/19/00/loga1795014528_999421783.webp",
-        "https://file1.bobaedream.co.kr/humor/2026/11/19/00/loga1795014529_1194200612.webp"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_94bb824a4fd1",
-      "source": "보배드림",
-      "title": "40대 이상 금지목록",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048573&vdate=",
-      "author": "웃고넘는박..",
-      "time": "11/18",
-      "likes": "96",
-      "comments": "",
-      "content": "또라이 시키들..\n지들이 뭔데 금지시켜\n난 나야..\n오버클래스 아이디..",
-      "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/18/22/mint1795009166_132242444.webp"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_15ab48b67ded",
-      "source": "보배드림",
-      "title": "길에서  폰 보지 마라",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048572&vdate=",
-      "author": "왕장군",
-      "time": "11/18",
-      "likes": "86",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/18/22/wang1795007927_1354008067.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/18/22/wang1795007928_36804939.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/18/22/wang1795007929_303876050.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/18/22/wang1795007930_456513400.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/18/22/wang1795007931_2053567451.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_e8fe4e3fa12d",
-      "source": "보배드림",
-      "title": "남편 성과금이 들어왔다네요",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048574&vdate=",
-      "author": "나혼자잘산..",
-      "time": "11/18",
-      "likes": "55",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/18/22/AwxM1795007811_1936474803.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_476e1a37fc90",
-      "source": "보배드림",
-      "title": "\"남편이 바람피우기 싫다고 이혼하재\"",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048563&vdate=",
-      "author": "tinyj..",
-      "time": "11/18",
-      "likes": "120",
-      "comments": "",
-      "content": "ㅅㅅ하기 싫을 정도면 뭐하러 같이 사나?\n이혼하게 되면 돈 생각에 막막하다? ATM이군.",
-      "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/18/22/lji91795007350_217256834.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_9778641fde86",
-      "source": "보배드림",
-      "title": "여자가 한달 빌린 모텔방",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048584&vdate=",
-      "author": "일차로는추..",
-      "time": "11/18",
-      "likes": "26",
-      "comments": "",
-      "content": "저기서 잠은 어떻게 잤는지   ㄷㄷㄷ",
-      "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/18/21/etha1795006395_111937986.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/18/21/etha1795006396_559432892.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/18/21/etha1795006397_156904885.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/18/21/etha1795006398_1230180797.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_baff80531511",
-      "source": "보배드림",
-      "title": "니는 임마 내하고 붙어야지 누굴 자꾸 건드리노?",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048569&vdate=",
-      "author": "지오메트리",
-      "time": "11/18",
-      "likes": "28",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://file1.bobaedream.co.kr/strange/2026/11/18/21/AQQW1795006266_1504557345.png",
-        "https://file1.bobaedream.co.kr/strange/2026/11/18/21/AQQW1795006296_913413030.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_14b367c69ed1",
-      "source": "보배드림",
-      "title": "강남 학원장이 초등생에게 술 먹이고 성폭행…긴급체포",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048581&vdate=",
-      "author": "블핑지수",
-      "time": "11/18",
-      "likes": "34",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/18/21/kimi1795004533_2140759646.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_a82399243a94",
-      "source": "보배드림",
-      "title": "반명이던 친명이던 이제 그만합시다",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048583&vdate=",
-      "author": "일베자지절..",
-      "time": "11/18",
-      "likes": "28",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://file1.bobaedream.co.kr/strange/2026/11/18/21/wonw1795004422_49331525.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "mp_6ad69e310f3e",
-      "source": "MLB파크",
-      "title": "보면서 진짜 입을 못 다물었던 최고의 아이맥스 영화가",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611190120198645&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "author": "",
-      "time": "05:54:05",
-      "likes": "",
-      "comments": "",
-      "content": "‌\n63빌딩 아이맥스 영화관 개관하고 초창기에 상영할 때 봤던 그랜드캐년\n기억에 아이맥스 영화관 개관 첫 작품은 무슨 기구 타고 하늘을 나는 그런 영화였던거 같은데\n그 영화 다음으로 개봉했던게 이 그랜드캐년이었던거 같네요\n해외여행이고 뭐고 없어서 그랜드캐년이 뭔지 아무런 정보도 없던 시절에 초대형 스크린에서보는 거대한 자연의 위압감은 진짜 신세계를 경험하게 만들었음\n아쉬운건 영화가 너무 짧아서 한참 몰입하고 있을때 끝나버린다는 점이었구요\n추천\n0\n공유",
-      "images": [
-        "https://simg.donga.com/ugc/MLBPARK/Board/17/95/03/49/1795034949045.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "mp_8e5c40c3dced",
-      "source": "MLB파크",
-      "title": "수능 감독 갑니다",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611190120198642&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "author": "",
-      "time": "05:50:47",
-      "likes": "",
-      "comments": "",
-      "content": "전국의 모든 수험생들이 상처받는 일이 없는.\n무사하고 무탈한 수능이 되기를 바랍니다. 저도. ㅎ\n추천\n1\n공유",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "mp_b2cf6233949e",
-      "source": "MLB파크",
-      "title": "지바겐 오너 .jpg",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611190120198639&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=kakao.com",
-      "author": "",
-      "time": "05:49:24",
-      "likes": "",
-      "comments": "",
-      "content": "어렸을땐 몰랐는데 스님 금수저스님이셨던\n추천\n0\n공유",
-      "images": [
-        "https://simg.donga.com/ugc/MLBPARK/Board/17/95/03/49/17950349025880.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "mp_e58789db521e",
-      "source": "MLB파크",
-      "title": "피의게임3. 이제서야 보고있는데",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611190120198633&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "author": "",
-      "time": "05:44:34",
-      "likes": "",
-      "comments": "",
-      "content": "8화까지 봤는데\n충주맨 김민아\n둘다 쌍으로 개극혐이네요ㅋㅋㅋ\n지들둘이 머 겜잘하는것도 아니고\n추천\n0\n공유",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "mp_6bb809db44c0",
-      "source": "MLB파크",
-      "title": "전주의 새벽 풍경..",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611190120198630&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "author": "",
-      "time": "05:42:17",
-      "likes": "",
-      "comments": "",
-      "content": "적요합니다 왜 수능시험날은 항상 추운지\n추천\n0\n공유",
-      "images": [
-        "https://simg.donga.com/ugc/MLBPARK/Board/17/95/03/45/17950345230170.jpg",
-        "https://simg.donga.com/ugc/MLBPARK/Board/17/95/03/45/17950345230171.jpg",
-        "https://simg.donga.com/ugc/MLBPARK/Board/17/95/03/45/17950345230172.jpg",
-        "https://simg.donga.com/ugc/MLBPARK/Board/17/95/03/45/17950345230173.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "mp_0c1e912d7f59",
-      "source": "MLB파크",
-      "title": "5개월만에 주식으로 5억을 날린 39세 회사원의 후기",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611190120198627&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "author": "",
-      "time": "05:33:38",
-      "likes": "",
-      "comments": "",
-      "content": "‌\n1시간 이상의 긴 영상이니 주식투자 이제그만\n정신차릴 분들만 길게 시청애 보세요\n추천\n0\n공유",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "mp_67dbec82ae9a",
-      "source": "MLB파크",
-      "title": "[아이브] MMA 가죽의상 장원영..JPGIF",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611190120198624&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "author": "",
-      "time": "05:33:23",
-      "likes": "",
-      "comments": "",
-      "content": "‌\nVideo 태그를 지원하지 않는 브라우저입니다.\nVideo 태그를 지원하지 않는 브라우저입니다.\nVideo 태그를 지원하지 않는 브라우저입니다.\nVideo 태그를 지원하지 않는 브라우저입니다.\nVideo 태그를 지원하지 않는 브라우저입니다.\nVideo 태그를 지원하지 않는 브라우저입니다.\nVideo 태그를 지원하지 않는 브라우저입니다.\nVideo 태그를 지원하지 않는 브라우저입니다.\nVideo 태그를 지원하지 않는 브라우저입니다.\nVideo 태그를 지원하지 않는 브라우저입니다.\nVideo 태그를 지원하지 않는 브라우저입니다.\nVideo 태그를 지원하지 않는 브라우저입니다.\n추천\n2\n공유",
-      "images": [
-        "https://simg.donga.com/ugc/MLBPARK/Board/17/95/03/36/17950336460230.jpg",
-        "https://simg.donga.com/ugc/MLBPARK/Board/17/95/03/36/17950336460231.jpg",
-        "https://simg.donga.com/ugc/MLBPARK/Board/17/95/03/36/17950336460232.jpg",
-        "https://simg.donga.com/ugc/MLBPARK/Board/17/95/03/36/17950336460233.jpg",
-        "https://simg.donga.com/ugc/MLBPARK/Board/17/95/03/36/17950336460234.jpg",
-        "https://simg.donga.com/ugc/MLBPARK/Board/17/95/03/36/17950336460235.jpg",
-        "https://simg.donga.com/ugc/MLBPARK/Board/17/95/03/36/17950336460236.jpg",
-        "https://simg.donga.com/ugc/MLBPARK/Board/17/95/03/36/17950336460237.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "mp_09cfaad80611",
-      "source": "MLB파크",
-      "title": "오늘 춥네요 ㄷㄷ",
-      "url": "https://mlbpark.donga.com/mp/b.php?id=202611190120198621&p=1&b=bullpen&m=view&select=&query=&subselect=&subquery=&user=&site=donga.com",
-      "author": "",
-      "time": "05:27:27",
-      "likes": "",
-      "comments": "",
-      "content": "수능한파는 여지없네요 ㄷㄷ\n수험생들 화이팅\n추천\n0\n공유",
-      "images": [
-        "https://simg.donga.com/ugc/MLBPARK/Board/17/95/03/35/17950335868230.jpeg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ou_7fd806185ea8",
-      "source": "오늘의유머",
-      "title": "일본인 한국 병원 후기.jpg",
-      "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=484138&s_no=484138&page=1",
-      "author": "우가가",
-      "time": "26/11/17 00:35",
-      "likes": "63",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://thimg.todayhumor.co.kr/upfile/202611/17947524918a160c37b7904bc582522e243c3249bd__mn117629__w694__h341__f54649__Ym202611.png",
-        "https://thimg.todayhumor.co.kr/upfile/202611/179475249284380a74be354d4eb5b4b9adba385e08__mn117629__w702__h262__f30302__Ym202611.png",
-        "https://thimg.todayhumor.co.kr/upfile/202611/1794752493c376ad5f11a2431f9d37ed489ef49714__mn117629__w694__h199__f15416__Ym202611.png",
-        "https://thimg.todayhumor.co.kr/upfile/202611/1794752500a7f001e3755a4dbab8179c55008f78f1__mn117629__w674__h159__f14287__Ym202611.png"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ou_519992abb803",
-      "source": "오늘의유머",
-      "title": "장애가 옮으면 어쩌라고 그래!!",
-      "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=484137&s_no=484137&page=1",
-      "author": "우가가",
-      "time": "26/11/16 16:26",
-      "likes": "70",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://thimg.todayhumor.co.kr/upfile/202611/17946557364132babcf598453f9b0ff00bd7227be0__w538__h8101__f675611__Ym202611.jpg",
-        "https://thimg.todayhumor.co.kr/upfile/202611/1794655736fd290fa3f327457ea384ec3c297a3554__w674__h484__f47817__Ym202611.png"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ou_40ea1876c7fa",
-      "source": "오늘의유머",
-      "title": "펌) 이번에 젠슨황 보면서 든 생각인데",
-      "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=484136&s_no=484136&page=1",
-      "author": "우가가",
-      "time": "26/11/14 21:53",
-      "likes": "90",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://thimg.todayhumor.co.kr/upfile/202611/179429644260f52735448b46239631aab4bd6bcac9__w1079__h2243__f248625__Ym202611.jpg",
-        "https://thimg.todayhumor.co.kr/upfile/202611/17942964419b865cea0ccc40d694f57acbb68ddef0__w674__h305__f31288__Ym202611.png"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ou_29cea9cae52b",
-      "source": "오늘의유머",
-      "title": "일본인이 생각하는 한국 드라마가 세계적으로 히트한 이유.jpg",
-      "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=484135&s_no=484135&page=1",
-      "author": "우가가",
-      "time": "26/11/14 08:04",
-      "likes": "83",
-      "comments": "",
-      "content": "(짤)\n(본문)",
-      "images": [
-        "https://thimg.todayhumor.co.kr/upfile/202611/1794149661cc1a125015bc425088300013995dee99__mn117629__w800__h1064__f122603__Ym202611.png",
-        "https://thimg.todayhumor.co.kr/upfile/202611/17941496721e6347d430154478b513c002978a98ca__mn117629__w762__h1004__f121267__Ym202611.jpg",
-        "https://thimg.todayhumor.co.kr/upfile/202611/179414967244232c2da9114289a3a263c04d2bf9da__mn117629__w758__h412__f41697__Ym202611.jpg",
-        "https://thimg.todayhumor.co.kr/upfile/202611/17941496730312d236c6874f16ae4cad6ae02899d3__mn117629__w762__h986__f147930__Ym202611.jpg",
-        "https://thimg.todayhumor.co.kr/upfile/202611/17941497818573a893dca248f983a44a5aa88c5ccb__mn117629__w456__h99__f9858__Ym202611.png",
-        "https://thimg.todayhumor.co.kr/upfile/202611/1794149796b99c02140d084453a781b7d29d9af336__mn117629__w674__h618__f78636__Ym202611.png"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ou_db08c080ded4",
-      "source": "오늘의유머",
-      "title": "300년 전 영국 여자들이 해피엔딩 내달라고 작가 협박한 사건.jpg",
-      "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=484134&s_no=484134&page=1",
-      "author": "우가가",
-      "time": "26/11/14 08:04",
-      "likes": "80",
-      "comments": "",
-      "content": "씹선비 하니까 우리 오유가 생각나서 그만....\n아 네 걍 퍼온거에요",
-      "images": [
-        "https://thimg.todayhumor.co.kr/upfile/202611/17940421196121fca5bbe14152bed0471f45ed7f6a__w538__h14099__f934587__Ym202611.jpg",
-        "https://thimg.todayhumor.co.kr/upfile/202611/179404211894045815c46d4f0c98001a628842fa85__w674__h372__f38817__Ym202611.png"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ou_88eac8a1eeaa",
-      "source": "오늘의유머",
-      "title": "여친 쌩얼보고 못생겼다고 하면 안 되는 이유",
-      "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=484133&s_no=484133&page=1",
-      "author": "감동브레이커",
-      "time": "26/11/14 07:43",
-      "likes": "95",
-      "comments": "",
-      "content": "",
-      "images": [
-        "http://thimg.todayhumor.co.kr/upfile/202611/17944147119e54cfd074da4c1db9cd3c8cff4ec4cc__mn422209__w1080__h509__f40946__Ym202611.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ou_69f3b3180def",
-      "source": "오늘의유머",
-      "title": "소심한 댕댕이 입양 후기",
-      "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=484132&s_no=484132&page=1",
-      "author": "우가가",
-      "time": "26/11/13 22:54",
-      "likes": "86",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://thimg.todayhumor.co.kr/upfile/202611/1794467912ecaaa0e099da4b53bf2f35f928c145fb__w537__h13600__f708920__Ym202611.webp"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ou_93f79fdf922f",
-      "source": "오늘의유머",
-      "title": "멸종위기로부터 자신의 종족을 구한 아다 영웅",
-      "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=484131&s_no=484131&page=1",
-      "author": "감동브레이커",
-      "time": "26/11/13 22:47",
-      "likes": "85",
-      "comments": "",
-      "content": "",
-      "images": [
-        "http://thimg.todayhumor.co.kr/upfile/202611/17944598236375a2e404e84181a98dde92304606c8__mn422209__w850__h1063__f122657__Ym202611.jpg",
-        "http://thimg.todayhumor.co.kr/upfile/202611/1794459823a7fe308a70cf4ea49a9fb66a03eae1e0__mn422209__w850__h714__f109732__Ym202611.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ou_636238da8091",
-      "source": "오늘의유머",
-      "title": "김민석 이 ㅂ신은 일 안하나?",
-      "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=484130&s_no=484130&page=1",
-      "author": "퇴개미",
-      "time": "26/11/13 15:28",
-      "likes": "93",
-      "comments": "",
-      "content": "별 개짓꺼리 다동원해서 당대표하더만\n한다는짓이 이낙연 시즌2\n총선때 많이 날아간다\n에라이 ㅂ신들",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ou_39f2582b9d29",
-      "source": "오늘의유머",
-      "title": "미국사람들이 아플때 먹는 약값봐 ㄷㄷㄷ",
-      "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=484129&s_no=484129&page=1",
-      "author": "우가가",
-      "time": "26/11/13 14:52",
-      "likes": "79",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://thimg.todayhumor.co.kr/upfile/202611/17941936831ac78ed0ade64ebba723bbdb94bf13d3__w1079__h10655__f1568004__Ym202611.jpg",
-        "https://thimg.todayhumor.co.kr/upfile/202611/17941936828ca5f01c7197417f991902f8fb234237__w674__h883__f107026__Ym202611.png"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "clien_315b8f876a3d",
-      "source": "클리앙",
-      "title": "오늘 생일을 맞이하여 한 가지 약속을 하기로 했습니다",
-      "url": "https://www.clien.net/service/board/park/19294919?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-19 05:38",
-      "likes": "1",
-      "comments": "2",
-      "content": "40대중반이 되니 나이는 잘 모르고 날짜만 기억을 하게 되네요\n오늘은 수능날이자 365일중 특별히 기억되는 생일입니다\n하긴 저보다 저희 엄니가 고생많으셨겠지만서도요\n그래서 이벤트로 아침에 한 가지 셀프 약속을 하기로 했어요\n주위사람을 세 번 기분좋게 하자\n친구도 별로 없고 싱글이라 특별히 약속도 없이 오늘도 퇴근 후 집에 와서 자면 끝이겠지만 적어도 주변인에게 특별한 하루를 선물하고 싶어서 기획(?)하였습니다\n우선 거의 항상 첫 차를 타고 출근하는데 m버스 광역버스 기사님이 많이 피로해하시는 것 같아 가져온 페트병 커피를 전해드렸어요\n화장실이 관건이기도 하지만 거의 뒷자리에 앉아가는데 오늘은 용기내어 맨 앞자리에 앉아 기사님께 수줍게 커피를 드렸습니다\n정말 좋아하시더라구요.   특별한 커피는 아니지만 우유맛도 나고 달갈하다고 하시면서 고맙다고 몇 번이나 말씀주셔서 쑥스러웠습니다\n그리고 다음 신호에서 당신께서 피곤하실때마다 드시는 듯 한 사탕 한 바구니를 꺼내시며 사탕을 고르시라고 합니다\n부끄럽지만 하나를 수줍게 제가 좋아하는 청포도 사탕으로 고르고 답례로 감사인사를 페이백 드렸습니다\n일단 한 가지\n미션은 성공한 듯 하네요\n첫차를 타면 여러 사람이 많은데 시간대\n특성상 승객도 기사님도 유난히\n과묵하시고 조용하세요.  지쳐보이시기도 하고요.  그래서 많은 생각이\n들거든요. 저 또한 누군가에게 그 들 중 한 명처럼 보이겠지만…\n출근하고나서 어떤 나머지 두 미션이 기다릴지 벌써부터\n기대가 되네요.  이따 후기 남겨보겠습니다\n오늘 생일,기념일,특별한 날이신 분들께 모두 행복가득한 축복과 폭죽이 내리시길!   기분좋게 하루 시작합니다!\nPs:커피드리는데 받아도 되냐 마셔도 되냐 하시는데\n맘이 찡했어요….   (약 탄거 아닌데….  농담입니다)\nPs2: 카페인 덕분인지 매 정거장마다 반갑게 하차 정거장도 안내주시고 탑승객 인사도 해 주시고 오늘은 내부등도 꺼주시네요.  이런게\n비즈니스클래스 서비스쥬!",
-      "images": [
-        "https://edgio.clien.net/F01/2026/11/15866633/81d5a3377776.jpeg?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15866634/31931d0e1156.jpeg?scale=width:740"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "clien_82dde136ed71",
-      "source": "클리앙",
-      "title": "귀여운 한살배기 아기",
-      "url": "https://www.clien.net/service/board/park/19294917?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-19 05:00",
-      "likes": "1",
-      "comments": "1",
-      "content": "한살 배기 17년만 크면\n너도 수능을 보는구나.\n오늘도 이쁘네요",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "clien_15a3f199bdde",
-      "source": "클리앙",
-      "title": "인공지능도 기본적인 실수를 하네요",
-      "url": "https://www.clien.net/service/board/park/19294916?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-19 04:56",
-      "likes": "0",
-      "comments": "",
-      "content": "챗지피티보다 제미나이가 좋대서\n사주 물어봤는데 일주를 잘못계산하네요\n그래서 버럭 했더니\n제미나이가 사과했어요 ㅎㅎㅎ",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "clien_3436b480c58f",
-      "source": "클리앙",
-      "title": "스피커·모터 떼자 문자 ‘조용’…개조법 확산",
-      "url": "https://www.clien.net/service/board/park/19294914?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-19 04:43",
-      "likes": "0",
-      "comments": "",
-      "content": ".\n.\n정말 사람이란 하지말라면 어떻게든 뚫으려는 자들이 꼭 있는것 같습니다.\n이런저런 이슈들이 많지만 오늘 수능날 다들 논란도 없이 무리없이 치뤄지고 최선을 다해서 시험보기를 바랍니다.\n수험생분들 모두 파이팅입니다!",
-      "images": [
-        "https://edgio.clien.net/F01/2026/11/15866618/2e9b1c8a2959.jpg?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15866619/2fba937aaf28.jpg?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15866620/2d86a58b5b5d.jpg?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15866621/2d86dcbac60c.jpg?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15866622/2fbb1990e765.jpg?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15866623/2e9bef19f8b4.jpg?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15866624/2e9c0c0b86c1.jpg?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15866625/7edf2ec1cbc9.jpg?scale=width:740"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "clien_7eb65bda8bcb",
-      "source": "클리앙",
-      "title": "사람이 미운데 어쩌겠어요.",
-      "url": "https://www.clien.net/service/board/park/19294913?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-19 04:39",
-      "likes": "0",
-      "comments": "6",
-      "content": "맨아래 이런 글을 보면 뭐랄까. 참 🤦 😂 🤔\n저 사진을 보고\n소탈하네 와 맛있겠다. 분위기 좋네가 느껴지는데요?\n그래서 찾아봤죠.\n누군 보훈가족들 초청 안해봤나\nhttps://www.president.go.kr/photos/president/DUPOJ2gY\n---------------------------------------------------------------------------------------------\n지가 동네 한식당 갈 때 세우는 병풍용으로 소방관들을 보는 것이죠. 국민 위해서 말 그대로 몸 바쳐서 일하시는 분들, 좀 고급스럽게 대우해 드리면 안 됩니까? 참고로 문재인 대통령은 순직자 유가족들을 청와대의 행사장에 초청해서 오찬을 가졌죠. 그 때는 의자부터 국격이 느껴졌습니다.",
-      "images": [
-        "https://edgio.clien.net/F01/2026/11/15866615/2cd9b976d877.webp?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15866616/2cd9df4c49be.webp?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15866617/7e8eb57c3a13.jpg?scale=width:740"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "clien_a5421c9469ec",
-      "source": "클리앙",
-      "title": "중국의 한한령 해제가 달갑지만은 않은 이유",
-      "url": "https://www.clien.net/service/board/park/19294912?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-19 03:40",
-      "likes": "3",
-      "comments": "5",
-      "content": "과거 우리나라도 일본 대중문화의 수입/유통/공연을 규제한 적이 있었습니다.\n그리고 그것은 2004년 부터 조금씩 풀어서 2023년에 완전히 폐지 되었다고 합니다.\n당시 우리가 규제를 풀겠다고 판단한 이유는 인터넷의 활성화로 이미 접할 사람은 다 쉽게 접하기 때문이기도 하고\n우리 내부적으로도 피해를 보지 않을 것이라는 확신이 있었기도 했었다고 봅니다.\n중국이 오랜기간 한한령으로 틀어막은 것은 우리나라 문화와 경쟁에서 자신이 없었기 때문인데 그걸 이제 공식적으로 풀어준다는 것은 이재명 정부의 외교의 노력이라기 보다는 이제 스스로도 풀어도 된다는 자신이 생겨서 라고 저는 봅니다. (정부의 노력을 혐하 하려는 뜻은 아닙니다.)\n엔터업계에도 이미 중국 자본이 상당히 들어와 있는 것으로 압니다.\n또한 게임업계는 더 심각한 것 같더군요...\n관련 주식들이야 떡상해서 가지고 계신분들은 좋겠지만,\n이번 중국의 한한령 해제로 인해서 왠지 우리나라에 득보다 실이 더 클 것 같다는 불안감이 드네요...\n관련 업계가 제주도 꼴 나지 않았으면 하는 생각이나 몇자 적어 봅니다.",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "clien_ad17885843d7",
-      "source": "클리앙",
-      "title": "주상복합 아파트 앞 집 스트레스, 어떻게 해야할까요?",
-      "url": "https://www.clien.net/service/board/park/19294911?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-19 03:06",
-      "likes": "0",
-      "comments": "5",
-      "content": "주상복합이고, 오피스텔과 아파트가 섞여있습니다.\n바로 복도 앞에 맞은 편 거주자가 문제인데요.\n문을 쾅! 쾅! 쾅! 하면서 여러 번 닫습니다.\n이게 하루에 평균 5차례.. 그런데 문제는 새벽시간에도 심하다는건데요.\n저희 집 말고 다른 세대에서 싸움이 나서 경찰도 여러 번 왔었어요.\n싸움났을 때 저에게도 경찰이 와서 어떻냐고 물어봤는데 무서워서 말을 못했어요.\n저희는 지금 거주 6~7년차인데..\n다른 세대들은 싸우다가 결국 이사나갔어요.\n잠시 엿봤는데.. 그 문제의 집 열린 사이로 냄새가 엄청나고, 사람도 좀 정상이 아닌 것 같았어요.\n눈 마주쳤는데 좀 무서울정도여서 그냥 참고 사는데..\n남편이 요새 새벽에 너무 잠을 못자서 스트레스 받았는지,쿵쿵거릴때마다 나가려고 해요.\n제가 뜯어말리긴 하는데, 어떻게 해야 좋을 지 모르겠어요.\n참고로 자가입니다..",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "clien_35e56cd5602d",
-      "source": "클리앙",
-      "title": "GTA 6 릴리즈 후 3시간 달려본 결과, 주말 내내 하게될 것 같네요",
-      "url": "https://www.clien.net/service/board/park/19294910?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-19 02:39",
-      "likes": "6",
-      "comments": "4",
-      "content": "시각적 그래픽이 정말 뛰어납니다.\n원래 그래픽 잘 뽑는 회사이지만, 프레임만 30프레임인 것만 빼고는 최고 수준입니다.\n오브젝트, 배경,햇빛 반사, 캐릭터 모델링 모두 만족할 만한 수준입니다.\nPS5 PRO 성능을 악착같이 뽑아낸 퀄리티이고, PC 판이 기대되는 군요\n게임 스토리는 초반부이지만 락스타 답게 몰입감 있고 속도감 있게 진행됩니다.\n미국 범죄 드라마 수준으로 초반 스토리텔링이 잘되어 있습니다.\n한글화 역시 최고 수준입니다.\n게임에서 등장하는 잡지 아이템 텍스트 까지 모조리 한글화 했습니다.\n시네마틱 오픈 월드 게임으로 이정도 수준까지 만들 회사가 몇이나 될까 합니다.\n이 게임의 가장 큰 적은 역시 오랜 기다림에 팬들의 높아진 기대치이죠\nGTA 5 출시 이후 13년만 이니,더 압도적 그래픽과 스토리를 기대했던 팬들 입장에선\n기대보다 못하다고 할수 있으니 말입니다.\n저는 대단히 만족하고 있습니다.\n올해 바이오 하자드 9 레퀴엄과 더불어 가장 만족스런 게임일 것 같습니다.\n영화, 음악,드라마, 게임 일반적인 엔터테인먼트 상품 중에서\n가장 큰 매출을 올해 거두지 않을까 합니다.\n한국 게이머들보다는 북미, 유럽 서양 게이머들이 좋아할 요소들이 많습니다.\n극초반인데 집 수리를 하는 사이드 미션이 있는데,\n아파트가 아닌 오랜된 개인 주택에서 발생할 수 있는\n사소한 집수리를 정말 사실적으로 묘사했습니다.\n미국은 인건비가 비싸서 그냥 재료와 공구를 사다가\nDIY 개념으로 지붕 수리, 목재 계단 수리, 페인트 칠 하는데\n이걸 사실적으로 묘사한게 미국 아재 감성을 느끼게 합니다.\n종종 저도 살면서 간단한 집수리는 직접 제가 전동 공구로\n해보는 게 재밋을 것 같은데 게임에서 잘 묘사했습니다.",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ppomppu_3184adee2f11",
-      "source": "뽐뿌",
-      "title": "[롯데온]블랙야크 구스 파니롱다운(148,920원/무배)",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=749883",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "뚱땡이 롱패딩은 아니고\n중경량 정도에 두깨입니다\n가볍게 착용하기 좋아요 구스8:2",
-      "images": [
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1118/900w_20261118202031_iAKQS7z00f.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ppomppu_299cffa4408f",
-      "source": "뽐뿌",
-      "title": "자다 일어났더니 이건 뭐 무슨 일인지",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=456965",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "나선 및 AI 엔비 메모리 다 하락 ㅠㅠ\n근데 유가는 폭락중 10년채 하락중\n야선은 폭락중!\n금리인상 빅스텝 애기 나와서 그런건가요?\n오늘 또 때려맞겠군요. ㅠ.ㅠ",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ppomppu_2d97d5866ef7",
-      "source": "뽐뿌",
-      "title": "낼도 삼닉 초토화 각",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=456956",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "연말까지 15 / 60이 와줄지\n올핸 연말 분위기 보기 힘들듯",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ppomppu_ce5af3565df9",
-      "source": "뽐뿌",
-      "title": "야선 하락이 슬프지 않은건",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=456963",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "바로 유가와 금리 하락",
-      "images": [
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1119/900w_20261119002643_tjigVyWY4T.jpeg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ppomppu_54634d4ab632",
-      "source": "뽐뿌",
-      "title": "네이버] 1++ 한우한판 등심300g+특수부위300g (48,900원/무료)",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=749922",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "등심300g+특수부위600g(치마살,부채살,업진살)\n구성입니다\n잡내없이 고기 부드러워서 맛있고\n투쁠인데 저렴합니다",
-      "images": [
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1119/900w_20261119000248_4QxdcMg8qv.jpeg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ppomppu_ec21a4bb0e17",
-      "source": "뽐뿌",
-      "title": "[블프 태블릿모음] 샤오신 프로 13 ($178) 프로 GT ($226) 빅미 흑백 ($109) iPlay80 미니 프로($...",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu8&no=106089",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "링크오류 해결방법:\n갤럭시: 1) 링크 꾹 눌러 새 창에서 열기 -> 해당 페이지에서 상단 알리익스프레스 앱으로 열기\n2) 알리앱 꾹 눌러서 설정 -> 기본 -> 기본으로 설정 -> 지원되는링크열기 비활성화\n아이폰: 사파리에서 링크 꾹 누르고  -> 새로운 탭에서 열기 -> 상단에 앱 연결\n할인 적용 기간 2026년 11월 19일 00:00 ~ 12월 3일 23:59\n1. 할인코드\n- 21달러 이상 구매 시, 3달러 즉시 할인➡KLBB03, SUKR03\n- 58달러 이상 구매 시, 8달러 즉시 할인➡KLBB08, GHRE08\n- 98달러 이상 구매 시, 13달러 즉시 할인➡KLBB13\n- 105달러 이상 구매 시, 18달러 즉시 할인➡AEKBF105\n- 149달러 이상 구매 시, 19달러 즉시 할인➡KLBB19\n- 155달러 이상 구매 시, 25달러 즉시 할인➡AEKBF155\n- 222달러 이상 구매 시, 26달러 즉시 할인➡KLBB26\n- 250달러 이상 구매 시, 40달러 즉시 할인➡AEKBF250\n- 375달러 이상 구매 시, 45 달러 즉시 할인➡KLBB45, LKWA45\n2. 결제할인\n🌍 [직구 상품 전용 할인]\n$60 이상 : 마스터카드(우리) → $9 할인\n$100 이상 : 마스터카드(KB국민, 신한, 삼성, 하나, 롯데, IBK기업) → $15 할인\n$100 이상 : 비자(삼성, 하나, 네이버페이 머니카드) → $15 할인\n$100 이상 : NH농협, 유니온페이 → $16 할인\n$100 이상 : 비자(우리) → $20 할인\n$100 이상 : 비자(롯데) → $30 할인\n$150 이상 : 비자(KB국민) → $22 할인\n🇰🇷 [직구 + 한국발송 상품 할인]\n10만원 이상 : 카카오페이, 토스페이 → 8,000원 할인\n10만원 이상 : 네이버페이 → 7,000원 할인\n16만원 이상 : 카카오페이, 네이버페이, 토스페이 → 13,000원 할인\n바로가기>레노버 샤오신 패드 프로 12.7 2025\n시작가 $185.62\n스토어쿠폰 $1  YOUCHEN8888\n$19 할인코드 POLK19 , KLBB19\n카드할인 비자(롯데) → $30 할인\n예상할인가 $135.62\n바로가기>레노버 샤오신 패드 프로 13 TB376FC\n시작가 $253.98\n코인할인 $5.08 <장바구니 담고 홈 상단 코인 -> 최근 본 상품에서 찾기>\n$40 할인코드 AEKBF250\n소진시 $26 할인코드 KLBB26\n카드할인 비자(롯데) → $30 할인\n예상할인가 $178.90\n바로가기>레노버 샤오신 패드 프로 GT 11.1 8G 256GB\n시작가 $296.99\n$40 할인코드 AEKBF250\n카드할인 비자(롯데) → $30 할인\n예상할인가 $226.99\n바로가기>ALLDOCUBE iPlay 80 미니 프로 태블릿\n시작가 $146.84\n$18 할인코드 AEKBF105\n소진시 $13 할인코드 KLBB13, ZXYH13\n$11 스토어쿠폰 CUBET830\n카드할인 비자(롯데) → $30 할인\n예상할인가 $87.84\n바로가기>빅미 B6 흑백 전자책 리더\n시작가 $164.17\n$25 할인코드 AEKBF155\n소진시 $19 할인코드 KLBB19\n카드할인 비자(롯데) → $30 할인\n예상할인가 $109.17\n바로가기>빅미 B6 컬러 전자책 리더\n시작가 $156.55\n$25 할인코드 AEKBF155\n소진시 $19할인코드 KLBB19\n카드할인 비자(롯데) → $30 할인\n예상할인가 $101.55\n바로가기>빅미 B7 전자책 리더\n시작가 $255.72\n$40 할인코드 AEKBF250\n소진시 $26 할인코드 KLBB26\n카드할인 비자(롯데) → $30 할인\n예상할인가 $185.72\n바로가기>빅미 B7 PRO 전자책 리더\n시작가 $328.70\n$40 할인코드 AEKBF250\n소진시 $26 할인코드 KLBB26\n카드할인 비자(롯데) → $30 할인\n예상할인가 $258.70",
-      "images": [
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1119/20261119013133_jK45AvHfgH.webp",
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1119/20261119012914_pzdbuZADv8.webp",
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1118/20261118182113_bNv47Msf6J.jpg",
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1118/20261118174214_DX5sPMMOu0.webp",
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1118/20261118182524_LccD3IITjT.jpg",
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1118/20261118182529_SddYZnwe8T.jpg",
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1118/20261118183549_gtK6ee2tzy.jpg",
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1118/20261118183644_ML79Fw6VFs.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ppomppu_0325d7cdec4a",
-      "source": "뽐뿌",
-      "title": "[오늘의집] 나랑드사이다제로 345ml 24캔(9,999원/무배)",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=749898",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "나랑드사이다제로 할인입니다.\n3가지 맛 중에서 고를 수 있고\n00시까지 타임딜이라 3시간 남았습니다.\n쿠폰 받고 카카오페이 결제하면 가격 나옵니다.",
-      "images": [
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1118/900w_20261118205654_QazA1iRkFZ.jpg",
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1118/900w_20261118205704_ZO5xNdTF6H.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ppomppu_a29d11baacfb",
-      "source": "뽐뿌",
-      "title": "AD11월 19일자 오늘의 전국 3사 성지좌표",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket2&no=1560404",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "이제 휴대폰 사느라발품 그만 파시고 여기서 비교해보고 구입하세요!\n전국 각 지역에 가까운곳으로 가서 그냥 구입하시면 됩니다\n밴드 어플 \"휴대폰\" 검색 1순위 위치하는경쟁력 1위 밴드 성지입니다!!!\n기종별 매일 매일 터지는 특가 확인하세요!!\nSKT / KT / LG U+\n전상품취급\n밴드바로가기(클릭)\n밴드바로가기(클릭)\n밴드바로가기(클릭)\n밴드바로가기(클릭)\n밴드바로가기(클릭)\n밴드바로가기(클릭)",
-      "images": [
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2023/0517/20230517015743_k8oNjXk7B7.png"
       ],
       "is_cross_hot": false
     },
@@ -1650,6 +1911,165 @@
       "is_cross_hot": false
     },
     {
+      "id": "bobae_2148293885e9",
+      "source": "보배드림",
+      "title": "카광사건관련) 살해협박을 받았습니다 (공개)",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048576&vdate=",
+      "author": "종로초이스..",
+      "time": "00:38",
+      "likes": "29",
+      "comments": "",
+      "content": "노상균 변호사는 지난 7월 성적욕설을 해서 성폭력범죄에 관한 특별법 위반으로 현재 수사중에 있는 사람입니다.\n혐의는 인정되어 현재 공소청에 송치되어 있습니다.\n이런분이 카광크루 태국사건이 터지자 \"이계덕은 언급되지 않게 하겠다\"며 자신이 고소를 취하해달라고 연락해왔고, 김앤장명함을 보내면서 \"저 그냥변호사 아니구요\" \"카광크루는 끝난거다\"  \"줄잘서세요\"  언급을 하였습니다. 저는 몇일간 그가 김앤장 변호사인줄알았습니다.\n그런데 그가 갑자기 김앤장에서 일한건 맞는데 지금은 아니라며 휴직중이라고 말하더군요. 전 카광사건과 관련해서 카광이 처벌받아야한다는 생각으로 계속 협조하고, 수사기관에 진술했습니다.\n그런데 이분은 제게 연락을 할때마다 자는데 깨우더니 \"심심하니 술마시러 나오라\"등에 갑질을 하게됐고, 이러한 본인의 행동으로 본인이 비난을 받게되자 저에 대한 욕설이나 비방을 하도록 유도하더니 급기야는 제게 보이스톡을 거라고 해서 제가 걸자, 그걸 캡쳐해 게시하면서 \"이계덕 보이스톡 그만\"이라고 게시하였습니다.\n저는 해당변호사가 고소사건 취하를 위해 먼저 접근한점, 요청하지도 않았는데 사건에서 빼주겠다고 연락한점, 김앤장 소속이 아님에도 김앤장 변호사를 사칭한점, 그리고 실제 피해자 사건을 선임한적 없음에도 피해자 변호사로 여러 인터뷰를 하고있는점, 사건관계인들에게 무료대리를 해주겠다고 해놓고 그분들은 신상으로 협박으로 활용한점 등에 화가나 그분과 주고받은 통화와 카톡을 오픈했습니다.\n그분이 변호사에게 법적대응을 할줄알았습니다. 그런데 그분은 최고다영만.승냥이방에 후원하면서 \"이계덕 트래픽을 가져가라\" \"이계덕 차단풍 얼마냐\"  \"이계덕은 범죄자다\" \"참전해라\"  \"이계덕 생일에 후원하지 말아라\"고 외부적인 공격을 시작하셨고, 장도방송에 나가 짜깁기한 영상을 게시하며 이계덕을 비난하는 영상을 틀게 하였으며, 오픈톡방을 개설한뒤에 이계덕 유튜브채널을 신고하라고 하고, 경찰에게 이계덕이 경찰과 언론을 조롱하고 해외도피를 허위사실 유포를 하고 있습니다.\n경찰은 제가 참고인조사를 받을때 노상균변호사가 자꾸 수사정보를 커뮤니티에 유출한다며 만류해달라고 요청했습니다. 그분이 올린 수사정보가 카광이나 그 주변인이 방어할수 있는 시간과 기회를 주기때문입니다. 이분이 그것이알고싶다에 이번주 금요일에 4시간 인터뷰했답니다.\n그러던중 오늘 이계덕을 살해하겠다는 통화녹음이 음지저장소에 올라왔고 충격을 금치 못하고 있습니다. 노상균변호사는 현재 제가 피해자로 있는 성범죄특별법 위반 가해자입니다. 그리고 그런 가해자가 저런 살해협박을 한다는것에 대해 두려워 경찰에 신고를 넣어둔 상태입니다. 변호사는 변호사답게 행동하십시오\nhttps://youtu.be/pF945PpcQng?si=qr9Aps2qvCcLjJWG\nhttps://youtu.be/aFGCsoO19ls?si=-dpFeK3bo7WPWCkS\nhttps://youtu.be/TgCLve4W7r0?si=QcMGtdNJDdX1lhFb\nhttps://youtube.com/shorts/k_3fWR34Y34?si=RDjoJXG7eWsY-0wg\nhttps://youtube.com/shorts/qEcIhTL5KUI?si=330kzPpgWb3xb3my\nhttps://youtube.com/shorts/z5oXmjXQ-cs?si=ezWSUqbmaj7YaPMZ\nhttps://youtube.com/shorts/6BznxJAH5Kk?si=3ySnxWfwo8ceEocv",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "bobae_b00e1395912e",
+      "source": "보배드림",
+      "title": "여자들이 편의점 알바를 오래 못하는 이유",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048580&vdate=",
+      "author": "포핸즈",
+      "time": "00:10",
+      "likes": "46",
+      "comments": "",
+      "content": "종종 변태같이 글쓰는 양반 생각나네..\n그렇게 늙어가지 말아야지..",
+      "images": [
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/00/loga1795014527_468540566.webp",
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/00/loga1795014528_324070255.webp",
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/00/loga1795014528_999421783.webp",
+        "https://file1.bobaedream.co.kr/humor/2026/11/19/00/loga1795014529_1194200612.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "bobae_94bb824a4fd1",
+      "source": "보배드림",
+      "title": "40대 이상 금지목록",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048573&vdate=",
+      "author": "웃고넘는박..",
+      "time": "11/18",
+      "likes": "96",
+      "comments": "",
+      "content": "또라이 시키들..\n지들이 뭔데 금지시켜\n난 나야..\n오버클래스 아이디..",
+      "images": [
+        "https://file1.bobaedream.co.kr/humor/2026/11/18/22/mint1795009166_132242444.webp"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "bobae_15ab48b67ded",
+      "source": "보배드림",
+      "title": "길에서  폰 보지 마라",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048572&vdate=",
+      "author": "왕장군",
+      "time": "11/18",
+      "likes": "86",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://file1.bobaedream.co.kr/humor/2026/11/18/22/wang1795007927_1354008067.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/18/22/wang1795007928_36804939.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/18/22/wang1795007929_303876050.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/18/22/wang1795007930_456513400.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/18/22/wang1795007931_2053567451.jpg"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "bobae_e8fe4e3fa12d",
+      "source": "보배드림",
+      "title": "남편 성과금이 들어왔다네요",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048574&vdate=",
+      "author": "나혼자잘산..",
+      "time": "11/18",
+      "likes": "55",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://file1.bobaedream.co.kr/humor/2026/11/18/22/AwxM1795007811_1936474803.jpg"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "bobae_476e1a37fc90",
+      "source": "보배드림",
+      "title": "\"남편이 바람피우기 싫다고 이혼하재\"",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048563&vdate=",
+      "author": "tinyj..",
+      "time": "11/18",
+      "likes": "120",
+      "comments": "",
+      "content": "ㅅㅅ하기 싫을 정도면 뭐하러 같이 사나?\n이혼하게 되면 돈 생각에 막막하다? ATM이군.",
+      "images": [
+        "https://file1.bobaedream.co.kr/humor/2026/11/18/22/lji91795007350_217256834.jpg"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "bobae_9778641fde86",
+      "source": "보배드림",
+      "title": "여자가 한달 빌린 모텔방",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048584&vdate=",
+      "author": "일차로는추..",
+      "time": "11/18",
+      "likes": "26",
+      "comments": "",
+      "content": "저기서 잠은 어떻게 잤는지   ㄷㄷㄷ",
+      "images": [
+        "https://file1.bobaedream.co.kr/humor/2026/11/18/21/etha1795006395_111937986.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/18/21/etha1795006396_559432892.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/18/21/etha1795006397_156904885.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/18/21/etha1795006398_1230180797.jpg"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "bobae_baff80531511",
+      "source": "보배드림",
+      "title": "니는 임마 내하고 붙어야지 누굴 자꾸 건드리노?",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048569&vdate=",
+      "author": "지오메트리",
+      "time": "11/18",
+      "likes": "28",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://file1.bobaedream.co.kr/strange/2026/11/18/21/AQQW1795006266_1504557345.png",
+        "https://file1.bobaedream.co.kr/strange/2026/11/18/21/AQQW1795006296_913413030.jpg"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "bobae_14b367c69ed1",
+      "source": "보배드림",
+      "title": "강남 학원장이 초등생에게 술 먹이고 성폭행…긴급체포",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048581&vdate=",
+      "author": "블핑지수",
+      "time": "11/18",
+      "likes": "34",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://file1.bobaedream.co.kr/humor/2026/11/18/21/kimi1795004533_2140759646.jpg"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "bobae_a82399243a94",
+      "source": "보배드림",
+      "title": "반명이던 친명이던 이제 그만합시다",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048583&vdate=",
+      "author": "일베자지절..",
+      "time": "11/18",
+      "likes": "28",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://file1.bobaedream.co.kr/strange/2026/11/18/21/wonw1795004422_49331525.jpg"
+      ],
+      "is_cross_hot": false
+    },
+    {
       "id": "bobae_0ecf21bb9a59",
       "source": "보배드림",
       "title": "악질중에 악질 매국노 중국남자 출몰했습니다!",
@@ -1735,317 +2155,6 @@
       "content": "비판하는데 그럼 뉴일베들이 29시간 하루종일 교대로 도배하고 특히 새벽시간에 특정 닉네임들이 했는데 왜 비판 안하세요???",
       "images": [
         "https://file1.bobaedream.co.kr/strange/2026/11/18/20/wonw1795001929_2094655354.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_13314a86e8cc",
-      "source": "보배드림",
-      "title": "그리고 뉴일베 이 등신들아",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048518&vdate=",
-      "author": "슬기로운반..",
-      "time": "20:31",
-      "likes": "25",
-      "comments": "",
-      "content": "니들이 반명이라고 해서\n반명짓 하는데 뭔 개지랄들임?\n등신들 ㅋㅋㅋㅋㅋㅋㅋ",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_255f07a5e7f4",
-      "source": "보배드림",
-      "title": "이햐 진짜 어떤 병신새키의 민주당을 떠나라~ ㅋ 이거 진짜네",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048548&vdate=",
-      "author": "사랑합니당..",
-      "time": "20:30",
-      "likes": "19",
-      "comments": "",
-      "content": "어떤 개병신 호로 멍청한 새키가\n민주당을 떠나라?ㅋㅋ\n이질알해서 대폭소 한 적있는데\n그 짬통 꼬봉새키들이 똑같은 말을 쳐하고 있넼ㅋㅋㅋㅋㅋㅋ\n지금 있는 민주당 초선들 싹다 사라질거고\n김민석이랑 이재명도 끝이야 ㅋㅋ\n분위기 파악이 안되나 보네?ㅋㅋㅋ",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_dde257ea43f1",
-      "source": "보배드림",
-      "title": "구라타기야",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048533&vdate=",
-      "author": "넣어치기시..",
-      "time": "20:30",
-      "likes": "17",
-      "comments": "",
-      "content": "독도는 누구땅이니??\n진짜 궁금해서 묻는거야\n니가 생각하는 독도는 누구땅이냐??\n조국이 전과때문에 일본입국불허는 개소리고\n당대표시절 독도 입성한것 때문에\n입국이 불허된것 같거든  왜냐하면\n조국이 사면되고 일본을 방문한적이 있다\n근데 2024년 독도  방문이 있었고\n그 일로 인해서 지금 입국이 불허된것\n이렇게 보는게 매우 논리적이지 않냐?\n그런 조국을 비아냥 거리느라 쪽빠리 새끠들\n협잡질에 놀아날 정도면 구라타기 너는\n그냥 뉴잼이 아니고 2찍 개버러지 새끠맞음\n반박시 니말이 다 맞다",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_f0357695ebd0",
-      "source": "보배드림",
-      "title": "뉴일베 새끼들아 닉변하나로 니들 긁어줄수 있는데 해줄까?",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048519&vdate=",
-      "author": "슬기로운반..",
-      "time": "20:30",
-      "likes": "15",
-      "comments": "",
-      "content": "추천수 10나오면 바로 간다 ㅋㅋㅋ",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_234960272c24",
-      "source": "보배드림",
-      "title": "일본인 아내가 장문 메시지를 보낸 이유. jpg",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048079&vdate=",
-      "author": "스마일거북..",
-      "time": "09:33",
-      "likes": "17",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/09/bbjs1794875621_1325463532.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/09/bbjs1794875623_2011377532.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_7587b5232443",
-      "source": "보배드림",
-      "title": "24년 AI로 의대간 자백 온라인글 파문",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048070&vdate=",
-      "author": "dtjhg..",
-      "time": "08:56",
-      "likes": "85",
-      "comments": "",
-      "content": "대치동맘들 쉬쉬 한다는 글이 사실인듯 ㄷㄷㄷ",
-      "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/08/dull1794873299_1811205657.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/08/dull1794873300_1767123548.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/08/dull1794873300_262008670.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/08/dull1794873301_1634846174.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/08/dull1794873302_875364113.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_313f21b70a09",
-      "source": "보배드림",
-      "title": "축의금안란 친구때문에 눈물나요",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048064&vdate=",
-      "author": "걸인28호",
-      "time": "08:46",
-      "likes": "112",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/08/risi1794872760_1330452575.webp",
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/08/risi1794872772_384068655.webp"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_d4fa984b7c47",
-      "source": "보배드림",
-      "title": "연금복권 1등 2번 당첨",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048075&vdate=",
-      "author": "웃고넘는박..",
-      "time": "08:43",
-      "likes": "39",
-      "comments": "",
-      "content": "239회(2024.11.28) 당첨 이후 약 2년만에 재당첨\n합쳐서 세전 2,200만원\n전생에 나라를 구하셨나 봅니다.\n전생의 나... 넌 뭐했니? ㅡ,.ㅡ",
-      "images": [
-        "https://i.aagag.com/o/L68fu.webp"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_e2872398aa69",
-      "source": "보배드림",
-      "title": "여자 사무직이 공장단지에서 일 안하는 이유",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048069&vdate=",
-      "author": "전문대는꿈",
-      "time": "08:28",
-      "likes": "81",
-      "comments": "",
-      "content": "깨추한테 뇌를 지배당한 사람이 너무 많기 때문",
-      "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/08/GQkJ1794871643_1926190933.webp",
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/08/GQkJ1794871644_1713038318.webp",
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/08/GQkJ1794871645_2101311581.webp"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_9a2fc06e33e1",
-      "source": "보배드림",
-      "title": "그나이먹고 알바하냐?",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048078&vdate=",
-      "author": "걸인28호",
-      "time": "08:21",
-      "likes": "29",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/08/risi1794871276_355128323.webp"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_2e4555e7c453",
-      "source": "보배드림",
-      "title": "어이없는 인도네시아 헬스장 사망사고",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048077&vdate=",
-      "author": "풀모닝",
-      "time": "08:18",
-      "likes": "23",
-      "comments": "",
-      "content": "실제 일어난 일이라함\n러닝머신 뛰던 여성 창밖으로 떨어져 사망\n이게 실제 영상이고 위는 ai로 재구성한 영상인듯",
-      "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/08/AwhL1794871125_63060173.gif",
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/08/AwhL1794872857_2143608681.gif"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_1931bd42c6a1",
-      "source": "보배드림",
-      "title": "이재명과 김민석이 필요로 하는 것",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048067&vdate=",
-      "author": "지오메트리",
-      "time": "08:18",
-      "likes": "37",
-      "comments": "",
-      "content": "국회의원도\n권리당원도\n필요없다\n필요한 건\n자동 거수기",
-      "images": [
-        "https://file1.bobaedream.co.kr/strange/2026/11/17/08/AQQW1794871109_1055631613.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_d645362f8b5f",
-      "source": "보배드림",
-      "title": "심각한 중국 경제불황이 만들어낸 현상",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048061&vdate=",
-      "author": "풀모닝",
-      "time": "08:12",
-      "likes": "53",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/08/AwhL1794870741_369708878.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/08/AwhL1794870742_859140138.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/08/AwhL1794870744_612793377.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/08/AwhL1794870745_267005640.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/08/AwhL1794870747_1128857917.gif",
-        "https://file1.bobaedream.co.kr/humor/2026/11/17/08/AwhL1794870751_980488906.gif"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_0aa77593a2f1",
-      "source": "보배드림",
-      "title": "잼통과 김민새의 현실",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1048073&vdate=",
-      "author": "WALLE",
-      "time": "08:10",
-      "likes": "27",
-      "comments": "",
-      "content": "#이렇게헛발짓하다내년총선말아먹고다음대선망하면누가책임질거야?",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_f287ccf86a02",
-      "source": "보배드림",
-      "title": "천지일보나 처보는 3끼들이 반명 타령하니까",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1047646&vdate=",
-      "author": "운지왕무현..",
-      "time": "16:37",
-      "likes": "17",
-      "comments": "",
-      "content": "존나 토나오고 역겹네\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_89e750abc796",
-      "source": "보배드림",
-      "title": "훈장질 하는 이재명",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1047645&vdate=",
-      "author": "운지왕무현..",
-      "time": "16:33",
-      "likes": "21",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://file1.bobaedream.co.kr/strange/2026/11/15/16/yesd1794728001_1138276159.jpg",
-        "https://file1.bobaedream.co.kr/strange/2026/11/15/16/yesd1794728002_1940836395.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_1f564fa84ed3",
-      "source": "보배드림",
-      "title": "왜 금쪽이가 생기는지 이유를 알듯",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1047641&vdate=",
-      "author": "여기도김씨",
-      "time": "15:29",
-      "likes": "99",
-      "comments": "",
-      "content": "이런 미친년이 애를 키우니 금쪽이가 되지...\n니 돈 쌔벼서 편의점가서 젤리 사먹은건데\n왜 사과를 시키지?\n이런년이 애를 감싸니 어휴.,",
-      "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/15/15/keks1794724124_1844755629.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/15/15/keks1794724126_1677705079.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/15/15/keks1794724128_279078494.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/15/15/keks1794724129_611200241.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/15/15/keks1794724130_2101868087.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_b952d3208c98",
-      "source": "보배드림",
-      "title": "AI이전도 시험부정은 있었다. 소형카메라+이어폰, 들통난이유",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1047639&vdate=",
-      "author": "아이폰16..",
-      "time": "14:25",
-      "likes": "46",
-      "comments": "",
-      "content": "AI 이전에는 소형 카메라, 소형 이어폰 조합으로 외부에서 대신 시험을 잘보는 사람에게 돈을 주고\n카메라로 시험문제를 전송하고 대신 풀고 답을 초소형 이어폰으로 전달하는 방식입니다.\nAI와 다른 점은 시험 잘보는 사람을 매수하려면 큰 돈을 줘야하고 나중에 돈 더 달라고 협박하면 골치하픈 상황이 벌어집니다. 그러니 정말 나중에 협박 안할 돈 받고 끝인 사람을 잘 구해야 합니다.\nAI시대에는 저렇게 사람 구할 필요 없이 가능합니다.\n이건 정말 큰 문제인게 대입의\n내신확대로 수능같이 강한 시험 감독이 아닌 곳에서 수많은 고등학교 중간, 기말고사\n에서 이런 부정이 있었고\n내신으로 명문대에 입학했습니다.\n물론 수능에서도 이런 부정이 있었습니다.\n세무사, 공인중계사, 변호사시험, 행정고시 등등 각종 수 많은 시험에서도 위와 같은 부정이 있었습니다.\n세무냥이 세무사가 들통난 이유\n최근 AI 유료버전의 성능이 너무 좋아져서 만점이 나와 수면위로 발각된 것입니다.\n과거에는 유료 ai는 합격은 해도 만점 수준 혹은 수석 정도로 높은 성적은 나오지 않았습니다.\n합격은 해도 수면 위로 발각되지 않은 것입니다.\n또는 앞 문제들은 ai답 쓰고 뒷 문제들은 고의로 틀려 합격선 위로만 한 사람들도 있을겁니다.",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_fe8afba7ac69",
-      "source": "보배드림",
-      "title": "한국산업인력공단이 쌍욕 먹는 이유",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1047635&vdate=",
-      "author": "나혼자잘산..",
-      "time": "14:20",
-      "likes": "90",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/15/14/AwxM1794720039_765495568.webp"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_b5e928799e17",
-      "source": "보배드림",
-      "title": "안녕! 난 도용범 범죄자 라고 해....",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1047636&vdate=",
-      "author": "화딱지05..",
-      "time": "13:45",
-      "likes": "45",
-      "comments": "",
-      "content": "뉴스 사고에 난 페라리도 도용,.\n타인 여행 블로그 사진도 무단 도용....",
-      "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/15/13/DBcZ1794717798_1491733898.png",
-        "https://file1.bobaedream.co.kr/humor/2026/11/15/13/DBcZ1794717800_452379089.png",
-        "https://file1.bobaedream.co.kr/humor/2026/11/15/13/DBcZ1794717802_32586427.png",
-        "https://file1.bobaedream.co.kr/humor/2026/11/15/13/DBcZ1794717804_2118972439.png",
-        "https://file1.bobaedream.co.kr/humor/2026/11/15/13/DBcZ1794717806_1308002460.png",
-        "https://file1.bobaedream.co.kr/humor/2026/11/15/13/DBcZ1794717808_1468458431.png",
-        "https://file1.bobaedream.co.kr/humor/2026/11/15/13/DBcZ1794717810_1896813148.png"
       ],
       "is_cross_hot": false
     }
