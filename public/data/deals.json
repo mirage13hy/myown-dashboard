@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-20 19:39",
+  "updated_at": "2026-11-21 03:54",
   "source_status": {
     "에펨코리아 핫딜": "cached (6, HTTPStatusError)",
     "뽐뿌": "cached (2, HTTPStatusError)",
-    "클리앙 알뜰구매": "ok (3)"
+    "클리앙 알뜰구매": "ok (4)"
   },
   "posts": [
     {
@@ -143,6 +143,19 @@
       "is_cross_hot": false
     },
     {
+      "id": "clien_deal_5ef180d4fef5",
+      "source": "클리앙 알뜰구매",
+      "category": "디지털·가전",
+      "title": "apple TV+ 6개월간 월 2900원씩 프로모션",
+      "url": "https://www.clien.net/service/board/jirum/19296182?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-20 19:50",
+      "likes": "",
+      "comments": "5",
+      "content": "영화세일한다고 들어갔다가\n저런게 떠서 뜬금 구독했습니다.\n필요하신분에게 도움이되었기를 바랍니다",
+      "images": []
+    },
+    {
       "id": "clien_deal_69f3af176d14",
       "source": "클리앙 알뜰구매",
       "category": "디지털·가전",
@@ -151,7 +164,7 @@
       "author": "",
       "time": "2026-11-20 19:19",
       "likes": "",
-      "comments": "",
+      "comments": "1",
       "content": "블프 세일중이라 정보 공유합니다.\n사진 출처 및 구매 링크는 아래와 같습니다.\nhttps://m.e-himart.co.kr/app/displayPlan/listPlanDetail?spdpNo=13792\n하이마트",
       "images": [
         "https://edgio.clien.net/F01/2026/11/15867773/acfd2c081cf1.png?scale=width:740",
