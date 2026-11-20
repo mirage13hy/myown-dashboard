@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-20 04:14",
+  "updated_at": "2026-11-20 11:44",
   "source_status": {
     "에펨코리아 핫딜": "cached (6, HTTPStatusError)",
     "뽐뿌": "cached (2, HTTPStatusError)",
-    "클리앙 알뜰구매": "ok (2)"
+    "클리앙 알뜰구매": "cached (2, RemoteProtocolError)"
   },
   "posts": [
     {
