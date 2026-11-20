@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-20 11:44",
+  "updated_at": "2026-11-20 19:39",
   "source_status": {
     "에펨코리아 핫딜": "cached (6, HTTPStatusError)",
     "뽐뿌": "cached (2, HTTPStatusError)",
-    "클리앙 알뜰구매": "cached (2, RemoteProtocolError)"
+    "클리앙 알뜰구매": "ok (3)"
   },
   "posts": [
     {
@@ -143,6 +143,22 @@
       "is_cross_hot": false
     },
     {
+      "id": "clien_deal_69f3af176d14",
+      "source": "클리앙 알뜰구매",
+      "category": "디지털·가전",
+      "title": "[하이마트] 아이폰 17 & 에어팟 프로 3 세일",
+      "url": "https://www.clien.net/service/board/jirum/19296168?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-20 19:19",
+      "likes": "",
+      "comments": "",
+      "content": "블프 세일중이라 정보 공유합니다.\n사진 출처 및 구매 링크는 아래와 같습니다.\nhttps://m.e-himart.co.kr/app/displayPlan/listPlanDetail?spdpNo=13792\n하이마트",
+      "images": [
+        "https://edgio.clien.net/F01/2026/11/15867773/acfd2c081cf1.png?scale=width:740",
+        "https://edgio.clien.net/F01/2026/11/15867774/ae1cb0c9115b.png?scale=width:740"
+      ]
+    },
+    {
       "id": "clien_deal_c72adede9d03",
       "source": "클리앙 알뜰구매",
       "category": "디지털·가전",
@@ -151,7 +167,7 @@
       "author": "",
       "time": "2026-11-19 01:18",
       "likes": "",
-      "comments": "4",
+      "comments": "8",
       "content": "애플티비에서 반지의 제왕이랑 호빗 확장판이 할인 중 입니다.\n한 편당 3500원입니다.\n호빗의 경우는 제가 아는한 몇년 만에 하는 걸 겁니다.\n일반판은 여러번 할인이 있었는데 확장판은 처음 봅니다.",
       "images": [
         "https://edgio.clien.net/F01/2026/11/15866593/738a2b14aab5.png?scale=width:740"

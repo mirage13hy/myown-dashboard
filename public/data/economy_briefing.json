@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-20 11:51",
+  "updated_at": "2026-11-20 19:44",
   "markets": [
     {
       "name": "코스피",
-      "price": "4,908.85",
-      "change_pct": -4.46,
+      "price": "4,869.96",
+      "change_pct": -5.21,
       "date": "11-20"
     },
     {
       "name": "코스닥",
-      "price": "655.49",
-      "change_pct": -1.1,
+      "price": "645.68",
+      "change_pct": -5.71,
       "date": "11-20"
     },
     {
@@ -27,30 +27,30 @@
     },
     {
       "name": "원/달러 환율",
-      "price": "1,338.63",
-      "change_pct": 0.62,
+      "price": "1,338.38",
+      "change_pct": 0.6,
       "date": "11-20"
     },
     {
       "name": "WTI 유가",
-      "price": "82.95",
-      "change_pct": -0.37,
-      "date": "11-19"
+      "price": "81.20",
+      "change_pct": -2.42,
+      "date": "11-20"
     }
   ],
-  "market_brief": "[기준일: 2026-11-20 최신 거래일 마감 기준]\n2026년 11월 20일 기준 글로벌 증시는 미국 증시의 급락 여파로 동반 약세를 기록했습니다. S&P 500(-2.02%)과 나스닥(-2.25%)이 기술주 중심의 차익실현 매물과 고금리 장기화 우려로 크게 하락했고, 이는 코스피(-4.46%)와 코스닥(-1.1%)의 급락세로 직결되었습니다. 안전자산 선호 심리가 강화되면서 원/달러 환율은 1,338.63원(+0.62%)으로 상승한 반면, WTI 유가는 수요 둔화 우려로 82.95달러(-0.37%) 소폭 하락하며 마감되었습니다.",
+  "market_brief": "[기준일: 2026-11-20 최신 거래일 마감 기준]\n2026년 11월 20일 국내 증시는 뉴욕증시 급락 여파와 매크로(거시경제) 부담을 이기지 못하고 코스피(-5.21%)와 코스닥(-5.71%) 모두 5% 넘게 폭락 마감했습니다. 직전 거래일(19일) 미국 증시 역시 S&P 500(-2.02%)과 나스닥(-2.25%)이 차익실현 매물과 고금리·유가 부담 등으로 동반 하락했습니다. 글로벌 위험 회피 심리가 확산되면서 안전자산 선호가 강화되어 원/달러 환율은 1,338.38원(+0.6%)으로 상승했습니다. 반면 WTI 유가는 81.20달러(-2.42%)로 하락세를 보이며 증시 전반에 짙은 하방 압력을 가중시켰습니다.",
   "videos": [
     {
-      "id": "슈카월드_9b7604e907db",
+      "id": "슈카월드_d52ac9ebb6f8",
       "source": "슈카월드",
       "category": "자막 원문",
-      "title": "공항 부자가 될 대한민국",
-      "url": "https://www.youtube.com/watch?v=KWIutLqKXfo",
+      "title": "퇴직금을 주지 않고 버티는 기업들",
+      "url": "https://www.youtube.com/watch?v=PHU46Tg0Msw",
       "author": "슈카월드",
       "time": "",
       "content": "자막이 아직 제공되지 않았거나 가져올 수 없습니다. 원본 영상 링크를 확인해 주세요.",
       "images": [
-        "https://i.ytimg.com/vi/KWIutLqKXfo/hqdefault.jpg"
+        "https://i.ytimg.com/vi/PHU46Tg0Msw/hqdefault.jpg"
       ]
     },
     {
@@ -67,16 +67,16 @@
       ]
     },
     {
-      "id": "슈카월드_c9519f528349",
+      "id": "슈카월드_9b7604e907db",
       "source": "슈카월드",
       "category": "자막 원문",
-      "title": "AI로 만들면 가치가 떨어지는가?",
-      "url": "https://www.youtube.com/watch?v=xQAauzLGvlg",
+      "title": "공항 부자가 될 대한민국",
+      "url": "https://www.youtube.com/watch?v=KWIutLqKXfo",
       "author": "슈카월드",
       "time": "",
       "content": "자막이 아직 제공되지 않았거나 가져올 수 없습니다. 원본 영상 링크를 확인해 주세요.",
       "images": [
-        "https://i.ytimg.com/vi/xQAauzLGvlg/hqdefault.jpg"
+        "https://i.ytimg.com/vi/KWIutLqKXfo/hqdefault.jpg"
       ]
     },
     {
@@ -93,16 +93,16 @@
       ]
     },
     {
-      "id": "슈카월드_188096abd018",
+      "id": "슈카월드_c9519f528349",
       "source": "슈카월드",
       "category": "자막 원문",
-      "title": "젠슨 황의 사임이 불러온, 반도체 주가 폭락",
-      "url": "https://www.youtube.com/watch?v=1NuMdHW8lio",
+      "title": "대흥행 중인 GTA6에 부는 거대한 의혹",
+      "url": "https://www.youtube.com/watch?v=xQAauzLGvlg",
       "author": "슈카월드",
       "time": "",
       "content": "자막이 아직 제공되지 않았거나 가져올 수 없습니다. 원본 영상 링크를 확인해 주세요.",
       "images": [
-        "https://i.ytimg.com/vi/1NuMdHW8lio/hqdefault.jpg"
+        "https://i.ytimg.com/vi/xQAauzLGvlg/hqdefault.jpg"
       ]
     },
     {
@@ -119,16 +119,16 @@
       ]
     },
     {
-      "id": "슈카월드_c347465d82f2",
+      "id": "슈카월드_188096abd018",
       "source": "슈카월드",
       "category": "자막 원문",
-      "title": "그동안 AI 부정행위로 얼마나 많이 해먹었을까",
-      "url": "https://www.youtube.com/watch?v=eq6ptQbtw3s",
+      "title": "젠슨 황의 사임이 불러온, 반도체 주가 폭락",
+      "url": "https://www.youtube.com/watch?v=1NuMdHW8lio",
       "author": "슈카월드",
       "time": "",
       "content": "자막이 아직 제공되지 않았거나 가져올 수 없습니다. 원본 영상 링크를 확인해 주세요.",
       "images": [
-        "https://i.ytimg.com/vi/eq6ptQbtw3s/hqdefault.jpg"
+        "https://i.ytimg.com/vi/1NuMdHW8lio/hqdefault.jpg"
       ]
     },
     {
