@@ -100,7 +100,7 @@ def _fetch_markets() -> tuple[list[dict[str, Any]], str]:
     return results, brief
 
 
-def _summarize_video_with_gemini(channel_name: str, title: str, video_url: str) -> str:
+def _summarize_video_with_gemini(channel_name: str, title: str, video_url: str, video_id: str = "") -> str:
     api_key = os.getenv("GEMINI_API_KEY", "").strip()
     if not api_key or not video_url:
         return ""
@@ -115,19 +115,35 @@ def _summarize_video_with_gemini(channel_name: str, title: str, video_url: str) 
         "2. 주요 논점 및 배경 (불릿 3~5개, 핵심 수치/사건 포함)\n\n"
         f"제목: {title}"
     )
-    for attempt in range(2):
+    for model_name in ("gemini-3.5-flash-lite", "gemini-3.1-flash-lite"):
         try:
             resp = client.models.generate_content(
-                model="gemini-3.5-flash-lite",
+                model=model_name,
                 contents=[
                     types.Part.from_uri(file_uri=video_url, mime_type="video/mp4"),
                     prompt,
                 ],
             )
-            return (resp.text or "").strip()
+            txt = (resp.text or "").strip()
+            if txt:
+                return txt
         except Exception:
-            if attempt == 0:
-                time.sleep(3)
+            time.sleep(1.5)
+
+    # 영상 URL 분석이 일시 실패하면 자막 텍스트로 폴백 요약 시도
+    transcript = _fetch_transcript(video_id) if video_id else ""
+    if transcript:
+        for model_name in ("gemini-3.5-flash-lite", "gemini-3.1-flash-lite"):
+            try:
+                resp = client.models.generate_content(
+                    model=model_name,
+                    contents=f"{prompt}\n\n자막:\n{transcript[:8000]}",
+                )
+                txt = (resp.text or "").strip()
+                if txt:
+                    return txt
+            except Exception:
+                time.sleep(1.0)
     return ""
 
 
@@ -234,7 +250,7 @@ def _fetch_all_videos() -> list[dict[str, Any]]:
             summary = cached.get(pid, "")
             transcript = ""
             if not summary and link:
-                summary = _summarize_video_with_gemini(channel_name, title, link)
+                summary = _summarize_video_with_gemini(channel_name, title, link, video_id)
                 if not summary and video_id:
                     transcript = _fetch_transcript(video_id)
                 if summary:

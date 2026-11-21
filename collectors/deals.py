@@ -16,7 +16,7 @@ from collectors.common import (
 from collectors.community_hot import _extract_clien_time, _fetch_detail_with_time
 
 DEAL_CATEGORIES = [
-    ("AI·구독", ("ai", "gpt", "제미나이", "gemini", "클로드", "퍼플렉시티", "유튜브", "스포티파이", "넷플릭스", "디즈니", "티빙", "웨이브", "구독", "멤버십", "프리미엄")),
+    ("AI·구독", ("ai", "gpt", "제미나이", "gemini", "클로드", "퍼플렉시티", "유튜브 프리미엄", "스포티파이", "넷플릭스", "디즈니", "티빙", "웨이브", "구독")),
     ("디지털·가전", ("노트북", "모니터", "ssd", "그래픽카드", "rtx", "키보드", "마우스", "아이패드", "갤럭시", "애플", "워치", "에어팟", "이어폰", "헤드셋", "충전기", "가전", "청소기", "tv", "태블릿", "pc", "램", "메모리")),
     ("상품권·이용권", ("상품권", "금액권", "기프트카드", "컬쳐랜드", "해피머니", "네이버페이", "빕스", "vips", "애슐리", "아웃백", "뷔페", "에버랜드", "롯데월드", "놀이동산", "자유이용권", "파리바게트", "파리바게뜨", "배스킨", "스타벅스")),
     ("항공·여행", ("항공", "항공권", "비행기", "호텔", "리조트", "숙박", "여행", "제주", "도쿄", "오사카", "후쿠오카", "방콕", "다낭", "유럽", "면세", "에어부산", "진에어", "티웨이")),
@@ -24,9 +24,10 @@ DEAL_CATEGORIES = [
 
 FOOD_EXCLUDE_KEYWORDS = (
     "아메리카노", "라떼", "커피", "음료", "닭가슴살", "라면", "사발면", "볶음면",
-    "만두", "김치", "삼겹살", "돼지", "소고기", "오징어", "단감", "사과", "귤",
-    "생수", "우유", "과자", "초콜릿", "치킨", "피자", "햄버거", "국밥", "찌개",
-    "도시락", "밀키트", "햇반", "참치", "스팸", "kg", "ml", "개입", "팩",
+    "만두", "김치", "삼겹살", "돼지", "소고기", "한우", "오징어", "단감", "사과", "귤",
+    "구운란", "계란", "달걀", "30구", "생수", "우유", "과자", "초콜릿", "치킨", "피자",
+    "햄버거", "국밥", "찌개", "도시락", "밀키트", "햇반", "참치", "스팸", "식품",
+    "빵", "떡", "간식", "먹거리", "kg", "ml", "개입", "팩",
 )
 
 
@@ -185,23 +186,25 @@ def run() -> dict[str, Any]:
             if p.get("category") in allowed_cats and _classify_deal(p.get("title", "")) is not None
         ]
 
-    all_posts: list[dict[str, Any]] = []
+    fresh_posts: list[dict[str, Any]] = []
+    cached_posts: list[dict[str, Any]] = []
     source_status: dict[str, str] = {}
 
     with make_client() as client:
         for name, fn in targets:
             try:
                 items = fn(client)
-                all_posts.extend(items)
+                fresh_posts.extend(items)
                 source_status[name] = f"ok ({len(items)})"
             except Exception as exc:
                 cached = prev_by_source.get(name, [])
                 if cached:
-                    all_posts.extend(cached)
+                    cached_posts.extend(cached)
                     source_status[name] = f"cached ({len(cached)}, {type(exc).__name__})"
                 else:
                     source_status[name] = f"error: {type(exc).__name__}"
 
+    all_posts = fresh_posts + cached_posts
     merged = merge_posts(all_posts, prev_by_source, max_total=120)
     payload = {
         "updated_at": now_kst_str(),
