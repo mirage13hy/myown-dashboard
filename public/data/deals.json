@@ -1,60 +1,11 @@
 {
-  "updated_at": "2026-11-21 22:52",
+  "updated_at": "2026-11-22 02:50",
   "source_status": {
-    "에펨코리아 핫딜": "ok (3)",
-    "뽐뿌": "ok (0)",
+    "에펨코리아 핫딜": "cached (8, HTTPStatusError)",
+    "뽐뿌": "cached (2, HTTPStatusError)",
     "클리앙 알뜰구매": "ok (4)"
   },
   "posts": [
-    {
-      "id": "fm_deal_037ab27ba36a",
-      "source": "에펨코리아 핫딜",
-      "category": "디지털·가전",
-      "title": "Terramaster Mk III Hybrid 워치 페이스 외 2종[1]",
-      "url": "https://www.fmkorea.com/10582389687",
-      "author": "",
-      "time": "21:51",
-      "likes": "",
-      "comments": "",
-      "content": "https://play.google.com/store/apps/details?id=com.hanswatch.tmstr3&pcampaignid=web_share\nhttps://play.google.com/store/apps/details?id=com.YSR.watchface.app.cute.castle.digital&pcampaignid=web_share\nhttps://play.google.com/store/apps/details?id=com.watchfacestudio.SpringFestivalLuxuryRed&pcampaignid=web_share",
-      "images": [
-        "https://image.fmkorea.com/./files/attach/new5/20261121/10582389687_1196365581_1c2ed44678df870ac46c033a9f38b8cc.png.webp",
-        "https://image.fmkorea.com/./files/attach/new5/20261121/10582389687_1196365581_fed7e63a3b3f3178d2d045ee474da78b.png.webp",
-        "https://image.fmkorea.com/./files/attach/new5/20261121/10582389687_1196365581_0a5e272120b7291aad239d324572581c.png.webp"
-      ]
-    },
-    {
-      "id": "fm_deal_06984f31f534",
-      "source": "에펨코리아 핫딜",
-      "category": "디지털·가전",
-      "title": "미니PC GMKtec M6 Ultra, FIREBAT R3[44]",
-      "url": "https://www.fmkorea.com/10582308309",
-      "author": "",
-      "time": "21:42",
-      "likes": "",
-      "comments": "",
-      "content": "2) GMKtec M6 Ultra 게이밍 미니 PC AMD Ryzen 5 7640HS (업그레이드된 6600H/6800H) 데스크탑 미니 컴퓨터 WiFi 6/BT 5.2, 트리플 4K 디스플레이\nhttps://a.aliexpress.com/_c3AZrBhn\n$176.31 -> 코인샵들리고 -> 코드 POLK19 , KLBB19 , GONG19\n$153.79\n$123.79 롯데비자 최대카할기준\n베어본\n6) FIREBAT R3 미니 PC AMD Ryzen 5 7430U 6C/12T 최대 4.3GHz 16GB LPDDR4 RAM 512GB SSD WIFI6 BT5.2 Windows 11 데스크탑 컴퓨터\nhttps://a.aliexpress.com/_c3c3FaZb\n$250.16 -> 코인샵들리고 -> 코드 FXNT26 , KLBB26 , GONG26\n$221.16\n$191.16 롯데비자 최대카할기준\n16G 램 512G SSD\n직구 상품 적용가능 카할\n$60 이상 -$9 : 마스터(우리)\n$100 이상 -$15 : 마스터(KB국민,신한,삼성,하나,롯데,IBK기업카드)\n$100 이상 -$15 : 비자(삼성,하나)\n$100 이상 -$15 : 비자(네이버페이 머니카드)\n$100 이상 -$16 : NH농협,유니온페이\n$100 이상 -$20 : 비자(우리)\n$100 이상 -$30 : 비자(롯데)\n$150 이상 -$22 : 비자(KB국민)\n코인샵 할인법 (앱필수, 코인필수)\n1. 장바구니담기\n2. 홈 or 계정 -> 코인 -> 최근본상품, 장바구니탭 타고 들어가서 바로구매\n블프 첫날보다 -> https://m.fmkorea.com/10571377263\nM6 15달러, R3 30달러 하락\n가격이 싯가처럼 금방 올라버리니 살거면 가격나올때 빨리사셈\n아까 올리려다가 가격올라서 못올렸음 한 2시간갔던거같은데 늦게봐가지고",
-      "images": [
-        "https://image.fmkorea.com/files/attach/new5/20261121/10582308309_1196365581_03f2c2044e8f96143fb019c38ed09354.jpg.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261121/10582308309_1196365581_415834e268c36ab7c197a847126d5883.jpg.webp"
-      ]
-    },
-    {
-      "id": "fm_deal_dd633db3fa9b",
-      "source": "에펨코리아 핫딜",
-      "category": "디지털·가전",
-      "title": "유그린 MagFlow Pro Qi2.2 25W 2-in-1 맥세이프 충전기[55]",
-      "url": "https://www.fmkorea.com/10581465262",
-      "author": "",
-      "time": "17:35",
-      "likes": "",
-      "comments": "",
-      "content": "방금 AliExpress에서 찾은 상품이에요:\nUGREEN MagFlow Pro Qi2.2 25W 2-in-1 자석 무선 충전기 (TEC 쿨링 기능 포함), 아이폰 16, 17 Pro용 무선 고속 충전\nhttps://a.aliexpress.com/_c3cGnQwD\nGHRE08 , KLBB08 , GONG08 , FMKA08 코드 적용 -> LMMX1148 스토어쿠폰 적용 -> $54.36\n펠티어쿨링되고 디스플레이달린 종결급 무선충전기\n2in1만 있고 3in1은 계속 존버해봐도 재고가 차질않는게 팔생각없는듯\n부담스러우면 어제올린 3만원하는 주파집 아트뮤사셈. https://m.fmkorea.com/10577760158\n여기 뽑아내는 품질생각하면 앤커 벨킨이랑 비빌정도라 그렇게 비싼건아님",
-      "images": [
-        "https://image.fmkorea.com/files/attach/new5/20261121/10581465262_1196365581_225d9abd88f9aaa5878c4a6df804124c.jpg.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261121/10581465262_1196365581_e7aedf4b40906d8c8c19829ef01caefb.jpg.webp"
-      ]
-    },
     {
       "id": "clien_deal_5ef180d4fef5",
       "source": "클리앙 알뜰구매",
@@ -113,6 +64,55 @@
       "images": [
         "https://edgio.clien.net/F01/2026/11/15864486/17eaca10f84d30.jpg?scale=width:740",
         "https://edgio.clien.net/F01/2026/11/15864487/16a8941aba5ee8.jpg?scale=width:740"
+      ]
+    },
+    {
+      "id": "fm_deal_037ab27ba36a",
+      "source": "에펨코리아 핫딜",
+      "category": "디지털·가전",
+      "title": "Terramaster Mk III Hybrid 워치 페이스 외 2종[1]",
+      "url": "https://www.fmkorea.com/10582389687",
+      "author": "",
+      "time": "21:51",
+      "likes": "",
+      "comments": "",
+      "content": "https://play.google.com/store/apps/details?id=com.hanswatch.tmstr3&pcampaignid=web_share\nhttps://play.google.com/store/apps/details?id=com.YSR.watchface.app.cute.castle.digital&pcampaignid=web_share\nhttps://play.google.com/store/apps/details?id=com.watchfacestudio.SpringFestivalLuxuryRed&pcampaignid=web_share",
+      "images": [
+        "https://image.fmkorea.com/./files/attach/new5/20261121/10582389687_1196365581_1c2ed44678df870ac46c033a9f38b8cc.png.webp",
+        "https://image.fmkorea.com/./files/attach/new5/20261121/10582389687_1196365581_fed7e63a3b3f3178d2d045ee474da78b.png.webp",
+        "https://image.fmkorea.com/./files/attach/new5/20261121/10582389687_1196365581_0a5e272120b7291aad239d324572581c.png.webp"
+      ]
+    },
+    {
+      "id": "fm_deal_06984f31f534",
+      "source": "에펨코리아 핫딜",
+      "category": "디지털·가전",
+      "title": "미니PC GMKtec M6 Ultra, FIREBAT R3[44]",
+      "url": "https://www.fmkorea.com/10582308309",
+      "author": "",
+      "time": "21:42",
+      "likes": "",
+      "comments": "",
+      "content": "2) GMKtec M6 Ultra 게이밍 미니 PC AMD Ryzen 5 7640HS (업그레이드된 6600H/6800H) 데스크탑 미니 컴퓨터 WiFi 6/BT 5.2, 트리플 4K 디스플레이\nhttps://a.aliexpress.com/_c3AZrBhn\n$176.31 -> 코인샵들리고 -> 코드 POLK19 , KLBB19 , GONG19\n$153.79\n$123.79 롯데비자 최대카할기준\n베어본\n6) FIREBAT R3 미니 PC AMD Ryzen 5 7430U 6C/12T 최대 4.3GHz 16GB LPDDR4 RAM 512GB SSD WIFI6 BT5.2 Windows 11 데스크탑 컴퓨터\nhttps://a.aliexpress.com/_c3c3FaZb\n$250.16 -> 코인샵들리고 -> 코드 FXNT26 , KLBB26 , GONG26\n$221.16\n$191.16 롯데비자 최대카할기준\n16G 램 512G SSD\n직구 상품 적용가능 카할\n$60 이상 -$9 : 마스터(우리)\n$100 이상 -$15 : 마스터(KB국민,신한,삼성,하나,롯데,IBK기업카드)\n$100 이상 -$15 : 비자(삼성,하나)\n$100 이상 -$15 : 비자(네이버페이 머니카드)\n$100 이상 -$16 : NH농협,유니온페이\n$100 이상 -$20 : 비자(우리)\n$100 이상 -$30 : 비자(롯데)\n$150 이상 -$22 : 비자(KB국민)\n코인샵 할인법 (앱필수, 코인필수)\n1. 장바구니담기\n2. 홈 or 계정 -> 코인 -> 최근본상품, 장바구니탭 타고 들어가서 바로구매\n블프 첫날보다 -> https://m.fmkorea.com/10571377263\nM6 15달러, R3 30달러 하락\n가격이 싯가처럼 금방 올라버리니 살거면 가격나올때 빨리사셈\n아까 올리려다가 가격올라서 못올렸음 한 2시간갔던거같은데 늦게봐가지고",
+      "images": [
+        "https://image.fmkorea.com/files/attach/new5/20261121/10582308309_1196365581_03f2c2044e8f96143fb019c38ed09354.jpg.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261121/10582308309_1196365581_415834e268c36ab7c197a847126d5883.jpg.webp"
+      ]
+    },
+    {
+      "id": "fm_deal_dd633db3fa9b",
+      "source": "에펨코리아 핫딜",
+      "category": "디지털·가전",
+      "title": "유그린 MagFlow Pro Qi2.2 25W 2-in-1 맥세이프 충전기[55]",
+      "url": "https://www.fmkorea.com/10581465262",
+      "author": "",
+      "time": "17:35",
+      "likes": "",
+      "comments": "",
+      "content": "방금 AliExpress에서 찾은 상품이에요:\nUGREEN MagFlow Pro Qi2.2 25W 2-in-1 자석 무선 충전기 (TEC 쿨링 기능 포함), 아이폰 16, 17 Pro용 무선 고속 충전\nhttps://a.aliexpress.com/_c3cGnQwD\nGHRE08 , KLBB08 , GONG08 , FMKA08 코드 적용 -> LMMX1148 스토어쿠폰 적용 -> $54.36\n펠티어쿨링되고 디스플레이달린 종결급 무선충전기\n2in1만 있고 3in1은 계속 존버해봐도 재고가 차질않는게 팔생각없는듯\n부담스러우면 어제올린 3만원하는 주파집 아트뮤사셈. https://m.fmkorea.com/10577760158\n여기 뽑아내는 품질생각하면 앤커 벨킨이랑 비빌정도라 그렇게 비싼건아님",
+      "images": [
+        "https://image.fmkorea.com/files/attach/new5/20261121/10581465262_1196365581_225d9abd88f9aaa5878c4a6df804124c.jpg.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261121/10581465262_1196365581_e7aedf4b40906d8c8c19829ef01caefb.jpg.webp"
       ]
     },
     {
