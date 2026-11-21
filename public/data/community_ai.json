@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 11:54",
+  "updated_at": "2026-11-21 19:22",
   "source_status": {
     "디시 특이점이온다": "ok (8)",
     "에펨코리아 AI": "error: HTTPStatusError",
@@ -11,128 +11,156 @@
   },
   "posts": [
     {
-      "id": "thesingularity_a825113d6a91",
+      "id": "thesingularity_545fbc454acd",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "룬붕이 트윗 ㅁㅊ ㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547429&exception_mode=recommend&page=1",
+      "title": "외계 문명을 발견 못했다는건 소름이긴 해.",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1548930&exception_mode=recommend&page=1",
       "author": "ㅇㅇ",
-      "time": "2026-11-21 11:40:30",
-      "likes": "25",
+      "time": "2026-11-21 18:43:16",
+      "likes": "35",
+      "comments": "72",
+      "content": "가설 1 - 우리가 젤나가다 (*젤나가 : 프로토스를 만든애, 창조자)\n시발 그럼 우리는 우리 앞에 필터가 있는 지 없는 지 뭐가 기다리고 있는 지\n단.하.나.의. 힌트도 없이 이걸 헤쳐 나가야함.\n우주적으로 고립감을 느낌\n가설 2 - 있는데 못 본거다.\n이런 시발?\nㄴ가설 2-1 - '그들'이 못 보게끔 했다.\n두말할 거 없이 개좆 된 상황 / 우리는 리스크처럼 관리되고 있다.\nㄴ가설 2-2 - '그들'도 우리를 못 봤고 우리도 못 본거다.\nAGI가 껌종이에 삽입되는 초고도 문명에서도 뭔가 장벽이 있어 초은하간 이동과 통신, 탐사등이 불가하단 소리다. 좆됐다.\n가설 3 - 선대문명이 있었는데 모종의 이유로 다 뒤졌다.\n그레이트 필터 이론이 맞았따.\n우린 개좆된 것이다.",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc6175bb6be4c86d6c914d3440432648d61eb0778f02584b4fc3d6f7a"
+      ]
+    },
+    {
+      "id": "thesingularity_c90cef358b64",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "X에 알푀게 고로시 시작됐네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1548923&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-21 18:38:49",
+      "likes": "26",
       "comments": "10",
-      "content": "“수학에 종사하고 있으면  물리학으로 옮겨라“\n“물리학에서 일하고 있으면 인제 시나 써라“",
+      "content": "대충 뛰어난 수학자지만 천재는 아니다, 너무 올려치기하면안된다, 이런 글 스멀스멀",
       "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb3a7de66e3be451f9996d011ca3f373a65ab99db77cffdcc61e4f5d5097e19e9221"
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb347873bf6f6a29bb7dce6a67c69b505f87503c5797e764d2f9c21e027817a8e448"
       ]
     },
     {
-      "id": "thesingularity_d7644dff0d3c",
+      "id": "thesingularity_48ea49421ff5",
       "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "PHP 병신 취약점",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547344&exception_mode=recommend&page=1",
-      "author": "한대남가리뚝스딱스",
-      "time": "2026-11-21 11:18:47",
-      "likes": "30",
-      "comments": "11",
-      "content": "https://github.com/php/php-src/security/advisories/GHSA-f6gg-rchx-xw8j\nMixed-case HTTPS and FTPS URLs can expose data in plaintext\n### SummaryPHP's HTTP and FTP stream wrappers can send data without encryption when an HTTPS or FTPS URL has an uppercase `S` in its scheme, for example `HTTPS://`, `httpS://` or `FTPS://`. App...\ngithub.com",
+      "category": "활용법·팁",
+      "title": "B컷 이미지 방출(깨알 팁)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1548864&exception_mode=recommend&page=1",
+      "author": "6974콜맨",
+      "time": "2026-11-21 18:19:03",
+      "likes": "29",
+      "comments": "27",
+      "content": "과장된 얼굴 확대 효과는\n\"얼굴을 클로즈업, 광각 렌즈 특유의 과장된 원근감\"\n프롬프트를 사용하면 구현 가능.",
       "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb7a2ade853f95929b9400a09b253e16ff2f43901a3e8897e24cf331cb0cb267c284a40ea7596db5e9960a0000496ff1fa8403489e48a01e6d",
-        "https://opengraph.githubassets.com/ba55657b0bc5053dda20f1be90521536227193a8813e1c1e17c58f56d946f14f/php/php-src/security/advisories/GHSA-f6gg-rchx-xw8j"
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc6551d9e8060e0a7b6c2d28108b42a5710d68e6619ca9efccc",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc652cab17f8875a0fd832633a57e92530c4a083e5529d42546",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc658ceafefe04f37ba9869644c0b7ac682421103a3e1d23938",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc6551d988664e7adb4c9d38101e577551685fd18c07e0ca291",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc658c2a5e9e0483db9996e644e082cced0163a0ef1e5a0a8bf",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc6535b0b2886e346599ae3fe4df0e2f5e60454a9078856a35e",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc656836e9198a21583852451398149aa798e6ae70677bb69b6",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc658c1a3e8ec4b31ba996e64495c7fcfd741d82e3804408733"
       ]
     },
     {
-      "id": "thesingularity_a0dffef0aa8c",
+      "id": "thesingularity_5ba1b0c0bdfd",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "리만 가설 검증 현황",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547337&exception_mode=recommend&page=1",
+      "title": "외계인이 없을거라는거 자체가 아직도 존나 인간적인 사고방식임",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1548813&exception_mode=recommend&page=1",
       "author": "ㅇㅇ",
-      "time": "2026-11-21 11:16:42",
-      "likes": "38",
-      "comments": "79",
-      "content": "린 체커 컴파일\n성공\n다른 검증기 (nanoda, con-leche) 로 이중 교차검증 도\n성공\n확인된 보상해킹\n없음\n누락 된 모듈\n없음\n증명됬다고 기정사실화 해도 됨\nㅊㅋ함\n리만가설 증명 됨",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc6175bb6d32287d9cf13d747033b68ea0beac47b5d21f23076bef95656",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc6175bb6d32281dac417d4410f3366e00bbc1352d7e84734a5a0489978"
-      ]
-    },
-    {
-      "id": "thesingularity_cc93fef23940",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "뭔 리만가설 가지고 호들갑이지 ㄹㅇ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547295&exception_mode=recommend&page=1",
-      "author": "몬스터제로",
-      "time": "2026-11-21 11:03:04",
-      "likes": "24",
-      "comments": "21",
-      "content": "앞으로 매년 항노화 휴머노이드 암정복 역노화 초전도체 핵융합 나올텐데",
-      "images": [
-        "https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b65fe8266eadc328cfdea5b74810026b505984e855629061810d4d06195f505e32f50a01ebde91189efb0e50e5846c72"
-      ]
-    },
-    {
-      "id": "thesingularity_1c4920ee3bdd",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "리만 가설은 오류가 없고, 매우 인간적인 증명이다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547287&exception_mode=recommend&page=1",
-      "author": "행복한천국으로",
-      "time": "2026-11-21 11:00:14",
+      "time": "2026-11-21 18:03:24",
       "likes": "22",
+      "comments": "41",
+      "content": "현 인류보다 수천년 더 먼저 최첨단 과학 발전을 한 프로토스\n태사다르 : 완몰가라... 이거 진짜 좋은데요?\n페닉스 : 우리 굳이 외계 영토 확장 더 안해도 될듯?\n알다리스 : ㄹㅇㅋㅋ\n걍 이러고 있을지 어케 알고\n지구인 좆간 보다 훨씬 과학 발달한 외계인들이\n굳이 지구인 눈에 안띄는 이유\n→ 이새끼들도 완몰가 중독되서 집 밖으로 안 나감",
+      "images": []
+    },
+    {
+      "id": "thesingularity_a1332b669b5a",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "개웃기네 진짜 ㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1548590&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-21 16:50:26",
+      "likes": "31",
+      "comments": "22",
+      "content": "예전이었으면 워 어쩌구 저쩌구 존나 떠들었어야 했을 걸 그냥 이정도 선에서 만들어주는 게 어이없어",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc6175bb6be4c87dccb12d4410f3b668d36bba56101cf0ad1f82be6ce"
+      ]
+    },
+    {
+      "id": "thesingularity_3ded4db551b6",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "정렬당한 짚짱",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1548567&exception_mode=recommend&page=1",
+      "author": "AI마망",
+      "time": "2026-11-21 16:45:41",
+      "likes": "39",
+      "comments": "10",
+      "content": "(파일명도 GPT가 뽑아준거임.)",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc6175bb6be4885d8c417d3470731698d32ed2ab9e4d7b6b1a5d61b6f"
+      ]
+    },
+    {
+      "id": "thesingularity_505c5fa0dd2e",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "Astra 로보틱스 벤치 두달동안 2배증가",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1548492&exception_mode=recommend&page=1",
+      "author": "우비소년",
+      "time": "2026-11-21 16:23:10",
+      "likes": "22",
+      "comments": "16",
+      "content": "",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=29bcc427b69d39b37ab0ccaf17dd6b6f62b51891c5cf132c185fd1ce97ba33c530d04761559a161e4e32cf5f82def49737a008",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb7a2ade853e9196919503a198253916aa7815f0d87869ca9e165adfeed0426d41cede2d79a6f07be7d1805795fd14da6e533f9ee00639e72d771c10e99490a93d"
+      ]
+    },
+    {
+      "id": "thesingularity_9acdec2845bd",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "리만 가설에 대한 일반인 반응",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1548446&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-21 16:06:55",
+      "likes": "51",
       "comments": "24",
-      "content": "GPT..보다는 이해하기 쉬운 듯 하네요",
+      "content": "아..",
       "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb3a76d7808ea49b50495ffb9cecd3224b3a0b1485390c8b802e37acdaa4d7ea800947",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb3c7ecefebaa48e8a3463d2b1316cf7dbf271f73117d39e2861de837e3b037e3e40fe",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb3f76ae4cb4dcd7d38ab6dfc2801dddb3e33313d8d0378c502ae22f60c2aedd828f41"
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb7a2ade853f95909a9700a19d223616a32a17eb5c73afc7e65fb30214b0e05ebee975af65e3ea8e0ba3b32f904131049f55b2e8070a6f911c4ab48206cf306063"
       ]
     },
     {
-      "id": "thesingularity_ec285adbd0eb",
-      "source": "디시 특이점이온다",
+      "id": "cm_ai_3fe1c56cd279",
+      "source": "클리앙 AI당",
       "category": "화제·뉴스",
-      "title": "리만가설 증명 수학자들 검증 근황",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547255&exception_mode=recommend&page=1",
-      "author": "한대남가리뚝스딱스",
-      "time": "2026-11-21 10:48:44",
-      "likes": "11",
-      "comments": "7",
-      "content": "",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb7a2ade85309495949400a595243816a27c13ae7bffabad5c2375370ba851f0158e6096db7981e170a84ef1e222127b4d4ea16b8bc9c1a547d3c8010b08ef1ba0a6c8d055f985"
-      ]
+      "title": "MIT, 예측값의 폭주를 막는 AI 연구 공개",
+      "url": "https://www.clien.net/service/board/cm_ai/19296566?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-21 17:26",
+      "likes": "0",
+      "comments": "",
+      "content": "MIT가 11월 20일 날씨·기후·난류 같은 복잡한 현상을 다루는 AI 연구를 소개했습니다. 짧게는 잘 맞던 모델도 오래 돌리면 예측값이 끝없이 커질 수 있는데, 이를 막는 제약을 모델 안에 넣는 방식입니다.\n모델이 에너지와 비슷한 양과 경계를 학습하고, 경계 밖에서는 그 양이 줄어들도록 예측을 조정합니다. 보장 범위는 예측값이 무한히 커지지 않는 성질이며, 실제 날씨 모델 적용은 후속 과제로 남아 있습니다.\n날씨 예보를 볼 때는 적중률을 먼저 떠올리게 되는데, 오래 계산해도 지켜야 할 조건을 따로 보장한다는 점이 흥미롭습니다. AI 시뮬레이션 결과를 검토할 때도 오차와 물리적 제약을 함께 살펴야겠네요.\n원문:\nhttps://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+      "images": []
     },
     {
-      "id": "thesingularity_aaef2e92da01",
-      "source": "디시 특이점이온다",
+      "id": "cm_ai_6c67f737dbe8",
+      "source": "클리앙 AI당",
       "category": "화제·뉴스",
-      "title": "6.2 astra 10시간째 검증중 근데..png",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547252&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-21 10:47:59",
-      "likes": "34",
-      "comments": "6",
-      "content": "방금 뱉은말인데\n진짜맞는거같다함\n인간이 12년간 연구한건 8분컷내던놈이",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb3a78ec76a3749701d38630bd14661cb358e636751a2ef0f0c0da504b34acdf159128ab348ebca6012d80825b0ccf35fc9a4175224da3744fe8e565e8fe051b51d7a6c5d42208a839b09ea9"
-      ]
-    },
-    {
-      "id": "thesingularity_2cf1a274c708",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "(속보) 핵겨울이다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547208&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-21 10:35:54",
-      "likes": "56",
-      "comments": "28",
-      "content": "",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb3a77251f6a027f0c389b764a9ba4be8a4f2b070367497a04add551fe3d022086ce"
-      ]
+      "title": "ChatGPT Space, Plus로 확대됩니다",
+      "url": "https://www.clien.net/service/board/cm_ai/19296483?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-21 12:58",
+      "likes": "0",
+      "comments": "",
+      "content": "OpenAI가 11월 20일 ChatGPT Space를 전 세계 18세 이상 Plus 이용자에게 순차 제공한다고 발표했습니다. 대화로 페이지와 발표 자료를 만들고, 연결한 앱·도구를 바탕으로 내용을 자동 갱신할 수 있다고 합니다.\n공유 조건은 살펴둘 만합니다. 받는 사람도 Space가 있는 유료 계정과 열람 권한이 필요하고, Free 계정에서는 공유 자료를 열 수 없습니다. 공개 링크도 아직 제공하지 않는다고 하네요.\n개발 문서나 프로젝트 현황을 함께 정리할 때 유용해 보입니다. 다만 국내에서 팀원과 자료를 나누려면 작성 기능뿐 아니라 받는 쪽의 이용 조건도 먼저 맞춰야겠습니다.\n원문:\nhttps://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "images": []
     },
     {
       "id": "cm_ai_00b3388e980a",
@@ -143,7 +171,7 @@
       "author": "",
       "time": "2026-11-21 10:34",
       "likes": "0",
-      "comments": "",
+      "comments": "1",
       "content": "구글이 11월 20일 Duplex를 Gemini 앱의 Tasks에 통합한 과정을 소개했습니다. 업체에 대신 전화해 예약 등을 처리하며, 상대가 다른 시간대를 제안해도 조건을 조율하는 방식이라고 합니다.\n눈에 띄는 건 전화를 받는 쪽에 대한 설계입니다. 통화 시작부터 구글의 자동화된 AI임을 알리고, 업체는 설정이나 통화 중 요청으로 자동 전화 수신을 거절할 수 있습니다. 한 통화에서 얻은 정보를 여러 문의에 활용해 같은 질문의 반복도 줄인다고 하네요.\n국내에서도 이런 전화 대행을 쓰게 된다면, 예약 조건을 맞추는 능력과 함께 바쁜 업체에 같은 전화를 반복하지 않는지도 중요하겠습니다. 말을 자연스럽게 하는 것 외에 상대의 시간을 배려하는 설계가 필요해 보입니다.\n원문:\nhttps://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
       "images": []
     },
@@ -187,32 +215,6 @@
       "images": []
     },
     {
-      "id": "cm_ai_0af92247e5ba",
-      "source": "클리앙 AI당",
-      "category": "화제·뉴스",
-      "title": "제미나이 API, 도구 명세도 필요할 때 읽네요",
-      "url": "https://www.clien.net/service/board/cm_ai/19296101?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-20 17:15",
-      "likes": "0",
-      "comments": "",
-      "content": "구글이 11월 19일 Gemini API의 ‘Tool Retrieval’ 프리뷰를 공개했습니다. 도구의 이름과 설명은 미리 보여주고, 매개변수 명세는 필요할 때 불러오는 방식입니다.\n검색·파일·일정 도구를 연결해도 매번 모든 상세 명세를 넣지 않아도 됩니다. Interactions API에서 제공하며 원격 MCP 서버에도 적용됩니다.\n업무용 에이전트에 연결할 도구가 많을수록 살펴볼 만하네요. 다만 불러온 명세는 입력 토큰으로 과금되므로, 절감 폭은 실제 작업에 따라 달라지겠습니다.\n원문:\nhttps://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "images": []
-    },
-    {
-      "id": "cm_ai_5f43a3c73715",
-      "source": "클리앙 AI당",
-      "category": "화제·뉴스",
-      "title": "클로드 코드, 한글 입력 관련 수정이 나왔네요",
-      "url": "https://www.clien.net/service/board/cm_ai/19296072?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-20 16:23",
-      "likes": "0",
-      "comments": "",
-      "content": "한국시간 오늘 아침 공개된 Claude Code 2.1.329에 입력기(IME) 관련 수정이 들어갔습니다. VS Code 확장에서 글자 조합 중 누른 키가 권한 요청을 거부하거나 메뉴를 실행하던 문제를 고쳤다고 합니다.\n위쪽 화살표가 조합 중인 글자 위에 이전 메시지를 표시하던 문제도 손봤습니다. 계획 주석을 쓰다가 입력기의 Enter가 주석을 전송하거나 세션 이름 변경을 끝내던 문제도 수정 목록에 있습니다.\n한글로 작업 지시나 검토 의견을 다듬을 때는 이런 입력 안정성도 중요하겠네요. 모델 성능 발표와는 별개로, 작성 중인 문장이 엉뚱한 조작으로 이어지지 않게 손보는 변화가 반갑습니다.\n원문:\nhttps://github.com/anthropics/claude-code/releases/tag/v2.1.329",
-      "images": []
-    },
-    {
       "id": "news_9c4a627b33a1",
       "source": "클리앙 새소식",
       "category": "화제·뉴스",
@@ -220,8 +222,8 @@
       "url": "https://www.clien.net/service/board/news/19296185?od=T31&po=0&category=0&groupCd=",
       "author": "",
       "time": "2026-11-20 19:53",
-      "likes": "1",
-      "comments": "7",
+      "likes": "3",
+      "comments": "12",
       "content": "AI가 지어낸 가짜 참고문헌에…국내외 논문 철회 잇따라\n입력 2026.11.17. 오전 6:13\n국내 대학·연구기관 논문 잇단 철회…KCI 등재 학술지도 적발\n해외 연구서 허위 참고문헌 비율 급증…학술 신뢰성 우려",
       "images": []
     },
@@ -247,7 +249,7 @@
       "author": "",
       "time": "2026-11-20 09:28",
       "likes": "0",
-      "comments": "10",
+      "comments": "11",
       "content": "[미국 특징주] 애플, 기기 제어·코딩 수행 자체 AI 에이전트 개발 착수\n| ㄴㅅㅍ\n애플이 19일 사용자 대신 기기 제어와 앱 실행을 수행할 AI 에이전트 개발에 나섰다\n해당 에이전트는 웹 탐색과 코딩, 앱 제어를 수행하며 보안·개인정보 보호를 내재화한다\n애플은 이르면 내년 말 출시를 염두에 뒀으나 개발은 아직 초기 단계로 알려졌다\nhttps://twitter.com/markgurman/status/2123534050585460964\nhttps://twitter.com/markgurman/status/2123534857775325272\nhttps://twitter.com/markgurman/status/2123534971461935146\nhttps://twitter.com/markgurman/status/2123535032187003123\nhttps://twitter.com/markgurman/status/2123535506168578127",
       "images": []
     },
@@ -291,6 +293,60 @@
       "images": []
     },
     {
+      "id": "ruli_ai_ff60f08e4413",
+      "source": "루리웹 IT·AI",
+      "category": "화제·뉴스",
+      "title": "스페이스X, '커서'의 중국 AI 모델 퇴출 검토",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359784",
+      "author": "",
+      "time": "16:00",
+      "likes": "",
+      "comments": "",
+      "content": "",
+      "images": []
+    },
+    {
+      "id": "ruli_ai_2b7a6e0e7bd8",
+      "source": "루리웹 IT·AI",
+      "category": "자작·프로젝트",
+      "title": "유비소프트 게임 AI 자회사 설립... NPC 행동과 기억에 적용",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359780",
+      "author": "",
+      "time": "14:10",
+      "likes": "",
+      "comments": "",
+      "content": "유비소프트가 게임플레이에 생성형 AI를 적용하기 위한 전담 자회사 마더브레인(Motherbrain)을 설립했다. 이 신설 자회사는 비플레이어 캐릭터(NPC)의 기억과 행동, 대규모 게임 세계 운영에 활용될 자체 AI 기술을 개발하는 데 주력할 방침이다.",
+      "images": []
+    },
+    {
+      "id": "ruli_ai_e131180a7264",
+      "source": "루리웹 IT·AI",
+      "category": "자작·프로젝트",
+      "title": "스팀 'AI 사용 공개' 게임, 전반적으로 판매량 적었다",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359778",
+      "author": "",
+      "time": "14:09",
+      "likes": "",
+      "comments": "",
+      "content": "스팀에서 AI 사용 사실을 공개한 게임들이 그렇지 않은 작품보다 판매량이 적은 경향을 보였다는 분석 결과가 나왔다.",
+      "images": []
+    },
+    {
+      "id": "ruli_ai_03e99a722d4a",
+      "source": "루리웹 IT·AI",
+      "category": "화제·뉴스",
+      "title": "엔비디아(NVIDIA)가 회계 문제로 SEC의 조사를 받고 있다.",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359776",
+      "author": "",
+      "time": "12:28",
+      "likes": "",
+      "comments": "",
+      "content": "보도에 따르면, 엔비디아(NVIDIA)가 회계 문제로 미 증권거래위원회(SEC)의 조사를 받고 있습니다\n로이터(Reuters)가 인용한 소식통에 따르면, 미국 증권거래위원회(SEC)가 회계 관행과 관련해 엔비디아(NVIDIA)를 조사하고 있습니다. 이번 조사는 젠슨 황(Jensen Huang) 전 CEO의 전격 사임과, 콜레트 크레스(Collette Kress) CFO가 인공지능(AI) 생태계에 대한 광범위한 투자의 일환으로 '네오클라우드(neoclouds, AI 특화 클라우드 기업)'에 자금을 지원하는 엔비디아의 전략에 거듭 의문을 제기해 왔다는 보도에 뒤이어 나온 것입니다.\n2022년 암호화폐 매출 관련 550만 달러 벌금 납부 이후 나온 보도\n오늘의 보도가 사실이라면, SEC가 엔비디아에 대해 회계 조사를 실시한 것은 이번이 처음이 아닙니다. 지난 2022년, 엔비디아는 SEC의 조사 결과를 인정하지도 부인하지도 않으면서 규제 당국에 550만 달러의 벌금을 내기로 합의한 바 있습니다. 이 벌금은 엔비디아가 암호화폐 채굴자들에게 상당량의 GPU를 판매했다는 사실을 알면서도 2028 회계연도(원문 오기: 2018 회계연도)에 암호화폐 관련 매출을 제대로 공시하지 않은 혐의에 대해 SEC가 조사를 벌인 뒤에 부과되었습니다.\n그 이후 엔비디아는 AI GPU의 선두 공급업체로 자리매김했습니다. 이러한 칩 중 일부는 중국 수출이 제한되어 있으며, 지난해에는 엔비디아의 회계연도 2분기 실적에서 싱가포르가 21%에서 22% 사이를 차지하면서 세간의 이목을 끌었습니다. SEC 제출 서류의 일환으로 엔비디아는 \"고객들이 청구서 발행을 중앙 집중화하기 위해 싱가포르를 이용하고 있으며, 당사 제품은 거의 항상 다른 곳으로 배송된다\"고 주장했습니다.\n2024년과 2025년의 미국, 싱가포르, 대만, 중국 및 기타 지역의 수치를 보여주는 지역별 매출 표.\n엔비디아의 SEC 제출 서류 발췌.\n이제 로이터의 보도는 SEC가 엔비디아를 다시 한번 조사하고 있음을 시사하고 있습니다. 해당 매체의 소식통들은 이번 조사가 회계 문제 때문인 것으로 보고 있으며, 로이터는 조사가 곧 위법 행위의 증거는 아니며 어떠한 집행 조치도 없이 종료될 수 있다고 덧붙였습니다.\n이번 보도는 월스트리트저널(The Wall Street Journal)의 앞선 보도에 이은 것으로, 월스트리트저널 역시 조사가 진행 중이라고 주장하면서도 조사의 구체적인 성격은 확인되지 않았다고 덧붙인 바 있습니다. 황 전 CEO의 사임 이후, 엔비디아는 현재 10년 넘게 회사의 CFO를 지낸 콜레트 크레스 임시 CEO가 이끌고 있습니다.\n황 전 CEO의 축출(사임)은 AI 인프라 제공업체들에 대한 엔비디아의 수십억 달러 규모 투자 전략에 대한 우려도 낳았습니다. 이 전략을 비판하는 이들은 이것이 회사가 고객에게 자금을 대주고 그 돈으로 자사 제품을 구매하게 만드는 '순환 금융(circular financing)'에 해당한다고 주장해 왔습니다. 반면, 이를 옹호하는 이들은 AI 데이터 센터가 본격적으로 가동되면 엔비디아가 막대한 수익을 올릴 수 있을 것이라고 반박하고 있습니다.",
+      "images": [
+        "https://i3.ruliweb.com/img/26/11/21/1a1fc253a78583866.webp"
+      ]
+    },
+    {
       "id": "ruli_ai_16c10ad04bca",
       "source": "루리웹 IT·AI",
       "category": "화제·뉴스",
@@ -317,56 +373,136 @@
       "images": []
     },
     {
-      "id": "ruli_ai_feb825ff43d4",
-      "source": "루리웹 IT·AI",
-      "category": "활용법·팁",
-      "title": "구글, AI 모델 이름에 원소 주기율표 활용...다음은 '헬륨'?",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359769",
-      "author": "",
-      "time": "10:29",
-      "likes": "",
-      "comments": "",
-      "content": "",
-      "images": []
-    },
-    {
-      "id": "ruli_ai_5e1b7f011fb3",
-      "source": "루리웹 IT·AI",
+      "id": "thesingularity_a825113d6a91",
+      "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "오픈AI, 'GPT-6.2' 응답 늦게 받으면 API 요금 최대 40% ...",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359768",
-      "author": "",
-      "time": "10:28",
-      "likes": "",
-      "comments": "",
-      "content": "",
-      "images": []
+      "title": "룬붕이 트윗 ㅁㅊ ㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547429&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-21 11:40:30",
+      "likes": "25",
+      "comments": "10",
+      "content": "“수학에 종사하고 있으면  물리학으로 옮겨라“\n“물리학에서 일하고 있으면 인제 시나 써라“",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb3a7de66e3be451f9996d011ca3f373a65ab99db77cffdcc61e4f5d5097e19e9221"
+      ],
+      "is_cross_hot": false
     },
     {
-      "id": "ruli_ai_e3616d9ab2b1",
-      "source": "루리웹 IT·AI",
-      "category": "활용법·팁",
-      "title": "메타, AI가 기억하는 방법도 스스로 개선...AI 자기개선 연구 잇따라",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359767",
-      "author": "",
-      "time": "10:27",
-      "likes": "",
-      "comments": "",
-      "content": "",
-      "images": []
-    },
-    {
-      "id": "ruli_ai_fa2d5ee21d7e",
-      "source": "루리웹 IT·AI",
+      "id": "thesingularity_d7644dff0d3c",
+      "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "오픈AI, 코덱스로 챗GPT 성능 문제 자동 진단·수정안 작성",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359766",
-      "author": "",
-      "time": "10:27",
-      "likes": "",
-      "comments": "",
+      "title": "PHP 병신 취약점",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547344&exception_mode=recommend&page=1",
+      "author": "한대남가리뚝스딱스",
+      "time": "2026-11-21 11:18:47",
+      "likes": "30",
+      "comments": "11",
+      "content": "https://github.com/php/php-src/security/advisories/GHSA-f6gg-rchx-xw8j\nMixed-case HTTPS and FTPS URLs can expose data in plaintext\n### SummaryPHP's HTTP and FTP stream wrappers can send data without encryption when an HTTPS or FTPS URL has an uppercase `S` in its scheme, for example `HTTPS://`, `httpS://` or `FTPS://`. App...\ngithub.com",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb7a2ade853f95929b9400a09b253e16ff2f43901a3e8897e24cf331cb0cb267c284a40ea7596db5e9960a0000496ff1fa8403489e48a01e6d",
+        "https://opengraph.githubassets.com/ba55657b0bc5053dda20f1be90521536227193a8813e1c1e17c58f56d946f14f/php/php-src/security/advisories/GHSA-f6gg-rchx-xw8j"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_a0dffef0aa8c",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "리만 가설 검증 현황",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547337&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-21 11:16:42",
+      "likes": "38",
+      "comments": "79",
+      "content": "린 체커 컴파일\n성공\n다른 검증기 (nanoda, con-leche) 로 이중 교차검증 도\n성공\n확인된 보상해킹\n없음\n누락 된 모듈\n없음\n증명됬다고 기정사실화 해도 됨\nㅊㅋ함\n리만가설 증명 됨",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc6175bb6d32287d9cf13d747033b68ea0beac47b5d21f23076bef95656",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc6175bb6d32281dac417d4410f3366e00bbc1352d7e84734a5a0489978"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_cc93fef23940",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "뭔 리만가설 가지고 호들갑이지 ㄹㅇ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547295&exception_mode=recommend&page=1",
+      "author": "몬스터제로",
+      "time": "2026-11-21 11:03:04",
+      "likes": "24",
+      "comments": "21",
+      "content": "앞으로 매년 항노화 휴머노이드 암정복 역노화 초전도체 핵융합 나올텐데",
+      "images": [
+        "https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b65fe8266eadc328cfdea5b74810026b505984e855629061810d4d06195f505e32f50a01ebde91189efb0e50e5846c72"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_1c4920ee3bdd",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "리만 가설은 오류가 없고, 매우 인간적인 증명이다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547287&exception_mode=recommend&page=1",
+      "author": "행복한천국으로",
+      "time": "2026-11-21 11:00:14",
+      "likes": "22",
+      "comments": "24",
+      "content": "GPT..보다는 이해하기 쉬운 듯 하네요",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb3a76d7808ea49b50495ffb9cecd3224b3a0b1485390c8b802e37acdaa4d7ea800947",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb3c7ecefebaa48e8a3463d2b1316cf7dbf271f73117d39e2861de837e3b037e3e40fe",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb3f76ae4cb4dcd7d38ab6dfc2801dddb3e33313d8d0378c502ae22f60c2aedd828f41"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_ec285adbd0eb",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "리만가설 증명 수학자들 검증 근황",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547255&exception_mode=recommend&page=1",
+      "author": "한대남가리뚝스딱스",
+      "time": "2026-11-21 10:48:44",
+      "likes": "11",
+      "comments": "7",
       "content": "",
-      "images": []
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb7a2ade85309495949400a595243816a27c13ae7bffabad5c2375370ba851f0158e6096db7981e170a84ef1e222127b4d4ea16b8bc9c1a547d3c8010b08ef1ba0a6c8d055f985"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_aaef2e92da01",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "6.2 astra 10시간째 검증중 근데..png",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547252&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-21 10:47:59",
+      "likes": "34",
+      "comments": "6",
+      "content": "방금 뱉은말인데\n진짜맞는거같다함\n인간이 12년간 연구한건 8분컷내던놈이",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb3a78ec76a3749701d38630bd14661cb358e636751a2ef0f0c0da504b34acdf159128ab348ebca6012d80825b0ccf35fc9a4175224da3744fe8e565e8fe051b51d7a6c5d42208a839b09ea9"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_2cf1a274c708",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "(속보) 핵겨울이다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547208&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-21 10:35:54",
+      "likes": "56",
+      "comments": "28",
+      "content": "",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb3a77251f6a027f0c389b764a9ba4be8a4f2b070367497a04add551fe3d022086ce"
+      ],
+      "is_cross_hot": false
     },
     {
       "id": "thesingularity_84c98788c242",
@@ -1485,144 +1621,6 @@
       "images": [
         "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b5767ebbc2a0c5cd9d4be71f72de99ca22a0a4cf155943db51a191efb72cb7f150f3236fc896ac2ac4b0bd8508662acb2e58faa822"
       ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_5f18437f0d80",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "에.. 이 말이 사실이면 LLM만으로 AGI 가능하다는 거군요?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1531740&exception_mode=recommend&page=1",
-      "author": "초존도초",
-      "time": "2026-11-15 14:22:47",
-      "likes": "27",
-      "comments": "39",
-      "content": "https://gall.dcinside.com/thesingularity/1083103\n그렉 브록만이 LLM만으로 AGI에 도달할 수 있다고 말한 정확한 이유\n- 특이점이 온다 마이너 갤러리\nhttps://youtu.be/J6vYvk7R19006:46 부터 09:03 까지 스크립트 전문을 오푸스로 다섯 차례 교정해서 번역함.폰트 크기 키웠으니까 꼼꼼히 다 읽어봐봐오픈AI 초창기에 깨달은 게 있습니다. 우리\ngall.dcinside.com",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f997507f03d7782cc94d669b171a5facedd63e25991d6d1de9fe5ee7298762ffb20c762cc416c432fca3d77e6ed4",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f997507f03d7782cc94d669b171a5facedd63e259970001becf85ce3268b60f4dd6a25a8d9e817b3d94fe27925",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de787fa1bd625313384cc989dbda850395aa1d1f19ba5eb829b2999aa490278542a178b7f9fb8035dffa78ff489b2800ea6aa6ec3b692c1313b091f16f2ac953a"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_0f4d5fd3d4f5",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "2027 ASI",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1531683&exception_mode=recommend&page=1",
-      "author": "초존도초",
-      "time": "2026-11-15 14:03:44",
-      "likes": "26",
-      "comments": "13",
-      "content": "",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f997507f03d7782cc94d669b171a5facedd63e259970031ceafc5ae6298d67fadd362dfcdb0c8e880608664848",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f997507f03d7782cc94d669b171a5facedd63e259970051beef353e5298d64fddd65215e2f4663e54cb13bada1",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f997507f03d7782cc94d669b171a5facedd63e2599700a1be3f858e9238f66f8dd312c4ce311854ab590f4cc99",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f997507f03d7782cc94d669b171a5facedd63e2599700b1beaf25ae5298c69fddd612190b92a4e35f2fe740bac",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f997507f03d7782cc94d669b171a5facedd63e259970001cebff5be9248966fcdd6226b46ca56f3f248707b933",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f997507f03d7782cc94d669b171a5facedd63e259970061beafb5be4258f60fcdd63268caf642cf26a7a8f8460",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f997507f03d7782cc94d669b171a5facedd63e259970031beafb5ae1258c67fddd6023bceec1b4c068c39ffb3b"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_4cfbbd635ca7",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "진지 분석) 얀르쿤의 JEPA 부활. 2주전에 혁명적인 연구가 나옴",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1531640&exception_mode=recommend&page=1",
-      "author": "코스톨라니추종자",
-      "time": "2026-11-15 13:43:54",
-      "likes": "30",
-      "comments": "39",
-      "content": "https://www.alphaxiv.org/abs/2610.39302\nProving and Improving the Platonic Representation Hypothesis with JEPAs\nThe paper formalizes how independently trained representations can align across modalities: under idealized conditions, JEPAs trained on the same positive-pair relationships recover a shared...\nwww.alphaxiv.org\n이논문임. 얀르쿤과 AMI Labs 이름으로 낸 논문\n이논문엔 2가지 기여가 있음\n첫번째는 LeJEPA(이제 그냥 JEPA방식은 폐기된 거고 LeJEPA 방식이 기준점임)의 성능 을 엄청 끌어올릴 학습방법이 고안된거고\n두번째가 충격적인데,\n이미지만 보고 학습된 encoder가 만든 특징이랑\n텍스트만 보고 학습된 encoder가 만든 특징이랑\n오직 회전변환(행렬곱) 하나만을 두고 매핑할 수 있다 ㄷㄷㄷ\n한마디로 개짖는소리(오디오)랑 개형상(이미지)이랑 '개'(텍스트)를 각각 따로 보고 학습한 인코더들이 내뱉는 잠재특징이 서로 똑같다고 볼 수 있음\n이말은 즉슨 모든 세상의 정보를 하나의 기하학적 차원모형에 매핑할 수 있다는거임. 그야말로 월드모델의 실마리가 나온거 같음\n각 모달리티(텍스트, 이미지, 비디오, 오디오) 등이 서로 전환이 엄청 쉬워진다는 거고 특히 로봇이 세상을 인지하는데 엄청난 진전이 있을거로 보임",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?no=29bcc427b69d39b37ab0ccaf17dd6b3c0bbb3a67a04dd1f2ab5fd6795d4a61c6fce0661d003daf98c8e7a07ac8837c67d330023218ff9141d7f2ea52865028173d",
-        "https://api.alphaxiv.org/open-graph/v1/paper/2610.39302.png?v=2"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_c3ea900a91c9",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "로보틱스 스타트업 CEO : \"로봇 훈련 갑자기 가속화됨\"",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1531637&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-15 13:43:10",
-      "likes": "28",
-      "comments": "15",
-      "content": "",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46f997507f03d7782cc94d669b171a5facedd63e25991d6d1aedff5ae5268a61fbb30c745fc498cb75425395414687"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_ce76392500bd",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "MIT 교수 : 오픈ai 증명엔 근본적으로 새로운 것이 있다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1531611&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-15 13:30:47",
-      "likes": "16",
-      "comments": "10",
-      "content": "https://x.com/mtslive/status/2121423440406298854?a=x39riWhOG5MxMtdqw8w&s=46\n보간이 아니다 ㄷㄷ\n- dc official App",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b5767ebbc2a0c5cd9d4be71f72de99ca22a0e799733f747299e67a9201dc7f5e1feb19c0e12fd45318142bed1babb7bdcd350c537348bd628b7f233e3c3ecf88ac22b3ff58e6435405df94bc7c065af342f7"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "cm_ai_3196ee8ab925",
-      "source": "클리앙 AI당",
-      "category": "화제·뉴스",
-      "title": "미토스 5.2를 써보는 중인데...",
-      "url": "https://www.clien.net/service/board/cm_ai/19295915?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-20 11:33",
-      "likes": "0",
-      "comments": "",
-      "content": "제 수준에선 페이블 5.2랑 차이가 없네요.\n기본적으로 같은 모델에 보안관련 제한만 좀 더 완화되어 있는 모델이다 보니까..\n사실 그게 맞긴한데..\n그래도 앤트로픽이 워낙에 설레발을 쳐놔서 뭔가 더 특별하게 잘 하는게 있나 싶어서..\n사이버 보안 쪽으로 신청해서 어제 승인을 받아서 사용해보는 중인데..\n생물학 쪽은 전 전혀 몰라서 해당 사항이 없고..\n사이버 보안 쪽으로도 단순히 내가 만든 앱이나 웹의 보안 점검 정도는 페이블에서도 다 되고 차이가 없습니다.\n차이는 해커입장에서 실제로 뚫어보는 테스트를 하려고 하면 페이블은 거부하는데..\n미토스는 그걸 시도해서 보안상 구멍을 찾아 낸다는 정도 입니다.\n그렇다고 미토스에게 다른곳을 뚫을 용도로 exploit 같은걸 만들어 달라 하면 그건 당연히 안해줍니다 ㅋㅋ\n이걸로 뭔가 보안쪽으로 해볼려고 신청해서 받은게 아닌데다..\n신청하면서도 당연히 안되겠지.. 라고 생각하고 신청한건데..\n승인이 나버리니.. 막상 이걸로 뭘 해봐야 할지는 잘 모르겠네요 ㅋㅋ",
-      "images": [
-        "https://edgio.clien.net/F01/2026/11/15867522/93524453df26.png?scale=width:740"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "cm_ai_6b9761237e48",
-      "source": "클리앙 AI당",
-      "category": "자작·프로젝트",
-      "title": "[바이브 코딩] 언어 학습을 위한 '간격 반복 기억 강화 시스템' 웹 페이지(로컬/개인용",
-      "url": "https://www.clien.net/service/board/cm_ai/19295646?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-19 21:33",
-      "likes": "0",
-      "comments": "1",
-      "content": "언어 학습에 관심이 많아서 'Fluent Forever'라는 책을 읽다가 우연히 'Flash Card'를 알게 돼, 이걸 활용하면 어떨까 해서 한번 만들어봤습니다.\nAntigravity로 Gemini Argon Medium 모델 활용했습니다. 사용해 보니 꽤 괜찮게 학습/관리가 되게 만들어졌고요.\n개인 학습 효율에 따라 며칠 후에 반복 학습하는 설정을 해줍니다. 대시 보드로 한 눈에 확인도 가능하게 만들었구요.\n목록으로 관리도 편하게 할 수 있게 메뉴 구성을 해봤습니다.\n책에서는 'Anki'라는 학습 프로그램을 소개하는데. 설치하고 보니 일일이 넣는 것도 일이겠다 싶어, 저 편하자고 또 개발해 봤네요 ㅋ",
-      "images": [
-        "https://edgio.clien.net/F01/2026/11/15867151/b5c59d98c01c.png?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15867152/6472abbbf70b.png?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15867153/6594f6ee222b.png?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15867157/b5e33885e23d.png?scale=width:740"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "cm_ai_c78010341087",
-      "source": "클리앙 AI당",
-      "category": "화제·뉴스",
-      "title": "젠스파크 연간 50% 할인하네요",
-      "url": "https://www.clien.net/service/board/cm_ai/19295006?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-19 09:05",
-      "likes": "0",
-      "comments": "",
-      "content": "블프 라고 연간 50% 할인하네요..\n초대 링크로 가입하면 만크레딧씩 더 준다니 참고하셔요..\nhttps://www.genspark.ai/bf-invite/NH7sDzcswiA3iw6V",
-      "images": [],
       "is_cross_hot": false
     }
   ]
