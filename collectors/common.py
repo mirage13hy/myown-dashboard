@@ -60,7 +60,44 @@ def make_client(timeout: float = 12.0) -> httpx.Client:
     )
 
 
+def normalize_time_str(raw: str) -> str:
+    """HH:MM만 있는 경우 수집 시점의 KST 날짜(YYYY-MM-DD)를 붙여 날짜+시간으로 통일합니다."""
+    s = (raw or "").strip()
+    if not s:
+        return ""
+    today = now_kst().strftime("%Y-%m-%d")
+    year = now_kst().strftime("%Y")
+
+    # 이미 YYYY-MM-DD HH:MM 형태
+    m_full = re.search(r"(20\d{2})[.-/](\d{1,2})[.-/](\d{1,2})\s+(\d{1,2}:\d{2})", s)
+    if m_full:
+        return f"{m_full.group(1)}-{int(m_full.group(2)):02d}-{int(m_full.group(3)):02d} {m_full.group(4)}"
+
+    # YY/MM/DD 또는 YY.MM.DD HH:MM
+    m_short_dt = re.search(r"^(\d{2})[.-/](\d{1,2})[.-/](\d{1,2})(?:\s+(\d{1,2}:\d{2}))?", s)
+    if m_short_dt:
+        base = f"20{m_short_dt.group(1)}-{int(m_short_dt.group(2)):02d}-{int(m_short_dt.group(3)):02d}"
+        return f"{base} {m_short_dt.group(4)}" if m_short_dt.group(4) else base
+
+    # HH:MM 또는 HH:MM:SS 만 있는 경우 -> 오늘 날짜 붙이기
+    m_time_only = re.match(r"^(\d{1,2}:\d{2})(?::\d{2})?$", s)
+    if m_time_only:
+        hh, mm = m_time_only.group(1).split(":")
+        return f"{today} {int(hh):02d}:{mm}"
+
+    # MM-DD 또는 MM/DD 또는 MM.DD 만 있는 경우
+    m_md = re.match(r"^(\d{1,2})[.-/](\d{1,2})$", s)
+    if m_md:
+        return f"{year}-{int(m_md.group(1)):02d}-{int(m_md.group(2)):02d}"
+
+    return s
+
+
 def save_json(filename: str, payload: dict[str, Any]) -> Path:
+    for p in payload.get("posts", []):
+        if p.get("time"):
+            p["time"] = normalize_time_str(p["time"])
+
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     out = DATA_DIR / filename
     out.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -166,48 +203,51 @@ def _detect_cross_topics_ai(posts: list[dict[str, Any]], max_topics: int = 5) ->
     api_key = os.getenv("GEMINI_API_KEY", "").strip()
     if not api_key or len(posts) < 4:
         return None
-    try:
-        from google import genai
+    from google import genai
 
-        items_text = "\n".join(
-            f"{p['id']} | {p['source']} | {p['title']}" for p in posts
-        )
-        prompt = (
-            "다음은 여러 한국 커뮤니티의 최신 인기글 목록입니다 (형식: ID | 출처 | 제목).\n"
-            "서로 다른 2개 이상의 커뮤니티에서 **실제로 같은 사건, 인물, 뉴스, 사회 이슈**를 다루고 있는 글들만 묶어 주세요.\n"
-            "단순히 'jpg', '먹는', '역대급', '레전드' 같은 일반 단어나 파일 확장자가 겹치는 것은 절대 묶지 마세요.\n"
-            f"최대 {max_topics}개 그룹만 JSON 배열로 반환하세요. 없으면 빈 배열 []을 반환하세요.\n"
-            'JSON 형식: [{"topic": "핵심 이슈명(짧게)", "post_ids": ["id1", "id2"]}]\n\n'
-            f"{items_text}"
-        )
-        client = genai.Client(api_key=api_key)
-        resp = client.models.generate_content(
-            model="gemini-3.5-flash-lite",
-            contents=prompt,
-        )
-        raw = (resp.text or "").strip()
-        m = re.search(r"\[.*\]", raw, re.S)
-        if not m:
-            return None
-        groups = json.loads(m.group(0))
-        post_map = {p["id"]: p for p in posts}
-        clusters = []
-        for g in groups:
-            pids = [pid for pid in g.get("post_ids", []) if pid in post_map]
-            picked = [post_map[pid] for pid in pids]
-            sources = list(dict.fromkeys(p["source"] for p in picked))
-            if len(sources) < 2:
+    items_text = "\n".join(
+        f"{p['id']} | {p['source']} | {p['title']}" for p in posts[:80]
+    )
+    prompt = (
+        "다음은 여러 한국 커뮤니티의 최신 인기글 목록입니다 (형식: ID | 출처 | 제목).\n"
+        "서로 다른 2개 이상의 커뮤니티에서 **실제로 같은 사건, 인물, 뉴스, 사회/연예/스포츠/IT 이슈**를 다루고 있는 글들을 묶어 주세요.\n"
+        "단순히 'jpg', '먹는', '역대급', '레전드' 같은 일반 단어나 파일 확장자가 겹치는 것은 묶지 마세요.\n"
+        f"최대 {max_topics}개 그룹을 JSON 배열로 반환하세요. 없으면 빈 배열 []을 반환하세요.\n"
+        'JSON 형식: [{"topic": "핵심 이슈명(짧게)", "post_ids": ["id1", "id2"]}]\n\n'
+        f"{items_text}"
+    )
+    client = genai.Client(api_key=api_key)
+    post_map = {p["id"]: p for p in posts}
+
+    for model_name in ("gemini-3.5-flash-lite", "gemini-3.1-flash-lite"):
+        try:
+            resp = client.models.generate_content(
+                model=model_name,
+                contents=prompt,
+            )
+            raw = (resp.text or "").strip()
+            m = re.search(r"\[.*\]", raw, re.S)
+            if not m:
                 continue
-            for p in picked:
-                p["is_cross_hot"] = True
-            clusters.append({
-                "topic": g.get("topic", "공동 화제"),
-                "sources": sources,
-                "posts": [{"id": p["id"], "source": p["source"], "title": p["title"]} for p in picked],
-            })
-        return clusters[:max_topics]
-    except Exception:
-        return None
+            groups = json.loads(m.group(0))
+            clusters = []
+            for g in groups:
+                pids = [pid for pid in g.get("post_ids", []) if pid in post_map]
+                picked = [post_map[pid] for pid in pids]
+                sources = list(dict.fromkeys(p["source"] for p in picked))
+                if len(sources) < 2:
+                    continue
+                for p in picked:
+                    p["is_cross_hot"] = True
+                clusters.append({
+                    "topic": g.get("topic", "공동 화제"),
+                    "sources": sources,
+                    "posts": [{"id": p["id"], "source": p["source"], "title": p["title"]} for p in picked],
+                })
+            return clusters[:max_topics]
+        except Exception:
+            continue
+    return None
 
 
 def detect_cross_topics(posts: list[dict[str, Any]], max_topics: int = 5) -> list[dict[str, Any]]:

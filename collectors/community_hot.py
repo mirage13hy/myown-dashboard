@@ -396,7 +396,7 @@ def run() -> dict[str, Any]:
                     source_status[name] = f"error: {type(exc).__name__}"
 
     merged_posts = merge_posts(all_posts, prev_by_source, max_total=120)
-    cross_topics = detect_cross_topics(all_posts)
+    cross_topics = detect_cross_topics(merged_posts[:80])
     payload = {
         "updated_at": now_kst_str(),
         "source_status": source_status,

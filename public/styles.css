@@ -118,6 +118,13 @@ body {
   font-size: 1.1rem;
   font-weight: 700;
   letter-spacing: -0.02em;
+  color: var(--text);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.brand-title:hover {
+  opacity: 0.85;
 }
 
 .updated-at {
