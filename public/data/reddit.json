@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-23 20:26",
+  "updated_at": "2026-11-24 07:59",
   "source_status": {
-    "r/OutOfTheLoop": "ok (5, arctic)",
-    "r/news": "ok (5, arctic)",
-    "r/worldnews": "ok (5, arctic)",
-    "r/technology": "ok (5, arctic)",
-    "r/LocalLLaMA": "ok (5, arctic)",
-    "r/artificial": "ok (4, arctic)"
+    "r/OutOfTheLoop": "cached (5, HTTPStatusError)",
+    "r/news": "cached (5, HTTPStatusError)",
+    "r/worldnews": "cached (5, HTTPStatusError)",
+    "r/technology": "cached (5, HTTPStatusError)",
+    "r/LocalLLaMA": "cached (5, HTTPStatusError)",
+    "r/artificial": "cached (4, HTTPStatusError)"
   },
   "posts": [
     {
