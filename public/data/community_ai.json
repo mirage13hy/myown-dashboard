@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 15:40",
+  "updated_at": "2026-11-25 03:27",
   "source_status": {
     "디시 특이점이온다": "ok (8)",
     "에펨코리아 AI": "error: HTTPStatusError",
@@ -11,126 +11,146 @@
   },
   "posts": [
     {
-      "id": "thesingularity_19bb2574bdb8",
+      "id": "thesingularity_a6109537ced7",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "개씹창났다는 물리학계",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556836&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ(192.249)",
-      "time": "2026-11-24 15:11:47",
+      "title": "2027년, 전 세계를 뒤흔들 로봇 혁명이 온다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1558037&exception_mode=recommend&page=1",
+      "author": "6974콜맨",
+      "time": "2026-11-25 00:22:31",
       "likes": "24",
       "comments": "22",
-      "content": "ㅇㄱㅈㅉㅇㅇ?",
+      "content": "https://x.com/gdb/status/2125115240690201049\n▶ 로봇 지능 평가기관 Playground에 따르면 AI의 로봇 제어 능력이 기존의 지수적 성장 추세마저 뛰어넘으며 폭발적으로 발전하고 있음.\n▶ 지난 1년간 로봇 제어 능력의 상대적 지표는 2.4배 상승했지만, 최근 3개월 동안에는 무려 9배 이상 상승함. 기존에는 5개월마다 2배씩 발전하던 지표가 이제 5주마다 2배씩 상승하는 수준임.\n▶ GPT-6.2 Astra는 로봇 지능 종합평가에서 2,051점으로 1위를 차지했으며, 기존 2년간의 지수적 성장 추세를 약 5배 웃도는 성과를 기록함.\n▶ 실제 로봇 및 공간지각 평가에서도 잇따라 최고 기록을 경신함.\n- RoboColosseum: 실제 로봇 제어 평가 1위, 1,984점 기록.\n- RoboDojo: 실제 로봇 120회 실험에서 작업 진행률 점수 97% 기록.\n- Blueprint-Bench 2: 사진으로 공간 구조를 파악하는 평가에서 인간 기준을 넘어 1위 달성.\n▶ 무엇보다 주목할 점은 로봇 전용으로 개발된 AI들을 범용 AI가 추월하기 시작했다는 것임. OpenAI 공동창업자 그렉 브록먼도 이를 두고 \"로봇 제어 기술이 르네상스를 맞이하고 있다\"고 평가함.\n한 줄 요약: AI가 로봇을 다루는 능력마저 지수적으로 발전하기 시작했으며, 최근의 성장세가 2027년까지 이어진다면 인간의 육체노동을 대체할 기술적 기반이 예상보다 훨씬 빠르게 완성될 수 있음.\n출처\nPlayground – The Robot Frontier Is Accelerating\nRobot Intelligence Index\nAndon Labs – Blueprint-Bench 2\nRobocurve 공식 X",
       "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee4e2888cfc2cd735c55b5c6f51319cbaf47d2b36d55a564b0a25caa4aeda0f075d695"
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9750556324f99d85dc922499132698229df5970d0541236739caef118a379374c10f0ae68d777c401087ed26"
       ]
     },
     {
-      "id": "thesingularity_04b5df6d87ca",
+      "id": "thesingularity_b6966138a2a5",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "미카미 신지 \"AI가 완전히 사라졌으면 좋겠다\"",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556808&exception_mode=recommend&page=1",
-      "author": "회색",
-      "time": "2026-11-24 14:54:59",
-      "likes": "17",
-      "comments": "22",
-      "content": "https://www.ithome.com/1/031/204.htm\nInven Global의 보도에 따르면, 두 사람의 토론은 주로 2027년 이후 게임 개발 산업에 어떤 변화가 일어날 것인지를 중심으로 진행됐습니다.\n주목할 점은 김형태가 앞서 Shift Up이 AI를 활용해 제작한 스텔라 블레이드: 블러드 레인(Stellar Blade: Blood Rain) 뮤직비디오가 전부 AI로 생성됐다는 이유로 받은 비판에 대해서도 정면으로 답했다는 것입니다. 올해 7월 말 해당 영상이 공개된 이후 플레이어들 사이에서 논란이 일었으며, 일부 스텔라 블레이드 팬들은 보이콧에 나서기도 했습니다.\n김형태는 이러한 논란을 계기로 스튜디오가 처음부터 끝까지 '수작업'을 고수한다는 새로운 창작 철학을 확립했다고 밝혔습니다.\n다만 IT Home에 따르면, 이것이 Shift Up이 AI를 완전히 포기한다는 의미는 아닙니다. 김형태는 스튜디오가 조명 효과 제작이나 로우 폴리곤 3D 모델 생성 등 일부 개발 과정에서는 여전히 AI를 활용할 계획이라고 설명했습니다. 하지만 프로젝트 개발 초기부터 AI에 지나치게 의존하면 최종 결과물이 일반적인 AI 이용자도 만들 수 있는 콘텐츠와 뚜렷한 차이를 보이지 않게 될 것이라고 판단했습니다.\n그럼에도 김형태는 “오늘날에는 AI를 사용하지 않고 게임을 개발하기가 이미 어려워졌습니다”라고 말했습니다.\n이에 대해 미카미 신지는 완전히 다른 견해를 보였습니다.\n미카미 신지는 현재 Unbound에서도 AI 활용을 시험하고 있다고 밝혔습니다. 주로 손으로 그린 2D 모델을 3D 모델로 변환했을 때 어떤 모습이 될지 미리 확인하는 용도입니다. 하지만 동시에 AI에 대한 거부감도 숨기지 않았습니다. 그는 AI가 게임 개발 분야에서 사라지는 것을 넘어 “완전히 사라졌으면 좋겠다”고 말했으며, 나아가 “이 세상에서 사라졌으면 좋겠다”는 바람까지 드러냈습니다.\n미카미 신지는 AI가 향후 게임 개발자의 고용에 미칠 영향에 대해서도 비관적인 입장을 보였습니다.\n그는 앞으로 “5년 또는 10년”이 게임 스튜디오에 불확실성이 가득한 시기가 될 것이라고 전망했습니다. 또한 향후 10년 안에 게임 개발자들이 실제로 AI에 대체돼 일자리를 잃을 가능성이 있다는 점도 인정했습니다.\n미카미 신지의 우려에 대해 김형태는 AI 기술이 앞으로 아무리 빠르게 발전하더라도 Shift Up과 Unbound가 개발하는 게임은 본질적으로 수작업을 통한 창작을 계속 고수할 것이라고 답했습니다.",
+      "title": "로그 퍼플렉서티 0으로 향하는 거대한 흐름 알았다....",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557963&exception_mode=recommend&page=1",
+      "author": "초존도초",
+      "time": "2026-11-24 23:45:15",
+      "likes": "30",
+      "comments": "31",
+      "content": "https://x.com/chetaslua/status/2122750991590477973?a=H05h5u8_q6radnEAJCc&s=20\n다들 아스트라든 페이블이든 이게 단순한 text 출력 모델이라는 사실을 잊곤 하는 거 같은데\n얘네가 지금까지도 내뱉는 건 그냥 ㄹㅇ로 '순차적인 문자'뿐이라는 거임..\n순차적으로 알파벳을 출력하는데 저렇게 마치 공간을 이해하고 형태를 이해하고 상황과 맥락, 컴포지션을 이해하고 시간을 이해하고\n인간이 그림을 그리듯이 SVG로 그림을 만들고\n인간이 3D 모델링을 하고 애니메이션을 만들듯이 정밀한 현실의 물체와도 같은 오브젝트를 만들고 시간에 따른 논리적이고 물리적인 애니메이션도 구현하고\n장면 장면의 이미지를 입력 받는 것만으로도 다음에 와야 할 장면 장면의 이미지를 추론하고 그대로 행동함 (로보틱스, 프레임 맥락 이해 벤치 등)\n6.2 아스트라는 퍼거임. 언어 이해나 구사 능력이 처참해 사용자를 종종 짜증나게 함에도 불구하고 STEM 분야에서 엄청난 성능을 발휘함\n0.75 되니 수학의 정상급에 도달했음. 밀레니엄 문제마저 해결하는 창발성을 보여줘버림\n여기서 가장 주목하고 놀라워해야 하는 부분은 바로 이거임\n우리 인간 입장에서 소통하기가 굉장히 까다로운 자폐성을 갖고 있음에도 불구하고 로보틱스 벤치 결과들(한둘이 아님)을 보면 독립적으로 엄청난 도약을 보여주고 있다는 점\n즉, '인간처럼' 상황을 이해하고 '인간처럼' 행동하는 수준에 크게 도달해 버렸다는 거임\n아스트라만 그런가? 전혀 아님 이번에 네온 벤치 보면 거기서도 로보틱스와 사진으로 맥락 이해 벤치 큰 도약이 일어났었음\n페이블5.2야 클로드 모델치고 로보틱스 도약 일어났다는 하입 그 시작이었고\n이 언어모델들, LLM들이 하는 일들은 단 한 가지임\n학습 때 우리가 원하는 다음 단어(정확히는 토큰) 예측을 얼마나 잘 하는가\n그래서 우리는 그 오차를 줄이는 방향으로 가중치를 조정하고\n로그 퍼플렉서티는 그 오차임\n한마디로 LLM이 다음 단어를, 다음 단어로 어떤 단어가 들어가야 하는지 예측해서 그걸 택해(샘플링해) 출력하는 거\n그렇기 때문에 기본적으로 아스트라건 페이블이건 네온이건 다를 게 없음. 출력 단에서 이행 되는 건 모두 동일하게 토큰, 문자\n그렇기 때문에 요번에 오픈AI에서 제안한\n이 로그 퍼플렉서티가 언어 모델 성능의 주\n아주 주요 지표가 되는 건 타당하다 볼 수 있겠음\n토크나이저에 따라 혹은 뭐 우리가 모르는 뭐 어떤 함수, 아키텍처 등 기타 변수에 따라 일정 부분 제각기 달라질 수도 있을지언정\n이게 감소함에 있어서 다음 토큰 예측을 더 잘해지고\n그에 따라 언어 모델이 갖는 능력들이 큼지막한 것들은 대체로 비슷한 순서대로 창발 될 수 있는 게 아닐지...? 하는 생각도 해볼 수 있겠음.\n그리고 지금 보면 이 언어모델들\n클로드, 지피티, 제미나이들이 향하고 있는 거대한 방향성이\n월드모델이라는 것이\n지금 단계에서 서서히 확실해지는 느낌을 받지 않을 수가 없음 개인적으로...\n스케일링 법칙이 굳건해서 저 로그 퍼플렉시티를 계속 감소시킬 수만 있다면\n얀르쿤 없이도 월드모델에 도달해버리는 게 아닌지.\n추론이나 토큰 출력 속도, 지연 등에 대한 건 일단 공학적인 문제고,\n트랜스포머 어텐션 매커니즘만으로도 월드모델이 가능해질 수 있다는 것\n그게 정말 가능해질 수 있다는 것이\n그게 사실이 돼 버릴지도 모른다는 점이\n다시 곱씹어보고 소름 돋아야 할지도 모른다는 생각이 들었음\n요약:\n1. 짚, 클, 젬 모두 문자 출력할 뿐인 언어 모델이다.\n2. 모두 근간은 어텐션 매커니즘에 기반한다.\n3. 로그 퍼플렉서티가 감소함에 따라 창발 되는 능력들을 종합해 보니 결국 월드 모델인 것 같다.\n4. 얀르쿤 없이도 월드모델, 재귀개선, 초지능 가능할지도 모른다.\n- 2026 AGI",
       "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e4daaa98f10e7451d4ae6a8ad6fffabfee22bf98909fe8cd7ff16af957b91f6ddb61929ba6811b2ad35c"
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23a9dc5328df6097c1bfca3a9686d1e43e36f8961ed13df088c8f6dda9152f932e5288463261d1d",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23495c3358ffe087219fba3a83f3e7ca2d67acfce11e198d6a4759b84296f08d4b927ab5dce382fc2588e404ad6994d311b4b775d561857d15f77",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5b9f5298c2318aff0a7c18f8c4946b3c163e55dfe1f925635fd5e643d23e2a579aed8b429ed8c820cf578a27ba517dda8bda78acccc1c083c669e0ae2d",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5b9f529fc73d8bfa027d14fecc946a6fd81b788e92c8c1d7fa3375bdc2c4cd3529eba57a21b2b145320e34f0dee816dad258d9e382649ca70b7d1ae1e9"
       ]
     },
     {
-      "id": "thesingularity_06c87356db53",
+      "id": "thesingularity_3a1c42f1dec2",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "성과는 다 ai가내고 그내용 이해도못하면서  깝치는게",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556795&exception_mode=recommend&page=1",
+      "title": "진짜 꼬였다는 소리들어도 할말은 없는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557942&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ(221.138)",
+      "time": "2026-11-24 23:36:03",
+      "likes": "54",
+      "comments": "41",
+      "content": "완몰가는 진짜가 아니잖아 라는 이유로 거른다는애들은\n이쪽의 삶이 차라리 구라였으면 좋겠다고 생각할 만큼 불행해본적 없나 싶어서 부러움",
+      "images": []
+    },
+    {
+      "id": "thesingularity_9fadce3612ca",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "머스크) 테렌스 타오는 고기컴퓨터고, 수학에 형편없다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557908&exception_mode=recommend&page=1",
       "author": "ㅇㅇ",
-      "time": "2026-11-24 14:45:49",
-      "likes": "24",
-      "comments": "4",
-      "content": "얘 걍 리만 냥이아님?",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee452a6a2d372400af5252c0da95f939f94a2fa7fc5dd95edb8bd85616b8e1a0e7da"
-      ]
-    },
-    {
-      "id": "thesingularity_bb000f106a85",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "수학이 털린 이유 카이스트 설문조사",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556725&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ(192.249)",
-      "time": "2026-11-24 14:12:08",
-      "likes": "25",
-      "comments": "23",
-      "content": "",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee462ab8f12ffc4f33ba19bb8ad18be25117cdfe92e086fab088862000bd54b5ed9341"
-      ]
-    },
-    {
-      "id": "thesingularity_b28e4282e3b3",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "알푀게 리만가설 트롤링 요약",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556724&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ(221.152)",
-      "time": "2026-11-24 14:12:07",
-      "likes": "20",
-      "comments": "9",
-      "content": "제일 잘 요약함",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e4daaa98f10e7451d4ae6a8ad6fffabfee22d2f69698ebcc7af26ff350d423372aec92aa93c767bdee529e"
-      ]
-    },
-    {
-      "id": "thesingularity_e8d592592592",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "상온 초전도체가 온다..",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556652&exception_mode=recommend&page=1",
-      "author": "행복한천국으로",
-      "time": "2026-11-24 13:45:14",
-      "likes": "29",
-      "comments": "50",
-      "content": "링크: https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee41275735eb8f26c814eefb0e7fa438d22a018bdc6bbfcc7b15a836ff76db3f10b30f",
-        "https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658ee2d7765cbd2f953b46a6d33fe0fbc02554cec8e4a037ac77e5a0c870579cbb0bc2e9d0876b78e425c3047e42baab88837d5f7d2f741fb",
-        "https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658ee2d7765cbd2f953b46a6d33fe0fbc02554cec8e4a037ac77e5a0c870579cbb0bc2e9d0876b78e425c3047e42baab88837d5f8454aa3ad"
-      ]
-    },
-    {
-      "id": "thesingularity_57467e161b55",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "속보)젠슨황, 이사회에 추가 불륜 사실 고백",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556635&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-24 13:36:23",
-      "likes": "34",
-      "comments": "50",
-      "content": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961\n안 되겠다..\n그냥 젠슨황 형님 침실에 매일 밤 여자 백명씩 불러다 넣어드리자..\n주지육림 느끼며 ai 풀가속에 힘써주셔서 빨리 agi 달성하기를..",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23898c63d8cf70a771bfba3f96b3c3b9d510783be5ccd6431ef880f0f2503131d6d538af98612fa925eb159cbdb8d35f8746e8c519bf4433f5d"
-      ]
-    },
-    {
-      "id": "thesingularity_d02363cb0352",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "슬슬 리만 가설 알빠노면 개추",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556632&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-24 13:34:41",
-      "likes": "42",
+      "time": "2026-11-24 23:17:33",
+      "likes": "33",
       "comments": "33",
-      "content": "당장 몇달만 더 있어도 밀레니엄 지혼자서 죄다 껌으로 풀어버릴 모델 나올텐데\n이제 슬슬 다 즐긴 것 같아서 알푀게니 증명 검증이니 질리면 개추",
+      "content": "https://x.com/elonmusk/status/2125182397918416965?a=Bb4A6spoIRkCM2WRK4A&s=20",
       "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23c94cb3388fc0b7114f8a3f83b3fa47802a3605ab626d2a553690b1313d3d8c8a427cfa44967bfb1d96e5ee6b1b956a1307e13bb72fcf70bd68f12f649d74907a15a87aef8"
+        "https://dcimg8.dcinside.co.kr/viewimage.php?no=29bcc427b69d39b37ab0ccaf17dd6b6f62b51891c4c7132e1f5fd3cb93bf34c090ca4b5ef41a900ad9799870d193473de9e116e4512b1430e7f5b3",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e4daaa98f10e7451d4ae6a8ad6fffabfee22bf9c979be4c07ef76df250b94e38c581ba0811ebcea287f6",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e4daaa98f10e7451d4ae6a8ad6fffabfee22bf9e969dedc978f76cf257b94d69c79b5a5b86320682d684"
       ]
+    },
+    {
+      "id": "thesingularity_b79ee045ad88",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "AI 암 정복에 찬물 끼얹은 앤트로픽 이사의 정체",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557849&exception_mode=recommend&page=1",
+      "author": "6974콜맨",
+      "time": "2026-11-24 22:54:25",
+      "likes": "27",
+      "comments": "27",
+      "content": "▶ 바스 나라심한은 세계적인 제약사\n노바티스의 CEO이자 신약 개발 전문가임.\n▶ 2026년 4월 앤트로픽 이사회에 합류함. 다리오 아모데이가 아닌\n독립 감독기구 장기공익신탁(LTBT)이 선임했음.\n▶ 최근 AI가 5~10년 안에\n암을 정복할 가능성을 부정\n하며, 신약 개발 기간을 4년 줄이는 데도 10년이 필요하다고 주장함.\n▶ 그런데 노바티스는\n150PB(15만 TB) 이상의 연구 데이터를 보유한 기업\n임. AI 신약 개발에 막대한 가치를 지닌 자산임.\n▶ 나라심한은 AI가 경쟁사의 추격을 가속할 수 있다며 실제로 일부\n연구 성과의 공개를 늦췄다\n고 밝힘.\n▶ 또한 현재까지 앤트로픽에 노바티스의 핵심\n연구 데이터를 제공했다는 공개 기록은 확인되지 않음.\n◆ 핵심은 이거임.\n앤트로픽 입장에서 거대 제약사의 데이터와 전문성을 확보하는 건 엄청난 이득임.\n데이터 확보가 영입 목적 중 하나였을 가능성도 있음.\n하지만 정작 이사회에 들어온 사람은 AI가 경쟁사의 추격을 가속할까 봐\n연구 성과 공개까지 늦추는 현직 제약사 CEO임.\nAI가 신약 개발을 혁신하면 기존 제약사의\n독점적 경쟁력도 흔들릴 수 있음.\n결국 AI 발전의 과실은 챙기면서, 정작 AI 발전에 필요한 자기 연구 데이터는 꽁꽁 감추고 있는 셈일 수도 있음.\n출처:\nhttps://www.aipostkorea.com/news/articleViewAmp.html?idxno=13371\nhttps://www.anthropic.com/news/narasimhan-board\nhttps://stockanalysis.com/quote/swx/NOVN/transcripts/796844-meet-novartis-management-2026-part-3/",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e4daaa98f10e7451d4ae6a8ad6fffabfee22d2f6949beacd7af66ff15dd0233bd734aa7981cd3f9b9bc08e"
+      ]
+    },
+    {
+      "id": "thesingularity_954f3afad542",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "오육푸스 vs 페이블5.2 vs 페이블5.5 svg",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557834&exception_mode=recommend&page=1",
+      "author": "초존도초",
+      "time": "2026-11-24 22:47:15",
+      "likes": "27",
+      "comments": "24",
+      "content": "https://x.com/legit_api/status/2125215156380557656?s=19\nㄷㄷ 오푸스 다음 버전 기대 되네\n- 2026 AGI",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23994c43c8ffe0c7d1efea3fc6d3485ba72d12c07cce31eccac52ef2c62aa9145f8254197733d08ef2b3d356e5d325422ec900970",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23e9ec33280fe097d1ff3a3fb6c393ff36eeeb774f46cd5adcdb39df9423566ba98f04dd8b6d0ec",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23899cb358dfe0f741fffa3f3643cd117f6fb426baffa53e6afc02394d3275a3cad2884a65fee99",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23a9bc43680ff037418fca3f83f3c3fe29aa5b932fd672a6d4f0ae56884e57a0e8a0b9af52d8982",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf2399ec23481ff0d701cffa3f26c3982c8134392b421a13de47f0e717adf08640ada29f5d1a6ac12a98777152d1bfc2d77db20daed",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23c95c3358ef80e7c14f9a3af383404d94552d783b404ea0db560a11b1f3a4db05bfb457fd9fd52"
+      ]
+    },
+    {
+      "id": "thesingularity_823ee5cb00e1",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "ㅅㅂ 나도 념글 보고 따라햇는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557822&exception_mode=recommend&page=1",
+      "author": "에브리",
+      "time": "2026-11-24 22:38:51",
+      "likes": "67",
+      "comments": "54",
+      "content": "얘 왜이럼",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf2349fc13180fa0f761cf9a3ff6e6e449b1e0117db6ab88a2065a62a1a9f20ed53e268f1b387cd8a4797a388a74081a2625a60cf5f73b70ae352fc1d3bc3b72b"
+      ]
+    },
+    {
+      "id": "thesingularity_69a3ffdcdcdc",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "p=np 참여중",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557785&exception_mode=recommend&page=1",
+      "author": "칸나오레",
+      "time": "2026-11-24 22:21:16",
+      "likes": "23",
+      "comments": "20",
+      "content": "토큰 남아서 6.2sol로 해보는중\n만약 이 플젝이 해결하면\n내 지분도 0.1% 들어가니깐 기분조음\n- dc official App",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23f95c63281fb0c7d15fea3af6a69ce77af9c1e87b669f0dff5adc7e87715a7db493c1e5bc580a63486746a4247fd77b2d92dc4cd0128e35117",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf2349bc0348bfc0b721afea3f96e3d81cb962b7b7dc97353f271f728bf528d08ffa00457e1245e2dbd186fc10d9cd49e7bcc669a6d556c2c9730f4"
+      ]
+    },
+    {
+      "id": "cm_ai_57f25b7c11d1",
+      "source": "클리앙 AI당",
+      "category": "화제·뉴스",
+      "title": "MIT, 한국어 포함 21개 언어의 뇌 반응 분석",
+      "url": "https://www.clien.net/service/board/cm_ai/19297930?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-24 16:19",
+      "likes": "0",
+      "comments": "",
+      "content": "MIT가 11월 23일 다국어 AI 모델로 한국어를 포함한 21개 언어 사용자의 뇌 반응을 분석한 연구를 소개했습니다. 문장을 수치로 표현한 모델 출력과 뇌 영상 자료를 연결해, 이야기를 들을 때의 뇌 활동을 예측했습니다.\n흥미로운 점은 프랑스어 자료로 학습한 예측 모델이 학습에 없던 베트남어의 뇌 반응도 예측했다는 부분입니다. 연구진은 언어가 달라도 의미를 처리하는 데 공통된 요소가 있을 가능성을 제시했습니다.\n이 결과만으로 AI와 인간의 언어 이해가 같다고 보기는 어렵겠습니다. 언어별 차이는 추가 연구가 필요하다고 합니다. 다국어 모델을 언어 간 공통점을 살피는 연구 도구로 썼고, 한국어도 그 비교에 포함됐다는 점이 눈길을 끄네요.\n원문:\nhttps://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+      "images": []
     },
     {
       "id": "cm_ai_90de220ea7bc",
@@ -154,7 +174,7 @@
       "author": "",
       "time": "2026-11-24 10:45",
       "likes": "0",
-      "comments": "3",
+      "comments": "5",
       "content": "안녕하세요.\n클리앙에는 실력있는 분들이 많으신 걸로 알고 있어서 몇가지 여쭙고자 글을 남겨봅니다.\n현재 클로드코드pro를 사용중인데 이걸로 웹페이지를 만들려고 하니 생각보다 5시간 한도에 금방 도달하더라구요.\n그렇다고 맥스를 쓰자니 금액차이가 5배라서.. 혹시 클로드코드pro랑 비슷한 성능으로 쓸만한 것들을 찾아보고 있는데요.\n(pro와 max 중간 요금제가 없는게 아쉽네요...)\n찾아보니 코덱스, 제미나이 정도인 것 같은데 혹시 2개다 써보시면서 가장 만족하셨던 프로그램이 어떤지 알 수 있을까요?\n첫 제작은 제가 실제 직원들이 사용할 수준으로 만들고 나서 그 이후에도 제가 관리를 하거나 혹은 개발자에게 맡겨서 유지보수 및 고도화 작업을 하려고 생각하고 있습니다. (저는 개발자와는 전혀 연관없는 직무라 제가 관리한다고 해도 클로드코드로 '어디가 문제가 있는지 찾아주고 해결해줘' 정도일 듯 합니다)\n지금 클로드코드로 작업하는걸 보니 node.js? 라 서버에 올리려면 또 뭔가 변환작업이 필요하다는데.. 클로드코드에서 작업한걸 언어를 가장 안전한? 그러면서 개발자들이 작업하기 수월한 언어로 통째로 바꿔달라는 요구도 가능한지도 모르겠네요.\n글을 쓰다보니 두서가 없지만\n요약하자면\n1) 웹상에서 돌아가는\n2) 직원들만 사용하는\n3) 추후 개발자와 협업? 혹은 유지보수 및 고도하 작업이 수월한\n회원관리프로그램을 만들 때 어떤 툴이 가장 좋을지 고견을 여쭙니다.\n감사합니다.",
       "images": []
     },
@@ -196,21 +216,6 @@
       "comments": "",
       "content": "더버지가 한국시간 11월 23일, 바인딩 오브 아이작: 리펜턴스 플러스의 일부 구간에 쓰인 AI 음악이 제거됐다고 보도했습니다. 이용자가 음악 파일의 Suno 메타데이터를 발견했고, 수노 사이트의 곡과 연결되는 것을 확인했다고 합니다.\n제작자 에드먼드 맥밀런은 사용 사실을 몰랐다며 사과했고, 개발사 니칼리스는 업데이트로 해당 음악 파일을 제거했다고 밝혔습니다. 기사에서는 스팀의 생성형 AI 사용 공개 요건도 짚었습니다. 다만 누가 어떤 경위로 넣었는지까지 단정할 내용은 아니네요.\n개발하는 입장에서는 외부에서 받은 음원도 결과물만 들어보고 끝낼 일이 아니라는 생각이 듭니다. 파일별 제작 경위와 AI 사용 여부를 함께 남겨야, 나중에 교체하거나 이용자에게 설명할 때도 근거가 있겠네요.\n원문:\nhttps://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
       "images": []
-    },
-    {
-      "id": "cm_ai_c9336a37986b",
-      "source": "클리앙 AI당",
-      "category": "화제·뉴스",
-      "title": "<찬물 끼얹는 소리 : 도대체 AI가 한 일이 뭐길래?>",
-      "url": "https://www.clien.net/service/board/cm_ai/19297188?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-23 10:55",
-      "likes": "1",
-      "comments": "5",
-      "content": "<찬물 끼얹는 소리 : 도대체 AI가 한 일이 뭐길래?>\n요즘 여기저기서 AI를 도입했다는 이야기가 넘쳐납니다. AI를 이용해 업무처리 시간을 절반으로 줄였다거나, AI로 고객관리를 자동화했다거나, AI 덕분에 생산성이 몇 배 높아졌다는 식입니다. 물론 좋은 일입니다. 그런데 그런 이야기를 들을 때마다 저는 한 가지 의문이 생깁니다. 도대체 그 가운데 AI가 한 일은 무엇인가 입니다.\n솔직히 말해서... AX 컨설팅 한답시고 가방 메고 다니는 주제에 이런 말 하기가 좀 거시기 하긴 하지만, 그래도 할 말은 해야죠...\n예를 들어봅니다. 어떤 회사가 AI를 이용해서 고객 10만 명에게 상품을 소개하고, 고객들의 반응을 분석하여 판매실적을 높였다고 합시다. 그런데 고객 10만 명에게 메시지를 보내는 것은 AI가 등장하기 훨씬 전부터 가능했던 일입니다. 고객을 몇 개의 집단으로 나누고, 집단별 반응률을 추정하고, 구매 가능성을 예측하는 것도 오래된 통계학과 전산기술로 충분히 할 수 있었습니다. 로지스틱 회귀분석(Logistic Regression) 같은 것은 제가 SAS를 쓰던 시절에도 허구헌날 사용하던 기법입니다.\n사람마다 반응할 확률이 다르다는 문제도 마찬가지입니다. 가령 1,000명에게 제안을 했을 때 어떤 사람의 응답확률은 5%, 어떤 사람은 2%, 어떤 사람은 0.5%라고 합시다. 이런 경우에는 포아송 이항분포(Poisson Binomial Distribution) 같은 확률모형으로 전체 응답자 수의 분포를 계산할 수 있습니다. 거기에 AI가 반드시 필요한 것은 아닙니다. 그다지 대단하지 않은 사양의 컴퓨터가 가진 계산능력과 기존 통계학만으로도 충분합니다. 통계학도 그렇게 대단한 통계학 수준도 아닙니다.\n물론 생성형 AI라면 고객이 보내온 자유로운 문장을 이해하고, 상황에 맞는 답변을 작성하는 데 기여할 수 있을 것입니다. 하지만 그 경우에도 고객정보를 조회하거나, 메시지를 발송하거나, 결과를 집계하는 부분까지 전부 AI의 성과라고 할 수는 없습니다. 하나의 업무 프로세스에는 데이터베이스, 일반적인 전산화, 규칙 기반 자동화, 통계모형, 그리고 AI가 함께 들어갈 수 있습니다. 그런데 우리는 이 모든 것을 뭉뚱그려 'AI를 도입했다'고 말하는 경우가 많습니다.\n그래서 저는 여기서 Incremental Gain이라는 개념을 사용해 보고 싶습니다. 기존 기술을 이용했을 때와 비교하여 AI를 추가함으로써 얻은 성과의 증가분이라는 뜻입니다. Incremental Gain 자체는 새로운 통계학 이론의 이름이 아닙니다. 다만 AI의 기여를 측정할 때 적용해 볼 만한 개념입니다.\n가령 어떤 업무에 AI를 도입했더니 처리시간이 50% 줄었다고 합시다. 그런데 똑같은 업무를 기존의 전산화와 자동화 기술로 개선했더라도 45%는 줄일 수 있었다면 어떨까요? AI를 적용한 전체 시스템의 성과는 50%이지만, 그중 AI를 추가함으로써 얻은 성과는 5%포인트입니다. 물론 동일한 조건에서 비교했다는 전제가 필요하고, 품질이나 오류율, 유지비용도 함께 따져야 합니다.\n조금 더 엄밀하게 말하면 일종의 반사실적 비교(Counterfactual Comparison)입니다. AI를 도입하지 않았더라면 어떻게 되었을까를 묻는 것입니다. 그런데 여기서 비교 대상은 아무런 개선도 하지 않은 기존의 수작업이 아닙니다. AI 없이도 적용할 수 있는 가장 적절한 대안기술이어야 합니다. 그렇지 않으면 일반적인 전산화로 얻을 수 있었던 성과까지 AI의 공로로 계산하게 됩니다.\n이것은 AI의 기여를 과소평가하자는 이야기가 아닙니다. 오히려 정확하게 평가하자는 이야기입니다. 가령 AI가 기존 기술보다 처리시간을 5%포인트만 더 줄였더라도, 그 효과가 전국의 수많은 기관에서 반복된다면 엄청난 경제적 가치가 될 수 있습니다. 반대로 성과가 크게 개선되었더라도 AI가 추가한 부분은 거의 없고, 그 비용만 상당하다면 굳이 AI를 사용할 이유가 없을 수도 있습니다.\n한 가지 더 생각할 문제가 있습니다. 실제 업무에서는 기술들이 서로 결합해 작동하기 때문에 각 기술의 기여도를 깔끔하게 분리하기 어려울 때가 많습니다. 이럴 때는 AI가 포함된 시스템과 포함되지 않은 시스템을 비교하거나, 여러 기술 조합의 성과를 따져보는 방법도 사용할 수 있습니다. 게임이론의 샤플리 값(Shapley Value)이나 통계적 인과추론(Causal Inference) 같은 방법론이 여기서 검토할 만한 도구입니다. 다만 이런 분석도 비교조건과 자료가 잘못되면 엉뚱한 결과가 나옵니다.\n제가 이 문제에 관심을 갖는 이유는 요즘 AI라는 이름이 기술적인 설명을 넘어 일종의 상품명처럼 사용되기 때문입니다. 정부 지원사업에도 AI가 들어가고, 기업의 사업계획서에도 AI가 들어가고, 투자유치 설명자료에도 AI가 등장합니다. 실제로 AI를 사용했다면 거짓말은 아닐 것입니다. 그러나 AI를 사용했다는 사실과 AI가 그 업무에 필요했다는 사실은 전혀 다릅니다.\n저는 앞으로 AI를 도입했다는 사업계획서나 성과보고서를 보면 세 가지를 따져보고 싶습니다. 첫째, 그 업무에서 기존 기술만으로 가능한 것은 어디까지인가. 둘째, AI를 적용해서 추가로 개선된 것은 무엇인가. 셋째, 그 추가 성과를 얻기 위해 지불한 비용은 얼마인가.\n그렇게 해야 비로소 AI의 경제성을 논할 수 있을 것입니다. 어떤 시스템이 AI를 이용해 업무효율을 50% 높였다는 발표 자체는 별로 중요하지 않습니다. 기존 기술만으로도 49%를 높일 수 있었다면 AI의 Incremental Gain은 1%포인트에 불과할 수 있고, 반대로 기존 기술로는 도저히 해결하지 못했던 문제를 AI가 해결했다면 그 기여는 대단히 클 수도 있습니다.\n저는 AI가 앞으로 엄청난 변화를 만들어낼 것이라고 생각합니다. 그렇기 때문에 더욱, AI가 하지 않은 일까지 AI의 공로로 돌려서는 안 된다고 봅니다.\n그래서...\nAI를 도입해서 무엇이 좋아졌느냐고 묻기 전에, AI가 없었더라도 어디까지 할 수 있었는지부터 먼저 물어야 하지 않을까...\n라는 생각을 가끔 하게 되더라구요...",
-      "images": [
-        "https://edgio.clien.net/F01/2026/11/15869324/17e3cb232a2b7.png?scale=width:740"
-      ]
     },
     {
       "id": "news_75691f1f8e03",
@@ -369,6 +374,136 @@
       "comments": "",
       "content": "",
       "images": []
+    },
+    {
+      "id": "thesingularity_19bb2574bdb8",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "개씹창났다는 물리학계",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556836&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ(192.249)",
+      "time": "2026-11-24 15:11:47",
+      "likes": "24",
+      "comments": "22",
+      "content": "ㅇㄱㅈㅉㅇㅇ?",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee4e2888cfc2cd735c55b5c6f51319cbaf47d2b36d55a564b0a25caa4aeda0f075d695"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_04b5df6d87ca",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "미카미 신지 \"AI가 완전히 사라졌으면 좋겠다\"",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556808&exception_mode=recommend&page=1",
+      "author": "회색",
+      "time": "2026-11-24 14:54:59",
+      "likes": "17",
+      "comments": "22",
+      "content": "https://www.ithome.com/1/031/204.htm\nInven Global의 보도에 따르면, 두 사람의 토론은 주로 2027년 이후 게임 개발 산업에 어떤 변화가 일어날 것인지를 중심으로 진행됐습니다.\n주목할 점은 김형태가 앞서 Shift Up이 AI를 활용해 제작한 스텔라 블레이드: 블러드 레인(Stellar Blade: Blood Rain) 뮤직비디오가 전부 AI로 생성됐다는 이유로 받은 비판에 대해서도 정면으로 답했다는 것입니다. 올해 7월 말 해당 영상이 공개된 이후 플레이어들 사이에서 논란이 일었으며, 일부 스텔라 블레이드 팬들은 보이콧에 나서기도 했습니다.\n김형태는 이러한 논란을 계기로 스튜디오가 처음부터 끝까지 '수작업'을 고수한다는 새로운 창작 철학을 확립했다고 밝혔습니다.\n다만 IT Home에 따르면, 이것이 Shift Up이 AI를 완전히 포기한다는 의미는 아닙니다. 김형태는 스튜디오가 조명 효과 제작이나 로우 폴리곤 3D 모델 생성 등 일부 개발 과정에서는 여전히 AI를 활용할 계획이라고 설명했습니다. 하지만 프로젝트 개발 초기부터 AI에 지나치게 의존하면 최종 결과물이 일반적인 AI 이용자도 만들 수 있는 콘텐츠와 뚜렷한 차이를 보이지 않게 될 것이라고 판단했습니다.\n그럼에도 김형태는 “오늘날에는 AI를 사용하지 않고 게임을 개발하기가 이미 어려워졌습니다”라고 말했습니다.\n이에 대해 미카미 신지는 완전히 다른 견해를 보였습니다.\n미카미 신지는 현재 Unbound에서도 AI 활용을 시험하고 있다고 밝혔습니다. 주로 손으로 그린 2D 모델을 3D 모델로 변환했을 때 어떤 모습이 될지 미리 확인하는 용도입니다. 하지만 동시에 AI에 대한 거부감도 숨기지 않았습니다. 그는 AI가 게임 개발 분야에서 사라지는 것을 넘어 “완전히 사라졌으면 좋겠다”고 말했으며, 나아가 “이 세상에서 사라졌으면 좋겠다”는 바람까지 드러냈습니다.\n미카미 신지는 AI가 향후 게임 개발자의 고용에 미칠 영향에 대해서도 비관적인 입장을 보였습니다.\n그는 앞으로 “5년 또는 10년”이 게임 스튜디오에 불확실성이 가득한 시기가 될 것이라고 전망했습니다. 또한 향후 10년 안에 게임 개발자들이 실제로 AI에 대체돼 일자리를 잃을 가능성이 있다는 점도 인정했습니다.\n미카미 신지의 우려에 대해 김형태는 AI 기술이 앞으로 아무리 빠르게 발전하더라도 Shift Up과 Unbound가 개발하는 게임은 본질적으로 수작업을 통한 창작을 계속 고수할 것이라고 답했습니다.",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e4daaa98f10e7451d4ae6a8ad6fffabfee22bf98909fe8cd7ff16af957b91f6ddb61929ba6811b2ad35c"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_06c87356db53",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "성과는 다 ai가내고 그내용 이해도못하면서  깝치는게",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556795&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-24 14:45:49",
+      "likes": "24",
+      "comments": "4",
+      "content": "얘 걍 리만 냥이아님?",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee452a6a2d372400af5252c0da95f939f94a2fa7fc5dd95edb8bd85616b8e1a0e7da"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_bb000f106a85",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "수학이 털린 이유 카이스트 설문조사",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556725&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ(192.249)",
+      "time": "2026-11-24 14:12:08",
+      "likes": "25",
+      "comments": "23",
+      "content": "",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee462ab8f12ffc4f33ba19bb8ad18be25117cdfe92e086fab088862000bd54b5ed9341"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_b28e4282e3b3",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "알푀게 리만가설 트롤링 요약",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556724&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ(221.152)",
+      "time": "2026-11-24 14:12:07",
+      "likes": "20",
+      "comments": "9",
+      "content": "제일 잘 요약함",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e4daaa98f10e7451d4ae6a8ad6fffabfee22d2f69698ebcc7af26ff350d423372aec92aa93c767bdee529e"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_e8d592592592",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "상온 초전도체가 온다..",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556652&exception_mode=recommend&page=1",
+      "author": "행복한천국으로",
+      "time": "2026-11-24 13:45:14",
+      "likes": "29",
+      "comments": "50",
+      "content": "링크: https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee41275735eb8f26c814eefb0e7fa438d22a018bdc6bbfcc7b15a836ff76db3f10b30f",
+        "https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658ee2d7765cbd2f953b46a6d33fe0fbc02554cec8e4a037ac77e5a0c870579cbb0bc2e9d0876b78e425c3047e42baab88837d5f7d2f741fb",
+        "https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658ee2d7765cbd2f953b46a6d33fe0fbc02554cec8e4a037ac77e5a0c870579cbb0bc2e9d0876b78e425c3047e42baab88837d5f8454aa3ad"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_57467e161b55",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "속보)젠슨황, 이사회에 추가 불륜 사실 고백",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556635&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-24 13:36:23",
+      "likes": "34",
+      "comments": "50",
+      "content": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961\n안 되겠다..\n그냥 젠슨황 형님 침실에 매일 밤 여자 백명씩 불러다 넣어드리자..\n주지육림 느끼며 ai 풀가속에 힘써주셔서 빨리 agi 달성하기를..",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23898c63d8cf70a771bfba3f96b3c3b9d510783be5ccd6431ef880f0f2503131d6d538af98612fa925eb159cbdb8d35f8746e8c519bf4433f5d"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_d02363cb0352",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "슬슬 리만 가설 알빠노면 개추",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556632&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-24 13:34:41",
+      "likes": "42",
+      "comments": "33",
+      "content": "당장 몇달만 더 있어도 밀레니엄 지혼자서 죄다 껌으로 풀어버릴 모델 나올텐데\n이제 슬슬 다 즐긴 것 같아서 알푀게니 증명 검증이니 질리면 개추",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23c94cb3388fc0b7114f8a3f83b3fa47802a3605ab626d2a553690b1313d3d8c8a427cfa44967bfb1d96e5ee6b1b956a1307e13bb72fcf70bd68f12f649d74907a15a87aef8"
+      ],
+      "is_cross_hot": false
     },
     {
       "id": "thesingularity_502a3b66924f",
@@ -1454,139 +1589,6 @@
       "images": [
         "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb7a2ade853f95929b9400a09b253e16ff2f43901a3e8897e24cf331cb0cb267c284a40ea7596db5e9960a0000496ff1fa8403489e48a01e6d",
         "https://opengraph.githubassets.com/ba55657b0bc5053dda20f1be90521536227193a8813e1c1e17c58f56d946f14f/php/php-src/security/advisories/GHSA-f6gg-rchx-xw8j"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_a0dffef0aa8c",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "리만 가설 검증 현황",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547337&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-21 11:16:42",
-      "likes": "38",
-      "comments": "79",
-      "content": "린 체커 컴파일\n성공\n다른 검증기 (nanoda, con-leche) 로 이중 교차검증 도\n성공\n확인된 보상해킹\n없음\n누락 된 모듈\n없음\n증명됬다고 기정사실화 해도 됨\nㅊㅋ함\n리만가설 증명 됨",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc6175bb6d32287d9cf13d747033b68ea0beac47b5d21f23076bef95656",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc6175bb6d32281dac417d4410f3366e00bbc1352d7e84734a5a0489978"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_cc93fef23940",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "뭔 리만가설 가지고 호들갑이지 ㄹㅇ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547295&exception_mode=recommend&page=1",
-      "author": "몬스터제로",
-      "time": "2026-11-21 11:03:04",
-      "likes": "24",
-      "comments": "21",
-      "content": "앞으로 매년 항노화 휴머노이드 암정복 역노화 초전도체 핵융합 나올텐데",
-      "images": [
-        "https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b65fe8266eadc328cfdea5b74810026b505984e855629061810d4d06195f505e32f50a01ebde91189efb0e50e5846c72"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_1c4920ee3bdd",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "리만 가설은 오류가 없고, 매우 인간적인 증명이다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547287&exception_mode=recommend&page=1",
-      "author": "행복한천국으로",
-      "time": "2026-11-21 11:00:14",
-      "likes": "22",
-      "comments": "24",
-      "content": "GPT..보다는 이해하기 쉬운 듯 하네요",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb3a76d7808ea49b50495ffb9cecd3224b3a0b1485390c8b802e37acdaa4d7ea800947",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb3c7ecefebaa48e8a3463d2b1316cf7dbf271f73117d39e2861de837e3b037e3e40fe",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb3f76ae4cb4dcd7d38ab6dfc2801dddb3e33313d8d0378c502ae22f60c2aedd828f41"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_ec285adbd0eb",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "리만가설 증명 수학자들 검증 근황",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547255&exception_mode=recommend&page=1",
-      "author": "한대남가리뚝스딱스",
-      "time": "2026-11-21 10:48:44",
-      "likes": "11",
-      "comments": "7",
-      "content": "",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb7a2ade85309495949400a595243816a27c13ae7bffabad5c2375370ba851f0158e6096db7981e170a84ef1e222127b4d4ea16b8bc9c1a547d3c8010b08ef1ba0a6c8d055f985"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_aaef2e92da01",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "6.2 astra 10시간째 검증중 근데..png",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547252&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-21 10:47:59",
-      "likes": "34",
-      "comments": "6",
-      "content": "방금 뱉은말인데\n진짜맞는거같다함\n인간이 12년간 연구한건 8분컷내던놈이",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb3a78ec76a3749701d38630bd14661cb358e636751a2ef0f0c0da504b34acdf159128ab348ebca6012d80825b0ccf35fc9a4175224da3744fe8e565e8fe051b51d7a6c5d42208a839b09ea9"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_2cf1a274c708",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "(속보) 핵겨울이다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547208&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-21 10:35:54",
-      "likes": "56",
-      "comments": "28",
-      "content": "",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb3a77251f6a027f0c389b764a9ba4be8a4f2b070367497a04add551fe3d022086ce"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_84c98788c242",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "제3자가 리만가설 Lean 컴파일 성공",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1546346&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-21 03:08:16",
-      "likes": "21",
-      "comments": "7",
-      "content": "https://leanprover.zulipchat.com/#narrow/channel/113488-general/near/642277830\nPublic view of Lean | Zulip team chat\nBrowse the publicly accessible channels in Lean without logging in.\nleanprover.zulipchat.com\n다 큰 낙 타",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb357bb425e76cbfd9e1b264b870585c48edbf183da2536c37af3085e1ed60037fefca29ab4e4a3a30a098da59cd84aabc88fff8363cb145249e2d4b42e78e4a851526de7873a0dac6500e",
-        "https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658ee21700cf99eb98410262d25ba54c14252f0de4c4c04eecde572286242501380c92841ec4b569b2fdba29c8bafa8e558d43353071e852c59",
-        "https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658ee21700cf99eb98410262d25ba54c14252f0de4c4c04eecde572286242501380c92841ec4b569b2fdba29c8bafa8e558d43353031e852c59"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_0600636d512f",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "씨발 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1546304&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-21 02:57:05",
-      "likes": "21",
-      "comments": "20",
-      "content": "내 생에 리만 가설에 파란불 들어오는걸 보네 ㅋㅋㅋㅋㅋ",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc6175bb6be4881dbc814d7450634648d67bccf0571e5d202fa068b9b"
       ],
       "is_cross_hot": false
     }
