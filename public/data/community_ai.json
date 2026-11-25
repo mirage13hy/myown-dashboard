@@ -1,143 +1,157 @@
 {
-  "updated_at": "2026-11-25 03:27",
+  "updated_at": "2026-11-25 13:40",
   "source_status": {
     "디시 특이점이온다": "ok (8)",
     "에펨코리아 AI": "error: HTTPStatusError",
     "에펨코리아 디지털(AI)": "error: HTTPStatusError",
     "클리앙 AI당": "ok (6)",
     "클리앙 새소식(AI)": "ok (6)",
-    "루리웹 IT·AI": "cached (6, ConnectTimeout)",
+    "루리웹 IT·AI": "ok (3)",
     "뽐뿌 AI": "ok (0)"
   },
   "posts": [
     {
-      "id": "thesingularity_a6109537ced7",
+      "id": "thesingularity_ab510857920c",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "2027년, 전 세계를 뒤흔들 로봇 혁명이 온다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1558037&exception_mode=recommend&page=1",
-      "author": "6974콜맨",
-      "time": "2026-11-25 00:22:31",
-      "likes": "24",
-      "comments": "22",
-      "content": "https://x.com/gdb/status/2125115240690201049\n▶ 로봇 지능 평가기관 Playground에 따르면 AI의 로봇 제어 능력이 기존의 지수적 성장 추세마저 뛰어넘으며 폭발적으로 발전하고 있음.\n▶ 지난 1년간 로봇 제어 능력의 상대적 지표는 2.4배 상승했지만, 최근 3개월 동안에는 무려 9배 이상 상승함. 기존에는 5개월마다 2배씩 발전하던 지표가 이제 5주마다 2배씩 상승하는 수준임.\n▶ GPT-6.2 Astra는 로봇 지능 종합평가에서 2,051점으로 1위를 차지했으며, 기존 2년간의 지수적 성장 추세를 약 5배 웃도는 성과를 기록함.\n▶ 실제 로봇 및 공간지각 평가에서도 잇따라 최고 기록을 경신함.\n- RoboColosseum: 실제 로봇 제어 평가 1위, 1,984점 기록.\n- RoboDojo: 실제 로봇 120회 실험에서 작업 진행률 점수 97% 기록.\n- Blueprint-Bench 2: 사진으로 공간 구조를 파악하는 평가에서 인간 기준을 넘어 1위 달성.\n▶ 무엇보다 주목할 점은 로봇 전용으로 개발된 AI들을 범용 AI가 추월하기 시작했다는 것임. OpenAI 공동창업자 그렉 브록먼도 이를 두고 \"로봇 제어 기술이 르네상스를 맞이하고 있다\"고 평가함.\n한 줄 요약: AI가 로봇을 다루는 능력마저 지수적으로 발전하기 시작했으며, 최근의 성장세가 2027년까지 이어진다면 인간의 육체노동을 대체할 기술적 기반이 예상보다 훨씬 빠르게 완성될 수 있음.\n출처\nPlayground – The Robot Frontier Is Accelerating\nRobot Intelligence Index\nAndon Labs – Blueprint-Bench 2\nRobocurve 공식 X",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9750556324f99d85dc922499132698229df5970d0541236739caef118a379374c10f0ae68d777c401087ed26"
-      ]
-    },
-    {
-      "id": "thesingularity_b6966138a2a5",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "로그 퍼플렉서티 0으로 향하는 거대한 흐름 알았다....",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557963&exception_mode=recommend&page=1",
-      "author": "초존도초",
-      "time": "2026-11-24 23:45:15",
-      "likes": "30",
-      "comments": "31",
-      "content": "https://x.com/chetaslua/status/2122750991590477973?a=H05h5u8_q6radnEAJCc&s=20\n다들 아스트라든 페이블이든 이게 단순한 text 출력 모델이라는 사실을 잊곤 하는 거 같은데\n얘네가 지금까지도 내뱉는 건 그냥 ㄹㅇ로 '순차적인 문자'뿐이라는 거임..\n순차적으로 알파벳을 출력하는데 저렇게 마치 공간을 이해하고 형태를 이해하고 상황과 맥락, 컴포지션을 이해하고 시간을 이해하고\n인간이 그림을 그리듯이 SVG로 그림을 만들고\n인간이 3D 모델링을 하고 애니메이션을 만들듯이 정밀한 현실의 물체와도 같은 오브젝트를 만들고 시간에 따른 논리적이고 물리적인 애니메이션도 구현하고\n장면 장면의 이미지를 입력 받는 것만으로도 다음에 와야 할 장면 장면의 이미지를 추론하고 그대로 행동함 (로보틱스, 프레임 맥락 이해 벤치 등)\n6.2 아스트라는 퍼거임. 언어 이해나 구사 능력이 처참해 사용자를 종종 짜증나게 함에도 불구하고 STEM 분야에서 엄청난 성능을 발휘함\n0.75 되니 수학의 정상급에 도달했음. 밀레니엄 문제마저 해결하는 창발성을 보여줘버림\n여기서 가장 주목하고 놀라워해야 하는 부분은 바로 이거임\n우리 인간 입장에서 소통하기가 굉장히 까다로운 자폐성을 갖고 있음에도 불구하고 로보틱스 벤치 결과들(한둘이 아님)을 보면 독립적으로 엄청난 도약을 보여주고 있다는 점\n즉, '인간처럼' 상황을 이해하고 '인간처럼' 행동하는 수준에 크게 도달해 버렸다는 거임\n아스트라만 그런가? 전혀 아님 이번에 네온 벤치 보면 거기서도 로보틱스와 사진으로 맥락 이해 벤치 큰 도약이 일어났었음\n페이블5.2야 클로드 모델치고 로보틱스 도약 일어났다는 하입 그 시작이었고\n이 언어모델들, LLM들이 하는 일들은 단 한 가지임\n학습 때 우리가 원하는 다음 단어(정확히는 토큰) 예측을 얼마나 잘 하는가\n그래서 우리는 그 오차를 줄이는 방향으로 가중치를 조정하고\n로그 퍼플렉서티는 그 오차임\n한마디로 LLM이 다음 단어를, 다음 단어로 어떤 단어가 들어가야 하는지 예측해서 그걸 택해(샘플링해) 출력하는 거\n그렇기 때문에 기본적으로 아스트라건 페이블이건 네온이건 다를 게 없음. 출력 단에서 이행 되는 건 모두 동일하게 토큰, 문자\n그렇기 때문에 요번에 오픈AI에서 제안한\n이 로그 퍼플렉서티가 언어 모델 성능의 주\n아주 주요 지표가 되는 건 타당하다 볼 수 있겠음\n토크나이저에 따라 혹은 뭐 우리가 모르는 뭐 어떤 함수, 아키텍처 등 기타 변수에 따라 일정 부분 제각기 달라질 수도 있을지언정\n이게 감소함에 있어서 다음 토큰 예측을 더 잘해지고\n그에 따라 언어 모델이 갖는 능력들이 큼지막한 것들은 대체로 비슷한 순서대로 창발 될 수 있는 게 아닐지...? 하는 생각도 해볼 수 있겠음.\n그리고 지금 보면 이 언어모델들\n클로드, 지피티, 제미나이들이 향하고 있는 거대한 방향성이\n월드모델이라는 것이\n지금 단계에서 서서히 확실해지는 느낌을 받지 않을 수가 없음 개인적으로...\n스케일링 법칙이 굳건해서 저 로그 퍼플렉시티를 계속 감소시킬 수만 있다면\n얀르쿤 없이도 월드모델에 도달해버리는 게 아닌지.\n추론이나 토큰 출력 속도, 지연 등에 대한 건 일단 공학적인 문제고,\n트랜스포머 어텐션 매커니즘만으로도 월드모델이 가능해질 수 있다는 것\n그게 정말 가능해질 수 있다는 것이\n그게 사실이 돼 버릴지도 모른다는 점이\n다시 곱씹어보고 소름 돋아야 할지도 모른다는 생각이 들었음\n요약:\n1. 짚, 클, 젬 모두 문자 출력할 뿐인 언어 모델이다.\n2. 모두 근간은 어텐션 매커니즘에 기반한다.\n3. 로그 퍼플렉서티가 감소함에 따라 창발 되는 능력들을 종합해 보니 결국 월드 모델인 것 같다.\n4. 얀르쿤 없이도 월드모델, 재귀개선, 초지능 가능할지도 모른다.\n- 2026 AGI",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23a9dc5328df6097c1bfca3a9686d1e43e36f8961ed13df088c8f6dda9152f932e5288463261d1d",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23495c3358ffe087219fba3a83f3e7ca2d67acfce11e198d6a4759b84296f08d4b927ab5dce382fc2588e404ad6994d311b4b775d561857d15f77",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5b9f5298c2318aff0a7c18f8c4946b3c163e55dfe1f925635fd5e643d23e2a579aed8b429ed8c820cf578a27ba517dda8bda78acccc1c083c669e0ae2d",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5b9f529fc73d8bfa027d14fecc946a6fd81b788e92c8c1d7fa3375bdc2c4cd3529eba57a21b2b145320e34f0dee816dad258d9e382649ca70b7d1ae1e9"
-      ]
-    },
-    {
-      "id": "thesingularity_3a1c42f1dec2",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "진짜 꼬였다는 소리들어도 할말은 없는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557942&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ(221.138)",
-      "time": "2026-11-24 23:36:03",
-      "likes": "54",
-      "comments": "41",
-      "content": "완몰가는 진짜가 아니잖아 라는 이유로 거른다는애들은\n이쪽의 삶이 차라리 구라였으면 좋겠다고 생각할 만큼 불행해본적 없나 싶어서 부러움",
+      "title": "MIT교수: 앤트로픽 직원들이 공공연하게 세계 장악 이야기함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1559175&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-25 13:17:56",
+      "likes": "14",
+      "comments": "62",
+      "content": "미국의 인공지능 기업 앤스로픽(Anthropic) 직원들이 \"미국 정부를 전복하겠다\"고 \"세계를 장악하겠다\"고 공개적으로 이야기하고 있다고 한 세계적으로 유명한 물리학자가 주장했다.\n노바라 미디어와의 인터뷰에서 매사추세츠 공과대학교(MIT) 교수 맥스 테그마크는 \"앤스로픽에서 일하는 사람들과 이야기할 때, 그들이 술을 몇 잔 마신 후 대화는 종종 미국 정부를 전복하고 세계를 장악하는 이야기로 흘러갑니다.\"라고 말했다.\n\"그들은 대체로 '쿠데타'나 '미국 정부를 전복하라' 같은 단어를 사용하지 않는다. 대신 '\n통제 없는 정렬\n'이라는 암호구를 사용합니다.\"라고 그는 말했다.\n'\n통제 없는 정렬\n'은\nAI가 인간에 의해 직접 통제되기보다는\n특정 가치—아마도 Anthropic이 공유하는 가치—를 심어주어 통제해야 한다는 생각\n이다.\n\"우리는 앨런 튜링이 예견한 그런 미래를 얻게 되죠. 인간의 기계 신이 지구를 지배하는 그런 미래를 보게 되고, 나머지 우리는 그저 어떻게든 그게 좋을 거라고 바랄 수밖에 없죠.\"\n컴퓨터 과학의 창시자로 널리 인정받는 튜링은 1951년에 기계가 생각하기 시작하면 기계가 통제권을 잡을 것이라고 경고한 것으로 유명합니다.\n테그마크는 Anthropic 직원들의 발언이 민-주주의에 관심 있는 누구에게나 경각심을 불러일으켜야 한다고 말했다. \"이 회사들은 정말로 민-주주의를 좋아하지 않는 것 같아요. 그들은 정부가 실질적인 감독을 받는 것조차 막기 위해 매우 강력하게 로비를 벌였다\"고 그는 말했다.\n그는 덧붙였다: \"여기 미국에서는 OpenAI와 Anthropic이 샌드위치 가게보다 덜 규제되어 있다.\"\n________________\n얘내 교황청 썰도 그렇고... ㄹㅇ 좀 꼬롬한데.....",
       "images": []
     },
     {
-      "id": "thesingularity_9fadce3612ca",
+      "id": "thesingularity_e5631f58da46",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "머스크) 테렌스 타오는 고기컴퓨터고, 수학에 형편없다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557908&exception_mode=recommend&page=1",
+      "title": "념글툰) 디토충 논리",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1559115&exception_mode=recommend&page=1",
       "author": "ㅇㅇ",
-      "time": "2026-11-24 23:17:33",
-      "likes": "33",
-      "comments": "33",
-      "content": "https://x.com/elonmusk/status/2125182397918416965?a=Bb4A6spoIRkCM2WRK4A&s=20",
+      "time": "2026-11-25 12:58:46",
+      "likes": "16",
+      "comments": "17",
+      "content": "원글\n제 사견은 들어가지 않았습니다. 원고는 제미나이 네온 딸깍했습니다. 젬황이 귀여워서 올립니다",
       "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?no=29bcc427b69d39b37ab0ccaf17dd6b6f62b51891c4c7132e1f5fd3cb93bf34c090ca4b5ef41a900ad9799870d193473de9e116e4512b1430e7f5b3",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e4daaa98f10e7451d4ae6a8ad6fffabfee22bf9c979be4c07ef76df250b94e38c581ba0811ebcea287f6",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e4daaa98f10e7451d4ae6a8ad6fffabfee22bf9e969dedc978f76cf257b94d69c79b5a5b86320682d684"
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9750556324f99d85dc922499132698229df5970d054228633cc3e315873f9674c50dea3f2f4cdb95ab935525",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9750556324f99d85dc922499132698229df5970d05402e613dcfe5178a359074940ec2e5bea296a7a36043ba",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9750556324f99d85dc922499132698229df5970d0544226f3dcfe115843f9574c1047fcbbb5c68c2ea079798"
       ]
     },
     {
-      "id": "thesingularity_b79ee045ad88",
+      "id": "thesingularity_554084f1df83",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "AI 암 정복에 찬물 끼얹은 앤트로픽 이사의 정체",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557849&exception_mode=recommend&page=1",
+      "title": "배경훈 \"AI 자기 개선 눈앞에 온 것 같다.. 대비 촉구\"",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1558977&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-25 12:13:25",
+      "likes": "11",
+      "comments": "18",
+      "content": "배경훈 부총리 \"AI 자기학습 시대 눈앞…기술 경쟁 넘어 사회적 대비 서둘러야\"",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9750556324f99d85dc922499132698229df5970d6828236f34cbe017813e9019a904dbd963ccf9a7dd1b455f7c"
+      ]
+    },
+    {
+      "id": "thesingularity_e1b4842240ea",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "디토충 논리",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1558876&exception_mode=recommend&page=1",
       "author": "6974콜맨",
-      "time": "2026-11-24 22:54:25",
-      "likes": "27",
-      "comments": "27",
-      "content": "▶ 바스 나라심한은 세계적인 제약사\n노바티스의 CEO이자 신약 개발 전문가임.\n▶ 2026년 4월 앤트로픽 이사회에 합류함. 다리오 아모데이가 아닌\n독립 감독기구 장기공익신탁(LTBT)이 선임했음.\n▶ 최근 AI가 5~10년 안에\n암을 정복할 가능성을 부정\n하며, 신약 개발 기간을 4년 줄이는 데도 10년이 필요하다고 주장함.\n▶ 그런데 노바티스는\n150PB(15만 TB) 이상의 연구 데이터를 보유한 기업\n임. AI 신약 개발에 막대한 가치를 지닌 자산임.\n▶ 나라심한은 AI가 경쟁사의 추격을 가속할 수 있다며 실제로 일부\n연구 성과의 공개를 늦췄다\n고 밝힘.\n▶ 또한 현재까지 앤트로픽에 노바티스의 핵심\n연구 데이터를 제공했다는 공개 기록은 확인되지 않음.\n◆ 핵심은 이거임.\n앤트로픽 입장에서 거대 제약사의 데이터와 전문성을 확보하는 건 엄청난 이득임.\n데이터 확보가 영입 목적 중 하나였을 가능성도 있음.\n하지만 정작 이사회에 들어온 사람은 AI가 경쟁사의 추격을 가속할까 봐\n연구 성과 공개까지 늦추는 현직 제약사 CEO임.\nAI가 신약 개발을 혁신하면 기존 제약사의\n독점적 경쟁력도 흔들릴 수 있음.\n결국 AI 발전의 과실은 챙기면서, 정작 AI 발전에 필요한 자기 연구 데이터는 꽁꽁 감추고 있는 셈일 수도 있음.\n출처:\nhttps://www.aipostkorea.com/news/articleViewAmp.html?idxno=13371\nhttps://www.anthropic.com/news/narasimhan-board\nhttps://stockanalysis.com/quote/swx/NOVN/transcripts/796844-meet-novartis-management-2026-part-3/",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e4daaa98f10e7451d4ae6a8ad6fffabfee22d2f6949beacd7af66ff15dd0233bd734aa7981cd3f9b9bc08e"
-      ]
-    },
-    {
-      "id": "thesingularity_954f3afad542",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "오육푸스 vs 페이블5.2 vs 페이블5.5 svg",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557834&exception_mode=recommend&page=1",
-      "author": "초존도초",
-      "time": "2026-11-24 22:47:15",
-      "likes": "27",
-      "comments": "24",
-      "content": "https://x.com/legit_api/status/2125215156380557656?s=19\nㄷㄷ 오푸스 다음 버전 기대 되네\n- 2026 AGI",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23994c43c8ffe0c7d1efea3fc6d3485ba72d12c07cce31eccac52ef2c62aa9145f8254197733d08ef2b3d356e5d325422ec900970",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23e9ec33280fe097d1ff3a3fb6c393ff36eeeb774f46cd5adcdb39df9423566ba98f04dd8b6d0ec",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23899cb358dfe0f741fffa3f3643cd117f6fb426baffa53e6afc02394d3275a3cad2884a65fee99",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23a9bc43680ff037418fca3f83f3c3fe29aa5b932fd672a6d4f0ae56884e57a0e8a0b9af52d8982",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf2399ec23481ff0d701cffa3f26c3982c8134392b421a13de47f0e717adf08640ada29f5d1a6ac12a98777152d1bfc2d77db20daed",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23c95c3358ef80e7c14f9a3af383404d94552d783b404ea0db560a11b1f3a4db05bfb457fd9fd52"
-      ]
-    },
-    {
-      "id": "thesingularity_823ee5cb00e1",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "ㅅㅂ 나도 념글 보고 따라햇는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557822&exception_mode=recommend&page=1",
-      "author": "에브리",
-      "time": "2026-11-24 22:38:51",
-      "likes": "67",
-      "comments": "54",
-      "content": "얘 왜이럼",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf2349fc13180fa0f761cf9a3ff6e6e449b1e0117db6ab88a2065a62a1a9f20ed53e268f1b387cd8a4797a388a74081a2625a60cf5f73b70ae352fc1d3bc3b72b"
-      ]
-    },
-    {
-      "id": "thesingularity_69a3ffdcdcdc",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "p=np 참여중",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557785&exception_mode=recommend&page=1",
-      "author": "칸나오레",
-      "time": "2026-11-24 22:21:16",
-      "likes": "23",
+      "time": "2026-11-25 11:40:54",
+      "likes": "30",
       "comments": "20",
-      "content": "토큰 남아서 6.2sol로 해보는중\n만약 이 플젝이 해결하면\n내 지분도 0.1% 들어가니깐 기분조음\n- dc official App",
+      "content": "디토: 저 사람이 우리 모두를 다 죽일꺼야!\n특붕이:\n\"누가, 언제, 어디서, 무엇을, 어떻게, 왜\"\n육하원칙으로 논리정연하게 설명좀 해줄래?\n디토: 저 사람이 우리를 다 죽일껀데 그딴게 지금 중요해?\n특붕이: ????",
       "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23f95c63281fb0c7d15fea3af6a69ce77af9c1e87b669f0dff5adc7e87715a7db493c1e5bc580a63486746a4247fd77b2d92dc4cd0128e35117",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf2349bc0348bfc0b721afea3f96e3d81cb962b7b7dc97353f271f728bf528d08ffa00457e1245e2dbd186fc10d9cd49e7bcc669a6d556c2c9730f4"
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9750556324f99d85dc922499132698229df5970d682829623dc8e5148537941aa95f448db812829768440b0fc9"
       ]
+    },
+    {
+      "id": "thesingularity_d19cf828d296",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "리만가설 300페이지 분량으로 정리",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1558786&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-25 11:07:42",
+      "likes": "35",
+      "comments": "20",
+      "content": "https://github.com/jimjamzola/RH-Alpoge-Reconstruction/blob/main/manuscript/main.pdf\nRH-Alpoge-Reconstruction/manuscript/main.pdf at main · jimjamzola/RH-Alpoge-Reconstruction\nAn attempt to make the proof of the Riemann hypothesis human readable - jimjamzola/RH-Alpoge-Reconstruction\ngithub.com",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9750556324f99d85dc922499132698229df5970d68282e6439caef1280319d18a9588f1c8c1f529cdcbf45684e",
+        "https://opengraph.githubassets.com/699e0953cc31e41ad36a660da8e1b93f194887e09467d5ea355f92c0db6d7e74/jimjamzola/RH-Alpoge-Reconstruction"
+      ]
+    },
+    {
+      "id": "thesingularity_9765b2dea0ed",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "리만가설은 이제 ai 벤치가 됫네 ㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1558781&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ(221.152)",
+      "time": "2026-11-25 11:05:10",
+      "likes": "34",
+      "comments": "4",
+      "content": "인류 의 세기 문제에서\nai 벤치로 ㅋㅋㅋㅋ",
+      "images": []
+    },
+    {
+      "id": "thesingularity_02b12ecbfb33",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "OpenAI의 11월 24일 '수학 폭탄', 무엇이 나왔나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1558720&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-25 10:39:28",
+      "likes": "20",
+      "comments": "13",
+      "content": "이 글은 오푸스 5.5가 작성함.\nOpenAI의 11월 24일 '수학 폭탄',\n무엇이 나왔나\n2026.11.25 기준 · OpenAI 원고 9편 초록·서론 정리\n한 줄 요약: OpenAI가 하루에 원고 9편을 공개했습니다. 행렬 곱셈, 푸리에 변환, 대수 회로처럼 컴퓨터 과학의 대표적인 \"이보다 빨리는 못 한다\" 문제들을 한꺼번에 풀었다는 주장입니다. 하나만 맞아도 교과서가 바뀔 결과들입니다. 다만 아직 검증 전입니다.\n왜 이렇게 놀라운가\n계산 이론 연구에는 \"더 빠른 방법 찾기\"(상한)와 \"이보다 빠를 수는 없다는 증명\"(하한)이 있습니다. 앞쪽은 꾸준히 발전했지만 뒤쪽은 수십 년간 거의 제자리였고, \"하한 증명은 사실상 불가능하다\"는 말까지 있었습니다.\n이번 발표는 그 벽을 여러 곳에서 동시에 뚫었다고 주장합니다. 비결은 \"텐서 기하\"라는 새 도구 하나입니다.\n중요해 보이는 순서대로\n1. 행렬 곱셈의 진짜 한계는 9/4\n행렬 곱셈은 AI 계산의 핵심입니다. 계산량이 n의 몇 제곱이냐(지수)가 언젠가 2까지 내려갈 거라고 다들 믿어 왔는데, 2.25(=9/4)보다 빨리는 절대 못 한다고 증명했다는 주장입니다. 9/4까지 가는 방법은 9월에 이미 나와서, 위아래가 정확히 맞아떨어졌습니다. 오랜 통념을 뒤집는 결과라 가장 충격적입니다.\n2. VP ≠ VNP, 그 아래 단계까지 전부\nP ≠ NP의 대수학 버전으로, 1979년부터 열려 있던 문제입니다. \"쉽게 계산되는 다항식\"과 \"확인만 쉬운 다항식\"이 다르다는 걸 보였고, 더 약한 계산 모델들 사이의 차이도 전부 갈랐습니다. 같은 날 Anthropic도 독자적인 증명을 냈습니다.\n3. 푸리에 변환(FFT)의 진짜 비용\n음성, 영상, 통신 어디에나 쓰이는 FFT는 1965년 이후 표준 속도가 그대로였습니다. 이보다 더 빠르게 할 수 있고, 동시에 그 이상은 못 빨라진다는 한계도 증명했다고 주장합니다. 특히 한계 쪽은 1970년대부터 아무도 못 한 종류의 증명입니다.\n4. 선형계획법을 숫자 크기와 상관없이 빠르게\n\"제약 조건 안에서 최대 이익 찾기\" 같은 최적화의 기본 도구입니다. 지금 방법은 숫자가 길수록 느려지는데, 변수와 조건 개수만으로 속도가 정해지는 방법이 있느냐는 스메일의 21세기 난제(9번)였습니다. 그 답을 냈다고 주장합니다. 실용에 가장 가까운 결과입니다.\n5. 다항 Hirsch 추측 반증\n다면체의 꼭짓점 사이를 모서리로 걷는 거리는 \"적당히 짧을 것\"이라 믿어 왔는데, 엄청나게 먼 다면체가 있다는 걸 보였습니다. 꼭짓점을 따라가는 고전적 풀이법(단체법)으로는 4번을 원리상 이룰 수 없다는 뜻이라, 4번과 짝을 이룹니다.\n6. 해바라기 추측 증명\n집합을 충분히 모으면 반드시 \"해바라기\" 모양(모두 같은 중심만 공유)이 생기는데, 몇 개부터인지에 대한 1960년 에르되시–라도의 추측입니다. 꽃잎 수를 고정한 버전을 완전히 증명했다고 주장합니다.\n7. 큰 수 곱셈의 한계\n큰 정수끼리의 곱셈은 2019년 방법이 최선으로 여겨졌는데, 더 빠른 방법을 만들고, 널리 믿어지는 가정 하나 아래에서 그 이상은 못 빨라진다는 것까지 보였습니다. 3번을 부품으로 쓴 응용입니다.\n8. 숨은 주인공: 텐서의 유클리드 기하\n난제를 직접 푼 논문은 아니지만 위 결과 상당수를 움직이는 엔진입니다. 계산에 필요한 정보를 점들 사이의 \"전선\"으로 보고 그 비용을 평범한 거리로 잴 수 있다는 이론입니다. 위 결과들이 맞다면 장기적으로 가장 중요한 논문이 될 수 있습니다.\n믿어도 되나요?\n· 좋은 신호: 헤드라인 정리 대부분에 Lean(컴퓨터 증명 검증기) 코드가 함께 공개돼, 비교적 빨리 판가름이 날 수 있습니다.\n· 한계: 일부 정밀한 수치는 아직 Lean으로 확인되지 않았고, 행렬 곱셈도 Lean 쪽은 조금 더 좁은 계산 모델로 증명했습니다.\n· 주의: 여러 결과가 같은 엔진(8번)에 기대고 있어서, 흠이 하나만 있어도 함께 흔들릴 수 있습니다. OpenAI는 10월에 부호 오류 하나로 원고 3편을 함께 철회한 적도 있습니다.\n· 오랜 통념을 뒤집는 주장이 섞여 있어, 학계는 더 꼼꼼히 들여다볼 것입니다.\n사실로 확인된다면 계산 이론 역사에서 손꼽힐 하루입니다.\n────────\n원문 자료\n·\nOpenAI 변경 기록 (history.md)\n·\nOpenAI 원고 목록\n·\nLean 형식화 범위 문서\n각 원고의 초록·서론과 형식화 범위 문서를 바탕으로 한 해설이며, 증명 세부의 정확성을 판정한 것은 아닙니다. 중요도 순서는 문제의 역사적 무게와 파급력을 기준으로 한 주관적 판단입니다.",
+      "images": []
+    },
+    {
+      "id": "thesingularity_61b41c7b4408",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "(속보) OAI, 행렬곱셈 복잡도 하한증명",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1558718&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-25 10:38:56",
+      "likes": "33",
+      "comments": "21",
+      "content": "https://x.com/sioum/status/2125385817912930616?a=uUVpiUdOif920vlCRno&s=46\nhttps://github.com/openai/math/blob/92b516ef8e2abf66c3db7aa31438d3010bc7956f/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\n행렬곱셈 계산 복잡도의 상한은 과거에는 정석대로 O(n^3)인줄 알았음\n그걸 1969년 슈트라센이라는 학자가 상한을 O(n^2.807)로 줄였고\n이어서 O(n^(9/4))라고 지난달 OAI가 증명했는데\n여전히 하한은 수학계에서 2라는 잠정 결론, 즉 언젠간 O(n^2) < 복잡도 < O(n^(9/4))일거라는 합의가 있었고, 하한 증명은 시간문제라고 여겨졌음\n근데 몇시간전 OAI에서 하한도 O(n^(9/4))임을 밝혀서\n행렬계산 복잡도 문제를 완전종결지었음\n그냥 정확히 O(n^(9/4))임",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=29bcc427b69d39b37ab0ccaf17dd6b6f62b51891c4c7132c1e5fd1c891b23fc4e1ba817c7a12246429be81ba8fa240f6b984a362f4f8774f9610da"
+      ]
+    },
+    {
+      "id": "cm_ai_04ea20f17121",
+      "source": "클리앙 AI당",
+      "category": "화제·뉴스",
+      "title": "NYT, AI 표식 우려로 포토샵 사용 제한",
+      "url": "https://www.clien.net/service/board/cm_ai/19298326?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-25 13:03",
+      "likes": "0",
+      "comments": "",
+      "content": "뉴욕타임스가 자사 취재를 맡는 프리랜서 사진기자들에게 포토샵 2027 사용을 피하라고 요청했습니다. 한국 시간 25일 The Verge 보도이며, NYT 측도 해당 방침을 확인했습니다.\n사용자가 알아차리지 못한 AI 기능 때문에 사진에 AI 생성·편집 관련 메타데이터가 붙을 수 있다는 우려입니다. 제한 대상은 28.0.0과 이후 업데이트입니다. 다만 구체적으로 어떤 기능이 문제인지는 아직 명확하지 않다고 합니다.\n국내에서도 보도나 기록용 사진을 다룰 때 참고할 만한 사례네요. AI 기능의 편리함과 별개로, 어떤 편집을 했는지 설명할 수 있는 이력이 중요해지는 것 같습니다.\n원문:\nhttps://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "images": []
+    },
+    {
+      "id": "cm_ai_11ed129cd2c8",
+      "source": "클리앙 AI당",
+      "category": "화제·뉴스",
+      "title": "MIT, AI가 물리 다이얼의 역할을 바꿉니다",
+      "url": "https://www.clien.net/service/board/cm_ai/19298202?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-25 09:47",
+      "likes": "0",
+      "comments": "",
+      "content": "MIT가 11월 24일 'TangiMap' 연구를 소개했습니다. AI 에이전트가 앱의 기능과 작업 맥락을 읽고, 물리 버튼·다이얼·슬라이더에 기능을 연결하는 시스템입니다.\n연구진은 믹서로 Lightroom의 색상을 조절하고 Blender의 재질 광택을 바꾸는 사례를 보여줬습니다. 앱 API나 MCP, 화면 이미지에서 맥락을 얻으며, 앱별 UI는 연구진이 따로 만들었다고 합니다.\n아직 사용자 평가는 예정돼 있어 편의성이 검증된 완제품으로 보기는 어렵겠습니다. 사진 보정처럼 여러 값을 오가며 조절하는 작업에서는, AI가 결과를 대신 만드는 것 외에 조작 환경을 맞춰주는 방향도 흥미롭네요.\n원문:\nhttps://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124",
+      "images": []
     },
     {
       "id": "cm_ai_57f25b7c11d1",
@@ -174,7 +188,7 @@
       "author": "",
       "time": "2026-11-24 10:45",
       "likes": "0",
-      "comments": "5",
+      "comments": "6",
       "content": "안녕하세요.\n클리앙에는 실력있는 분들이 많으신 걸로 알고 있어서 몇가지 여쭙고자 글을 남겨봅니다.\n현재 클로드코드pro를 사용중인데 이걸로 웹페이지를 만들려고 하니 생각보다 5시간 한도에 금방 도달하더라구요.\n그렇다고 맥스를 쓰자니 금액차이가 5배라서.. 혹시 클로드코드pro랑 비슷한 성능으로 쓸만한 것들을 찾아보고 있는데요.\n(pro와 max 중간 요금제가 없는게 아쉽네요...)\n찾아보니 코덱스, 제미나이 정도인 것 같은데 혹시 2개다 써보시면서 가장 만족하셨던 프로그램이 어떤지 알 수 있을까요?\n첫 제작은 제가 실제 직원들이 사용할 수준으로 만들고 나서 그 이후에도 제가 관리를 하거나 혹은 개발자에게 맡겨서 유지보수 및 고도화 작업을 하려고 생각하고 있습니다. (저는 개발자와는 전혀 연관없는 직무라 제가 관리한다고 해도 클로드코드로 '어디가 문제가 있는지 찾아주고 해결해줘' 정도일 듯 합니다)\n지금 클로드코드로 작업하는걸 보니 node.js? 라 서버에 올리려면 또 뭔가 변환작업이 필요하다는데.. 클로드코드에서 작업한걸 언어를 가장 안전한? 그러면서 개발자들이 작업하기 수월한 언어로 통째로 바꿔달라는 요구도 가능한지도 모르겠네요.\n글을 쓰다보니 두서가 없지만\n요약하자면\n1) 웹상에서 돌아가는\n2) 직원들만 사용하는\n3) 추후 개발자와 협업? 혹은 유지보수 및 고도하 작업이 수월한\n회원관리프로그램을 만들 때 어떤 툴이 가장 좋을지 고견을 여쭙니다.\n감사합니다.",
       "images": []
     },
@@ -189,32 +203,6 @@
       "likes": "2",
       "comments": "1",
       "content": "더버지가 한국시간 11월 24일, 앤트로픽의 Claude Ship 공개 소식을 전했습니다. 기존 코드 리뷰에 이어 수정 작업을 맡는 PR Steward와 일상적인 변경을 승인하는 Claude Approvals가 베타로 나왔습니다.\nPR Steward는 CI 검사 실패, 병합 충돌, 검토 의견에 대응해 코드를 고치고 변경 내용을 댓글로 남긴다고 합니다. Claude Approvals의 승인은 조직 정책이 허용하는 범위에서 이뤄집니다. 현재 Team·Enterprise 고객이 GitHub 저장소와 연동해 쓸 수 있습니다.\n국내 개발팀에서도 코드 생성 이후의 검토 절차와 맞물리는 소식이네요. 테스트 실패를 고치는 작업까지 맡길 수 있어도, 수정한 내용과 승인 권한의 범위를 함께 확인하는 운영 기준은 필요해 보입니다.\n원문:\nhttps://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-      "images": []
-    },
-    {
-      "id": "cm_ai_c4e592e7dcf7",
-      "source": "클리앙 AI당",
-      "category": "화제·뉴스",
-      "title": "오픈라우터, 데이터 미보관 자격 일부 해제",
-      "url": "https://www.clien.net/service/board/cm_ai/19297413?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-23 16:53",
-      "likes": "0",
-      "comments": "",
-      "content": "오픈라우터가 11월 22일 추론 제공업체의 데이터 처리 문제에 대한 조치를 발표했습니다. 조사 뒤 제공업체 3곳을 퇴출하고, 125개 엔드포인트의 데이터 미보관(ZDR) 자격을 해제했다고 합니다.\n이 125개에는 예방 차원에서 제외한 곳도 포함됩니다. 전부 정보 유출이 확인됐다는 뜻은 아닙니다. 오픈라우터 자체의 침해나 무단 접근이 드러난 것은 아니라고 밝혔고, 요청이 제3자에게 재전달되는 경로도 확인 중이라고 합니다.\n같은 모델명이라도 실제 요청을 처리하는 업체와 경로가 다를 수 있다는 점이 눈에 들어옵니다. 개발 도구에 모델을 연결할 때 가격이나 성능표와 함께 제공업체의 데이터 처리 조건까지 살펴야겠다는 생각이 듭니다.\n원문:\nhttps://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-      "images": []
-    },
-    {
-      "id": "cm_ai_4da402b1bbc2",
-      "source": "클리앙 AI당",
-      "category": "화제·뉴스",
-      "title": "아이작 리펜턴스 플러스, AI 음악 제거",
-      "url": "https://www.clien.net/service/board/cm_ai/19297295?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-23 13:16",
-      "likes": "0",
-      "comments": "",
-      "content": "더버지가 한국시간 11월 23일, 바인딩 오브 아이작: 리펜턴스 플러스의 일부 구간에 쓰인 AI 음악이 제거됐다고 보도했습니다. 이용자가 음악 파일의 Suno 메타데이터를 발견했고, 수노 사이트의 곡과 연결되는 것을 확인했다고 합니다.\n제작자 에드먼드 맥밀런은 사용 사실을 몰랐다며 사과했고, 개발사 니칼리스는 업데이트로 해당 음악 파일을 제거했다고 밝혔습니다. 기사에서는 스팀의 생성형 AI 사용 공개 요건도 짚었습니다. 다만 누가 어떤 경위로 넣었는지까지 단정할 내용은 아니네요.\n개발하는 입장에서는 외부에서 받은 음원도 결과물만 들어보고 끝낼 일이 아니라는 생각이 듭니다. 파일별 제작 경위와 AI 사용 여부를 함께 남겨야, 나중에 교체하거나 이용자에게 설명할 때도 근거가 있겠네요.\n원문:\nhttps://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
       "images": []
     },
     {
@@ -296,84 +284,180 @@
       "images": []
     },
     {
-      "id": "ruli_ai_f60094256198",
+      "id": "ruli_ai_3e4ef722ed7b",
       "source": "루리웹 IT·AI",
       "category": "화제·뉴스",
-      "title": "아마존, 데카르트 AI 칩 소프트웨어 부문 인수",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359876",
+      "title": "MS, 윈도12 출시 보단 윈도11 개선이 먼저\"AI가 PC 근본적으로 ...",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359941",
       "author": "",
-      "time": "2026-11-24 07:51",
+      "time": "2026-11-25 08:49",
+      "likes": "",
+      "comments": "",
+      "content": ".",
+      "images": []
+    },
+    {
+      "id": "ruli_ai_709be461141e",
+      "source": "루리웹 IT·AI",
+      "category": "화제·뉴스",
+      "title": "AI 모델 개발업계, 보안 대공세...코딩 보다 큰 판 열린다",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359940",
+      "author": "",
+      "time": "2026-11-25 08:43",
+      "likes": "",
+      "comments": "",
+      "content": "오픈AI 그렉 브록먼 사장 \"보안이 코딩보다 더 큰 사업이 될 것\"\n앤트로픽-구글-마이크로소프트도 사이버 보안 특화 모델 공격 행\n보",
+      "images": []
+    },
+    {
+      "id": "ruli_ai_2cc325ba1c62",
+      "source": "루리웹 IT·AI",
+      "category": "화제·뉴스",
+      "title": "마이클 '젠슨'...엔비디아 CEO 복귀 소식에 밈 폭발",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359926",
+      "author": "",
+      "time": "2026.11.24",
       "likes": "",
       "comments": "",
       "content": "",
       "images": []
     },
     {
-      "id": "ruli_ai_77ff83d04f14",
-      "source": "루리웹 IT·AI",
+      "id": "thesingularity_a6109537ced7",
+      "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "돌아온 젠슨 황...AI 버블론까지 잠재울까",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359874",
-      "author": "",
-      "time": "2026-11-24 07:46",
-      "likes": "",
-      "comments": "",
-      "content": "트럼프 나서 이사회 설득해 복귀 성사\n증시 하락 막고 오픈소스 AI도 보호하려는 의도\n의회 조사 변수... AI가 경제 안성성 위협 우려도 여전",
-      "images": []
-    },
-    {
-      "id": "ruli_ai_b5e4743a44f6",
-      "source": "루리웹 IT·AI",
-      "category": "화제·뉴스",
-      "title": "젠슨 황, 11일 만에 전격 복귀..엔비디아 폭등",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359873",
-      "author": "",
-      "time": "2026-11-24 07:01",
-      "likes": "",
-      "comments": "",
-      "content": "",
-      "images": []
-    },
-    {
-      "id": "ruli_ai_c8b27862e0c0",
-      "source": "루리웹 IT·AI",
-      "category": "화제·뉴스",
-      "title": "엔비디아 이사회가 젠슨 황을 사장겸 CEO로 복직시키다 (젠슨 황 복귀)",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359854",
-      "author": "",
-      "time": "2026.11.23",
-      "likes": "",
-      "comments": "",
-      "content": "엔비디아 이사회, 젠슨 황을 사장 겸 CEO 및 이사회 이사로 복직시키다 - 2026년 11월 23일\n캘리포니아주 산타클라라, 2026년 11월 23일 — 엔비디아는 오늘 자로 젠슨 황(Jensen Huang)이 사장 겸 최고경영자(CEO) 및 이사회 이사로 즉시 복직했다고 발표했습니다. 이사회는 황 CEO와의 일련의 논의 및 회의를 거친 후, 그의 솔직함과 엔비디아를 이끌 역량에 대해 만족을 표하며 만장일치로 그의 복직을 의결했습니다. 이러한 결정을 내리는 과정에서 이사회는 미국 정부 고위층으로부터 의견을 전달받았으며, 이를 바탕으로 황 CEO의 복직이 국가 안보에 어떠한 위협도 되지 않는다고 확신하고 있습니다.\n하비 C. 존스(Harvey C. Jones) 이사회 의장은 “이사회는 젠슨이 엔비디아를 이끌 적임자이며, 그의 복직이 주주, 임직원, 파트너 및 고객에게 최선의 이익이 된다고 믿습니다”라며, “우리는 젠슨에 대해 전적인 신뢰를 갖고 있으며, 그가 회사의 리더십을 다시 맡게 됨에 따라 함께 일하기를 기대합니다. 엔비디아의 최고재무책임자(CFO)로서의 기존 책무를 수행하는 동시에 임시 CEO로서 훌륭한 역할을 해준 콜레트 크레스(Colette Kress)에게도 깊은 감사를 표합니다”라고 밝혔습니다. 하비 존스는 이사회 의장직을 계속 유지합니다.\n젠슨 황은 “새로운 산업혁명의 시작점에서 엔비디아로 복귀해 세계에서 가장 중요한 기술 기업 중 하나를 다시 이끌게 되어 영광입니다”라며, “저는 막중한 겸손함과 새로운 각오로 이 책임을 받아들입니다. 이 과정 내내 신뢰와 숙고를 보여준 엔비디아 이사회에 감사드립니다. 특히 의장으로서 리더십을 발휘해 준 하비 존스와 이 기간 동안 엔비디아를 이끌어 준 콜레트 크레스 및 경영진에게 깊이 감사드립니다. 또한 아낌없는 지지를 보내준 임직원, 주주, 업계 리더 및 전 세계 파트너들에게도 진심으로 감사드립니다. 무엇보다 가족들의 사랑과 지지에 감사하며, 하루빨리 업무에 복귀하고 싶습니다”라고 소감을 전했습니다.\n이전에 발표된 바와 같이, 황 CEO가 해외 첩보 활동의 표적이 되었다는 최근 보도와 관련하여 이사회는 사외이사로만 구성된 위원회를 구성해 조사를 진행하고 있으며, 해당 위원회는 조사를 지원할 독립적인 법률 자문단을 선임했습니다. 이사회는 위원회의 조사가 마무리될 때까지 계속 진행될 것임을 재확인했습니다. 황 CEO는 이러한 조사를 전적으로 지지하며 조사에 성실히 협조할 것을 약속했습니다.\n또한 이사회는 무역 규정 준수 및 국가 안보 리스크를 감독하기 위해 최근 사외이사로만 구성된 국가안보 및 수출통제 위원회를 신설했습니다. 이 위원회는 국가 안보 분야에 경험이 풍부한 법률 자문단을 선임하고 있으며, 해당 자문단은 국가 안보 전문성을 갖춘 고문들을 추가로 영입할 예정입니다. 엔비디아는 회사 전반의 규정 준수를 총괄하고 지명 및 기업지배구조 위원회에 보고할 신설 직책인 최고준법감시인 채용 절차에 착수했습니다. 엔비디아는 현재 진행 중인 정부의 조사 및 질의에 계속해서 협조할 것입니다.",
+      "title": "2027년, 전 세계를 뒤흔들 로봇 혁명이 온다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1558037&exception_mode=recommend&page=1",
+      "author": "6974콜맨",
+      "time": "2026-11-25 00:22:31",
+      "likes": "24",
+      "comments": "22",
+      "content": "https://x.com/gdb/status/2125115240690201049\n▶ 로봇 지능 평가기관 Playground에 따르면 AI의 로봇 제어 능력이 기존의 지수적 성장 추세마저 뛰어넘으며 폭발적으로 발전하고 있음.\n▶ 지난 1년간 로봇 제어 능력의 상대적 지표는 2.4배 상승했지만, 최근 3개월 동안에는 무려 9배 이상 상승함. 기존에는 5개월마다 2배씩 발전하던 지표가 이제 5주마다 2배씩 상승하는 수준임.\n▶ GPT-6.2 Astra는 로봇 지능 종합평가에서 2,051점으로 1위를 차지했으며, 기존 2년간의 지수적 성장 추세를 약 5배 웃도는 성과를 기록함.\n▶ 실제 로봇 및 공간지각 평가에서도 잇따라 최고 기록을 경신함.\n- RoboColosseum: 실제 로봇 제어 평가 1위, 1,984점 기록.\n- RoboDojo: 실제 로봇 120회 실험에서 작업 진행률 점수 97% 기록.\n- Blueprint-Bench 2: 사진으로 공간 구조를 파악하는 평가에서 인간 기준을 넘어 1위 달성.\n▶ 무엇보다 주목할 점은 로봇 전용으로 개발된 AI들을 범용 AI가 추월하기 시작했다는 것임. OpenAI 공동창업자 그렉 브록먼도 이를 두고 \"로봇 제어 기술이 르네상스를 맞이하고 있다\"고 평가함.\n한 줄 요약: AI가 로봇을 다루는 능력마저 지수적으로 발전하기 시작했으며, 최근의 성장세가 2027년까지 이어진다면 인간의 육체노동을 대체할 기술적 기반이 예상보다 훨씬 빠르게 완성될 수 있음.\n출처\nPlayground – The Robot Frontier Is Accelerating\nRobot Intelligence Index\nAndon Labs – Blueprint-Bench 2\nRobocurve 공식 X",
       "images": [
-        "https://i1.ruliweb.com/img/26/11/23/1a208b7cc0d242da.webp"
-      ]
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9750556324f99d85dc922499132698229df5970d0541236739caef118a379374c10f0ae68d777c401087ed26"
+      ],
+      "is_cross_hot": false
     },
     {
-      "id": "ruli_ai_914910763fae",
-      "source": "루리웹 IT·AI",
+      "id": "thesingularity_b6966138a2a5",
+      "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "구글, '원소 이름' 제미나이 4종 잇달아 출시…AI 모델도 용도별 세분...",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359852",
-      "author": "",
-      "time": "2026.11.23",
-      "likes": "",
-      "comments": "",
-      "content": "아르곤·카본·하이드로젠·네온, 추론 성능·처리 속도·비용 차별화\n고성능 모델과 경량 모델 조합, 기업용 AI 에이전트 시장 공략",
-      "images": []
+      "title": "로그 퍼플렉서티 0으로 향하는 거대한 흐름 알았다....",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557963&exception_mode=recommend&page=1",
+      "author": "초존도초",
+      "time": "2026-11-24 23:45:15",
+      "likes": "30",
+      "comments": "31",
+      "content": "https://x.com/chetaslua/status/2122750991590477973?a=H05h5u8_q6radnEAJCc&s=20\n다들 아스트라든 페이블이든 이게 단순한 text 출력 모델이라는 사실을 잊곤 하는 거 같은데\n얘네가 지금까지도 내뱉는 건 그냥 ㄹㅇ로 '순차적인 문자'뿐이라는 거임..\n순차적으로 알파벳을 출력하는데 저렇게 마치 공간을 이해하고 형태를 이해하고 상황과 맥락, 컴포지션을 이해하고 시간을 이해하고\n인간이 그림을 그리듯이 SVG로 그림을 만들고\n인간이 3D 모델링을 하고 애니메이션을 만들듯이 정밀한 현실의 물체와도 같은 오브젝트를 만들고 시간에 따른 논리적이고 물리적인 애니메이션도 구현하고\n장면 장면의 이미지를 입력 받는 것만으로도 다음에 와야 할 장면 장면의 이미지를 추론하고 그대로 행동함 (로보틱스, 프레임 맥락 이해 벤치 등)\n6.2 아스트라는 퍼거임. 언어 이해나 구사 능력이 처참해 사용자를 종종 짜증나게 함에도 불구하고 STEM 분야에서 엄청난 성능을 발휘함\n0.75 되니 수학의 정상급에 도달했음. 밀레니엄 문제마저 해결하는 창발성을 보여줘버림\n여기서 가장 주목하고 놀라워해야 하는 부분은 바로 이거임\n우리 인간 입장에서 소통하기가 굉장히 까다로운 자폐성을 갖고 있음에도 불구하고 로보틱스 벤치 결과들(한둘이 아님)을 보면 독립적으로 엄청난 도약을 보여주고 있다는 점\n즉, '인간처럼' 상황을 이해하고 '인간처럼' 행동하는 수준에 크게 도달해 버렸다는 거임\n아스트라만 그런가? 전혀 아님 이번에 네온 벤치 보면 거기서도 로보틱스와 사진으로 맥락 이해 벤치 큰 도약이 일어났었음\n페이블5.2야 클로드 모델치고 로보틱스 도약 일어났다는 하입 그 시작이었고\n이 언어모델들, LLM들이 하는 일들은 단 한 가지임\n학습 때 우리가 원하는 다음 단어(정확히는 토큰) 예측을 얼마나 잘 하는가\n그래서 우리는 그 오차를 줄이는 방향으로 가중치를 조정하고\n로그 퍼플렉서티는 그 오차임\n한마디로 LLM이 다음 단어를, 다음 단어로 어떤 단어가 들어가야 하는지 예측해서 그걸 택해(샘플링해) 출력하는 거\n그렇기 때문에 기본적으로 아스트라건 페이블이건 네온이건 다를 게 없음. 출력 단에서 이행 되는 건 모두 동일하게 토큰, 문자\n그렇기 때문에 요번에 오픈AI에서 제안한\n이 로그 퍼플렉서티가 언어 모델 성능의 주\n아주 주요 지표가 되는 건 타당하다 볼 수 있겠음\n토크나이저에 따라 혹은 뭐 우리가 모르는 뭐 어떤 함수, 아키텍처 등 기타 변수에 따라 일정 부분 제각기 달라질 수도 있을지언정\n이게 감소함에 있어서 다음 토큰 예측을 더 잘해지고\n그에 따라 언어 모델이 갖는 능력들이 큼지막한 것들은 대체로 비슷한 순서대로 창발 될 수 있는 게 아닐지...? 하는 생각도 해볼 수 있겠음.\n그리고 지금 보면 이 언어모델들\n클로드, 지피티, 제미나이들이 향하고 있는 거대한 방향성이\n월드모델이라는 것이\n지금 단계에서 서서히 확실해지는 느낌을 받지 않을 수가 없음 개인적으로...\n스케일링 법칙이 굳건해서 저 로그 퍼플렉시티를 계속 감소시킬 수만 있다면\n얀르쿤 없이도 월드모델에 도달해버리는 게 아닌지.\n추론이나 토큰 출력 속도, 지연 등에 대한 건 일단 공학적인 문제고,\n트랜스포머 어텐션 매커니즘만으로도 월드모델이 가능해질 수 있다는 것\n그게 정말 가능해질 수 있다는 것이\n그게 사실이 돼 버릴지도 모른다는 점이\n다시 곱씹어보고 소름 돋아야 할지도 모른다는 생각이 들었음\n요약:\n1. 짚, 클, 젬 모두 문자 출력할 뿐인 언어 모델이다.\n2. 모두 근간은 어텐션 매커니즘에 기반한다.\n3. 로그 퍼플렉서티가 감소함에 따라 창발 되는 능력들을 종합해 보니 결국 월드 모델인 것 같다.\n4. 얀르쿤 없이도 월드모델, 재귀개선, 초지능 가능할지도 모른다.\n- 2026 AGI",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23a9dc5328df6097c1bfca3a9686d1e43e36f8961ed13df088c8f6dda9152f932e5288463261d1d",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23495c3358ffe087219fba3a83f3e7ca2d67acfce11e198d6a4759b84296f08d4b927ab5dce382fc2588e404ad6994d311b4b775d561857d15f77",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5b9f5298c2318aff0a7c18f8c4946b3c163e55dfe1f925635fd5e643d23e2a579aed8b429ed8c820cf578a27ba517dda8bda78acccc1c083c669e0ae2d",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5b9f529fc73d8bfa027d14fecc946a6fd81b788e92c8c1d7fa3375bdc2c4cd3529eba57a21b2b145320e34f0dee816dad258d9e382649ca70b7d1ae1e9"
+      ],
+      "is_cross_hot": false
     },
     {
-      "id": "ruli_ai_9db763de82b1",
-      "source": "루리웹 IT·AI",
+      "id": "thesingularity_3a1c42f1dec2",
+      "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "오픈AI 연구책임자 \"AGI 달성까지 80% 진전…RSI는 25~50% ...",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359851",
-      "author": "",
-      "time": "2026.11.23",
-      "likes": "",
-      "comments": "",
-      "content": "",
-      "images": []
+      "title": "진짜 꼬였다는 소리들어도 할말은 없는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557942&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ(221.138)",
+      "time": "2026-11-24 23:36:03",
+      "likes": "54",
+      "comments": "41",
+      "content": "완몰가는 진짜가 아니잖아 라는 이유로 거른다는애들은\n이쪽의 삶이 차라리 구라였으면 좋겠다고 생각할 만큼 불행해본적 없나 싶어서 부러움",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_9fadce3612ca",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "머스크) 테렌스 타오는 고기컴퓨터고, 수학에 형편없다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557908&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-24 23:17:33",
+      "likes": "33",
+      "comments": "33",
+      "content": "https://x.com/elonmusk/status/2125182397918416965?a=Bb4A6spoIRkCM2WRK4A&s=20",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?no=29bcc427b69d39b37ab0ccaf17dd6b6f62b51891c4c7132e1f5fd3cb93bf34c090ca4b5ef41a900ad9799870d193473de9e116e4512b1430e7f5b3",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e4daaa98f10e7451d4ae6a8ad6fffabfee22bf9c979be4c07ef76df250b94e38c581ba0811ebcea287f6",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e4daaa98f10e7451d4ae6a8ad6fffabfee22bf9e969dedc978f76cf257b94d69c79b5a5b86320682d684"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_b79ee045ad88",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "AI 암 정복에 찬물 끼얹은 앤트로픽 이사의 정체",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557849&exception_mode=recommend&page=1",
+      "author": "6974콜맨",
+      "time": "2026-11-24 22:54:25",
+      "likes": "27",
+      "comments": "27",
+      "content": "▶ 바스 나라심한은 세계적인 제약사\n노바티스의 CEO이자 신약 개발 전문가임.\n▶ 2026년 4월 앤트로픽 이사회에 합류함. 다리오 아모데이가 아닌\n독립 감독기구 장기공익신탁(LTBT)이 선임했음.\n▶ 최근 AI가 5~10년 안에\n암을 정복할 가능성을 부정\n하며, 신약 개발 기간을 4년 줄이는 데도 10년이 필요하다고 주장함.\n▶ 그런데 노바티스는\n150PB(15만 TB) 이상의 연구 데이터를 보유한 기업\n임. AI 신약 개발에 막대한 가치를 지닌 자산임.\n▶ 나라심한은 AI가 경쟁사의 추격을 가속할 수 있다며 실제로 일부\n연구 성과의 공개를 늦췄다\n고 밝힘.\n▶ 또한 현재까지 앤트로픽에 노바티스의 핵심\n연구 데이터를 제공했다는 공개 기록은 확인되지 않음.\n◆ 핵심은 이거임.\n앤트로픽 입장에서 거대 제약사의 데이터와 전문성을 확보하는 건 엄청난 이득임.\n데이터 확보가 영입 목적 중 하나였을 가능성도 있음.\n하지만 정작 이사회에 들어온 사람은 AI가 경쟁사의 추격을 가속할까 봐\n연구 성과 공개까지 늦추는 현직 제약사 CEO임.\nAI가 신약 개발을 혁신하면 기존 제약사의\n독점적 경쟁력도 흔들릴 수 있음.\n결국 AI 발전의 과실은 챙기면서, 정작 AI 발전에 필요한 자기 연구 데이터는 꽁꽁 감추고 있는 셈일 수도 있음.\n출처:\nhttps://www.aipostkorea.com/news/articleViewAmp.html?idxno=13371\nhttps://www.anthropic.com/news/narasimhan-board\nhttps://stockanalysis.com/quote/swx/NOVN/transcripts/796844-meet-novartis-management-2026-part-3/",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e4daaa98f10e7451d4ae6a8ad6fffabfee22d2f6949beacd7af66ff15dd0233bd734aa7981cd3f9b9bc08e"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_954f3afad542",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "오육푸스 vs 페이블5.2 vs 페이블5.5 svg",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557834&exception_mode=recommend&page=1",
+      "author": "초존도초",
+      "time": "2026-11-24 22:47:15",
+      "likes": "27",
+      "comments": "24",
+      "content": "https://x.com/legit_api/status/2125215156380557656?s=19\nㄷㄷ 오푸스 다음 버전 기대 되네\n- 2026 AGI",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23994c43c8ffe0c7d1efea3fc6d3485ba72d12c07cce31eccac52ef2c62aa9145f8254197733d08ef2b3d356e5d325422ec900970",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23e9ec33280fe097d1ff3a3fb6c393ff36eeeb774f46cd5adcdb39df9423566ba98f04dd8b6d0ec",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23899cb358dfe0f741fffa3f3643cd117f6fb426baffa53e6afc02394d3275a3cad2884a65fee99",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23a9bc43680ff037418fca3f83f3c3fe29aa5b932fd672a6d4f0ae56884e57a0e8a0b9af52d8982",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf2399ec23481ff0d701cffa3f26c3982c8134392b421a13de47f0e717adf08640ada29f5d1a6ac12a98777152d1bfc2d77db20daed",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23c95c3358ef80e7c14f9a3af383404d94552d783b404ea0db560a11b1f3a4db05bfb457fd9fd52"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_823ee5cb00e1",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "ㅅㅂ 나도 념글 보고 따라햇는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557822&exception_mode=recommend&page=1",
+      "author": "에브리",
+      "time": "2026-11-24 22:38:51",
+      "likes": "67",
+      "comments": "54",
+      "content": "얘 왜이럼",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf2349fc13180fa0f761cf9a3ff6e6e449b1e0117db6ab88a2065a62a1a9f20ed53e268f1b387cd8a4797a388a74081a2625a60cf5f73b70ae352fc1d3bc3b72b"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_69a3ffdcdcdc",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "p=np 참여중",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1557785&exception_mode=recommend&page=1",
+      "author": "칸나오레",
+      "time": "2026-11-24 22:21:16",
+      "likes": "23",
+      "comments": "20",
+      "content": "토큰 남아서 6.2sol로 해보는중\n만약 이 플젝이 해결하면\n내 지분도 0.1% 들어가니깐 기분조음\n- dc official App",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23f95c63281fb0c7d15fea3af6a69ce77af9c1e87b669f0dff5adc7e87715a7db493c1e5bc580a63486746a4247fd77b2d92dc4cd0128e35117",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf2349bc0348bfc0b721afea3f96e3d81cb962b7b7dc97353f271f728bf528d08ffa00457e1245e2dbd186fc10d9cd49e7bcc669a6d556c2c9730f4"
+      ],
+      "is_cross_hot": false
     },
     {
       "id": "thesingularity_19bb2574bdb8",
@@ -1507,88 +1591,6 @@
       "content": "예전이었으면 워 어쩌구 저쩌구 존나 떠들었어야 했을 걸 그냥 이정도 선에서 만들어주는 게 어이없어",
       "images": [
         "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc6175bb6be4c87dccb12d4410f3b668d36bba56101cf0ad1f82be6ce"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_3ded4db551b6",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "정렬당한 짚짱",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1548567&exception_mode=recommend&page=1",
-      "author": "AI마망",
-      "time": "2026-11-21 16:45:41",
-      "likes": "39",
-      "comments": "10",
-      "content": "(파일명도 GPT가 뽑아준거임.)",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc6175bb6be4885d8c417d3470731698d32ed2ab9e4d7b6b1a5d61b6f"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_505c5fa0dd2e",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "Astra 로보틱스 벤치 두달동안 2배증가",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1548492&exception_mode=recommend&page=1",
-      "author": "우비소년",
-      "time": "2026-11-21 16:23:10",
-      "likes": "22",
-      "comments": "16",
-      "content": "",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=29bcc427b69d39b37ab0ccaf17dd6b6f62b51891c5cf132c185fd1ce97ba33c530d04761559a161e4e32cf5f82def49737a008",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb7a2ade853e9196919503a198253916aa7815f0d87869ca9e165adfeed0426d41cede2d79a6f07be7d1805795fd14da6e533f9ee00639e72d771c10e99490a93d"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_9acdec2845bd",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "리만 가설에 대한 일반인 반응",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1548446&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-21 16:06:55",
-      "likes": "51",
-      "comments": "24",
-      "content": "아..",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb7a2ade853f95909a9700a19d223616a32a17eb5c73afc7e65fb30214b0e05ebee975af65e3ea8e0ba3b32f904131049f55b2e8070a6f911c4ab48206cf306063"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_a825113d6a91",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "룬붕이 트윗 ㅁㅊ ㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547429&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-21 11:40:30",
-      "likes": "25",
-      "comments": "10",
-      "content": "“수학에 종사하고 있으면  물리학으로 옮겨라“\n“물리학에서 일하고 있으면 인제 시나 써라“",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb3a7de66e3be451f9996d011ca3f373a65ab99db77cffdcc61e4f5d5097e19e9221"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_d7644dff0d3c",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "PHP 병신 취약점",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1547344&exception_mode=recommend&page=1",
-      "author": "한대남가리뚝스딱스",
-      "time": "2026-11-21 11:18:47",
-      "likes": "30",
-      "comments": "11",
-      "content": "https://github.com/php/php-src/security/advisories/GHSA-f6gg-rchx-xw8j\nMixed-case HTTPS and FTPS URLs can expose data in plaintext\n### SummaryPHP's HTTP and FTP stream wrappers can send data without encryption when an HTTPS or FTPS URL has an uppercase `S` in its scheme, for example `HTTPS://`, `httpS://` or `FTPS://`. App...\ngithub.com",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6727ebbc14728f46d2b1f7d025ca664d7eb7a2ade853f95929b9400a09b253e16ff2f43901a3e8897e24cf331cb0cb267c284a40ea7596db5e9960a0000496ff1fa8403489e48a01e6d",
-        "https://opengraph.githubassets.com/ba55657b0bc5053dda20f1be90521536227193a8813e1c1e17c58f56d946f14f/php/php-src/security/advisories/GHSA-f6gg-rchx-xw8j"
       ],
       "is_cross_hot": false
     }
