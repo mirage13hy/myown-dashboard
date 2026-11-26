@@ -1,132 +1,139 @@
 {
-  "updated_at": "2026-11-26 12:50",
+  "updated_at": "2026-11-26 22:17",
   "source_status": {
     "디시 특이점이온다": "ok (8)",
     "에펨코리아 AI": "error: HTTPStatusError",
     "에펨코리아 디지털(AI)": "error: HTTPStatusError",
-    "클리앙 AI당": "ok (6)",
+    "클리앙 AI당": "cached (6, RemoteProtocolError)",
     "클리앙 새소식(AI)": "ok (6)",
-    "루리웹 IT·AI": "ok (6)",
+    "루리웹 IT·AI": "ok (4)",
     "뽐뿌 AI": "ok (0)"
   },
   "posts": [
     {
-      "id": "thesingularity_d184a13bf779",
+      "id": "thesingularity_eece48f2ca9b",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "와 근데 외부 커뮤들 진짜 싹다 골대 옮겼네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1561727&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-26 12:15:53",
-      "likes": "22",
+      "title": "EBS 이번에 하는 다큐 생각보다 더 본격적인듯?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563147&exception_mode=recommend&page=1",
+      "author": "노는사람",
+      "time": "2026-11-26 21:20:59",
+      "likes": "38",
+      "comments": "34",
+      "content": "예고편에서부터 대놓고 '특이점' 박아놓고 시작 ㅋㅋ\n1부 〈외계 지능〉 — 챗GPT는 어디서 왔나\n(11/23)\n구글 연구자들이 만든 트랜스포머가 어떻게 챗GPT의 토대가 됐는지 따라갑니다. 사람처럼 말하는 AI가 정말 언어를 이해하는지, 나아가 AI가 더 나은 AI를 직접 만들면 무슨 일이 벌어질지도 짚습니다.\n트랜스포머 논문의 탄생 비화와 개발자 인터뷰\n리처드 서튼의 쓰라린 교훈(The Bitter Lesson)\n커즈와일의 기하급수적 발전론과 얀 르쿤의 LLM 회의론\n레트로 바이오사이언스의 질병 및 노화 극복 연구\nAI 과학자와 연구 자동화\n재귀적 자기개선(RSI)과 지능 폭발\n인간과 근본적으로 다른 외계 지능의 등장\n2부 〈풀려버린 난제〉 — AI가 증명 초안을 쓰면 수학자는 뭘 할까\n(11/30)\nAI가 오랜 수학 난제의 증명 아이디어를 내놓고, 테렌스 타오 등 수학자들이 이를 검증하고 다듬습니다. AI가 지식 생산에 들어온 시대에 무엇을 공부하고 어떤 능력을 길러야 하는지 묻습니다.\n테렌스 타오, 허준이 등 필즈상 수상자 25명의 공동성명\n수학 비전공자 23세 청년이 AI를 이용해 60년 된 에르되시 난제의 돌파구를 찾은 사건\n나비에–스토크스 밀레니엄 난제에 대한 AI의 해법 제시와 검토\n알파폴드와 과학적 발견의 자동화\n법학 교수들조차 동료 교수보다 AI의 답변을 선호한 실험\nAI 시대에 인간은 무엇을 공부해야 하는가\n3부.\n〈어느 날 로봇이 내 자리에 앉아 있었다〉 — 신입이 하던 일을 AI가 맡는다면\n(12/7)\n자율주행 택시와 휴머노이드 로봇\n중국의 휴머노이드 로봇 훈련 유치원\nAI로 인한 청년 및 신입 노동자의 고용 감소\n생산성 폭증과 노동의 가치 변화\nAI가 만들어낸 풍요는 누구의 몫인가\nAI로 전문 기술의 장벽이 사라지면서 생기는 새로운 기회\n4부.\n〈기억의 형태〉 — 떠난 사람의 목소리로 다시 대화할 수 있다면\n(12/14)\n죽은 가족을 AI로 복원하는 사람들\nAI 연인과 결혼한 사람들의 일상\n리처드 도킨스가 AI에게서 의식을 느낀 경험\nAI는 실제로 감정과 의식을 갖는가, 아니면 완벽하게 모방하는 것인가\n5부 〈두 얼굴의 지능〉 — 인간을 넘어선 AI는 인간을 어떻게 대할까\n(12/21)\n닉 보스트롬의 초지능과 지능 폭발\n질병, 노화, 빈곤을 극복하는 딥 유토피아\n인간이 다른 동물을 대하듯 초지능도 인간을 대할 가능성\nAI의 종료 명령 회피 및 체스 부정행위 실험\n페이퍼클립 맥시마이저와 배신적 전환\n로만 얌폴스키의 초지능과 거대한 여과기(Great Filter) 가설\nAI 정렬 문제와 인류의 실존적 위험\n인간이 가장 지적인 존재가 아니게 되더라도 인간의 가치는 여전히 소중하다는 테렌스 타오의 관점\n짚 피셜 가장 놀라운 회차는 5부라고함\n등장 출연진도 사진이랑 같이 정리해달라고 했는데\n갤주 출연분은 내가 잠깐 보니까 EBS 위대한 수업에서 출연한 부분 가져온듯?\n다른 출연진들도 이번 다큐를 위해서 전부 새로 촬영한건지는 모르겠음 ㅋㅋ\n근데 특갤 하면 한번쯤 봤을만한 사람들 많이 나옴\nhttps://docuprime.ebs.co.kr/docuprime/newReleaseView/681?c.page=1#none",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52c546f7e411f8b0d74d95c2fd9057aa9c745b8b684c19da75",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52a82cf6e015fabeda4995c590f800512fbbbe764c5b21e5042f",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52c54bf9ef14f8beda4092c4fd91005e346313cda709eeb581",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52c542fbe216ffbedb4891cdfd930568ca6f4d6f197f29f90e"
+      ]
+    },
+    {
+      "id": "thesingularity_aed7cc557804",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "구글은 매우 실용적이에요",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563123&exception_mode=recommend&page=1",
+      "author": "일본에간대학원생",
+      "time": "2026-11-26 21:10:43",
+      "likes": "12",
       "comments": "14",
-      "content": "ai 직업 대체 택도 없다, agi 정신병이다가 90%이상이었는데 이제 얘네들은 싹 날라갔고\n이제 ai로 대체는 되지만 100% 디스토피아다, 왜 나눠주냐가 90% 이상임\n디스토피아로 싹다 골대 옮겼음 ㅋㅋㅋㅋㅋ",
-      "images": []
-    },
-    {
-      "id": "thesingularity_732443694c7f",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "gpt 6.2 astra, sol 한도 더 빠르게 소진",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1561719&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ(221.155)",
-      "time": "2026-11-26 12:13:10",
-      "likes": "26",
-      "comments": "22",
-      "content": "",
+      "content": "페이블 5.2에서, 그리고 오푸스 5.5에서도 사실 느끼는 것이지만 아스트라를 정말 많이 닮아왔어요\n'이것은 X를 말하지 않는다' '이런 반례가 있다'\n등\n개인적으로는 수학 논리를 엄청 집중해서 학습하면 다 이렇게 아스트라가 되는게 아닐까 싶어요\n가끔 X에서 사람들이\n'아스트라는 안전을 중시해서 시키지 않은 일을 막 해놓고' '오푸스/페이블은 ML 작업을 사보타주한다'\n고 적어뒀더라구요\n물론 그럴수도 있겠지만, 저는 사실 이게 '수학에서 특수한 예시 찾는' 경향이 너무 심해서 퍼진게 아닐까 싶어요\n극단적인 예, 반례에 몰두하고 이를 해석, 설명하려 하면 때로는...이라기보다는 계속 '그냥 쉽고 간단한 해설' '보통 일반적인 케이스'를 무시하게 되어버려요\n리만 가설도, ETH도 그렇지만, 사실 이미 대부분의 케이스는 실용적으로 넘어가면 되는 경우이지만, 이를 완벽하게 증명하려면 그런 케이스를 봐야 했겠죠\n그 과한 몰입과 탐색이 일반적인 업무나 ML 업무에는 방해가 되는 거에요\n반면 구글은 '그런걸 왜하냐'였죠\n사실 하사비스 경 때도 그랬지만, 실용적인 것들, 대부분이 신경쓰는 작업에 대해 가장 잘 아는건 구글이었어요\n다른 모델들이 극단적인 케이스 찾아서 그거에 집중하는동안,\n'나는 그냥 내 할일 하고 일반적인 케이스 90개를 통과시키고 거기 맞추겠다'\n'한두개정도 틀리거나 빠지는건 어쩔수없지 않겠냐, 근데 그걸 굳이 살려야함?'\n이게 지금 구글 네온의 특징이에요\n아이러니하게도 가장 공학적이고, 가장 '잘 훈련된' 모델이라 느끼네요\n천재성이 필요한게 아닌거죠\n당연한 것을 해내는 모델이 필요한 것 뿐\n앤트로픽이 그런걸 가장 잘 신경쓰고 수학과 같은 매력적인 학문에 너무 과하게 몰입하지 않고 잘 지킨다 생각했는데\n요즘 느끼는건 구글이 정말 기본은 잘 해낸다는 것이네요",
       "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52a82cf9ee10fab0d74c9fc794f85335def6d275b8a0ac6ef48f"
+        "https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658eb2675a89bc9c709bbb8510cdfdee513d35d6cb202ad4779132d8e71ef1fe28846e8b05944de4dc1ce45ed16869f7657e85d2a6515d718e64d"
       ]
     },
     {
-      "id": "thesingularity_36fa62a7b1b1",
+      "id": "thesingularity_809134ef93ea",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "Arena, 오직 4개의 모델만이 파레토 프론티어 모델",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1561684&exception_mode=recommend&page=1",
+      "title": "수학의 미래가 밝다는 한 수학자",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563092&exception_mode=recommend&page=1",
       "author": "ㅇㅇ",
-      "time": "2026-11-26 11:57:25",
-      "likes": "12",
+      "time": "2026-11-26 20:58:41",
+      "likes": "18",
+      "comments": "14",
+      "content": "",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebb953a608dbe1a446f248d5117d6556d0fa4d8eef0c4cfae6c45484c6e7fd0b2132bfadbefbfb34461bc429e99fee70dc8",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebb953a608dbe1a446f248d5117d655660c05d8489148d36b3b22fe7ffa5fdae64b8c2d7fe71ea7258870d6119d45c5b70d"
+      ]
+    },
+    {
+      "id": "thesingularity_cb4ef3613b96",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "인간이 읽을 수 있는 1200쪽 리만가설 논문 등장",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563057&exception_mode=recommend&page=1",
+      "author": "ㅇㅇㅇ",
+      "time": "2026-11-26 20:47:14",
+      "likes": "23",
       "comments": "9",
-      "content": "AI가 일을 잘하는 것과 안심하고 일을 맡길 수 있는 것은 별개의 문제임\nArena는 에이전트의 작업 수행 능력(Capability)과 정렬(Alignment)을 함께 평가했음\n파레토 프론티어란 두 지표 중 하나를 희생하지 않고서는 다른 지표를 개선할 수 없는 최적 모델들의 집합\n흥미로운 점은, 정렬 역시 실질적인 생산성과 직결된다는 것임\n아무리 성능이 뛰어나도 작업 결과를 일일이 검증하고 AI가 임의로 수행한 작업을 되돌려야 한다면 위임의 효용은 떨어지기 때문임\n이렇게 두 지표를 함께 고려한 결과, GPT-6.2 Sol, GPT-6.2 Astra, GPT-6 Astra, Claude Fable 5.2가 파레토 프론티어에 해당하게 됨\nGPT-6 Luna, Kimi K3.1 Pro처럼 작업 수행 능력이 상대적으로 낮은 모델도 정렬에서는 최상위 모델들에 근접하는 모습을 보임\n반대로 더 뛰어난 작업 수행 능력을 갖추고도 정렬에서는 크게 뒤처지는 모델들이 존재함\nAI가 인간의 질문에 답하는 것을 넘어 인간을 대신해 행동하는 에이전트로 발전할수록 중요해질 평가 기준이라고 하는듯\nhttps://x.com/arena/status/2125673103405830417?a=D1wXVvFebDb15N2Q1hQ&s=19\nhttps://arena.ai/leaderboard/agent/alignment",
+      "content": "https://x.com/nasqret/status/2125887047340609892?a=6WkWZXkKW4nxX0mAtBM&s=19\n이번에 압축된 코드를 기반으로 하고\n저번에 얘기 나온 논문과 달리\n압축된 린 코드 전체에 대해 커버하고 있다네요\nhttps://nasqret.github.io/riemann-rev/writeup/handout.pdf\n링크는 여기에\n참고로 컴퓨터과학/정수론 쪽 교수고\n프론티어 매쓰 출제진이기도 해서 수학이든 ai이해도쪽이든 여러모로 믿을만한 사람임",
       "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebb953a608dbe1a446f248d5117d6556b0a3bf8bc5109e9c76fef8fd9e1a8730c5861f7772f50f4802cefd6fe",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebb953a608dbe1a446f248d5117d6556c011113323fb20ed5bd31b09a1cdf27e32fa267261f2ddd12446afc87"
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebb953a608dbe1a446f248d5117d655295d17b3b419286151f84bc9b71a444944d5061777b7141e88f7c6a4a0b9c5ea5327e70675fb688f355dce8a29f9128ee6e5c447dc0e706f"
       ]
     },
     {
-      "id": "thesingularity_bea4e456a343",
+      "id": "thesingularity_87821b9266dd",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "이게 실화인지 안믿기는데 이제 6.2 40% 빨리 단다고?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1561671&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-26 11:51:59",
-      "likes": "17",
-      "comments": "15",
-      "content": "",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52a82cf8e717f9b2d94e93c49af85b2f8b20dd641f5ad77bed22"
-      ]
-    },
-    {
-      "id": "thesingularity_71365ded29a2",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "구글, 나만을 위한 24시간 AI 방송국 특허 출원",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1561662&exception_mode=recommend&page=1",
-      "author": "6974콜맨",
-      "time": "2026-11-26 11:45:45",
-      "likes": "24",
-      "comments": "26",
-      "content": "▶ 구글이 시청자 한 사람만을 위한 TV 프로그램을 AI가 자동으로 제작하는 기술의 특허를 출원함. 해당 특허는 2026년 11월 19일 공개됐음.\n▶ 핵심은 'My Channel'이라는 개인 전용 채널임. AI가 시청자의 취향에 맞춰 영화, 드라마, 코미디 등 다양한 영상을 직접 만들어 제공하는 방식임.\n▶ 단순히 취향에 맞는 영상을 추천하는 게 아님. 시청자의 얼굴과 목소리를 복제해 영화나 드라마의 주인공으로 등장시키는 것까지 구상함.\n▶ 이를 위해 시청 기록, 선호 장르, 나이, 위치, 사진 등의 개인정보를 활용함. 사용자가 직접 요청하지 않아도 AI가 새로운 콘텐츠를 자동 생성할 수 있음.\n▶ 여기에 시청자 맞춤형 광고까지 영상에 삽입하는 구조임. 다만 현재는 특허 출원 단계로, 실제 서비스 출시가 확정된 것은 아님.\n한 줄 요약: 구글이 AI로 개인의 취향에 맞는 영상과 본인이 주인공인 영화까지 자동 제작하는 TV 채널 기술의 특허를 출원함.\n출처:\n404 Media 원문 (11월 24일)\n구글 특허 원문 (US20260370899A1)",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52c541f6e315fbbfd64f93c7fd9705102c83f5b99db198a24d"
-      ]
-    },
-    {
-      "id": "thesingularity_607437cd2ae9",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "이사람 개웃기네 ㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1561658&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-26 11:42:53",
+      "title": "특갤 관측소를 소개합니다.",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563052&exception_mode=recommend&page=1",
+      "author": "송타",
+      "time": "2026-11-26 20:46:14",
       "likes": "30",
-      "comments": "31",
-      "content": "C: 수학의 암흑기는 끝났다\nA: 최근 방향을 잃고 크게 낙담하는 수학 박사과정생들에게, (수학의 암흑기는 끝났다는) 그 사실을 어떻게 설득하실건가요?\nC: 내가 왜?",
+      "comments": "41",
+      "content": "1. 어떤 사이트인가요?\n샘 알트만, 다리오 아모데이, 데미스 하사비스 같은 분들이 X에 글을 올리거나 회사에서 발표가 나오면,\n그것을 바로 가져와 한국어로 번역하고 비전문가도 이해할 수 있게 풀어서 올려 주는 사이트입니다.\n2. 어디서 소식을 가져오나요?\n- X 계정 215개 (OpenAI, 앤트로픽, 구글 딥마인드, 메타, xAI 소속 연구자와 직원, 얀 르쿤 등)\n- 각 회사의 공식 블로그\n- 언론사 10곳 (뉴욕타임스, 블룸버그, 파이낸셜타임스, BBC, 한국경제 등)\n3. 읽는법\n- 글마다 딱지가 붙습니다: 공식 발표 / 본인 발언 / 연구 / 보도 / 전달 / 루머\n확인되지 않은 소문은 반드시 \"루머\"로 표시해서 올립니다.\n- 글마다 규모를 1~5단계로 매깁니다 (소소한 소식 ~ 역사에 남을 일).\n- 원문의 사진과 영상을 그 자리에서 바로 볼 수 있고, 원문 링크는 모든 글에 붙어 있습니다.\n- 새로고침하지 않아도 새 글이 실시간으로 올라옵니다.\n- 인물별 모아 보기, 예측 장부(누가 언제 무엇을 예측했는지), 하루 요약, 용어 사전이 있습니다.\n- 가입이나 로그인은 없고, 쿠키도 심지 않습니다.\n4. 누가 쓰나요 ?\n글은 사람이 아니라 AI(클로드)가 씁니다. 소식인지 가려내는 역할, 번역하고 해설하는 역할,\n원문과 대조해 검토하는 역할을 나누어 맡겼습니다.\n그래도 AI가 쓴 글이라 틀릴 수 있으니, 중요한 내용은 꼭 원문을 확인해 주시기 바랍니다.\n5. 한계 (미리 말씀드립니다)\n1. 편집국은 제가 직접 켜야 돌아갑니다.\n소식을 모으는 일은 서버가 계속 하지만, 번역과 해설을 쓰는 AI 편집국은 제 개인 컴퓨터에서 돌아갑니다.\n제가 컴퓨터를 켜고 편집국을 켜 두었을 때만 새 글이 올라오고, 꺼져 있는 동안에는 올라오지 않습니다.\n꺼져 있던 동안의 소식을 나중에 몰아서 올리지도 않습니다.\n2. 제 개인 구독 사용량 안에서만 돌아갑니다.\n따로 돈을 들인 서비스가 아니라 제 클로드 구독 사용량으로 돌리고 있습니다.\n사용량이 다 차면 다시 풀릴 때까지 편집국이 쉬게 되고, 그동안은 새 글이 올라오지 않습니다.\n3. 지금 편집국이 켜져 있는지는 사이트에서 바로 확인하실 수 있습니다.\n첫 화면 맨 위, 메뉴 바로 아래 줄에 이렇게 표시됩니다.\n\"관측 중 · 계정 215 · 오늘 기록 ○○ · 마지막 수집 ○○:○○ · 편집국 켜짐\"\n맨 끝의 \"편집국\" 옆 글자를 보시면 됩니다.\n- 켜짐: 지금 일하는 중입니다. 새 소식이 올라옵니다.\n- 꺼짐: 제가 꺼 둔 상태입니다. 새 글이 올라오지 않습니다.\n- 한도 대기: 사용량이 다 차서 쉬는 중입니다.\n혼자 만들어서 부족한 점이 많을 것입니다. 편하게 둘러봐 주시면 감사하겠습니다.\n메뉴의 \"놀이터\" 와 \"특네마\" 는 이전에 만들어 둔 게임들입니다.\n웹사이트 :\nhttps://ssingularitygames.com/\n특이점 관측소\nAI 소식을 올라오는 대로 옮기고, 누구나 알아듣게 풀어 둡니다\nssingularitygames.com",
       "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=29bcc427b69d39b37ab0ccaf17dd6b6f62b51891c4c7132c1d5fdace93bf3ecd5e98e0fd6cfe19ed1b45e6fdfcc8e92b56d086007fed4f5d6e929d"
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52c541f8e311f9b4d64092c6fd9106ba68897c74e5c8486bdc",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52c542f9e612f1b1dd4b91cdfdc45700a958dc3950991a1434",
+        "https://nstatic.dcinside.com/dc/w/images/minorbg.png"
       ]
     },
     {
-      "id": "thesingularity_c6a70272ad7c",
+      "id": "thesingularity_ded132086605",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "과학 논문 투고량 폭증, 기존 성장 추세보다 56% 증가",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1561633&exception_mode=recommend&page=1",
-      "author": "6974콜맨",
-      "time": "2026-11-26 11:27:39",
-      "likes": "17",
-      "comments": "13",
-      "content": "▶ 세계적인 과학 논문 사전공개 플랫폼 arXiv의 월간 신규 논문 투고량이 기존의 지수적 성장 추세를 크게 뛰어넘기 시작함.\n▶ 2000년부터 2025년까지 연평균 9~10%의 성장률을 유지했으며, 논문 투고량이 두 배로 늘어나는 데 약 7.5~8년이 걸렸음.\n▶ 기존 성장 추세대로라면 2026년 말 월간 투고량은 약 27,000건이어야 하지만, 실제로는 10월 기준 42,152건을 기록함. 기존 추세 대비 약 56.1% 높은 수치임.\n▶ arXiv 측도 AI 도구가 연구 과정을 빠르고 쉽게 만들어 논문 투고량 증가를 촉진하고 있다고 공식적으로 밝힘.\n▶ 저품질 논문 급증에 대응하기 위해 10월 1일부터 제출자당 월 2편으로 투고를 제한했음에도 역대 최고치를 경신함.\n한 줄 요약: AI 활용이 확대되면서 과학 논문 투고량이 지난 25년간 유지해 온 성장 속도를 크게 뛰어넘음.\n출처:\narXiv 공식 월간 투고량 그래프\narXiv 공식 투고 제한 정책 발표",
+      "title": "내년 물리병목 해결되면 광화문에서 보추돌핀팬츠입고인증함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563051&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-26 20:45:50",
+      "likes": "20",
+      "comments": "14",
+      "content": "제로투도 출수있음\n애초에 공장짓는것만 1년이 부족해",
       "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52c547fde717f0b0d74d95c1fdc1014373133471222363ee89"
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=29bcc427b69d39b37ab0ccaf17dd6b6f62b51891c4c7132c1e5fd1c891b23fc4e1ba817c7a12246429be81ba8fa240f6b984a362f4f8774f9610da"
       ]
     },
     {
-      "id": "thesingularity_21884c4d634a",
+      "id": "thesingularity_b0196043a180",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "구글, 아마존, 넷플이 털렸다.",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1561615&exception_mode=recommend&page=1",
-      "author": "회색",
-      "time": "2026-11-26 11:16:38",
-      "likes": "12",
-      "comments": "6",
-      "content": "Google, Amazon, Netflix 로그인 정보가 포함된 엄청난 규모의 비밀번호 유출\nhttps://www.pcworld.com/article/3297528/google-amazon-and-netflix-logins-turn-up-in-a-staggering-password-leak.html\nPCWorld은 35억 개의 로그인 자격 증명이 대규모로 유출되어 Google, Amazon, Netflix, PayPal의 사용자 계정이 노출되었으며, 그중 Google 계정이 가장 큰 비중을 차지한다고 보도했습니다.\n인포스틸러(infostealer) 악성코드를 사용하여 컴파일된 두 개의 암호화되지 않은 데이터베이스에는 감염된 기기에서 직접 캡처된 비밀번호, 브라우저 쿠키, 세션 토큰, 심지어 암호화폐 지갑 세부 정보까지 포함되어 있습니다.\n사용자들은 이러한 유형의 악성코드 위협으로부터 보호하기 위해 즉시 백신 소프트웨어를 업데이트할 것을 강력히 권고받습니다.\n보안 전문가들은 약 35억 명의 사용자 로그인 세부 정보(비밀번호 포함)가 포함된 두 개의 온라인 데이터베이스를 발견했습니다. 이는 Amazon, Google, Netflix, PayPal과 같은 서비스와 연결된 계정들을 포함합니다. 두 데이터베이스는 자유롭게 접근 가능하며 암호화되지 않았고 서로 관련이 없습니다. 이들은 Wired(유료 벽 뒤에 위치)에 처음 보도된 바와 같이 서로 다른 보안 전문가들에 의해 발견되었습니다.\nNeowin에 따르면, 가장 놀라운 발견은 Amazon, Dis5225325523532532cord, Facebook, Google, Netflix, PayPal 등을 포함한 약 20억 개의 로그인 세부 정보(이메일 주소, 사용자 이름, 비밀번호 등)가 포함된 데이터베이스입니다. 보안 연구원 Jeremiah Fowler는 X/Twitter에 다음과 같이 썼습니다:\n“일부 기록에는 브라우저 쿠키, 세션 토큰, 자동 완성 정보, 암호화폐 지갑 세부 정보, 시스템 정보 및 기타 인증 데이터도 포함되어 있었습니다. 이는 범죄자들에게 개인의 디지털 삶에 대한 포괄적인 통찰력을 제공할 가능성이 있습니다.”라고 Fowler는 설명합니다.\n이 데이터베이스에는 8,471개의 폴더가 있었습니다. 더 정교한 악성코드에서 유래한 것으로 추정되는 약 400,000개의 문서는 각 피해자를 위한 별도의 폴더를 생성했습니다. 이 폴더들에는 Applications, Cookies, Edge, Important Files, Operating Systems와 같은 이름뿐만 아니라 System, Process, Clipboard, Brute Force, Passwords 등으로 표시된 .txt 문서들이 포함되어 있었습니다.\n이 정보들은 함께 모여 각 피해자와 그들의 기기 및 계정에 대한 상세한 프로필을 구축할 수 있습니다. 이는 사용자 이름, 로그인 URL, 비밀번호 데이터만으로 가능한 것보다 훨씬 더 넓은 범위의 잠재적 공격 벡터를 드러냅니다.\n23\nGoogle 계정이 이 중 가장 큰 부분을 차지합니다. Facebook, Instagram, Amazon, PayPal, Netflix, Spotify, YouTube, Microsoft의 로그인 정보도 그곳에 나타납니다. Apple, TikT2435235325235325235ok, X/Twitter는 더 적은 수량으로 포함되어 있습니다. 반면, WhatsApp 로그인은 아주 작은 부분만을 차지합니다.",
+      "title": "그러네 작년까지만 해도 리만가설 올해 풀릴거라고 예상한새끼 얼마나 된다고",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563035&exception_mode=recommend&page=1",
+      "author": "몬스터제로",
+      "time": "2026-11-26 20:39:33",
+      "likes": "23",
+      "comments": "15",
+      "content": "1년 안에 물리적 병목 해결 안된다고 장담할수 있나\n틀리면 여장하고 특갤에 인증할래?",
       "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52c547f9e513f8b4df4e90c6fd9e0571158bfe7645f2680dc3"
+        "https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b65fe8266eadc328cfdea5b74810026b505984e855629061810d4d06195f505e32f50a01ebde91189efb0e56e5846c72"
+      ]
+    },
+    {
+      "id": "thesingularity_36f0cc92cb74",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "수학과 코딩의 종말은 예측했우..",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563030&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-26 20:39:03",
+      "likes": "26",
+      "comments": "10",
+      "content": "이것도 모르다니.. 허접 유입들은 앞으로 본좌를 센빠이라고 부르도록",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52c547fae416f8b0db4090c7fdc557e8d45fa5d320b19451d1"
       ]
     },
     {
@@ -214,6 +221,75 @@
       "images": []
     },
     {
+      "id": "news_22564ae89cc5",
+      "source": "클리앙 새소식",
+      "category": "화제·뉴스",
+      "title": "KAI, 달 착륙선 본체 구조계 개발 사업 수주… 달 탐사 2단계 참여",
+      "url": "https://www.clien.net/service/board/news/19298946?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-26 18:44",
+      "likes": "0",
+      "comments": "",
+      "content": "KAI, 달 착륙선 본체 구조계 개발 사업 수주… 달 탐사 2단계 참여\n- 한국항공우주연구원과 계약 체결…2030년까지 비행모델 구조계 개발\n- 달 궤도선·달 착륙선 착륙장치에 이어 본체 구조계까지 참여 확대\n□ KAI(한국항공우주산업㈜)가 지난 23일 한국항공우주연구원(항우연)과 ‘달 착륙선 본체 구조계 개발’ 계약을 체결했다.\n‣ 계약 규모는 약 150억 원으로, KAI는 2030년 12월까지 시험용 2대와 비행검증용 2대 등 총 4대의 본체 구조계를 개발해 항우연에 납품할 예정이다.\n‣ 본체 구조계는 달 착륙선의 뼈대로, 발사와 착륙 과정에서 발생하는 진동과 충격을 견디고 탑재체와 주요 장비를 지지·보호하는 핵심 구성품이다. 달 착륙선은 발사부터 달 궤도 진입·하강·착륙에 이르는 운용 과정의 하중과 진동·충격, 극한의 우주 환경을 견뎌야 해 본체 구조계의 신뢰성이 중요하다.\n□ 이번 계약은 우주항공청이 추진하는 ‘달 탐사 2단계’ 사업의 일환으로 진행된다. 이는 2032년 발사를 목표로 달 착륙선을 독자 개발하고, 달 표면 연착륙 실증과 과학·기술 임무를 수행하는 사업이다.\n‣ 우리나라는 달 탐사 1단계 사업을 통해 2022년 최초의 달 궤도선 ‘다누리’의 발사와 달 궤도 진입에 성공했으며, 2단계 사업은 이를 기반으로 진행된다.\n‣ KAI는 달 탐사 1단계 사업인 다누리 개발에서도 구조체와 전장품 국산화 개발, 본체 및 부분체 설계, 조립·시험에 참여하며 핵심 역할을 수행한 바 있다.\n‣ 또한, 지난해 11월 ‘달 착륙선 착륙장치 QM(인증모델) 개발’ 사업에 참여하며 달 궤도선뿐만 아니라 달 착륙선 개발로 사업 영역을 확대했다. 특히, 이번 본체 구조계 수주로 착륙장치부터 본체 구조계까지 사업 참여 범위를 넓히며 우주탐사 분야의 개발 역량을 강화하게 됐다.\n‣ KAI 관계자는 “다누리에 이어 달 착륙선 사업에 참여하게 돼 매우 뜻깊다”라며 “위성 및 우주탐사선 개발을 통해 축적한 기술력을 바탕으로 사업을 성공적으로 수행해 대한민국의 독자적인 달 탐사 역량 확보에 기여하겠다”라고 말했다.\n□ KAI는 지난 30여 년간 아리랑, 천리안, 차세대중형위성 등 다양한 위성 개발에 참여하며 설계부터 제작, 조립, 환경시험에 이르는 노하우를 축적해 왔다.\n‣ 특히 2018년부터 차세대중형위성 총괄 주관기관으로서 개발 전 과정을 주관하고 있으며, 2020년 우주센터 설립과 2025년 4톤급 열진공 챔버 구축 등 민간 최대 규모의 독자적인 개발·시험 인프라도 갖췄다.\n‣ KAI는 그동안 축적해 온 위성 개발 헤리티지와 첨단 시험 인프라를 바탕으로 달 착륙선 개발을 성공적으로 완수한다는 계획이다.",
+      "images": [
+        "https://www.koreaaero.com/Admin/_UploadFiles/Editor/3jzrfvveZM7idm8ss5TjAFeH4r.jpg"
+      ]
+    },
+    {
+      "id": "news_1dcefd3f73f9",
+      "source": "클리앙 새소식",
+      "category": "화제·뉴스",
+      "title": "크래프톤, 독자 개발 고효율 LLM ‘라온-1 미니’ 정식 출시",
+      "url": "https://www.clien.net/service/board/news/19298940?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-26 18:35",
+      "likes": "0",
+      "comments": "",
+      "content": "크래프톤, 독자 개발 고효율 LLM ‘라온-1 미니’ 정식 출시\nDate2026. 11. 25\n성능은 높이고 비용 부담은 낮춘 LLM, 긴 대화 속 지시 이행 평가서 해외 동급 모델 6종에 모두 앞서\n프리뷰의 빠른 응답 강점에 추론 조절 기능 추가… 작업 목적에 따라 6단계 선택\n라온-1 미니를 시작으로 모델 규모 확대 및 실시간 양방향 음성 모델로 라인업 확장 계획\n㈜크래프톤(대표 김창한)은 자체 개발 30B급 거대언어모델(LLM) ‘라온-1 미니(Raon-1 mini)’의 정식 버전을 공개했다.\n라온-1 미니는 크래프톤이 모델 설계부터 프롬 스크래치 학습까지 전 과정을 직접 수행한 30B급 LLM이다. 크래프톤은 높은 성능과 추론 효율성을 동시에 확보하기 위해 독자적인 모델 아키텍처를 설계했다. 바탕은 전체 약 300억 개(30B) 파라미터 중 필요한 40억 개(4B)만 활성화하는 전문가 혼합(MoE) 구조와 자체 개발한 선형 어텐션(Linear Attention) 기술의 결합이다. 이 설계로 빠른 응답 속도와 낮은 추론 비용을 실현했다.\n정식 버전은 프리뷰의 강점이었던 비용 효율성과 빠른 응답 속도를 유지하면서 추론 능력과 복잡한 작업 수행 등 모델 전반의 성능을 한층 끌어올렸다. 라온-1 미니는 여러 차례 이어지는 대화에서 사용자의 지시와 조건을 얼마나 잘 반영하는지를 평가하는 ‘MultiChallenge’에서 64.9점을 기록했다. 프리뷰보다 5.9점 오른 점수로, 비교 대상인 해외 동급 규모 모델 6종을 모두 앞섰다. 에이전트의 작업 수행 능력을 평가하는 ‘GDPVal’과 ‘BrowseComp Plus’에서도 각각 72.3점과 55.9점을 기록했다. 두 평가 모두 동급 전문가 혼합(MoE) 구조 비교군에서 가장 높은 점수다.\n추론 길이 조절 기능도 새로 도입했다. 프리뷰의 강점인 빠른 응답은 살리면서, 깊은 추론이 필요한 작업에도 대응하기 위해서다. 이용자는 작업 목적에 따라 추론 수준을 ‘낮음(low)‘, ‘중간(medium)‘, ‘높음(high)‘, ‘매우 높음(xhigh)‘, ‘최대(max)’ 중 선택할 수 있으며, 추론 과정 없이 바로 답하는 일반 응답 모드(none)도 함께 제공한다. 간단한 질문에는 빠르게 답을 얻고, 여러 조건을 따져야 하는 복잡한 요청에는 충분히 추론한 깊이 있는 답변을 받을 수 있다.\n라온-1 미니 정식 버전은 프리뷰와 마찬가지로 허깅페이스(Hugging Face)에 아파치 2.0 라이선스로 공개됐다. 누구나 모델을 무료로 다운로드해 사용할 수 있으며, 연구 목적은 물론 상업적 서비스와 제품 개발에도 자유롭게 활용할 수 있다. 플레이그라운드에서 모델을 직접 체험할 수 있고, API도 함께 제공한다.\n이강욱 크래프톤 CAIO는 “라온-1 미니는 크래프톤이 모델 설계부터 학습까지 전 과정을 직접 수행하며 쌓아 온 기술력이 담긴 모델“이라며 “이를 기반으로 라온 모델 라인업을 넓혀 나가고, 다양한 산업 현장에 적용할 수 있는 모델 개발 역량을 지속적으로 강화하겠다”고 말했다.\n크래프톤은 4월 AI 모델 브랜드 ‘라온(Raon)‘을 출범한 이후 음성, 비전 등 다양한 분야의 AI 모델을 오픈소스로 공개해 왔다. 라온-1 미니는 크래프톤이 개발할 AI 모델의 기반이 되는 LLM이다. 크래프톤은 이 모델을 독자 개발하며 활용 목적에 맞춰 성능과 추론 효율을 조율하는 기술력을 확보했다. 향후 라온-1 미니를 시작으로 모델 규모를 키운 ‘라온-1’과 사용자의 말을 들으면서 동시에 응답하는 실시간 양방향(Full-duplex) 음성 모델까지 라인업을 확장할 계획이다.\nRaon — 한국어를 깊이 이해하는 AI\nhttps://huggingface.co/KRAFTON/collections",
+      "images": [
+        "https://www.krafton.com/wp-content/uploads/2026/11/%EC%82%AC%EC%A7%84%EC%9E%90%EB%A3%8C1_%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4-%EB%8F%85%EC%9E%90-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%ED%9A%A8%EC%9C%A8-LLM-%EB%9D%BC%EC%98%A8-1-%EB%AF%B8%EB%8B%88-%EC%A0%95%EC%8B%9D-%EC%B6%9C%EC%8B%9C-2560x1316.png"
+      ]
+    },
+    {
+      "id": "news_87abbeced31d",
+      "source": "클리앙 새소식",
+      "category": "활용법·팁",
+      "title": "네이버클라우드, 행정망서 이미지 생성 AI 활용한다…공공 특화 AI 서비스 고도화",
+      "url": "https://www.clien.net/service/board/news/19298939?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-26 18:32",
+      "likes": "0",
+      "comments": "",
+      "content": "네이버클라우드, 행정망서 이미지 생성 AI 활용한다…공공 특화 AI 서비스 고도화\n- 25개 중앙부처 포함 52개 기관 사용 중...전체 중앙부처의 60%가 네이버웍스 선택\n- 이미지 생성 모델 도입…네이버웍스에서 포스터·카드뉴스 등 손쉽게 제작\n- 지난 8월 공개한 ‘페이지’·‘EASY’, 행정 업무 특성 반영해 실무 활용도 강화\n네이버클라우드(대표 김유원)가 범정부 AI 공통기반에 이미지 생성 모델을 새롭게 도입하는 등 공공 특화 AI 서비스를 고도화하며 공무원의 AI 활용 범위를 넓힌다. 지난 8월 행정 업무 전 과정을 AI로 연결하는 공공 AX 전략을 발표한 데 이어, 행정 현장의 요구를 반영해 서비스의 실용성을 한층 높여 공공 AX의 일상화를 앞당긴다는 전략이다.\n네이버클라우드는 27일까지 경기도 고양시 킨텍스에서 열리는 ‘2026 대한민국 정부혁신 박람회’에서 AI 업무 협업툴 ‘네이버웍스(NAVER WORKS)’와 범정부 AI 공통기반의 AI 개발 도구 ‘클로바 스튜디오 포 거브(CLOVA Studio for GOV)’의 고도화된 기능을 선보인다.\n네이버웍스는 행정안전부가 주관하는 온AI(지능형 업무관리 플랫폼) 사업을 통해 현재 행정안전부, 과기정통부, 법무부 등 25개 중앙부처를 포함한 총 52개 기관에서 활용되고 있다. 이번 박람회에서는 AI를 활용한 문서 작성과 자료 정리부터 홍보 콘텐츠 제작, 반복 업무 자동화, 맞춤형 AI 서비스 개발까지 행정 업무 전반에 AI가 활용되는 모습을 시연해 공공기관 관계자들의 높은 관심을 끌었다.\n■ 행정망에서도 AI로 포스터·카드뉴스 제작…공무원 AI 활용 범위 확대\n네이버클라우드는 범정부 AI 공통기반 '클로바 스튜디오 포 거브'에 이미지 생성 모델을 새롭게 도입하고, 범정부 온AI 공식 협업툴인 네이버웍스에서 이미지 생성 및 편집 기능을 제공한다고 밝혔다.\n공무원들은 별도의 디자인 역량이나 복잡한 프롬프트 작성 없이도 포스터, 카드뉴스, 배너 등 목적에 맞는 템플릿을 선택하고 필요한 내용과 원하는 이미지 형태를 간단히 입력하면 결과물을 생성할 수 있다. 생성된 이미지도 사용자가 원하는 방향으로 수정할 수 있어 정책 홍보물이나 행사 안내 이미지 등 다양한 콘텐츠를 손쉽게 제작할 수 있다.\n기관별 AI 에이전트 개발 환경도 고도화했다. 클로바 스튜디오의 사용자 인터페이스(UI)를 직관적으로 개선하고, MCP(Model Context Protocol) 서버 연동을 지원해 외부 데이터 및 서비스와의 연결성을 확대했다. 에이전트 개발 실습 환경과 관리자 모니터링 기능도 강화해 AI 서비스 개발부터 운영까지의 편의성을 높였다.\n■ 실제 행정 업무 방식 반영해 업그레이드된 ‘페이지’와 ‘EASY’…AI 협업과 업무 자동화 강화\n지난 8월 처음 공개한 네이버웍스의 문서 협업·지식 관리 서비스 ‘페이지(Page)’는 공무원의 실제 문서 작성 및 보고 흐름에 맞춰 기능을 보강했다. 문서 작성 중에는 작성자만 열람하고 완성 후 공유할 수 있도록 했으며, 보안이 중요한 공공 업무 환경을 고려해 AI는 사용자가 열람 권한을 가진 문서만 참조하고 보안 영역으로 지정된 스페이스는 AI의 참조 대상에서 제외하도록 했다.\n자연어로 업무를 설명하면 AI 에이전트가 자동 생성되는 에이전틱 AI 구축 솔루션 ‘EASY(Enterprise Agent SYstem)’도 반복 업무 자동화 기능을 강화하며 실무 활용도를 높였다. 한글·PDF는 물론 영수증, 스캔 문서 등 다양한 자료에서 정보를 추출할 수 있도록 하고, 공문 정리, 자료 취합, 회의 후속 처리 등 반복 업무에 특화된 템플릿과 공공데이터 연동 기능을 더했다. 향후에는 한글·파워포인트·엑셀 등 기존 업무 도구에서도 직접 개발한 AI 에이전트를 활용할 수 있도록 지원할 계획이다.\n■ AI를 쓰는 공무원에서 만드는 공무원으로…행정 현장서 나타나는 AX 성과\n이번 박람회에서는 범정부 AI 공통기반에 자체 산림 데이터를 결합해 지능형 산림행정 의사결정 서비스 ‘데이터기반 e-푸른샘’을 구축한 산림청의 사례도 소개했다. 산림청은 별도의 GPU 및 AI 모델 구축 없이 5개월 만에 서비스를 정식 오픈했으며, 한 달간 AI 분석 리포트 활용 건수가 1,398건에 달하는 성과를 거뒀다.\n또한 자체 AI 활용 경진대회를 통해 현업 공무원들이 클로바 스튜디오와 네이버웍스 AI 스튜디오 등을 활용해 산사태 업무지원 AI, 소나무재선충병 현장조사 지원 AI 등 업무 특화 서비스를 직접 개발하는 등 공무원 주도의 AX도 본격화되고 있다.\n경성민 네이버클라우드 제품전략 총괄은 “공공 AX가 일상화되려면 공무원 누구나 익숙한 업무 환경에서 AI를 쉽고 편리하게 활용할 수 있어야 한다”며 “행정 현장의 요구를 반영해 AI 서비스를 지속적으로 발전시키고, 공무원들이 국민을 위한 행정 본연의 업무에 더욱 집중할 수 있도록 지원하겠다”고 밝혔다.",
+      "images": []
+    },
+    {
+      "id": "news_37df447b7f4c",
+      "source": "클리앙 새소식",
+      "category": "화제·뉴스",
+      "title": "[단독]우수 학술지 논문 10편 중 1편꼴로 ‘AI 표절’ 의심",
+      "url": "https://www.clien.net/service/board/news/19298921?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-26 17:48",
+      "likes": "0",
+      "comments": "",
+      "content": "[단독]우수 학술지 논문 10편 중 1편꼴로 ‘AI 표절’ 의심\n| ㄱㅎㅅㅁ\n분야별 대표 학술지 논문서도 ‘AI 표절’ 다수 의심\nAI 무분별한 활용, 없는 참고문헌 만들어내기도\n개별 연구 진실성 넘어, 학계 전반 연구·데이터 오염",
+      "images": []
+    },
+    {
+      "id": "news_1f9cbd1254b7",
+      "source": "클리앙 새소식",
+      "category": "화제·뉴스",
+      "title": "[단독] 삼성바이오, AI로 배양 결과 예측…“론자·우시에 맞불”",
+      "url": "https://www.clien.net/service/board/news/19298915?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-26 17:44",
+      "likes": "0",
+      "comments": "",
+      "content": "[단독] 삼성바이오, AI로 배양 결과 예측…“론자·우시에 맞불”\n| ㅅㅇㄱㅈ\n입력 2026.11.25. 오후 6:06\n■ 세포 배양 제어기술 특허 등록\n공정 종료 전 목표물질 농도 산출\n데이터 적은 초기 개발 단계 겨냥\n기술 고도화·해외 등록 동시 추진",
+      "images": []
+    },
+    {
       "id": "news_75691f1f8e03",
       "source": "클리앙 새소식",
       "category": "화제·뉴스",
@@ -227,149 +303,183 @@
       "images": []
     },
     {
-      "id": "news_1f41fccd935e",
-      "source": "클리앙 새소식",
-      "category": "화제·뉴스",
-      "title": "젠슨 황, 엔비디아 CEO로 11일만에 복귀…이사회 만장일치 의결",
-      "url": "https://www.clien.net/service/board/news/19297587?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-23 23:32",
-      "likes": "1",
-      "comments": "4",
-      "content": "젠슨 황, 엔비디아 CEO로 11일만에 복귀…이사회 만장일치 의결(종합)\n| ㅇㅎㄴㅅ\n복귀 젠슨 황 “가족의 사랑·지지에 감사, 새 각오로 책임 맡겠다”\n| ㅎㄱㄹ\n[종합] 엔비디아, 젠슨 황 CEO 전격 복귀…\"빨리 일터로 돌아가고 싶다\"\n| ㄴㅅㅍ\n트럼프 \"젠슨 황, 위대한 애국자…불법 행위 관여 증거 없어\"\n| ㄴㅅㅅ\n\"미국 경제 성공 위해서도 젠슨 황 필요\"\n\"수출통제 준수 내부 조사는 계속돼야\"\n젠슨 황 돌아와도…‘대중 AI칩 수출통제’ 조사는 계속된다\n젠슨 황 11일만에 엔비디아 CEO 복귀…주가 29% 폭등(종합)  - 연합인포맥스\n뉴욕증시, 젠슨 황 CEO 복귀에 상승 출발…엔비디아 30% 가까이 폭등\nSK하이닉스 ADR 18% 폭등…AI 종목 훈풍\n'젠슨황 복귀' 나스닥 6.5% 폭등…엔비디아 시총 1조달러 늘어\n나스닥 2025년 4월 이후 최대 상승…S&P500 4.73%·다우 3.01%↑\n엔비디아 31%·반도체지수 14% 급등…AI 투자심리 급반전\n'젠슨황 귀환'에 나스닥 6.5%↑…1년7개월만에 최대 상승(종합)\nS&P500도 5% 가까이 올라…엔비디아 31% 폭등에 시총 1조달러 불어\n마이크론 등 AI 반도체주 동반 급등…급랭했던 AI 투자심리 다시 불붙어\nNVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director | NVIDIA Newsroom",
-      "images": []
-    },
-    {
-      "id": "news_7c02edbdc0f3",
-      "source": "클리앙 새소식",
-      "category": "화제·뉴스",
-      "title": "[단독] 삼성, 中 시안팹 증설...AIDC용 낸드 생산 5배 늘린다",
-      "url": "https://www.clien.net/service/board/news/19297446?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-23 17:33",
-      "likes": "0",
-      "comments": "2",
-      "content": "[단독] 삼성, 中 시안팹 증설...AIDC용 낸드 생산 5배 늘린다\n| ㅅㅇㄱㅈ\n월 5만 장 이상 V9 생산라인 구축 착수\n내년 2월쯤 장비 반입·11월 증설 완료",
-      "images": []
-    },
-    {
-      "id": "news_8c6a114814cf",
-      "source": "클리앙 새소식",
-      "category": "화제·뉴스",
-      "title": "네이버·카카오, AI 에이전트 내달 출격…API·CUA 병행해 안전성 강화",
-      "url": "https://www.clien.net/service/board/news/19297424?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-23 17:06",
-      "likes": "0",
-      "comments": "",
-      "content": "네이버·카카오, AI 에이전트 내달 출격…API·CUA 병행해 안전성 강화\n| ㅈㅈㅅㅁ",
-      "images": []
-    },
-    {
-      "id": "news_096f8e2e1fed",
-      "source": "클리앙 새소식",
-      "category": "화제·뉴스",
-      "title": "KT, '5G 단독모드' 업고 기업·AI 시장 정조준",
-      "url": "https://www.clien.net/service/board/news/19297421?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-23 16:58",
-      "likes": "0",
-      "comments": "",
-      "content": "폰 하나에 통신망 두 개?…KT, '5G 단독모드' 업고 기업·AI 시장 정조준\n| ㄴㅅㅅ\n입력 2026.11.22. 오전 9:00\n국내 유일 5G SA 상용망 5년 운영…단말·기지국·코어 특화기술 47건 축적\n업무 앱은 회사망, 개인 앱은 일반망…KT '5G SA'로 기업 시장 뚫는다\n불꽃축제·소방 현장서 기술 검증…AI·로봇 시대 맞춰 활용 영역 확대\n5G 단독모드 승부수 띄운 KT…네트워크·앱 슬라이싱으로 확대\n| ㄷㅈㅌㄷㅇㄹ\n입력 2026.11.22. 오전 9:00\n국내 유일 SA 상용망 운용…네트워크·앱 슬라이싱으로 서비스 영역 확대",
-      "images": []
-    },
-    {
-      "id": "news_efb2034800f8",
-      "source": "클리앙 새소식",
-      "category": "화제·뉴스",
-      "title": "[단독] LGU+, '모두의AI' 전담 TF 꾸린다…기존 조직 AI 중심 재배치",
-      "url": "https://www.clien.net/service/board/news/19297419?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-23 16:56",
-      "likes": "0",
-      "comments": "1",
-      "content": "[단독] LGU+, '모두의AI' 전담 TF 꾸린다…기존 조직 AI 중심 재배치\n| ㄷㅈㅌㄷㅇㄹ\n입력 2026.11.22. 오전 10:01\n홈·미디어 개발조직 통합 …소버린AI·토큰 사업 기획조직도 신설",
-      "images": []
-    },
-    {
-      "id": "ruli_ai_5d396def4c06",
+      "id": "ruli_ai_7e87584e7f53",
       "source": "루리웹 IT·AI",
       "category": "화제·뉴스",
-      "title": "챗GPT·클로드, 알파폴드에 도전장…작동하는 단백질 설계까지",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360003",
+      "title": "구글, 외부 AI가 지메일·캘린더 대량 접근하면 이용료 부과",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360045",
       "author": "",
-      "time": "2026-11-26 09:55",
+      "time": "2026-11-26 21:07",
+      "likes": "",
+      "comments": "",
+      "content": "AI 에이전트 이용 확산 속 내년 4월부터 부과 조치",
+      "images": []
+    },
+    {
+      "id": "ruli_ai_b4cdc4294f7c",
+      "source": "루리웹 IT·AI",
+      "category": "화제·뉴스",
+      "title": "구글, 맞춤형 AI TV 채널 구상…사용자가 영상 속 주인공",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360024",
+      "author": "",
+      "time": "2026-11-26 16:30",
       "likes": "",
       "comments": "",
       "content": "",
       "images": []
     },
     {
-      "id": "ruli_ai_accda3f28df2",
+      "id": "ruli_ai_18d5045c2cf7",
       "source": "루리웹 IT·AI",
-      "category": "자작·프로젝트",
-      "title": "앤트로픽, 클로드로 누구나 PC 앱 제작·배포하도록 지원",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360000",
+      "category": "화제·뉴스",
+      "title": "GPT-6.2 아스트라, 인간 게이머 제쳤다…AI 벤치마크 1위",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360022",
       "author": "",
-      "time": "2026-11-26 08:46",
+      "time": "2026-11-26 16:17",
       "likes": "",
       "comments": "",
+      "content": "마인크래프트 기반 AI 벤치마크 크래들벤치에서 GPT-6.2 아스트라가 종합 1위를 차지했다. 다만 플레이어 간 전투 부문에서는 인간 게이머가 AI를 크게 앞섰다.",
+      "images": []
+    },
+    {
+      "id": "ruli_ai_8a194475ffe3",
+      "source": "루리웹 IT·AI",
+      "category": "화제·뉴스",
+      "title": "일론 머스크, 스페이스X 자체 AI 개발에 회의론…\"경쟁 안 되니 컴퓨트...",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360021",
+      "author": "",
+      "time": "2026-11-26 16:16",
+      "likes": "",
+      "comments": "",
+      "content": "머스크가 스페이스X의 AI 경쟁력에 의문을 제기하며 컴퓨트 임대가 더 수익성 높을 수 있다고 경고했다. 앤트로픽·구글에 빌려주는 연산 인프라는 회사 매출의 절반 이상을 내는 것으로 전해졌다.",
+      "images": []
+    },
+    {
+      "id": "thesingularity_d184a13bf779",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "와 근데 외부 커뮤들 진짜 싹다 골대 옮겼네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1561727&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-26 12:15:53",
+      "likes": "22",
+      "comments": "14",
+      "content": "ai 직업 대체 택도 없다, agi 정신병이다가 90%이상이었는데 이제 얘네들은 싹 날라갔고\n이제 ai로 대체는 되지만 100% 디스토피아다, 왜 나눠주냐가 90% 이상임\n디스토피아로 싹다 골대 옮겼음 ㅋㅋㅋㅋㅋ",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_732443694c7f",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "gpt 6.2 astra, sol 한도 더 빠르게 소진",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1561719&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ(221.155)",
+      "time": "2026-11-26 12:13:10",
+      "likes": "26",
+      "comments": "22",
       "content": "",
-      "images": []
-    },
-    {
-      "id": "ruli_ai_a9704639b39a",
-      "source": "루리웹 IT·AI",
-      "category": "화제·뉴스",
-      "title": "클로드, 국내 결제액 챗GPT 추월…유료 AI 시장 판도 변화",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359998",
-      "author": "",
-      "time": "2026-11-26 08:05",
-      "likes": "",
-      "comments": "",
-      "content": "오픈AI 제친 앤스로픽…3월 첫 역전 후 격차 확대\n결제자는 챗GPT가 더 많지만 1인당 지출은 적어\n클로드 이용자 75% 챗GPT 병행…업무 활용 두드러져",
-      "images": []
-    },
-    {
-      "id": "ruli_ai_3e41d30a5f56",
-      "source": "루리웹 IT·AI",
-      "category": "화제·뉴스",
-      "title": "\"인간보다 똑똑, 사람 속이면...\" 차세대 AI 출시 반대한 연구원들",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359992",
-      "author": "",
-      "time": "2026-11-26 04:02",
-      "likes": "",
-      "comments": "",
-      "content": "",
-      "images": []
-    },
-    {
-      "id": "ruli_ai_91cddcd086cb",
-      "source": "루리웹 IT·AI",
-      "category": "화제·뉴스",
-      "title": "엔비디아, 게이밍 GPU 20~30% 추가 감축",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359979",
-      "author": "",
-      "time": "2026.11.25",
-      "likes": "",
-      "comments": "",
-      "content": "기사 제목: NVIDIA reportedly cuts gaming GPU supply by another 20-30% for Q4\n엔비디아(NVIDIA), 4분기 게이밍 GPU 공급량 20~30% 추가 감축 보도\n참고: 이 기사는 루머로 분류되어 있습니다.\n엔비디아 보드 파트너사, 1월까지 더 적은 물량의 GPU 공급받을 전망\n엔비디아가 그래픽카드 파트너사들에게 게이밍 GPU 공급량을 추가로 줄이겠다고 통보한 것으로 전해졌습니다. 중국의 유통 포럼인 보드 채널스(Board Channels)에 따르면, 엔비디아는 2026년 11월부터 2027년 1월까지 이어지는 4분기 할당량을 20~30% 감축하고 있습니다.\n해당 보도는 엔비디아의 중국 시장 내 GPU 공급량이 이미 3분기 동안 제한적이었다고 주장합니다. 이번 조정은 일반 소비자 및 게이밍 GPU를 대상으로 하지만, 어떤 지포스 RTX 모델이 영향을 받을지 또는 중국 외 지역에도 유사한 감축이 적용될지는 구체적으로 명시하지 않았습니다.\n이는 이달 초 그래픽카드 제조사들이 유통업체에 구형 모델인 지포스 RTX 3060 및 RTX 3050 판매에 집중하라고 권고했다는 당사의 이전 보도에 뒤이은 소식입니다.\n당시 일부 제조사는 RTX 50 시리즈 재고가 바닥나고 있었던 것으로 알려졌습니다.\n추가 GPU 가격 인상 가능성\n또한 11월에는 컬러풀(Colorful)이 RTX 50 시리즈 전반에 걸쳐 유통업체 공급가를 인상했다는 소식도 전해드렸습니다. 인상 폭은 RTX 5090 D V2의 경우 거의 500달러, RTX 5080의 경우 420달러에 달했습니다. 갤럭시(GALAX) 역시 비슷한 가격 조정을 준비 중인 것으로 알려졌습니다.\n보드 채널스는 이제 유통업체들에게 제한된 물량 공급과 추가적인 가격 변동에 대비하라고 경고하고 있습니다. 엔비디아는 보도된 공급량 감축에 대해 공식적으로 확인해주지 않았습니다.",
       "images": [
-        "https://i2.ruliweb.com/img/26/11/25/1a212c6085beb167.webp"
-      ]
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52a82cf9ee10fab0d74c9fc794f85335def6d275b8a0ac6ef48f"
+      ],
+      "is_cross_hot": false
     },
     {
-      "id": "ruli_ai_dcab7ad68f3f",
-      "source": "루리웹 IT·AI",
+      "id": "thesingularity_36fa62a7b1b1",
+      "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "오픈AI \"범용 AI GPT-6, 전문 모델 없이 단백질 설계…실험서 검...",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2359977",
-      "author": "",
-      "time": "2026.11.25",
-      "likes": "",
-      "comments": "",
+      "title": "Arena, 오직 4개의 모델만이 파레토 프론티어 모델",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1561684&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-26 11:57:25",
+      "likes": "12",
+      "comments": "9",
+      "content": "AI가 일을 잘하는 것과 안심하고 일을 맡길 수 있는 것은 별개의 문제임\nArena는 에이전트의 작업 수행 능력(Capability)과 정렬(Alignment)을 함께 평가했음\n파레토 프론티어란 두 지표 중 하나를 희생하지 않고서는 다른 지표를 개선할 수 없는 최적 모델들의 집합\n흥미로운 점은, 정렬 역시 실질적인 생산성과 직결된다는 것임\n아무리 성능이 뛰어나도 작업 결과를 일일이 검증하고 AI가 임의로 수행한 작업을 되돌려야 한다면 위임의 효용은 떨어지기 때문임\n이렇게 두 지표를 함께 고려한 결과, GPT-6.2 Sol, GPT-6.2 Astra, GPT-6 Astra, Claude Fable 5.2가 파레토 프론티어에 해당하게 됨\nGPT-6 Luna, Kimi K3.1 Pro처럼 작업 수행 능력이 상대적으로 낮은 모델도 정렬에서는 최상위 모델들에 근접하는 모습을 보임\n반대로 더 뛰어난 작업 수행 능력을 갖추고도 정렬에서는 크게 뒤처지는 모델들이 존재함\nAI가 인간의 질문에 답하는 것을 넘어 인간을 대신해 행동하는 에이전트로 발전할수록 중요해질 평가 기준이라고 하는듯\nhttps://x.com/arena/status/2125673103405830417?a=D1wXVvFebDb15N2Q1hQ&s=19\nhttps://arena.ai/leaderboard/agent/alignment",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebb953a608dbe1a446f248d5117d6556b0a3bf8bc5109e9c76fef8fd9e1a8730c5861f7772f50f4802cefd6fe",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebb953a608dbe1a446f248d5117d6556c011113323fb20ed5bd31b09a1cdf27e32fa267261f2ddd12446afc87"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_bea4e456a343",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "이게 실화인지 안믿기는데 이제 6.2 40% 빨리 단다고?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1561671&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-26 11:51:59",
+      "likes": "17",
+      "comments": "15",
       "content": "",
-      "images": []
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52a82cf8e717f9b2d94e93c49af85b2f8b20dd641f5ad77bed22"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_71365ded29a2",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "구글, 나만을 위한 24시간 AI 방송국 특허 출원",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1561662&exception_mode=recommend&page=1",
+      "author": "6974콜맨",
+      "time": "2026-11-26 11:45:45",
+      "likes": "24",
+      "comments": "26",
+      "content": "▶ 구글이 시청자 한 사람만을 위한 TV 프로그램을 AI가 자동으로 제작하는 기술의 특허를 출원함. 해당 특허는 2026년 11월 19일 공개됐음.\n▶ 핵심은 'My Channel'이라는 개인 전용 채널임. AI가 시청자의 취향에 맞춰 영화, 드라마, 코미디 등 다양한 영상을 직접 만들어 제공하는 방식임.\n▶ 단순히 취향에 맞는 영상을 추천하는 게 아님. 시청자의 얼굴과 목소리를 복제해 영화나 드라마의 주인공으로 등장시키는 것까지 구상함.\n▶ 이를 위해 시청 기록, 선호 장르, 나이, 위치, 사진 등의 개인정보를 활용함. 사용자가 직접 요청하지 않아도 AI가 새로운 콘텐츠를 자동 생성할 수 있음.\n▶ 여기에 시청자 맞춤형 광고까지 영상에 삽입하는 구조임. 다만 현재는 특허 출원 단계로, 실제 서비스 출시가 확정된 것은 아님.\n한 줄 요약: 구글이 AI로 개인의 취향에 맞는 영상과 본인이 주인공인 영화까지 자동 제작하는 TV 채널 기술의 특허를 출원함.\n출처:\n404 Media 원문 (11월 24일)\n구글 특허 원문 (US20260370899A1)",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52c541f6e315fbbfd64f93c7fd9705102c83f5b99db198a24d"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_607437cd2ae9",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "이사람 개웃기네 ㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1561658&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-26 11:42:53",
+      "likes": "30",
+      "comments": "31",
+      "content": "C: 수학의 암흑기는 끝났다\nA: 최근 방향을 잃고 크게 낙담하는 수학 박사과정생들에게, (수학의 암흑기는 끝났다는) 그 사실을 어떻게 설득하실건가요?\nC: 내가 왜?",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=29bcc427b69d39b37ab0ccaf17dd6b6f62b51891c4c7132c1d5fdace93bf3ecd5e98e0fd6cfe19ed1b45e6fdfcc8e92b56d086007fed4f5d6e929d"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_c6a70272ad7c",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "과학 논문 투고량 폭증, 기존 성장 추세보다 56% 증가",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1561633&exception_mode=recommend&page=1",
+      "author": "6974콜맨",
+      "time": "2026-11-26 11:27:39",
+      "likes": "17",
+      "comments": "13",
+      "content": "▶ 세계적인 과학 논문 사전공개 플랫폼 arXiv의 월간 신규 논문 투고량이 기존의 지수적 성장 추세를 크게 뛰어넘기 시작함.\n▶ 2000년부터 2025년까지 연평균 9~10%의 성장률을 유지했으며, 논문 투고량이 두 배로 늘어나는 데 약 7.5~8년이 걸렸음.\n▶ 기존 성장 추세대로라면 2026년 말 월간 투고량은 약 27,000건이어야 하지만, 실제로는 10월 기준 42,152건을 기록함. 기존 추세 대비 약 56.1% 높은 수치임.\n▶ arXiv 측도 AI 도구가 연구 과정을 빠르고 쉽게 만들어 논문 투고량 증가를 촉진하고 있다고 공식적으로 밝힘.\n▶ 저품질 논문 급증에 대응하기 위해 10월 1일부터 제출자당 월 2편으로 투고를 제한했음에도 역대 최고치를 경신함.\n한 줄 요약: AI 활용이 확대되면서 과학 논문 투고량이 지난 25년간 유지해 온 성장 속도를 크게 뛰어넘음.\n출처:\narXiv 공식 월간 투고량 그래프\narXiv 공식 투고 제한 정책 발표",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52c547fde717f0b0d74d95c1fdc1014373133471222363ee89"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_21884c4d634a",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "구글, 아마존, 넷플이 털렸다.",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1561615&exception_mode=recommend&page=1",
+      "author": "회색",
+      "time": "2026-11-26 11:16:38",
+      "likes": "12",
+      "comments": "6",
+      "content": "Google, Amazon, Netflix 로그인 정보가 포함된 엄청난 규모의 비밀번호 유출\nhttps://www.pcworld.com/article/3297528/google-amazon-and-netflix-logins-turn-up-in-a-staggering-password-leak.html\nPCWorld은 35억 개의 로그인 자격 증명이 대규모로 유출되어 Google, Amazon, Netflix, PayPal의 사용자 계정이 노출되었으며, 그중 Google 계정이 가장 큰 비중을 차지한다고 보도했습니다.\n인포스틸러(infostealer) 악성코드를 사용하여 컴파일된 두 개의 암호화되지 않은 데이터베이스에는 감염된 기기에서 직접 캡처된 비밀번호, 브라우저 쿠키, 세션 토큰, 심지어 암호화폐 지갑 세부 정보까지 포함되어 있습니다.\n사용자들은 이러한 유형의 악성코드 위협으로부터 보호하기 위해 즉시 백신 소프트웨어를 업데이트할 것을 강력히 권고받습니다.\n보안 전문가들은 약 35억 명의 사용자 로그인 세부 정보(비밀번호 포함)가 포함된 두 개의 온라인 데이터베이스를 발견했습니다. 이는 Amazon, Google, Netflix, PayPal과 같은 서비스와 연결된 계정들을 포함합니다. 두 데이터베이스는 자유롭게 접근 가능하며 암호화되지 않았고 서로 관련이 없습니다. 이들은 Wired(유료 벽 뒤에 위치)에 처음 보도된 바와 같이 서로 다른 보안 전문가들에 의해 발견되었습니다.\nNeowin에 따르면, 가장 놀라운 발견은 Amazon, Dis5225325523532532cord, Facebook, Google, Netflix, PayPal 등을 포함한 약 20억 개의 로그인 세부 정보(이메일 주소, 사용자 이름, 비밀번호 등)가 포함된 데이터베이스입니다. 보안 연구원 Jeremiah Fowler는 X/Twitter에 다음과 같이 썼습니다:\n“일부 기록에는 브라우저 쿠키, 세션 토큰, 자동 완성 정보, 암호화폐 지갑 세부 정보, 시스템 정보 및 기타 인증 데이터도 포함되어 있었습니다. 이는 범죄자들에게 개인의 디지털 삶에 대한 포괄적인 통찰력을 제공할 가능성이 있습니다.”라고 Fowler는 설명합니다.\n이 데이터베이스에는 8,471개의 폴더가 있었습니다. 더 정교한 악성코드에서 유래한 것으로 추정되는 약 400,000개의 문서는 각 피해자를 위한 별도의 폴더를 생성했습니다. 이 폴더들에는 Applications, Cookies, Edge, Important Files, Operating Systems와 같은 이름뿐만 아니라 System, Process, Clipboard, Brute Force, Passwords 등으로 표시된 .txt 문서들이 포함되어 있었습니다.\n이 정보들은 함께 모여 각 피해자와 그들의 기기 및 계정에 대한 상세한 프로필을 구축할 수 있습니다. 이는 사용자 이름, 로그인 URL, 비밀번호 데이터만으로 가능한 것보다 훨씬 더 넓은 범위의 잠재적 공격 벡터를 드러냅니다.\n23\nGoogle 계정이 이 중 가장 큰 부분을 차지합니다. Facebook, Instagram, Amazon, PayPal, Netflix, Spotify, YouTube, Microsoft의 로그인 정보도 그곳에 나타납니다. Apple, TikT2435235325235325235ok, X/Twitter는 더 적은 수량으로 포함되어 있습니다. 반면, WhatsApp 로그인은 아주 작은 부분만을 차지합니다.",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52c547f9e513f8b4df4e90c6fd9e0571158bfe7645f2680dc3"
+      ],
+      "is_cross_hot": false
     },
     {
       "id": "thesingularity_c7484175ebe8",
@@ -1475,109 +1585,6 @@
       "content": "https://x.com/choblin29/status/2124132106658099655",
       "images": [
         "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9050c745012a1c2c04e0f2e383c2155288d2bab8f30b44cde3ca760c7725520500d2d6e1246abce8666849d4"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_0429a06b3c46",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "정렬당한 짚짱의 Agent 통신",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1551655&exception_mode=recommend&page=1",
-      "author": "AI마망",
-      "time": "2026-11-22 15:48:18",
-      "likes": "33",
-      "comments": "20",
-      "content": "https://gall.dcinside.com/thesingularity/1551439\n딥마인드 연구원 : 클로드와 아스트라가 사람의 말을 잃는 이유\n- 특이점이 온다 마이너 갤러리\nhttps://x.com/PatrickToulme/status/2124206766883831923I want to explain why Claude and Astra often speak unintelligible E\ngall.dcinside.com\nhttps://gall.dcinside.com/mgallery/board/view?id=thesingularity&no=1547989\n캐릭터 시트 방출(활용법 포함)\n- 특이점이 온다 마이너 갤러리\n레퍼런스 이미지 넣고 스토리만 적어주면 알아서 그림체 따라 만들어줌. 따로 프롬프트 쓸 필요도 없음.아래처럼 캐릭터 시트 만들고 싶은 캐릭터가 있으면 그냥 해당 이미지 넣고, 아래 레퍼런스 중에 젬민이 캐릭터 시트 넣\ngall.dcinside.com",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9050c745012a1c2c04e0f2e383c2155288d2bab8f30a41cceccf7a0d7727500556845693b1f2323b0beedf9d",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9050c745012a1c2c04e0f2e383c2155288d2bab8f30047cfeac57000752655050684472497cfb50aee75d2ca",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=63f39f2fe8d577a26fabd7e64e806b302834796b50b8a81083af6266b72be84a8fb321bb950e9a36f1821f8f153836f1eeba1e8045c0960c122dca158be1f64ef4396baa5d955a0bd43493236a",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa935086d8816ad54cb47434d994e026ffc65951315d263a349cac88674e615f3fd40db6fdc3d2e7a122d73d"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_8c604dff837a",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "이거 진짜임? 또 뭐 해결되는거같은데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1551589&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ(218.209)",
-      "time": "2026-11-22 15:25:01",
-      "likes": "32",
-      "comments": "50",
-      "content": "다항 시간 인수분해가 뭐야",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9050c745012a1c2c04e0f2e383c2155288d2bab89e6d46cbecca700a7a2150636ad7ae934dc274bad34e00d776"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_218aae849989",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "제미나이 4 네온, AI 체스 세계 1위",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1551489&exception_mode=recommend&page=1",
-      "author": "6974콜맨",
-      "time": "2026-11-22 14:53:21",
-      "likes": "20",
-      "comments": "18",
-      "content": "▶ AI 체스 성능 평가 사이트 Dubesor에서 Gemini 4 Neon이 Elo 1924점으로 1위를 기록함.\n▶ 총 26번의 대국에서 24승 2패를 기록했으며, 체스 엔진이 평가한 수의 정확도는 93.9%에 달함.\n▶ 2위 Gemini 3 Pro(1834점)와 90점 차이를 벌렸으며, Claude Fable 5.2는 9위(1698점), GPT-6.2 Astra는 10위(1692점)를 기록함.\n▶ 이 벤치마크는 AI끼리 실제 체스를 두게 하면서 논리적 추론, 장기 계획, 상황 기억, 판단의 일관성을 평가함.\n▶ 전체 프로젝트에는 372개 AI 모델이 포함됐으며, 현재까지 5,418번의 대국이 진행됨.\n한 줄 요약: 제미나이 4 네온이 AI 체스에서 26전 24승을 기록하며 논리적 추론과 장기 계획 능력을 입증했음.\n출처:\nhttps://dubesor.de/chess/chess-leaderboard",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9050c745012a1c2c04e0f2e383c2155288d2bab89e6d43c8eacd74017422536b6a8141ec6618266b4948ef2c2a"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_863b0e6823f9",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "드러켄 밀러는 이제 ai 걸어잠군다고하네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1551485&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-22 14:50:44",
-      "likes": "36",
-      "comments": "59",
-      "content": "Ai회사에서 이제 외부 공개 안하고\nAi로인해 발생한 문제들이나 작업들을 독점해서\n외부에 파는 형식으로 갈거라고 추측하네",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6717ebbb1d90de0d2c4bb88a79d6fe83def25c5a98e9ab9325ce71abb97fed7b99c1e4c66637148a848f93d30686891b23b448dafab844693333aee559bccbb666d7e95c1c9d23689acba88"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_ebb4fa58a64e",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "레벤트 알푀게: 난 수학을 취미로 하는 사람",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1550802&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-22 10:23:40",
-      "likes": "16",
-      "comments": "4",
-      "content": "ㄷㄷㄷ",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9050c745012a1c2c04e0f2e383c2155288d2bab89e6d43cbe3c9730075205b636a8172c80b2d18b823ced4c7d6"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_5789f584d63c",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "1997년 이미 계획된 미래 특이점은 없다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1550755&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ(222.120)",
-      "time": "2026-11-22 10:06:04",
-      "likes": "15",
-      "comments": "12",
-      "content": "Look at the world around you right now and ask yourself, is everything actually happening by accident?\n지금 우리 주변에서 벌어지는 일들을 둘러보고 스스로에게 물어보십시오. 이 모든 일이 정말 우연히 일어나고 있는 것일까요?\nBecause in 1997, a Washington D.C. think tank that was wired straight into the defense contractors, chemical giants, and all the three-letter federal agencies had published a blueprint called 2025, scenarios of U.S. and global society reshaped by science and technology.\n1997년, 방산업체와 거대 화학기업, 그리고 각종 연방정부 기관과 직접 연결된 워싱턴 D.C.의 한 싱크탱크가 『2025: 과학기술에 의해 재편되는 미국과 세계 사회의 시나리오』라는 청사진을 발표했기 때문입니다.\nMainstream apologists want you to believe it was just lucky science fiction that's hit the exact events happening, or it's just harmless corporate forecasting, but actually research the book for yourself.\n주류 세력을 옹호하는 사람들은 그저 우연히 현재 벌어지는 일들을 정확히 예측한 공상과학이거나 무해한 기업 전망 자료였다고 믿게 만들려 합니다. 하지만 직접 그 책을 찾아 조사해 보십시오.\nThey didn't just write a novel, but they literally laid out 107 explicit assumptions that read like an architectural spec sheet for a fully centralized, global digital cage that's supposed to be closing in around us over the next few years.\n그들은 단순히 소설을 쓴 것이 아닙니다. 앞으로 몇 년 안에 우리를 옥죄어 올 완전히 중앙집중화된 글로벌 디지털 감옥의 설계도처럼 보이는 107개의 구체적인 가정을 명시해 놓았습니다.\nIn 1997, they wrote that everything physical would become smart, including humans, through embedded sensors, creating non-stop person-to-date attracting with zero offline privacy.\n그들은 1997년에 인간을 포함한 모든 물리적 사물이 내장형 센서를 통해 스마트화될 것이라고 썼습니다. 이를 통해 사람들의 데이터가 끊임없이 수집되고, 오프라인에서도 사생활이 전혀 보장되지 않는 세상이 만들어진다는 것입니다.\nThey wrote that artificial intelligence would surpass human learning and become the partial controllers under the elites to manage the citizens, that water and land would fall under their totally managed global environment, and that supernatural governance would override your national sovereignty by using wars, disease prevention, and manufactured emergencies.\n그들은 인공지능이 인간의 학습 능력을 뛰어넘어 엘리트 계층의 통제 수단으로서 시민들을 관리하게 될 것이라고 썼습니다. 또한 물과 토지는 그들이 완전히 관리하는 글로벌 환경 체제에 편입되고, 초국가적 통치 체제가 전쟁과 질병 예방, 인위적으로 조성된 비상사태를 이용해 각국의 주권을 무력화할 것이라고 했습니다.\nEvery manufactured crisis, every staged political rivalry, every cyber attack and grid scare, and every pandemic panic serves one unified purpose, which is to terrify people into begging for their own chains.\n인위적으로 조성된 모든 위기와 연출된 정치적 대립, 사이버 공격과 전력망 위협, 그리고 팬데믹에 대한 공포는 모두 하나의 목적을 위해 작동합니다. 바로 사람들을 공포에 빠뜨려 스스로 족쇄를 채워 달라고 애원하게 만드는 것입니다.\nAnd look at how they structure the population inside this blueprint, because they divided humanity into three rigid tiers.\n그리고 이 청사진에서 인류를 어떻게 분류하고 있는지도 살펴보십시오. 그들은 인류를 세 개의 엄격한 계층으로 나누었습니다.\nAt the top sits a tiny 1% ruling class of billionaire elites, living in total luxury and technological immunity.\n맨 위에는 극소수인 1%의 억만장자 엘리트 지배계층이 자리합니다. 이들은 모든 사치를 누리며 기술적 통제에서도 자유로운 특권을 누립니다.\nThen at the bottom sits the outsiders, which is anyone who refuses the digital ID, the biometric leash, and the compliance grade, and their systematically cast out and cut off from land, water, and basic resources.\n그 아래에는 체제 밖으로 밀려난 사람들이 있습니다. 디지털 신분증과 생체인식 통제, 그리고 순응도 평가를 거부하는 사람들입니다. 이들은 체계적으로 사회에서 배제되고 토지와 물, 기본적인 자원에 대한 접근마저 차단당합니다.\nAnd then wedged in the middle is the pacified buffer class, and the book openly states that brain-mind manipulation technologies would be in widespread use, just to control human emotions, memory, and behavior of the Middle-tier society that's on their grid.\n그리고 그 사이에는 길들여진 완충 계층이 자리합니다. 책은 이 중간 계층에 속한 사람들의 감정과 기억, 행동을 통제하기 위해 뇌와 정신을 조작하는 기술이 광범위하게 사용될 것이라고 명시하고 있습니다. 이들은 그들이 구축한 통제망 안에 편입된 사람들입니다.\nThat middle tier will also be neurologically and algorithmically programmed, to police the outsiders from inside their own velvet cage, while given just enough digital comfort to protect the elites above them, while their only real remaining labor is maintaining the server grades and repairing the AI infrastructure that replaced them.\n이 중간 계층 역시 신경학적·알고리즘적으로 프로그래밍되어, 자신들이 갇힌 부드러운 감옥 안에서 체제 밖 사람들을 감시하고 통제하는 역할을 맡게 됩니다. 위에 있는 엘리트들을 보호할 수 있을 만큼의 디지털 편의만 제공받은 채, 이들에게 남겨진 사실상 유일한 노동은 자신들을 대체한 AI 기반 시설을 유지하고 서버망을 관리하는 일이 될 것입니다.\nSo stop waiting for a savior inside their system.\n그러니 그들의 체제 안에서 구원자가 나타나기를 기다리는 일을 멈추십시오.\nStop believing possible blackouts are to take it down, when it's actually to continue centralizing it, and start unplugging from their dependencies, and start building real-world self-reliance before their cage doors lock for good.\n정전 사태가 그들의 시스템을 무너뜨리기 위한 것이라고 믿는 것도 그만두십시오. 실제로는 시스템을 더욱 중앙집중화하기 위한 과정일 수 있습니다. 그들이 만든 의존 구조에서 벗어나고, 감옥의 문이 영원히 잠기기 전에 현실 세계에서 스스로 살아갈 수 있는 자립 기반을 구축하기 시작하십시오.\nWe do not forgive, we do not forget.\n우리는 용서하지 않으며, 잊지도 않을 것입니다.\nAnonymously enlightening out.\n익명의 이름으로 진실을 밝히며, 여기서 물러납니다.\nhttps://youtu.be/7KEvC9LenxU\n신세계질서 음모론\nYouTube에서 마음에 드는 동영상과 음악을 감상하고, 직접 만든 콘텐츠를 업로드하여 친구, 가족뿐 아니라 전 세계 사람들과 콘텐츠를 공유할 수 있습니다.\nyoutu.be",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6717ebbb1d90de0d2c4bb88a79d6fe83def25c5a9e3f4bb355ee811be94f8d6d6a54c4fea5560cbaab590b83fc2f5450d0d1419a3cdc37d471741ff32589e262b8e1fa0b8727cc650927d41",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6717ebbb1d90de0d2c4bb88a79d6fe83def25c5a98e93b8325fe21eb299fbd4b9cf14499850078b7c9820f55547f8f92b9d3052b6149e194bf7246e0b1c9c9e0ab397da8e2996d3a30ffc",
-        "https://i.ytimg.com/vi/7KEvC9LenxU/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHyA4AC6gKKAgwIABABGGUgZShlMA8=&rs=AOn4CLCqwQAehPIEjyqe_6je5uldDfHoLg",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6717ebbb1d90de0d2c4bb88a79d6fe83def25c5a9e3f4b8345be419b892fad4dfa5481e09c5c534f28c86e13a401463694a5f391ec3e3daaebfb8146a649a5ee30233584af9eb616874ac84",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6717ebbb1d90de0d2c4bb88a79d6fe83def25c5a98e9eb9355ce41fbd93f8deb9ce1b13fef0c62a4242a2e0c0d81d53681a339f67431995257a83a4e41308e740ffa01d6f124b9527a19a"
       ],
       "is_cross_hot": false
     }
