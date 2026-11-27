@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-27 13:37",
+  "updated_at": "2026-11-27 23:29",
   "source_status": {
     "디시인사이드": "ok (10)",
     "에펨코리아": "cached (10, HTTPStatusError)",
     "보배드림": "ok (10)",
-    "MLB파크": "ok (8)",
+    "MLB파크": "cached (8, RemoteProtocolError)",
     "오늘의유머": "cached (8, HTTPStatusError)",
     "클리앙": "ok (8)",
     "뽐뿌": "ok (8)"
@@ -30,189 +30,246 @@
       ]
     },
     {
-      "topic": "아내를 방치해 숨지게 한 전 부사관 사건",
+      "topic": "뮤지컬판(팬레터) 논란",
       "sources": [
-        "디시인사이드",
-        "클리앙"
+        "보배드림",
+        "디시인사이드"
       ],
       "posts": [
         {
-          "id": "dc_9879ef806aae",
-          "source": "디시인사이드",
-          "title": "[싱갤]오싹오싹 은퇴한 MMA 파이터 살인사건 ㄷㄷ"
+          "id": "bobae_44a71de140e5",
+          "source": "보배드림",
+          "title": "뮤지컬판에서 대참사 난 사건"
         },
         {
-          "id": "clien_5d4b31ab0823",
-          "source": "클리앙",
-          "title": "온몸에 구더기 끓을 때까지 아내 방치한 전 부사관···2심도 징역 30년"
+          "id": "dc_cda3231fd2e2",
+          "source": "디시인사이드",
+          "title": "[싱갤]지금 논란인 뮤지컬배우 충격적인점.jpg"
+        },
+        {
+          "id": "dc_c8bb1de32c20",
+          "source": "디시인사이드",
+          "title": "[싱갤]와들와들 팬레터 버린걸로 언냐들이 지랄한 이유"
         }
       ]
     }
   ],
   "posts": [
     {
-      "id": "dc_6ffbea3e8da1",
+      "id": "dc_d14a8bb64caa",
       "source": "디시인사이드",
-      "title": "[기갤]떠련이는 현실에서 ㄹㅇ 존나 이쁜데",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481992&_dcbest=1&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-27 13:16:04",
-      "likes": "13",
-      "comments": "73",
-      "content": "드라마에선 왜 이느낌이 안나오는거노 드라마만 벗어나먼 ㅈㄴ이뻐\n출처: 기타 국내 드라마 갤러리\n[원본 보기]",
+      "title": "[일갤]전역하고 올리는 2025년 3월 도쿄 여행기 1부",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482096&_dcbest=1&page=1",
+      "author": "구깃",
+      "time": "2026-11-27 23:20:02",
+      "likes": "3",
+      "comments": "7",
+      "content": "일단 김해에서 비행기 타고 도쿄로 날아감\n예약한 시부야스카이보러 스카이라이너랑 지하철 타고 바로 시부야로 감\n일본 애니나 드라마에서나 보던 시부야 스크램블을 봤는데 영상 찍으러 중앙으로 달려가는 외국인들이 많더라\n직접 가보니까 생각한 만큼 뭔가 느껴지지는 않았음\n유명하다는 함박스테이크집\n맛있긴 했는데 꽤 짜더라\n그래도 도쿄가서 처음 먹은거라 싹싹 긁어먹음\n기대를 품고 올라간 시부야 스카이\n날씨가 심상치 않더니 눈이 내렸다 춥기도 추웠고\n눈이 많이 내리자 방송나오더니 야외에서 못 보게 하더라\n원래 일몰까지 있을 생각이였는데 많이 아쉬웠음\n숙소가서 뉴스보니까 3월초에 눈 이렇게 많이 내린게 이례적이라더라\n내려와서 시부야 구경 조금 하다가 숙소 가니까 어두워져버림\n날씨가 좋지는 않지만 스카이트리 보러감\n?\n도착하니까 눈이 개많이 내림\n올라가니까 예상대로 전망이 하나도 안 보이더라\n어쩔 수 없지하고 내려온 후에 숙소가서 바로 잠\n2일차\n날이 맑기를 기도하고 잠에 들었으나 다음날 날씨도 흐릿하다 못해 비가 왔음\n그래도 비오는 도쿄도 느낌있어서 좋긴했음\n아점으로 먹은 카츠동 돈카츠 마루시치 긴자점\n인스타에서 크기보고 꼭 먹어야지 싶었던 곳\n일찍 가야했는데 여유부리다가 웨이팅 1시간 반 정도 함....\n비오고 바람도 개많이 불어서 얼어죽는 줄 알았음\n나오는 시간+양 때문에 회전율이 별로임\n어렵사리 들어가서 특상을 먹었는데 돈이 전혀 안 아까웠음\n비계랑 살코기 비율이 좋았고 두꺼워서 퍽퍽하거나 조금은 질길 줄 알았는데 한번 수비드하고 튀겨서 하나도 안 질겼음\n미소시루도 맛있었는데 리필은 안 되더라\n도쿄가면 다시 한번 먹어보고 싶음\ntmi로 느끼해서 세븐일레븐 유자레몬사이다 먹었는데 개맛있었음\n느끼한 거 싹 내려가더라\n향은 뭔가 천혜향 같았고 맛있었음\n도쿄타워 보러 가러 지하철 탑승\n도쿄타워도 예상과 다르지 않게 똑같이 흐리다\n미친 도쿄타워 뷰가 있다길래 찾아간 스카이 라운지 스텔라 가든\n도쿄 타워 바로 앞에 있는 프린스 파크 타워 도쿄 호텔 건물 안에 있음\n구글 리뷰 보니까 리뷰가 극과 극으로 갈리길래 혹시나 외국인 차별 당할까 싶었는데 막상 가보니까 친철했음\n근데 자리 바로 옆에서 도쿄 타워 사진 찍으려하니까 자리에 앉아달라고 하더라\n아마 가게 측은 가게를 오로지 바로서 즐겨주기를 바라는 거 같음\n실제로 도쿄타워가 보이는 뷰가 아닌 곳에 앉아있던 외국인들이 도쿄타워 찍겠다고 통로에서 사진 찍느라 길을 막기도 했고\n자신이 정말 도쿄타워뷰를 바란다면 오픈 전 일찍가는게 좋을 거 같음\n내가 갔을 때는 흐려서 그런가 30분전에 갔는데도 정면 뷰는 아니지만 도쿄타워가 보이는 자리를 받았음\n지금은 리뉴얼을 했다는데 잘 모르겠네\n일단 술집이다보니 자릿세도 있고 비쌈 1인당 술 하나씩은 시켜야함\n사진은 대표 술인데 도쿄타워 모양 잔에 따라서 줌\n술을 좋아하지는 않지만 마실만 했음\n유명한 도쿄타워 사진 스팟\n도쿄타워를 들린 후 온 도쿄역\n숙소 가는 길에 들른 가부키쵸\n조금 들어가니까 줄 서서 호객하고 있더라\n좀 무서워서 눈 깔고 빨리 지나감\n까꿍 고질라\n근처에 kfc 있길래 먹었는데 사람이 많아서 회전율이 좋아 그런가 맛있었음\n내일은 날이 좋기를 기원하며 숙소에서 해저생물 다큐보면서 잤음\n- dc official App\n출처: 일본여행 - 관동이외 갤러리\n[원본 보기]",
       "images": [
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767984537d445a1be1d7d56bef3b5de88742fc20cdfa6e2b4d653496b56292f57a3c775f61ddb8fff01d310e407d0f35481d22c7d12998b29d22",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767984537d445a1be1d7d56bef3b5de88742fc26237ad81d0dffb5439c20b99f0b58b53e05619ee33c9ed22fa35ccf40e1ed10b031bd58878c8c",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767984537d445a1be1d7d56bef3b5de8872f912b9b6ef9a7416f6f0f01bcc0f57041218fe1ea151c9564ac329624372c1ddac334afca9464b1",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767984537d445a1be1d7d56bef3b5de88742fc2735328cfff693564fb423448deed75e92ac2e7859b250f6f5ac231f25407b5d86275b3ff9c0cf",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767984537d445a1be1d7d56bef3b5de88742fc27303085f4f096564dbe234d83b2d00c95881a195c5b8dae6b008406d565fb9636dfad0ce1a4da",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767984537d445a1be1d7d56bef3b5de8872f9220b081198e8707ee751cfbb11b1639567b3db8e913409eca158cb5674f3f9878aa0c9d121761",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767984537d445a1be1d7d56bef3b12bedd45922729f7f9470034f1d432b1e1c4e5e79f3887b662e44e22ac93bf"
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b2db27ebc637&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ea1d315ca17f38fed4cb53e9355ea3ca6824915c04efbb3a8d02a6b678b92d6b2ca1afc7b7cc22cf0debf0e4a3322bdaa9462580f94a66569e9",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b2db27ebc637&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ea1d315ca17f38fed4cb53e935ee03ba084894b8f6eddbc19df8e98f156caf947d4c4115ecaff8d7952e705deafd836c13a0d4b7da3906a6e87",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b2db27ebc637&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ea1d315ca17f38fed4cb53e9356ea34a780a218d4438dc53aab2e913964e47a1173778253ef9be128383b4dd0",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b2db27ebc637&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ea1d315ca17f38fed4cb53e9350eb3da38d40b7284b53bf2a6f7c2f34da0e7ec662a2b227648f2a95ec57b4408eb21cc521cc3ff8a1f5811749c3df29809d57c2",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b2db27ebc637&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ea1d315ca17f38fed4cb53e9352e93dab8021114a6e3200d52a03f44e6222fbd49946f4d7d79a6d5d9d3add4d",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b2db27ebc637&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ea1d315ca17f38fed4cb53e9356ed3fa0834dd81dba08824b18dda4dc817df10746a5d59fe49b06a8681c20bd34d355ad7ecea001ca8daae65a",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b2db27ebc637&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ea1d315ca17f38fed4cb53e9353ed3daa8257ad86fa8ffca6d1e91d28790f4387592c163b6801b0b0d7de00dd2d8095ab8c2ebc5421fbbf4f6f",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b2db27ebc637&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ea1d315ca17f38fed4cb53e9350ec35a28c139a86c4a60cf7853d4851c6169edcecda965317e9eb49b4d1a43f"
       ],
       "is_cross_hot": false
     },
     {
-      "id": "dc_9879ef806aae",
+      "id": "dc_38774d8c0b3e",
       "source": "디시인사이드",
-      "title": "[싱갤]오싹오싹 은퇴한 MMA 파이터 살인사건 ㄷㄷ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481991&_dcbest=1&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-27 12:56:06",
-      "likes": "84",
-      "comments": "332",
-      "content": "덩치 큰 흰색 옷 남자가 일반인\n덩치 작은 남자가 전적 3전 2승 1패로 은퇴한 전 MMA 파이터\n1. 호텔에서 소음문제로 직원이랑 말다툼\n2. 느닷없이 지나가던 덩치 큰 남자가 시비걸고 싸움 시작\n3. 덩치 작은 남자가 알고보니 mma 선출이였고\nmma 선수가 초크 걸었는데 초크를 오래 걸었는지 사망함\nmma 선출 남자는 현재 체포된 상태고 정당방위 주장중\n출처: 싱글벙글 지구촌 갤러리\n[원본 보기]",
+      "title": "[잡갤]20명에서 137명, 만점자 7배 증가한 의사고시 근황.채널A",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482094&_dcbest=1&page=1",
+      "author": "앤드류그레이브스",
+      "time": "2026-11-27 23:10:02",
+      "likes": "23",
+      "comments": "44",
+      "content": "의사 국가고시 특정 과목에서 만점자가 급증하면서\n설마 여기서도 AI 부정행위가 있던 것 아니냐,\n의혹이 나오고 있습니다.\n시험 주관 기관은 어떤 입장인지, 최다희 기자가 취재했습니다.\n최근 의사 국가 시험 특정 과목에서\n만점자가 급증했습니다.\n의사 국가고시에서 보건의약관계법규 과목\n만점자만 137명으로\n4년 전 같은 과목 20명에서 약 일곱 배로 늘은겁니다.\n이 과목은 의료인이 알아야 할\n주요 법률과 시행령 등을 다루는 과목인데\nAI가 풀기 쉬운 객관식 문제라\n부정행위 덕분 아니냐는 의심도 일부에서는 제기되는 상황.\n의사 국가고시를 주관하는\n한국보건의료인국가시험원은\n일부 과목 만점자 수가 증가한 건 맞지만\n시험 난이도와 응시자 수 등 다양한 요인에 따른\n결과라며\nAI 활용 부정행위를 의심하기는\n어렵다고 밝혔습니다.\n하지만 의대생들은 의대 자체 시험에서도\nAI 부정행위 가능성을 의심합니다.\n국민 생명을 책임지는 의료인 자격 시험에\n관리 체계를 점검해야 한다는 지적이 나옵니다.\n채널A 뉴스 최다희입니다.\n“의사 국가고시 만점자, 최근 5년새 7배 급증”.gisa\n출처: 잡담 갤러리\n[원본 보기]",
       "images": [
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebc8c224b5afd59092abb4b53374328158b048bf88583d1269bc47c028a3552bd0c9ba9f2af41806f7b2dcc8f05667c93755f414fdd7429c79c16f59bea3adb7f141fcb00d4eb8657a9456d941224",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebc8c224b5afd59092abb4b53374328158b048bf88589d72092c179078f3655bd5d748849e0799aae22afd0e9e71e3b3e12ab244171044dfa5ad525eca75267a24acb11ab53ec6ef4d56e12801a80"
-      ],
-      "is_cross_hot": true
-    },
-    {
-      "id": "dc_cda3231fd2e2",
-      "source": "디시인사이드",
-      "title": "[싱갤]지금 논란인 뮤지컬배우 충격적인점.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481990&_dcbest=1&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-27 12:51:01",
-      "likes": "97",
-      "comments": "221",
-      "content": "잘보면 편지 읽고 버린게아니라\n아예 봉인스티커 뜯지도않음ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n출처: 싱글벙글 지구촌 갤러리\n[원본 보기]",
-      "images": [
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebc8c224b5afd59092abb4b53374328158b41dfa3ed83d2269dc4746d833d02da5aca3481641a893380a039693422678c632720c3a469d5ecc9df08bf8ab017214eed68a54a7966bd1a767cc0b985f9dc",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebc8c224b5afd59092abb4b53374328158b048bf88588d22292c57a048d345cbd0c4ac667eae274eddefca8f4955d0a25f6a64e2173218c62fb8ed1a3b4989816eec0375a8a7ea1"
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ab6c123eed3&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747eb8b7bc0ec888d16dc4f8512f1adaf05f9e60d18f72519b08d29b82b2c519cdd6ccee2447ab5f81cc89",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ab6c123eed3&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747eb8b7bc0ec888d16dcff852291dd3fa539fac24127605d439a768ffe71981b5a570ebb8da3c01159d7a",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ab6c123eed3&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747eb8b7bc0ec888d162cdf2512d15d0f75b9d3918d0efdc05cc613d6f1cd9fcde562dc72790733dfe9605",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ab6c123eed3&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747eb8b7bc0ec888d162c5f8552a1fdbf65a9c8c865d6d6c79ddd8291b085d72f1b2c08591127a95ad5a2a",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ab6c123eed3&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747eb8b7bc0ec888d16cc4f2542f1bd0f45e9f4342bef67e0286da4ba83de1619fef91b09e999a3a1aa091",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ab6c123eed3&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747eb8b7bc0ec888d163cff5512f1fd1fa5993e6564153a46cd810461935b91dc31678aad0b836aea965ad",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ab6c123eed3&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747eb8b7bc0ec888d16dc9f0562f1bd6fa5e9af73823c8fd5603dfedc6aa911955b0f1e6fe86a30bbbe746",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ab6c123eed3&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747eb8b7bc0ec888d16dcaf8562f1ed3f4529952801fd49e845d3e729555a148dfa3fda3368ecba6e003f9"
       ],
       "is_cross_hot": false
     },
     {
-      "id": "dc_cf9dd45fd5a9",
+      "id": "dc_ccd3d4b24d20",
       "source": "디시인사이드",
-      "title": "[중갤]9급시험 5개월컷 해버린 미친 합격자 ㄷㄷㄷ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481988&_dcbest=1&page=1",
-      "author": "중갤러(117.111)",
-      "time": "2026-11-27 12:46:06",
-      "likes": "71",
-      "comments": "297",
-      "content": "AI 시대에는\n안 짤리는 킹급이 답이노..\nㅈ소 다니면서 틈틈히 공부해라\n5개월컷도 있더라\n한번 붙으면 평생직장이노\n출처: 중소기업 갤러리\n[원본 보기]",
-      "images": [
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=27a8de21f6dd28a2&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce6932288927ad2a87c69298c76d6132fbd6811da82856254a3b564d02593122a8f8250c642b26891a097bee2c5",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=27a8de21f6dd28a2&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce6932288927ad2a87c69298c7fd51028bf6d15df1bc536b5eccf887a397f36a9689d8d41b48329a075d34b64e3"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "dc_b8c1812bc43b",
-      "source": "디시인사이드",
-      "title": "[시갤]또 이렇게 서있노",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481987&_dcbest=1&page=1",
-      "author": "ㅇㅇ(118.235)",
-      "time": "2026-11-27 12:41:01",
+      "title": "[러갤]일본여자와 한국여자의 차이점",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482090&_dcbest=1&page=1",
+      "author": "배터리형",
+      "time": "2026-11-27 22:50:02",
       "likes": "60",
-      "comments": "73",
-      "content": "다 정면보는데 지혼자 쳐 튀어나와서 옆멤 등지고 또\n출처: 시즌그리팅 갤러리\n[원본 보기]",
+      "comments": "133",
+      "content": "일본인 아내가 스고이 가와이 하면 남자는 무너진다고 한다\n스시녀는 잔소리할때 나긋나긋하게..\n한녀는 잔소리할때 윽박지른다고 한다\n한남일녀 국결매칭 대박났다고 자랑하는 결정사 누님\n출처: 러시아-우크라이나 갤러리\n[원본 보기]",
       "images": [
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb8d135eadc3fb46bbac2bc18d62629a7&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebc88d0da93b8650436c1c4de1912966bb9b60fc49c6bee053e7ff7d30fc61708b6fd75890e6d109614cce2c664cccf607ff828ae7b4462d6a51eb54a068d599693c0dc27b78eeede502084a1aecc1cbc5497"
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3fa8c32fe4c733b46f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebde570f4ec2b18e7d5a5da19e641fabebcf8eed69796b292484d68b07b4f52a30d18195134",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3fa8c32fe4c733b46f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebde570f4ec2b18e7d5a5da19e641ffb2b868fdd1afd38872e6020b10fd4edab2ddfd089466",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3fa8c32fe4c733b46f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebde570f4ec2b18e7d5a5da19e641f3bebcce7e170ac3048266a214cde75e53f119146c280a",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3fa8c32fe4c733b46f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebde570f4ec2b18e7d5a5da19e641febdb48db6468e8fb80e429f374faa3674cfa7f467f244",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3fa8c32fe4c733b46f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebde570f4ec2b18e7d5a5da19e641fabeb9c2b7407303b7cd37b5d4ffefa39b4bec66dc1d9e",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3fa8c32fe4c733b46f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebde570f4ec2b18e7d5a5da19e641f9b8b4c62d3a68c80bb508f7192d885682e30b877eafe2",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3fa8c32fe4c733b46f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebde570f4ec2b18e7d5a5da19e641f8b8be90c94e46f16dcc4c6d0652a212d4f7eaf0518e52",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3fa8c32fe4c733b46f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebde570f4ec2b18e7d5a5da19e641febabf86f085d0c111390714a72e8ab1850d635fd5edfd"
       ],
       "is_cross_hot": false
     },
     {
-      "id": "dc_c8bb1de32c20",
+      "id": "dc_af33134117d8",
       "source": "디시인사이드",
-      "title": "[싱갤]와들와들 팬레터 버린걸로 언냐들이 지랄한 이유",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481985&_dcbest=1&page=1",
-      "author": "GoGo",
-      "time": "2026-11-27 12:36:03",
-      "likes": "139",
-      "comments": "217",
-      "content": "본인들이 공주라고 생각함..\n출처: 싱글벙글 지구촌 갤러리\n[원본 보기]",
-      "images": [
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebc8c224b5afd59092abb4b53374328158b4adfa9ec80d32999c4746ddf3152865775df9371540522b4eb514848bd6bb32a15a0c25aea60091e2e2df80309f923a293b8d4dab3d8e18e26f373e8"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "dc_67868fc5e1aa",
-      "source": "디시인사이드",
-      "title": "[리갤]\" 내가 롤판은 잔인하다 느낀계기가 \"",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481984&_dcbest=1&page=1",
-      "author": "ㅇㅇ(112.109)",
-      "time": "2026-11-27 12:31:01",
-      "likes": "400",
-      "comments": "570",
-      "content": "보통 스포츠는 한시즌에서 크고 작은 굴곡을 겪으며 끝마치면\n다음시즌의 희망을 이야기하는데\n유독 롤판은 월즈하나가 전부며 월즈우승못한 모든팀은 실패자로 낚인찍음\n이게 전문가들조차 이런다는거임 그러면서 정당화함 \" 롤판은 그렇게 설계됐다 \" 내가 속물은아니고 롤판이그래\n내가보기엔 그렇게 설계안됐거든 lck컵도있고 퍼텐도있고 msi도있고 ewc도있고 lck도있고\n세상 모든스포츠가 중요대회는 있어도 그게전부라고하진않음\n그걸보면서 와 롤판은 그럼 도박판인가?\n꼴에 전문가라는 타이틀을 들고있는 이들조차 저러는거보고\n좀 속물같다고 느꼇음\n희망 성공 도약같은 것보단\n마지막에 한팀말고는 모두다 실패라는 거대한도박장\n출처: 리그 오브 레전드 갤러리\n[원본 보기]",
-      "images": [
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=21b8d121f0d737a062bad1b018d5376b&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce693228e0f85637817471134f2274206fcaab108f2f148ed8ac01cbb403e4c4b5967acd53ad8f99136f9b6d220dce4d52f6e3a2cac"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "dc_7e5a62472d10",
-      "source": "디시인사이드",
-      "title": "[시갤]실시간 재평가 시급하신분",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481982&_dcbest=1&page=1",
+      "title": "[주갤]결혼 하려면 남자가 집을 해가야 한다는 두 나라 여자들을 비교해보자",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482088&_dcbest=1&page=1",
       "author": "ㅇㅇ",
-      "time": "2026-11-27 12:01:01",
-      "likes": "218",
-      "comments": "150",
-      "content": "대 도 영\n출처: 시대인재 N 재수종합 갤러리\n[원본 보기]",
+      "time": "2026-11-27 22:40:02",
+      "likes": "101",
+      "comments": "185",
+      "content": "한국여자들\n신부의 평균 연령\n그러니까 저 온갖 어거지를 감수하면 30대 여자를 '모시고'  '노예처럼'  살 수 있는 것이다\n그리고 다음은 중앙아시아에서 국제결혼비용이\n가장 많이 든다는 타지키스탄이다\n국교는 무슬림이며 국민 90% 이상 무슬림이다\n다른 중앙아시아보다 아주 까다로운 편\n타지키스탄 여자들을 살펴보자\n한녀가 요구하는 돈의 반도 안되는 비용으로\n20대 초반 무슬림 처녀와 결혼할 수 있다\n그래도 돈 쓰고 업체 이용 하는건 좀 그렇다고?\n그럼 그리스에 가서 집을 받고 결혼해라\n출처: 주식 갤러리\n[원본 보기]",
       "images": [
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb9d92ceb&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebc81254658b74c19268310053446261697abc95dc4340a829ce1d7b4ec91002baaceab08fce8b1074329157d5d235cf5b06f085fefdd7bb0c438b94837f954ec1f31bc9f"
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b8df35f1dd3bad&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6767ea1d32ef8ce72a1df7c23d09c23f160beb8e68d34ba376fc8f95b1a8235956a608349b7053bf4",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b8df35f1dd3bad&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6767ea1d32ef8ce72a1df7c27d69e21f460b7bcc275e21f340878840f518e042053733459dd5125dd",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b8df35f1dd3bad&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6767ea1d32ef8ce72a1df7c2cdf992af163bbbfb143de91821e0da2e3b2918dc7394328a0f94726ba",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b8df35f1dd3bad&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6767ea1d32ef8ce72a1df7c26d19822f567bdbaba73c12887ac36d207551bc0ae427a59270bac7f71",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b8df35f1dd3bad&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6767ea1d32ef8ce72a1df7c25d59a21f461b9bd73fc14b2b4da91c16ec8e9199340293ac1630301bf",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b8df35f1dd3bad&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6767ea1d32ef8ce72a1df7c25d2992bf060bbbfa498f27f8e059fa7e9a3e18b720199bc1cc4cc984f",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b8df35f1dd3bad&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6767ea1d32ef8ce72a1df7c23d2992af26dbaba75e7632d752ae69a1c25558f7fbccd2902a6c796a3",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b8df35f1dd3bad&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6767ea1d32ef8ce72a1df7c26d69a26f763bbbdc6379e2f10dbdb3b2f8367bf43aee568fe94aeed2a"
       ],
       "is_cross_hot": false
     },
     {
-      "id": "dc_e41b35f2b3ca",
+      "id": "dc_505668b9174f",
       "source": "디시인사이드",
-      "title": "[미갤]캬 삼성이 일론머스크에게 갑질 ㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481980&_dcbest=1&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-27 11:41:01",
-      "likes": "371",
-      "comments": "433",
-      "content": "일론머스크가 어디가서 애원하고 다니는 사람이 아닌데 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n출처: 미국 주식 갤러리\n[원본 보기]",
+      "title": "[중갤]이 대통령 “SNS서 폭언·욕설은 차단…방치하면 소통 방해”",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482086&_dcbest=1&page=1",
+      "author": "슬근찐게이1",
+      "time": "2026-11-27 22:30:02",
+      "likes": "23",
+      "comments": "235",
+      "content": "https://n.news.naver.com/article/028/0002834182\n이 대통령 “SNS서 폭언·욕설은 차단…방치하면 소통 방해”\n이재명 대통령이 26일 에스엔에스(SNS)를 통한 국민과의 소통을 강조하면서도 익명성을 악용한 폭언과 욕설은 차단한다고 밝혔다. 이 대통령은 이날 공개된 ‘대통령의 와이(Y)’ 비하인드에서 “(에스엔에스는) 익명 공\nn.news.naver.com\n.............?????\n-\n이재명 대통령이 말하는 SNS, 비판과 비방 사이.jpg\n출처: 중도보수 갤러리\n[원본 보기]",
       "images": [
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ea9df25eec72b&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f3a0d498810fa286407f941a08d9fa23067c8f1c3830e1978a7ff3dcc9602a28320d7700"
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2eb8de32f7db2bb26db0d8a613c3323c0fc716&no=24b0d769e1d32ca73fe783fa1bd62531230f05a470410ff5b2c3b20b37cc7ee295e21ad9b0ae58fad62b299f4d016aeb60bcc11c2306e54354ef2d040d6b5fa52b3d1a19e869ccac4ace2975aabb7587",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2eb8de32f7db2bb26db0d8a613c3323c0fc716&no=24b0d769e1d32ca73fe783fa1bd62531230f05a470410ff5b2c3b20b37cc7ee295e21ad9b0ae58fad62b299f4d016aeb60bcc11c2306e54354e2210609695faca5d928a80080a4408463002ab89db9d3",
+        "https://imgnews.pstatic.net/image/028/2026/11/26/0002834182_001_20261126191413035.jpg?type=w800",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b8c732edd737b477&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ea19e3960cc9006d45fa586e0a983c093b49abcb9a00a27711f792a8caac7d9d127be257d6789b663636f3428",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b8c732edd737b477&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ea19e3960cc9006d45fa580ebad88c697b565cc1b9fb0e2708c91c975c5bf800dcb226014efb6a0ddbd1da63f",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b8c732edd737b477&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ea19e3960cc9006d45fa583efaf82c096bd7c4f04b417e1162f3e936d6748c3f5fd9f17a85cb45b850fbb4ed5",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b8c732edd737b477&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ea19e3960cc9006d45fa585e0ad85c09fbbaebee9e9daf237cde42276b7a3194ddda5ea63d1c060ba9991b106",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b8c732edd737b477&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ea19e3960cc9006d45fa585e0af88c690bad5ae4b2392db17e68d571a785f7243a6c63e0be0e3800565a6a883"
       ],
       "is_cross_hot": false
     },
     {
-      "id": "dc_4d670b6d77ff",
+      "id": "dc_694017ec3a75",
       "source": "디시인사이드",
-      "title": "[기갤]권진영",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481976&_dcbest=1&page=1",
-      "author": "정수현",
-      "time": "2026-11-27 11:31:04",
-      "likes": "18",
-      "comments": "24",
-      "content": "출처: 기상캐스터 갤러리\n[원본 보기]",
+      "title": "[응갤]9급시험 막말에 대한... 충주맨의 분노.jtbc",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482084&_dcbest=1&page=1",
+      "author": "앤드류그레이브스",
+      "time": "2026-11-27 22:20:02",
+      "likes": "38",
+      "comments": "163",
+      "content": "출처: 응우옌푹응우옌 갤러리\n[원본 보기]",
       "images": [
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3abed135f1d72a&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757eb819221faaefeebadd8c8fa8d5b40eeeda02916f9a1f3b0a0999a91fb17bd1908c2a0d",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3abed135f1d72a&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757eb819221faaefeebadd8c8fa8d2b408e9dc74a71d9a22992401fae12825e88a5314a0a7",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3abed135f1d72a&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757eb819221faaefeebadd8c8fa8d9b60feed2cd6ca00ffeb80311e2afa0b52f4f62fb58e2",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3abed135f1d72a&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757eb819221faaefeebadd8c8fa8d9bf09e9dcedd33c1cfa5043d21754cf158dfc7f80e8eb",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3abed135f1d72a&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757eb819221faaefeebadd8c8fa8d3be0febdd8299ecc84a0d68e13e6d5a46da2da17f25f0",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3abed135f1d72a&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757eb819221faaefeebadd8c8fa8d4be0cecd25d9c71fd8c093a7a20f0c83fb56fb38e05bd",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3abed135f1d72a&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757eb819221faaefeebadd8c8fa8d8b00be2de754b88c91048b574836ecaf13c8cf3b9cb88",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3abed135f1d72a&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757eb819221faaefeebadd8c8fa8d4b50eedd947a4f9dbc3befa50ac58cb0e064d9b6ea638"
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=7db2c523eb836af5&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e7679840752e9c8b07bd0a6e40c4b309e949235050f17061841a82d8699a0e43f8bb7b5a517ed1d3886924a716104",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=7db2c523eb836af5&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e7679840752e9c8b07bd0a6e4034a3e9f9c9a31047632660318b4d8b38d0d321cb0f81e564bd1ec7fdb8d0a5c3145",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=7db2c523eb836af5&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e7679840752e9c8b07bd0a6e40648309299973a0f6d08c497400b47bb0bccdbb8ab302b6dbd338b8fe76968f651c0",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=7db2c523eb836af5&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e7679840752e9c8b07bd0a6e40d4b349d9e9b34025552b41ec8c4a4475fd14cf06a0a5d0b5828c7ba2be5208adb79",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=7db2c523eb836af5&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e7679840752e9c8b07bd0a6e40c4e379a9f9737039628bf651ec5a432b4f76b5619a8429c6d573fd03077ce76472c",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=7db2c523eb836af5&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e7679840752e9c8b07bd0a6e4014835939b933506f165ccb95bfe03054dee1ab0d81acd41030713c475b649131339",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=7db2c523eb836af5&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e7679840752e9c8b07bd0a6e4024c32929a9631005af513c1e49e1b45197838e610533bfe21dca89a28b5e4eedd1c",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=7db2c523eb836af5&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e7679840752e9c8b07bd0a6e4054f36939b913a02f8fb796104df39ff3148d9e02e918d83095255373748d7e17591"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "dc_8a3e9ccf8645",
+      "source": "디시인사이드",
+      "title": "[싱갤]싱글벙글 생각보다 개빠르게 전환되고 있는거",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482082&_dcbest=1&page=1",
+      "author": "sp²",
+      "time": "2026-11-27 22:10:02",
+      "likes": "40",
+      "comments": "244",
+      "content": "내연기관차 -> 전기차 전환\n요새 주변에 운전하면 전기차가 꽤 보일거임\n저 파란 번호판 단 차들\n그래도 아직 멀었다 하기엔 전기차 시장의 성장세가 미친 수준임\n전기차 판매량 추이 그래프인데\n코로나 시즌인 19년을 기점으로 현재는 그보다 10배 가까이 판매되고 있음\n26년엔 당연히 더 팔렸을 거고\n이는 상당히 빠른 속도인데 왜이렇게 전기차 시장이 빠르게 성장하냐면\n근본적인 원인은 역시나 또 유럽에게 있음\n물론 영국 한나라 때문에 그런건 당연히 아니고..\nEU국가들과 영국 주도하에 전 세계적인 영향을 주는 완전 탈탄소 정책(CFE)과 완전 100% 신재생에너지(RE100) 때문임\n물론 유럽 놈들은 당연히 말만 그렇게 하는게 아니고 실제로 니네 신차 CO2 평균 배출량 안줄이면 니네들 자동차 수입 안하겠다고 거의 반 협박을 해대서\n기존 자동차 회사들은 저 규제를 맞추기 위해 울면서 전기차 또는 하이브리드 차 생산을 늘려야만 했음\n그결과 2019년에 전문가들이 예측한 섹계 글로벌 자동차 동력원 비중을 훨씬 상회하게 됨\n현재 글로벌 자동차 동력은\n내연기관(디젤, 가솔린) 약 55%\n하이브리드 및 플러그인 약 25%\n전기차 약 20%\n그외 5%정도인데\n특히 2030년에도 순수 전기차 비중은 7%대일 것이다 라는 전문가들 예상을 깨고 2026년에 약 20%를 찍어버림\n이는 정말 빠른 속도다 애초에 저기 자료 제공한 한국자동차 공학회는 자동차 산업과 학계를 대표하는 최고수준의 집단인데도 크게 틀렸다는 점에서 더더욱..\n이건 세계 전기차 시장 판매량 비율인데\nBYD라는 중국 전기차 회사가 전세계 1위를 찍엇다\n물론 저 그래프에 회사 이름이 있다는 것만으로 세계적인 자동차 회사로 보아도 되기에 대단한 거지만\n1위를 찍은 건 좀 다른문제니깐\n그럼 BYD 전기자동차 사업은 왜 성공했을까?\n일단은 극한의 가성비를 자랑한다\n레이나 캐스퍼보다 크기가 조금 더 큰 차를 쟤네들 둘보다 출고가를 적게 받고 판다\n그냥 가격 경쟁이 안됨 그나마 나라에서 전기차 보조금을 BYD 차에겐 덜 주거나 탈락시키고, 국산 차들은 보조금을 지급하는 방식으로 가격 경쟁을 유지하고 있는 수준이다\n이 BYD라는 회사는 본래 휴대폰 배터리 팔던 회사였음\n근데 스미트폰의 보급과 통신의 발달로 엄청난 수혜를 입었고, 특유의 압도적인 생산량으로 한때 삼성 스마트폰에도 까보면 삼성 배터리가 아니라 이 BYD 회사 배터리가 들어가 있을 정도였다..\n워렌 버핏 조차 이 BYD회사의 주식을 10년간 보유해 거의 2,000~3,000%라는 수익을 얻었으니 어찌보면 이 회사의 성공은 정해진 수순이였던 셈\n휴대폰 배터리 팔면서 얻은 자본과 기술력(남의 기술 베꼈든, 최고수준 연구원으로 직접 연구을 했든)을 바탕으로 BYD는 2000년대부터 전기차 시장 및 반도체 시장에도 뛰어들었으며 결국 압도적인 가성비 정책이 먹혀들어갔다\n이것이 2020년대 한국의 이차전지주식이 고꾸라진 뒤 영 힘을 못쓰게 된 계기가 됨\n먼저 국내 2차전지시장은 크게\n배터리를 완제품으로 조립하는 삼성SDI, LG에너지엔솔루션, SK 온 등 국내 대기업 계열사를 필두로 한 회사들과\n가장 중요한 이차전지의 소재가 되는 양극재 등을 만드는 포스코퓨처앰, L&F, 에코프로비엠 등의 회사로 구분되는데\n이 소재가 되는 부분에서 좀 밀렸다고 보면 편함\n먼저 국내 양극제 만드는 회사들은\n철을 별로 중요하게 보지 않고, 고출력 중심의\n니켈, 코발트, 망간 등 삼원계응 이용한 전기차 이차전지를 주로 만들었는데(NCM)\n중국의 BYD 등의 회사는 다소 출력과 주행거리는 떨어지고 무겁더라도 값싸고 화재 안정성이 뛰어난 금속인 철에 주목했음 이를 LFP,(리튬인산철 배터리) 라고 함\n결론적으로 LFP가 2026년 기점으로 보급률 수치를 보나, 점유율 수치를 보나 NCM보다 더 많이 팔리고 성공하게 되었으며,\n국내 이차전지주(소재쪽)식이 나락간 뒤 영 힘을 못쓰는 상태가 계속 되고 있다고 보면 됨\n그래도 현재 마냥 나쁘게만 보면서 국내 배터리 시장은 끝났다 라고 보기에도 애매한게\n이미 위의 소재쪽 이차전지 회사들은 LFP 배터리 연구 및 상용화 단계에 착수에 돌입핶으며,\n미국 ESS 데이터센터 배터리 보급 계약도 체결하는등 성과를 보이고 있으며\n한 회사는 꿈의 전해질인 전고체 배터리 라는걸 상용화 목표로 잡는 등 재기에 힘쓰고 있는 모습임\n나도 주식을 안해서 잘 몰랐는데 많은 주식쟁이들이 국내 이차전지주가 나락가서 전기차 시장은 끝났거나 희망이 없다 라고까지 생각하는 사람도 꽤 보이던데\n결론만 말하면 전기차 시장은 전혀 희망이 없지 않으며 오히려 해를 거듭할수록 엄청난 성장을 보이고 있음\n2027년에 한 전기버스 제작 회사는\n무려 자율주행 상용 전기버스를 목표로 하고 있는등\n전기차 시장이 커지면 커지지 이제 떨어지거나 둔화 위축될 일은 당분간 없을 예정\n결론적으로 유럽의 저 RE100인지 탈탄소정책인지 뭔지 때문에 모든 내연기관차는 이제 사라질 거고 전기, 수소차 등 친환경 차로 대체되는것은 정해진 수순이기 때문\n출처: 싱글벙글 지구촌 갤러리\n[원본 보기]",
+      "images": [
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebc8c224b5afd59092abb4b53374328158b048bf8e8eed0209ac27a028e3050d43031728e86c04eb345325018149ac2f063b424188b523569d90d00eed9c374361c6bde75e531bd58b24d17ac05d357c16d2bbbd5156f",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebc8c224b5afd59092abb4b53374328158b048bf88585d6239cc37c018b3150bd57c1f0793bc65e711626bb68f86abafcaf926cd7883fbc3e45f0f17429d774",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebc8c224b5afd59092abb4b53374328158b048bf8e8eeda2098c1790a8b3751d730fed51e0c9425ea4de32eea918606a4f748a826e4dabd98c1364e37d84560562649b1f2ec3dafbb4c68f94b1939bd6184418f862c7b",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebc8c224b5afd59092abb4b53374328158b048bf8e8eed32792cf7b0688365ddb305915fdb02dc2f37bc3402158d15fa31a10294e60e576cac4ab01088d25a2d1691eda21c887de608968be1b0f28a5b1e180",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebc8c224b5afd59092abb4b53374328158b048bf8e8eed1279ac275008f3555da30ce91271d8a8826cd1697b2c33c3000126e849c4f693b3a62d17e03ee783245900223f90810a0a55131f0315d7bf5dea0ae0e908217",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebc8c224b5afd59092abb4b53374328158b42dfaeeb86d32392c67b6d8c3556d4093ac03b50c61c68a5fc34d60be9bbf806e04446d46405ca95ac5cc4df185b5af257bd367527a542286af8f4a0d474522885",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebc8c224b5afd59092abb4b53374328158b048bf88588d42592c47c0389355dbd0d6c1a085fede8db87fd84a3dfe71c1fd5f1df35debf50c0e45b52db4174175d249e4615b42bf443985491322ef7b9e424",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebc8c224b5afd59092abb4b53374328158b048bf8e8eed3209ece7b0a8e3052db302e676802cad17a98d9ba0fbeb135941570d87a778a8b4e646a3dde09821dcb4d144c5250011b0af9521a149559b9da2572bb4dfbc7"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "dc_55545ff9aaa2",
+      "source": "디시인사이드",
+      "title": "[야갤]불꽃야구 또 사고 쳤네...jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482080&_dcbest=1&page=1",
+      "author": "업햄",
+      "time": "2026-11-27 22:00:03",
+      "likes": "132",
+      "comments": "147",
+      "content": "비시즌 쉬어야하는 현역 선수들을\n은퇴한 대선배들이 차출? 갑질 하는듯 불러대서\n크보팬들이 줬나 빡침 ..\nPD \" 국대 이상만 여기 올수 있음 “\n불꽃야구 팬 “크보맘들 왜 오바냐”\n안우진 거절하니깐\n자막으로 ㅇㅈㄹ ..\n크보팬들이 불꽃야구하면 질색하는 이유를 알겠네....\n출처: 국내야구 갤러리\n[원본 보기]",
+      "images": [
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2fbcc323e7d334aa51b1d3a24782&no=29bcc427b69d39b37ab0ccaf17dd6b6f62b51891c5c5132e1e5fdac993bc3ec6427380e1890e10c148d51511fdfe8ca6daf64f",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2fbcc323e7d334aa51b1d3a24782&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767984554babc5c9674d98796999e8775af213ae5f8584d9387a0a8b44dc0c1fc90015d4e2d67f96b19b14a578931e5caee4941eb3a1d9266bf795cf3c4eccd093aec577fbd280ae82dd9bf3864544",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2fbcc323e7d334aa51b1d3a24782&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767984554babc5c9674d98796999e8775af212a9420e8526439e984eb908e13c50363c2868573065e3e8b2654aa42f087fe7dee9894e7a5af15f2079e0e0bb639e838f296566b41cb32c158db6a739",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2fbcc323e7d334aa51b1d3a24782&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767984554babc5c9674d98796999e8775af253fc103d00f3c538cb1bfe16b66fa61ac103c981867098170bdac672f4fdc3fb1294b78fec753dfde2944f9d32da8cda500ccb2a40acd2787263912132566a79",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2fbcc323e7d334aa51b1d3a24782&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767984554babc5c9674d98796999e8775af253fc103d06f3cf3ace14f116b26da619c5064550e9489beb17faa9e46759c68c33022e71cf16abdea4510c391420c26909721a1c5392b79c07163d717744356b",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2fbcc323e7d334aa51b1d3a24782&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767984554babc5c9674d98796999e8775af215ac0a3972093c04d2fd06c40eaa40636c83b2f75cd3ffbe98cfb6c9b781743e1a5a6860ee6aa9327843f7b84e09fe02b022d26b96e70835da60450667"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "dc_7934e99b3332",
+      "source": "디시인사이드",
+      "title": "[잡갤]영양제 권하는 흰 가운 의사의 '반전'..걸리면 영업 정지...webp",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482078&_dcbest=1&page=1",
+      "author": "빌애크먼",
+      "time": "2026-11-27 21:50:02",
+      "likes": "10",
+      "comments": "34",
+      "content": "https://youtu.be/LggUokeKjak\n금요일 친절한 경제 한지연 기자 나와 있습니다. 한 기자, AI로 만든 가짜 의사 광고 오늘(27일)부터 달라지는 게 있는 거죠?\nAI로 만든 가짜 전문가가 제품을 추천하는 것처럼 꾸민 광고가 오늘부터 법으로 금지가 되는데요.\n걸리면 영업 정지, 광고 정지를 당할 수 있습니다.\n흰 가운을 입은 AI 의사가 영양제 권하는 광고 그동안 많이 보셨죠.\n이런 광고가 늘자 정부가 지난해 말 대책을 내놨고, 올봄 법을 고쳐 오늘부터 시행하는 겁니다.\n법 시행 전에도 효능을 부풀린 광고는 단속해 왔습니다.\n지난 6월에는 AI로 만든 중년 의사를 내세워 역노화가 된다며 일반 가공식품을 81억 원어치나 판 업체가 검찰에 넘겨졌습니다.\n소비자원이 9개월 동안 유튜브에서 찾아낸 AI 악용 광고만 420건, 이 가운데 의사나 약사, 교수 행세를 한 게 150건이 넘었습니다.\n오늘부터는 의사만이 아니라 약사, 한의사, 대학교수까지 AI로 만든 가짜가 실제 전문가처럼 추천하는 걸로 보이면 법 위반이 됩니다.\n먹는 식품부터 의약품, 화장품까지 해당되고, 의료기기는 다음 달 10일부터입니다.\n식품은 처음 걸려도 15일 영업 정지, 세 번째면 두 달이고, 화장품은 그 제품 광고를 최대 1년까지 못 하게 됩니다.\nAI가 꾸며내는 건 의사 얼굴만이 아닙니다.\n그 420건 중에는 전문가 행세보다 체험 후기 조작이 더 많았습니다.\n그래서 소비자원은 전후 비교 사진이나 후기까지 AI로 합성됐을 수 있으니 현혹되지 말라고 당부했습니다.\nAI 기능을 앞세운 아이폰 광고도 문제가 됐네요.\nAI 기능 9개 중 4개가 광고한 출시 시기와 내용과 불일치를 해서 과징금이 최대 536억 원까지 나올 수 있겠습니다.\n재작년 9월 아이폰 16이 나올 때 애플이 내세운 AI 기능이 한참 늦어졌다는 얘기 들어보셨을 텐데요.\n대표적인 게 일정을 챙겨주고 필요한 정보를 찾아주는 새 '시리' 기능입니다.\n미국에서 영어로도 재작년 안에 낸다더니 올해 9월에야 선보였고, 한국어로는 지난해 4월로 예고했다가 지난달에야 나왔습니다.\n1년 반이나 늦은 거죠.\n시리 말고도 나만의 이모티콘을 만드는 젠모지, 그림을 만들어주는 기능까지 광고했던 시점이나 내용대로 구현되지 못했습니다.\n공정위 심사관은 이걸 소비자를 속인 광고로 봤는데요.\n관련 매출이 3조 3천억 원을 넘다 보니, 과징금은 적게 잡아도 268억 원입니다.\n그럼 이 폰을 산 사람은 뭘 돌려받느냐, 아쉽게도 이번 절차에는 소비자 보상이 없습니다.\n과징금은 나라에 내는 돈이거든요.\n아직 확정된 것도 아닙니다.\n검찰로 치면 공소장을 낸 단계라, 애플은 6주 안에 반론을 낼 수 있고, 그 뒤 공정위가 심의해서 위반인지, 얼마를 물릴지, 최종 결정합니다.\n끝으로 피부 시술 얘기인데, 할인 이벤트 믿었다가 낭패 보는 경우가 많다고요?\n소비자원에 따르면 올 상반기 피해 구제 신청이 1년 전의 2배가 넘었습니다.\n할인 이벤트에 끌려 피부 시술 패키지 끊었다가 환불로 실랑이하는 일 어제, 오늘 얘기는 아니죠.\n재작년부터 쌓인 신청을 보면 신청자 70% 가까이가 20~30대였고 또 82%는 계약을 끝내고 돈 돌려받는 문제로 다퉜습니다.\n어떤 식이냐면, 지방 분해 주사 6번에 관리까지 묶어 429만 원을 낸 소비자가 세 번 받아보고 효과가 없다며 해지를 요구했더니, 병원은 할인 전 정상가로 계산하고 위약금까지 빼면 돌려줄 돈이 없다고 하면서 대신 시술을 두 번 더 해주겠다고 했습니다.\n이 때문에 소비자원은 계약 전에 정상가와 할인가, 또 중간에 그만두면 얼마를 돌려받는지부터 꼭 확인하라고 합니다.\n돈 문제만 있는 것도 아닙니다.\n부작용 피해 중에는 화상이 절반을 넘었는데, 리프팅 시술로 팔에 2도 화상을 입어 흉터 치료에만 400만 원이 든다는 진단을 받은 경우도 있었습니다.\n이상이 생기면 바로 진료받고, 진료 기록과 사진부터 챙겨둬야 나중에 피해를 입증할 수 있습니다.\n또, 의료진이 어떤 전문의인지도 따져보라는데요.\n의원에서 생긴 피해 90%가 피부과 전문의가 아닌 일반의가 연 곳에서 나왔습니다.\n간판 이름에 '피부과 의원'이 들어갔다면 피부과 전문의가 연 곳이고, '진료 과목 피부과'라고만 적혀 있으면 전문의가 아닐 수도 있다는 점 알아두셔야겠습니다.\n출처: 잡담 갤러리\n[원본 보기]",
+      "images": [
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ab6c123eed3&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955083426aa76d9ade3aa7e4ffe9d44c00b998da1d7874523ed3347fb5c3616c29",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ab6c123eed3&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955083426aa76d9ade38a1e4feecd54e06b48a98784359ca1dfd9c24826d561fc3",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ab6c123eed3&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955083426aa76d9ade3ea6e4f3e8d54209bcce6dd460b0f45daef4d6c309b6e16c",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ab6c123eed3&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955083426aa76d9ade30a2e4fdefd54c00b5124e743d24ad052d5f2a5ede1dad75",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ab6c123eed3&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955083426aa76d9ade3baee5fcebd04c00b9bb27a815a7c9a668790db1f3b30f6a",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ab6c123eed3&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955083426aa76d9ade3aa2e5fcead74b08ba3230ae206c5d9900bd65ec1b37d0c2",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ab6c123eed3&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955083426aa76d9ade3fa7e7fae0d14305bbf8166da513642b8861588533b713ba",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ab6c123eed3&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955083426aa76d9ade3ca2e2faeed64e03b9333b1917e631073fe75babb4c82e84"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "dc_83dacef83862",
+      "source": "디시인사이드",
+      "title": "[싱갤]여초논란..간호사한테 주면 실례인 선물들..jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=482076&_dcbest=1&page=1",
+      "author": "파라오의분뇨",
+      "time": "2026-11-27 21:40:02",
+      "likes": "45",
+      "comments": "282",
+      "content": "감사해서 전한 마음을 저렇게 생각하다니 별로다 vs\n쌍화탕 박카스 사줬는데 앞으론 마카롱 케이크 이런거 사야겠다 유용한 정보다\n이렇게 의견 갈린다고..\n- dc official App\n출처: 싱글벙글 지구촌 갤러리\n[원본 보기]",
+      "images": [
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebc84dfce90b360033dc3dcd24641c32de5337784237d78feaaed639adedc7d0f5e27c3e3698197ab16716bec5cba2b46773463a90061693565435666e8a33ed4c2b1fba28017d1aa76e814bc15f69391248f0633b4bf58",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebc84dfce90b360033dc3dcd24641c32de533778423747ef9a6e9639ed7da740f5bc1b017cf42eab0d74573b3ff318ab3ddd252275d96e224b66d815b25101ceaabcf08981f1498c2e070672da7fb6b3d80382ed9d02587",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebc84dfce90b360033dc3dcd24641c32de5337784237577fba0e7669dd7dd750f092e01d097d971dc850ed6c17e6143631f34b7c2104d5b7a80f09479122d92987cd2a5b46c1aed63aa",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebc84dfce90b360033dc3dcd24641c32de5337784237f7ffea2ed609ddeda770f0ef2bc012de6f952efd79b3377ac91babe057e112d95fb8475dd81825e018d1db2eef943d237729f68c4afa5c5d21aba7569138878825e",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebc84dfce90b360033dc3dcd24641c32de5337784237a78fca4ee659ed7da760f5b63e386c5c2b795a31f78501484ed0f5c3d63dd37720b307e8bb217f97933287e0b50490bec0e63c69be682db345a2169fa82ed19bf13",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebc84dfce90b360033dc3dcd24641c32de5337784237977f8a4ed6699ded9750f0c0c91110d1fb8c27e12bd5168679305431affc8da7c51db13454c928d424bb5abf932b3eca840db78",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebc84dfce90b360033dc3dcd24641c32de533778423787afda3e96694d1d6740f5a1344ba65bc6e19b8bd4a669064f82e88fe14b0dc0c3e96e4af8651e4d6f23659945940e55cae8a81",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebc84dfce90b360033dc3dcd24641c32de533778423747bf2aaed659dded8720f551f7c9643556b4aa42c8943ecd3fbcaf2936f102188515dc67d6a4ffeea2d4b2aa86fd56b223aebe8"
       ],
       "is_cross_hot": false
     },
@@ -368,166 +425,167 @@
       "is_cross_hot": false
     },
     {
-      "id": "bobae_fa2056d2c507",
+      "id": "bobae_f9c6a684738c",
       "source": "보배드림",
-      "title": "휴가 장병 용돈 ^^",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1050475&vdate=",
-      "author": "건이설이아..",
-      "time": "2026-11-27 13:15",
-      "likes": "21",
+      "title": "일본 AV 여배우 20명 한국에서 성매매",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1050592&vdate=",
+      "author": "일차로는추..",
+      "time": "2026-11-27 21:02",
+      "likes": "20",
       "comments": "",
-      "content": "수영마치고 집사람이랑 평소 애정하는 개금 평화식당 들러 갈치찌개, 된장찌개를 시키고 기다리던중(웨이팅있음.)\n국수를 시켜 대기중이던 인근병원간호사? 께서\n저희 음식을 보시더니 아 맛나겠다. 한마디 하시길래 그릇하나 가져와서 갈치찌개 한덩이를 드렸지요. 감사합니다.\n하시면서 좀더 기다리시길래 이내 군인아들과 남편분이 들어오시던군요. 오늘 휴가 마치고 들어가는길이라고 남편분께서 갈치얘기를 듣더니 저희에게 국수를 좀 덜어서 주시더군요. 잘먹었고요.\n맛나게 잘 드시고 가족분들이 아웃하실때 따라 나가서 군인아들에게 5만원 쥐어주면서 조심히 귀대하세요.  가족분들께서 극구 사양. 아니에요. 너무 감사해서요.\n조심히 군생활하시고 건강하게 제대하세요.\n하고 용돈 드렸네요.\n감사합니다.\n하면서  들어가신줄 알았는데 군인아들이 다시 와서 커피쿠폰을 주더군요. 다시한번 군생활 잘하고 건강하게 제대하시고 그리고 고맙다. 했네요.\n덕분에 시원한 아이스커피, 따듯한커피 집사람과 잘 먹었어요.\n모든 군인여러분 감사합니다. 건강히 제대하세요.",
+      "content": "시간당 천만원??   ㄷㄷㄷ\n어쩐지 우리나라에  뻔질나게 오더라",
       "images": [
-        "https://file1.bobaedream.co.kr/bbs/freeb/2026/11/27/12/kkh71795751861_1272639832.jpg",
-        "https://file1.bobaedream.co.kr/bbs/freeb/2026/11/27/12/kkh71795751985_1308026456.jpg",
-        "https://file1.bobaedream.co.kr/bbs/freeb/2026/11/27/12/kkh71795752835_776057457.jpg",
-        "https://file1.bobaedream.co.kr/bbs/freeb/2026/11/27/12/kkh71795752842_1503205233.jpg"
+        "https://file1.bobaedream.co.kr/humor/2026/11/27/21/etha1795780943_563639007.jpg"
       ],
       "is_cross_hot": false
     },
     {
-      "id": "bobae_024f3b693eb9",
+      "id": "bobae_06830373b8b6",
       "source": "보배드림",
-      "title": "광주법원 여고생살인범 가석방가능하게 내린 이유..삽입은 하지..",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1050473&vdate=",
-      "author": "잠자르",
-      "time": "2026-11-27 12:49",
-      "likes": "47",
+      "title": "병신 짭닉 새끼가 출현 espnk3 (내용 추가)",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1050588&vdate=",
+      "author": "espkh..",
+      "time": "2026-11-27 20:49",
+      "likes": "33",
       "comments": "",
-      "content": "https://youtu.be/U0txNcvZEeU\n강간이 기수에 이르지 아니한점\n-> 성폭행 강간을 목적으로 살인했지만\n실제 삽입을 못했으니 재범 위험 크지만\n가석방가능하게 선고. .\n2,3심가면 15~30년 나온후\n5~10년 조용히살고나면\n가석방 시킬려는 전관들의 돈빽으로 설계한듯..\n피해자 유가족들이 힘이되면 저꼴보느니\n아니면  돈여유있는 유투버들이\n킬러고용해서 죽이는게\n올바른 사회정의실현일듯..",
+      "content": "병신 새끼가 할 짓이 없어서 아주 미쳤네 진짜 ㅋㅋㅋ\n닉네임\nespnk3\n가입일\n2026.11.27\n|\n최종방문\n2026.11.27\n활동지수\n레벨 훈련병\n|\n포인트 36\n작성글\n게시글\n0\n|\n댓글\n11\nhttps://www.bobaedream.co.kr/mycommunity?cid=b3BocWhvcGhyM29waHE4b3BocWlvcGhxbW9waHFsb3Boc21vcGhzZG9waHNl&lo=40&or_where=cmt&or_gu=10&or_se=desc&s_code=&pagescale=&viewtype=&cpage=&flag=&ubd_no=&mcmd=&ctb=uni_cmt_2611&s_select=title&s_key=\n지랄한다 아주 지랄을 해 ㅋㅋㅋ\n------------\n닉네임\nespkh4=(전)3829372917 ->곧 바로 스틸 당했음 ㅋㅋㅋㅋ\n가입일\n2011.03.12\n|\n최종방문\n2026.11.27\n활동지수\n레벨 소장\n|\n포인트 109,984\n작성글\n게시글\n0\n|\n댓글\n20,875\nhttps://bobaedream.co.kr/mycommunity?cid=b3BocW5vcGhxam9waHFnb3BocjNvcGhxYm9waHFqb3BocWo%3D&lo=40&or_where=cmt&or_gu=10&or_se=desc&s_code=&pagescale=&viewtype=&cpage=&flag=&ubd_no=&mcmd=&ctb=uni_cmt_2611&s_select=title&s_key=",
       "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/27/12/hckb1795751303_389294459.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/27/12/hckb1795751303_526259077.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/27/12/hckb1795751759_774299191.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/27/12/hckb1795751760_1988541880.jpg"
+        "https://file1.bobaedream.co.kr/humor/2026/11/27/22/DhYI1795785334_334753925.png",
+        "https://file1.bobaedream.co.kr/humor/2026/11/27/22/DhYI1795787905_1958084198.png",
+        "https://file1.bobaedream.co.kr/humor/2026/11/27/22/DhYI1795787905_1599766312.png"
       ],
       "is_cross_hot": false
     },
     {
-      "id": "bobae_cd8e91f8a42a",
+      "id": "bobae_71b075872643",
       "source": "보배드림",
-      "title": "도파민 개터지네요",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1050476&vdate=",
-      "author": "호주산오선..",
-      "time": "2026-11-27 12:48",
-      "likes": "21",
-      "comments": "",
-      "content": "신호 없는 횡단보도\n약간 한쪽다리가  불편해 보이는 60대 행님\n4분1 지점 건너는중 차들은 피해 지나가는 중\n반대편 저는 천천히 그행님을 보고 정지\n차들이 다 서행 후 정지함\n빵 살짝 한번하고 손짓으로 건너가세요 함\n그 행님 고개 돌려 날 보고 손 들고 흔들면서\n새각시 보는거 마냥 웃으시며 건너심\n4분2 지점에도 3에도 마지막 도착에도 웃으시며\n손 흔드심\n약 몇초 사이 4번의 손인사와 웃음으로 오늘나의\n도파민 충전완료\n운전자도 내리면 보행자 입니다.\n그럼 다들짹스\n오늘 영화 유쥬얼서스펙트 봐야겠심다",
-      "images": [
-        "https://file1.bobaedream.co.kr/bbs/freeb/2026/11/27/12/noki1795751206_2015957348.gif"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_fdc1f6eb3c1e",
-      "source": "보배드림",
-      "title": "손연재 30억 기부",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1050471&vdate=",
-      "author": "테메노스",
-      "time": "2026-11-27 12:40",
-      "likes": "69",
-      "comments": "",
-      "content": "손연재가 30억 기부한 태아치료.\n찾아보니까 우리가 생각하는 것보다\n훨씬 힘들고, 비용도 어마어마하더라.\n한 가정이 파탄 날 정도래...\n뱃속 태아 수술은 지방에서는 못하고\n서울 큰 병원에서만 가능하대.\n아직까지도 전 세계적으로 집도할 수 있는\n전문의와 전담 센터가 손에 꼽을 정도로\n고난도 분야이기 때문에 치료 비용이 엄청나다고.\n서울에 올라오면 체류비, 출산 후 재활비+ 간병비.\n보험 아예 안되는 최신 의료기기 +치료제......\n태아 수술은 국내에서 20년 밖에 되지 않았어.\n과거엔 아예 치료 대상으로도 생각도 안했다고.\n그래서 태아가 뱃속에서 아파도 출산할 때까지\n기다리거나 포기하는 경우가 대부분이었대.\n산모도 태아도 살려야 하는 어려운 수술이지만\n후원이나 지원이 거의 없는 게 현실이래.\n제도권 밖 사각지대에 놓인 가정들이\n돈 때문에 아기 치료를 포기한다는 소식을 듣고\n손연재가 30억을 기부한 거래.\n아기가 태어나기 전부터 생명을 살리려는\n이런 노력이 많이 알려졌으면 좋겠다.",
-      "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/27/11/show1795747017_804646924.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/27/11/show1795747412_1545253415.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/27/11/show1795749647_22384814.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/27/11/show1795750338_801204742.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/27/11/show1795749814_2011917956.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/27/11/show1795749856_2036727356.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/27/11/show1795749990_583896321.jpg",
-        "https://file1.bobaedream.co.kr/humor/2026/11/27/11/show1795750003_1926013387.jpg"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_20c1180ca17b",
-      "source": "보배드림",
-      "title": "친자확인 불일치 보다 더 끔찍하고 소름 돋는거",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1050474&vdate=",
-      "author": "전문대는꿈",
-      "time": "2026-11-27 12:38",
-      "likes": "24",
-      "comments": "",
-      "content": "오..상상만 해도 뒷골 땡기는 기분",
-      "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/27/12/GQkJ1795750655_401802084.webp"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "bobae_ce11eb8a94ff",
-      "source": "보배드림",
-      "title": "영상) \"음료 챙겨드렸더니\"…단체 예약 손님들 정체 '감동'",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1050467&vdate=",
-      "author": "사패산꼴데",
-      "time": "2026-11-27 12:30",
-      "likes": "51",
+      "title": "요즘 유럽에서 일단 한국인이냐고 묻는 이유",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1050591&vdate=",
+      "author": "리빈다비다",
+      "time": "2026-11-27 20:23",
+      "likes": "42",
       "comments": "",
       "content": "",
       "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/27/12/BwkW1795750062_1558265992.webp",
-        "https://file1.bobaedream.co.kr/humor/2026/11/27/12/BwkW1795750078_561536964.png",
-        "https://file1.bobaedream.co.kr/humor/2026/11/27/12/BwkW1795750188_1091317107.gif"
+        "https://file1.bobaedream.co.kr/humor/2026/11/27/20/GAAb1795778609_847260508.webp"
       ],
       "is_cross_hot": false
     },
     {
-      "id": "bobae_6261ff4ed321",
+      "id": "bobae_ba46b1d38d81",
       "source": "보배드림",
-      "title": "아빠 미워",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1050468&vdate=",
-      "author": "한루살이",
-      "time": "2026-11-27 12:27",
-      "likes": "53",
+      "title": "퇴근길 치킨 배달하고 왔네요",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1050589&vdate=",
+      "author": "조지오십톤",
+      "time": "2026-11-27 18:37",
+      "likes": "62",
       "comments": "",
-      "content": "",
+      "content": "퇴근길 조그마한 보육원에 치킨 배달하고 왔네요.\n아이들이 잘 맛있게 먹어야 할텐데.\n퇴근길 조심 안전운전들 하세요^^~",
       "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/27/12/CgwP1795750046_1054543385.jpg"
+        "https://file1.bobaedream.co.kr/bbs/freeb/2026/11/27/18/kjhl1795772131_804334079.jpg"
       ],
       "is_cross_hot": false
     },
     {
-      "id": "bobae_027dab94dfa0",
+      "id": "bobae_b15f359f1265",
       "source": "보배드림",
-      "title": "어른 되면 불편해지는 이유",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1050472&vdate=",
-      "author": "슈팝파",
-      "time": "2026-11-27 12:19",
-      "likes": "38",
+      "title": "김해 고교 텀블럼 사건",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1050573&vdate=",
+      "author": "유돈케이",
+      "time": "2026-11-27 17:48",
+      "likes": "122",
       "comments": "",
-      "content": "진심 철없고 개념없는 사람들이 인생 제일 편하게 살아가는듯",
+      "content": "학교 김해 율하 고등학교.\n가해자 2학년 10반 배근ㅈ",
       "images": [
-        "https://file1.bobaedream.co.kr/humor/2026/11/27/12/EgAW1795749575_650802120.jpg"
+        "https://file1.bobaedream.co.kr/humor/2026/11/27/17/kms51795769130_892751497.jpg"
       ],
       "is_cross_hot": false
     },
     {
-      "id": "bobae_84c86fbd2b9e",
+      "id": "bobae_12fae2c2f1d5",
       "source": "보배드림",
-      "title": "수영장 알바하는데 단체손님 온썰",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1050464&vdate=",
+      "title": "펌)학교 운동회 승패를 갈라야하나?jpg",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1050585&vdate=",
+      "author": "57분교통..",
+      "time": "2026-11-27 17:45",
+      "likes": "42",
+      "comments": "",
+      "content": "승패를 굳이 나눠야 되냐 vs 무승부는 무슨 의미냐",
+      "images": [
+        "https://file1.bobaedream.co.kr/humor/2026/11/27/17/sjhb1795769101_187102236.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/27/17/sjhb1795769103_120052070.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/27/17/sjhb1795769106_839385027.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/27/17/sjhb1795769108_1696511021.jpg"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "bobae_4efda51852ad",
+      "source": "보배드림",
+      "title": "지난번에 이어 치킨 후원 한 번 더 하고 왔습니다~",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1050557&vdate=",
+      "author": "은우은서",
+      "time": "2026-11-27 17:29",
+      "likes": "111",
+      "comments": "",
+      "content": "지난번에 수원 동광원에 치킨 전달하고 첫 후원 글을 남겼었는데요\n이번에는 수원에 있는 꿈을키우는집에 다녀왔습니다\n첫 번째엔 괜히 긴장했는데, 이번엔 다녀오고 나서 뭔지 모르게 뿌듯하더라고요\n하는 일 특성상 겨울에 많이 바빠서 더 춥기 전에 급하게 다녀왔습니다\n열심히 또 일해서 봄에 또 다녀와서 후기 남길게요~\n아직 두 번밖에 안 해 봤지만, 왜 한 번 하고 나면 또 하고 싶어지는지 조금은 알 것 같습니다.\n앞으로도 여유 될 때 한 번씩 이어가 보려고 합니다.\n보배드림 형님들, 날 추운데 감기 조심하시고 좋은 하루 보내세요~",
+      "images": [
+        "https://file1.bobaedream.co.kr/bbs/freeb/2026/11/27/17/BhcC1795768108_1475332174.jpg",
+        "https://file1.bobaedream.co.kr/bbs/freeb/2026/11/27/17/BhcC1795768111_1491742271.jpg",
+        "https://file1.bobaedream.co.kr/bbs/freeb/2026/11/27/17/BhcC1795768113_3143527.jpg"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "bobae_44a71de140e5",
+      "source": "보배드림",
+      "title": "뮤지컬판에서 대참사 난 사건",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1050568&vdate=",
       "author": "포핸즈",
-      "time": "2026-11-27 11:57",
-      "likes": "64",
+      "time": "2026-11-27 17:24",
+      "likes": "142",
       "comments": "",
-      "content": "잔잔하니 좋네요",
+      "content": "그리고 사과문 게시\n버릴순 있는데.. 몰래 버리든 처리 했어야지...",
       "images": [
-        "https://i.aagag.com/o/L7oKP.webp"
+        "https://i.aagag.com/o/L7oOj.webp",
+        "https://i.aagag.com/o/L7oOn.webp",
+        "https://i.aagag.com/o/L7oOv.webp",
+        "https://file1.bobaedream.co.kr/humor/2026/11/27/17/Bwof1795767763_930120899.png",
+        "https://file1.bobaedream.co.kr/humor/2026/11/27/17/Bwof1795767785_1666367371.png"
+      ],
+      "is_cross_hot": true
+    },
+    {
+      "id": "bobae_7f7c4ab277a8",
+      "source": "보배드림",
+      "title": "볼때마다 이해 안되는 사고",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1050584&vdate=",
+      "author": "싸가지황",
+      "time": "2026-11-27 17:24",
+      "likes": "49",
+      "comments": "",
+      "content": "분명 콜벳은 피했고\n카니발도 충분히 설수 있었는데 박음....\n이런 콜벳c8 같은 상황 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "images": [
+        "https://file1.bobaedream.co.kr/humor/2026/11/27/17/h1051795767795_74679876.gif"
       ],
       "is_cross_hot": false
     },
     {
-      "id": "bobae_cfd48b50cfde",
+      "id": "bobae_13d9e1cdab3d",
       "source": "보배드림",
-      "title": "회전교차로 상대차가 1차선에서 무리한 진출 시도해서 사고났습..",
-      "url": "https://www.bobaedream.co.kr/view?code=best&No=1050460&vdate=",
-      "author": "숑슝숑",
-      "time": "2026-11-27 11:43",
+      "title": "여러분들의 신고는 사랑입니다",
+      "url": "https://www.bobaedream.co.kr/view?code=best&No=1050576&vdate=",
+      "author": "espkh..",
+      "time": "2026-11-27 16:55",
       "likes": "25",
       "comments": "",
-      "content": "안녕하십니까\n회전교차로 2차선 진입 후 회전 중\n1차선 차량이 직진처럼 진입 진출하는 과정에서 사고가 났습니다.\n1. 상대차량 방향지시등 미점등 1차로에서 2차로로 갑자기 후방에서 추월 진입후 충돌\n2. 상대차량은 블랙박스가 없다고 주장함.\n3. 상대 보험사 회전교차로 요율에 따라 6:4 초반 주장, 인정할수 없다고 하자 7:3으로 주장\n4. 분심위 1,2차 7:3 나옴\n5. 소송 1차 판결 7:3 나옴 (소액 사건이라 판결 이유 미기재)\n현재 2차 소송 준비중이고 직접참관 예정입니다.\n상대방이 직진인줄 알았다고 하는 영상이 있어서 추가 제출 예정입니다.\n비슷한 회전교차로 사건 한블리에서는 100:0이 나왔던데,\n저희 사고는 왜 7:3이 나온건지, 비슷한 사고 경험이 있으시면 조언 부탁드립니다.",
-      "images": [],
+      "content": "신유게로 스멀스멀 넘어오는 다중닉개거지(들)에게는 신고가 약입니다 ^^",
+      "images": [
+        "https://file1.bobaedream.co.kr/humor/2026/11/27/16/espk1795766108_899545205.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/27/16/espk1795766123_843781131.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/27/16/espk1795766124_818508388.jpg",
+        "https://file1.bobaedream.co.kr/humor/2026/11/27/16/espk1795766124_1705319232.jpg"
+      ],
       "is_cross_hot": false
     },
     {
@@ -774,243 +832,402 @@
       "is_cross_hot": false
     },
     {
-      "id": "clien_50a7b4f898fd",
+      "id": "clien_4c9a6e2d831f",
       "source": "클리앙",
-      "title": "[속보].'주가조작'.8년 해외도피.LG 3세.구속 기소",
-      "url": "https://www.clien.net/service/board/park/19299239?od=T31&po=0&category=0&groupCd=",
+      "title": "김민석이 드디어 껍질을 깨고 나오는군요",
+      "url": "https://www.clien.net/service/board/park/19299498?od=T31&po=0&category=0&groupCd=",
       "author": "",
-      "time": "2026-11-27 13:37",
-      "likes": "0",
-      "comments": "",
-      "content": "[속보] 공소청 '\n주가\n조작\n' 혐의 8년 해외도피…범LG 3세 구본현 구속 기소\n뉴스1\n3분 전\n다음뉴스\n....\n....\n제곧내...입니다...",
-      "images": [
-        "https://search2.kakaocdn.net/argon/200x200_85_c/1M4Bu7CUz9x0"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "clien_8a95859c297b",
-      "source": "클리앙",
-      "title": "대만은 증시안정기금이 40조원이네요.",
-      "url": "https://www.clien.net/service/board/park/19299238?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-27 13:33",
-      "likes": "0",
-      "comments": "2",
-      "content": "빠른 대응으로 20조, 그리고 추가 20조원.\n계속 레이즈 하네요.\n대만은, 증시안정기금 회의를 상시적으로 자주 하고, 결정이 신속하다고 합니다.\n그런데\n한국은...\n아무 의지가 없어보이고...\n대만은 정부가 타짜네요.\n한국증시는 ....호구인가...\n공무원도 투자 안하는, 관심도 없는, 코스피를 왜 우리 개미 투자자가 투자해야하는건지,\n한국에 계시는 공무원들이 대답을 해야할 거 같은데요.",
+      "time": "2026-11-27 23:18",
+      "likes": "2",
+      "comments": "22",
+      "content": "이런 모습을 원했었고...\n정책, 입법적인 면에서도 시원시원한 이런 모습을 원하는겁니다.\n시끄러운 소수는 결국 소수일뿐입니다.\n다수의 이성적이고 상식적인 당원들과 라이트한 민주당 지지자들을 제대로 직시하고 당을 운영하시길...\n오늘 최민희 중징계건은 정말 시원한 움직임이라고 봅니다.\n한민수, 이성윤도 더 선 넘을시 그냥 제거하는게 맞다고 보구요.\n개기면 조지는게 결국 권한과 권력을 올바르게 사용하는 대표적 예라고 생각합니다.\n개기면 조져야죠...그것도 특히나 깜도 안되는걸로 개기는건 정말...",
       "images": [],
       "is_cross_hot": false
     },
     {
-      "id": "clien_fb4b4c14de92",
+      "id": "clien_826c4886339a",
       "source": "클리앙",
-      "title": "엔비디아 랙에 SSD 144개 붙인 개념검증, 26일 +12.57%, 27일 전장 +6.45% 키옥시아 급",
-      "url": "https://www.clien.net/service/board/park/19299237?od=T31&po=0&category=0&groupCd=",
+      "title": "최민희가 2년 당원권이 정지 됐군요... 그럼 이제 김민석 징계는요?",
+      "url": "https://www.clien.net/service/board/park/19299497?od=T31&po=0&category=0&groupCd=",
       "author": "",
-      "time": "2026-11-27 13:32",
-      "likes": "0",
-      "comments": "",
-      "content": "11월 26일 키옥시아가 엔비디아와 함께, GPU 메모리 공간을 SSD로 넓히는 개념검증 결과를 발표해서 보도자료에 나온 숫자만 정리해 봤어요. 26일 미국 증시는 추수감사절로 쉬는 날이었습니다. 도쿄 상장 키옥시아(285A)는 11/25 종가 6,895엔에서 11/26 7,762엔으로 +12.57%였고, 11/27은 전장 종료 기준(오전 11:30 도쿄시간) 8,263엔으로 전일 대비 +6.45%(+501엔)입니다. 발표와 주가의 인과는 확인된 게 없습니다.\n실험에 쓰인 건 엔비디아 GB200 NVL72 랙 1대입니다. 서버 노드 18개에 키옥시아 XD8 시리즈 7.68TB E1.S NVMe SSD를 144개(노드당 8개) 붙였고, 원시 용량은 약 1.1페타바이트라고 합니다. 계산해 보면 144×7.68TB=1,105.9TB로 맞고, 노드당으로는 거의 60TB라고 나와 있어요.\n같은 랙의 GPU 메모리(HBM3E)는 엔비디아 제품 페이지 기준으로 13.4TB입니다. 용량만 나누면 SSD가 약 82배예요. 다만 이건 용량 비교일 뿐이고, HBM 대역폭(576TB/s)에 해당하는 SSD 속도는 보도자료에 없습니다.\n취지는 AI 데이터셋이 커지면서 HBM만으로는 공간이 부족해, 일을 쪼개고 느린 저장 장치와 데이터를 주고받는 부담이 생긴다는 쪽에 가깝습니다. 소프트웨어는 엔비디아 SCADA(Scaled Accelerated Data Access)와 Storage-Next이고, 512바이트 단위로 접근해서 512바이트 벡터 2조 개를 다룰 수 있는 가능성이 있다고 했습니다. 대규모 벡터 DB나 그래프 신경망(GNN)을 염두에 둔 실험이에요.\n다만 보도자료 표현 자체가 potential, demonstrate이고, 양사는 기술 타당성과 성능을 계속 평가 중이라고만 적혀 있습니다. 계약이나 주문, 매출, 속도 실측치는 없어요.\n참고로 내년 ISSCC 사전 프로그램(11/25 초안)에는 2월 16일 세션에 삼성 48GB 17Gb/s/pin HBM4E, 화웨이 64채널 4096-DQ 맞춤형 HBM 같은 논문이 잡혀 있습니다. 프로그램에는 제목과 저자만 있어서, 실제 인터페이스 폭이나 화웨이 쪽 용량·대역폭, 제품화 시점은 아직 확인이 안 됩니다.\n저장 장치가 메모리 역할을 어디까지 대신할 수 있는 실험인지, 이 쪽 보시는 분들은 어떻게 보세요?\n출처: 키옥시아 보도자료(2026-11-26), 엔비디아 GB200 NVL72 제품 페이지, ISSCC 2027 Advance Program(11/25 초안), NYSE 휴장 일정, 키옥시아 종가 Yahoo Finance·카부탄(11/27 전장 11:30 도쿄시간, 재확인 20:28 PT, 후장 진행 중 8,248엔)\n관련 영상:\n숏폼\n·\n본편\n관련 정리: semiinsight.net",
-      "images": [
-        "https://edgio.clien.net/F01/2026/11/15872083/2c10fa3836a1a.png?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15872085/2c00361a8b339.png?scale=width:740"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "clien_ab93d0b667f5",
-      "source": "클리앙",
-      "title": "영국정치인들이 논쟁하는 모습",
-      "url": "https://www.clien.net/service/board/park/19299236?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-27 13:27",
-      "likes": "1",
-      "comments": "2",
-      "content": "총리와 야당의원의 대화가 귀에 쏙쏙 들어오네요\n논쟁을 하더라도 이렇게 좀 할 수 없을까요?",
+      "time": "2026-11-27 23:17",
+      "likes": "6",
+      "comments": "10",
+      "content": "최민희의 말실수가 2년 당원권 정지니까\n당선목적 허위사실 유포죄인 김민석은 출당조치겠죠?\n김민석에 대한 아무런 징계가 없다면\n지금 줄줄이 무죄나오고있는 내란심판이나\n국힘인사들 무죄건들에 대해 민주당은 아무런 말도 못해야합니다",
       "images": [],
       "is_cross_hot": false
     },
     {
-      "id": "clien_5d4b31ab0823",
+      "id": "clien_adddc08df8f1",
       "source": "클리앙",
-      "title": "온몸에 구더기 끓을 때까지 아내 방치한 전 부사관···2심도 징역 30년",
-      "url": "https://www.clien.net/service/board/park/19299232?od=T31&po=0&category=0&groupCd=",
+      "title": "최민희 중징계로 완전 지지층 갈라놓네요",
+      "url": "https://www.clien.net/service/board/park/19299495?od=T31&po=0&category=0&groupCd=",
       "author": "",
-      "time": "2026-11-27 13:20",
+      "time": "2026-11-27 23:09",
+      "likes": "7",
+      "comments": "21",
+      "content": "한덕수랑 혼동 한 게 중징계 사유?? 그것도 비공개 간담회인데요??\n북한이 따로 없네요\n앞 뒤 맥락 들어보면 아는 걸\n내란당이나 민주당이나 맥락맹들 선동해서 마녀사냥 하는 게\n얼척이 없네요!!\n근데 문진석이 윤리부위원장이라던데 애는 인사 청탁하고도 경고만 받고\n박희승은 당원, 국민에게 후진국 미친사람이라고 했는데 왜 아무것도 안하고\n왜!! 김민석은 신천지,  반명, 삼자연합 이건 허위사실유포로 당선 무효건 아닌가요??\n김민석 건은 이제 제명으로 가야할 거 같네요\n비공개 간담회도 아닌 전당대회에서\n공직선거법상 허위사실유포한거니 법대로 가야죠\n그것 때문에 윤석열, 이재명 대통령도 재판 받은 거잖아요\n누굴 아냐 모르냐 보다 더 악질인 거 맞잖아요\n이번 일로 내홍은 더 커지고 지지율은 더 떨어질 거라 봅니다\n최고 의원이며 전략적 투표한 분들이?? 무슨 거수기인 줄 아나 봐요\n비대위로 가야합니다!!!!!\n이러다 내란당 집권합니다\n20대 대선 윤석열이 0.73%로 당선되었고\n21대 대선은 내란 상황에도 김문수가 41.15% 이준석 8.34% 합치면\n이재명 대통령이 당선된 49.42% 보다 많죠\n최악의 상황에서도 그랬죠\n총선 지면 어떻게 될까요??\n지지자들 뭉쳐야 할 판국에\n권력 싸움에 환장해서 민주 진영 지지층 갈라 치고 멸칭에 조롱\n정말 최악입니다!!\n이후는 더 참혹할 거라 보는데\n정말 정책 대결 없이 오로지 네거티브만으로\n내부 박살 내는 후보는 치워버려야 한다 봅니다\n우려와 걱정은 극단주의자로 포장되고\n아묻따 지지자만 데리고 가겠다는 건가요??\n언제는 정치는 정치인이 하는 거 같아도 국민이 하는 거라고 했잖아요??\n자신도 믿지 마라면서 왜 이런 난장판을 만들었는지 화가 나네요",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "clien_9cb8d10c3d4c",
+      "source": "클리앙",
+      "title": "펌/ai] 방호력 높아 보이는 경찰 누나",
+      "url": "https://www.clien.net/service/board/park/19299494?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-27 23:09",
+      "likes": "0",
+      "comments": "",
+      "content": "이거슨 마치 판타지의 비키니 아머 같은 그런건가요 ㄷㄷㄷ",
+      "images": [
+        "https://edgio.clien.net/F01/2026/11/15872537/32fccf8892386.png?scale=width:740"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "clien_ba0bea4f36da",
+      "source": "클리앙",
+      "title": "이 대통령 요청한 ‘판다 한 쌍’…‘대만관’ 논란에 무산",
+      "url": "https://www.clien.net/service/board/park/19299492?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-27 23:06",
       "likes": "0",
       "comments": "3",
-      "content": "https://www.khan.co.kr/article/202611261611001/?nv=stand&utm_source=naver&utm_medium=portal_news&utm_content=&utm_campaign=newsstandC#ENT\n.\n.\n그알에서 이 사건 보고 진짜 끔찍했었는데..\n30년도 모자른 강력범죄입니다.\n똑같이 몸이 썩어가는 고통을 저 가해자가 느껴야 합니다.",
-      "images": [
-        "https://edgio.clien.net/F01/2026/11/15872080/30fba7da26dc3.jpg?scale=width:740"
-      ],
-      "is_cross_hot": true
-    },
-    {
-      "id": "clien_a47300b8a2bf",
-      "source": "클리앙",
-      "title": "오늘은 무비데이 입니다.",
-      "url": "https://www.clien.net/service/board/park/19299230?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-27 13:19",
-      "likes": "1",
-      "comments": "2",
-      "content": "우연히 시간대가 맞아서 자리를 바꾸지 않고 같은관 같은 자리에서 연달아 2편을 보느라 전화기가 저녁까지 꺼져있을 예정입니다.\n저녁에  2편의 후기를 올리겠습니다  *^-^*",
-      "images": [
-        "https://edgio.clien.net/F01/2026/11/15872078/2bf338880944c.jpeg?scale=width:740"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "clien_c2e09e41080a",
-      "source": "클리앙",
-      "title": "세금만 없어도 기분이 다르더군요.jpg",
-      "url": "https://www.clien.net/service/board/park/19299226?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-27 13:14",
-      "likes": "0",
-      "comments": "2",
-      "content": "하나는 일반 계좌, 하나는 비과세종합저축 계좌 입니다.\n금액도 다르지만 여튼 세금을 떼냐 안떼냐의 차이도 상당하네요.\n금액 이상으로 체감 기분 차이는 더 큽니다.\n비교적 소액(?) 인 저 조차 이런데 큰 돈 굴리시는 분들은 ㅎㄷㄷ..",
-      "images": [
-        "https://edgio.clien.net/F01/2026/11/15872070/30f4ec43fc7f4.png?scale=width:740"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "clien_5d4bf04c6ff1",
-      "source": "클리앙",
-      "title": "지방의회는 없애는 것이 답일 듯 하네요",
-      "url": "https://www.clien.net/service/board/park/19299224?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-27 13:03",
-      "likes": "5",
-      "comments": "14",
-      "content": "지방의회가 민선 선출직들을 견제 한다고 하는데\n과연 견제가 되고 있는지 의문이고\n선출직과 의원들이 같은 정치소속이 과반이 넘으면 현실적으로\n견제는 없다고 보면 될듯 하더군요\n다양한 지역 비리와 출장, 해외연수 등 세금 낭비가 너무 심한듯한 현상황에서\n유지할 필요성이 있을지 입니다.\n지방 재정 자립도는 더 떨어질 건데\n굳이 예산에 비해 효과가 제일 떨어지는게 지방의회 인듯 하네요\n폐지가 답일 듯 합니다.",
+      "content": "다이 대사는 한국이 '하나의 중국' 원칙을 위반했고, 중국 내 판다 임대에 반대하는 여론이 강해졌다고 설명했습니다.\nhttps://n.news.naver.com/article/056/0012302591?sid=100\n대단한 성과 있는 듯 하더니만\n판다도 거절 당했군요.\n굳이 뭐하러 요청했는지.",
       "images": [],
       "is_cross_hot": false
     },
     {
-      "id": "ppomppu_1a484fe75ff1",
+      "id": "clien_480b29f43f48",
+      "source": "클리앙",
+      "title": "최민희를 믿습니다",
+      "url": "https://www.clien.net/service/board/park/19299490?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-27 23:05",
+      "likes": "0",
+      "comments": "11",
+      "content": "저는 민주 당원이 아니지만\n그가 밤을 새우면서 노력했던것을 믿습니다\n헛발질하고 사과 하고 사과 하는것도 믿습니다\n무엇이 소중합니까\n당신들과 민주당이 원했던것은 솔직함과 진실을 언했던것 아니었던가요\n그런것을 지켜왔던 분이란것을 믿습니다",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "clien_13b19d5367d4",
+      "source": "클리앙",
+      "title": "특검 “통일교 집단입당 현황, 김건희에게 전달”",
+      "url": "https://www.clien.net/service/board/park/19299489?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-27 22:56",
+      "likes": "1",
+      "comments": "1",
+      "content": "특검 “\n통일교\n집단입당 현황, 김건희에게 전달”\nKBS\n8시간 전\n다음뉴스\n1\n국민의힘\n당대표 선거에 개입하기 위해\n통일교\n가\n조직적으로\n신도들을 입당시키고,\n그 결과를\n김건희 씨에게도 전달했다는 정황이\n법정에서 공개됐습니다.\n건진법사 전성배 씨가\n김건희 씨에게\n대통령실 인사를 청탁하고,\n김 씨가\n이력서를 요청한 정황도 공개됐습니다.\n■ 특검 “통일교 입당 현황, 윤영호 → 전성배\n→\n김건희에 전달”\n....\n■ 건진법사, 김건희에게 대통령실 인사 청탁…이력서 전달 정황도\n....\n특검은 이 과정에서\n김건희 씨가 이력서를 보내달라고 요청하고,\n이를 비서에게 전달한 내용도 확인됐다고 밝혔습니다.\n전 씨는\n조사에서\n김건희 씨가\n남편인 윤석열 전 대통령을 통해\n인사 청탁을 들어줄 수 있다고\n생각했다는 취지로 진술했습니다.\n전 씨가\n대통령실 경제수석과\n환경부 관련 인사를\n김건희 씨에게\n청탁한 자료도\n증거로 제시됐습니다.\n.....\n.....\n일본...통일교처럼....\n한국...통일교도....\n문제가...있어..보인다는...요...",
+      "images": [
+        "https://search3.kakaocdn.net/argon/200x200_85_c/D92e5KRSJKA0"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "clien_69b577fe52e3",
+      "source": "클리앙",
+      "title": "아니 그래서 김민석이란 말이에요 한준호란 말이에요?",
+      "url": "https://www.clien.net/service/board/park/19299488?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-27 22:54",
+      "likes": "0",
+      "comments": "13",
+      "content": "올해 클량 가입하신 뉴이님들요\n누구 밀으라고 하시던가요?\n들으신거 없으세요?\n정말 김민석이 12월 두째주쯤?\n예산안 통과되면 나가리 되나여?\n한준호로 옮겨타는거 사실인가요???",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ppomppu_c260d02bf016",
       "source": "뽐뿌",
-      "title": "80년대 논산훈련소 실제 군기",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=youtube_info&no=26873",
+      "title": "[경기도뉴스포털] 만족도조사 및 이벤트 안내",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=event2&no=108357",
       "author": "",
       "time": "",
       "likes": "",
       "comments": "",
-      "content": "Your browser does not support the video tag.",
+      "content": "설문 링크 :\nhttps://survey.gg.go.kr/app/onvy/qestnnm.do?onvySn=548\nhttps://survey.gg.go.kr/app/onvy/qestnnm.do?onvySn=548",
       "images": [],
       "is_cross_hot": false
     },
     {
-      "id": "ppomppu_eafa24b61c66",
+      "id": "ppomppu_f6a4f3171cf3",
       "source": "뽐뿌",
-      "title": "물이 빠지니까 나온 중국의 천수관음상 ㄷㄷ..jpg",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=tour&no=116369",
+      "title": "[KB Pay] 오늘의 퀴즈 11/27일자 정답",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=121253",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "오늘의 퀴즈 11/27일자 정답 :\n3번\n세탁 25kg · 건조 18kg\n반가운 주말인데 날이 다시 쌀쌀해졌네요.\n모쪼록 추위 조심하시고, 즐겁고 행복한 주말 보내시기 바랍니다!",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ppomppu_6659bddbebd5",
+      "source": "뽐뿌",
+      "title": "해피머니 입금 됐네요",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=550000",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "한 300? 정도 물렸던거같은데\n최근에 주식에서 3000넘게 물려서 뭔가 기별도 안온 느낌이네요 하핫",
+      "images": [
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1127/900w_20261127102754_HUNFwqfd5V.png"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ppomppu_2e79803cc00e",
+      "source": "뽐뿌",
+      "title": "[토스] 261127 토스 두근두근 1등 찍기 팀플전",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=coupon&no=121243",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "[토스] 261127 토스 두근두근 1등 찍기 팀플전\n오전 - 라이트 다운 재킷\n오후 - 퍼프테크 파카",
+      "images": [
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1127/900w_20261127002325_aUCfZ0efbe.jpeg",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1127/900w_20261127002326_RcQCC46baJ.jpeg"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ppomppu_69b7832d21b0",
+      "source": "뽐뿌",
+      "title": "[국민건강보험공단] 건강모아 서비스 만족도 조사 이벤트",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=event2&no=108364",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "건강모아 서비스 만족도 조사 이벤트\n건강모아, 어떠셨나요?\n여러분의 소중한 의견이 더 좋은 건강모아 서비스를 만듭니다!\n건강모아\n공단 누리집과 모바일 앱에서 건강검진을 비롯한 건강정보 및 건강예측 등 개인 맞춤 건강서비스를 제공하는 플랫폼\n참여대상: 건강모아 서비스 이용자\n이벤트 기간: 2026.11.10.(화) ~ 11.29.(일)\n추첨인원/경품: 총 250명 / 모바일상품권(GS25) 1만원권\n당첨자 발표: 2026.12.7.(월) 예정 (모바일앱, 공단 누리집 공지사항 게시)\n참여방법 (개인정보 이용 수집 동의 필수)\n누리집: 배너 클릭 후 팝업 내 응모하기\n모바일앱: 하단 이벤트 클릭 후 건강모아 서비스 만족도 조사 선택 후 참여하기\n※ 1인 1회 응모(중복 응모 불가)\n※ 연락처 기재 오류 등으로 경품 반송 시 당첨이 무효 처리됩니다.\n이벤트 참여방법\n1. QR코드 또는 아래 링크를 통해 만족도 조사 페이지 접속\n2. 건강모아 서비스 만족도 조사 참여\n이벤트 일정\n이벤트 기간 : 2026년 11월 10일(화) ~ 11월 29일(일)\n당첨자 발표 : 2026년 12월 7일(월) 예정\n이벤트 경품\n만족도 조사 참여자 중 추첨을 통해 250명에게 모바일 상품권 증정\n이벤트 참여하기",
+      "images": [
+        "https://www.mohw.go.kr/upload/editor/20261120151605726.png"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ppomppu_f37ea56415d2",
+      "source": "뽐뿌",
+      "title": "[톡딜]100% 통참깨 참기름 350ml 2병 외 들기름 350ml ( 11,900/무배)",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=752375",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "참기름 마트가서 사려면 한병 8,000원이상하던데\n2병이면 가격 가성비 좋으네요\n한번 둘러 보내세요 들기름도있어요",
+      "images": [
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1127/20261127193734_hd8qC1qZxv.png",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1127/900w_20261127193737_ggmS4UhlF4.jpg"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ppomppu_5b5e76c3b845",
+      "source": "뽐뿌",
+      "title": "이재용 회장 오늘자 배당금",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=stock&no=463066",
+      "author": "",
+      "time": "",
+      "likes": "",
+      "comments": "",
+      "content": "그렇습니다.\n계열사가 받은 배당금",
+      "images": [
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1127/900w_20261127213426_JxuB4FCqmD.png",
+        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1127/900w_20261127213818_sH2zBY2d8c.png"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "ppomppu_99b48be27606",
+      "source": "뽐뿌",
+      "title": "AD#최고혜택지원# 국내1위 본사직영 종합가전렌탈몰 비교불가 최대 #SK #코웨이 #LG #쿠쿠 #청호 #현대 #교원 #....",
+      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=pmarket7&no=429043",
       "author": "",
       "time": "",
       "likes": "",
       "comments": "",
       "content": "",
       "images": [
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1126/900w_20261126233553_sEzh3c9UMP.webp",
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1126/20261126233555_TdlaXEbNu9.webp",
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1126/20261126233556_zaanGfD5DE.webp",
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1126/20261126233722_GFIxlJkf4z.webp",
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1126/20261126233723_vlTqrm3aUc.webp",
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1126/20261126233723_TEC57T59Yb.webp",
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1126/20261126233725_lVyrTElVJC.webp",
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1126/20261126233725_7LmKh4BGW2.webp"
+        "http://semoga.speedgabia.com/2/0-1.gif",
+        "http://semoga.speedgabia.com/2/0-2-2.jpg",
+        "http://semoga.speedgabia.com/2/banner-2.jpg",
+        "http://semoga.speedgabia.com/2/banner-3.jpg",
+        "http://semoga.speedgabia.com/2/0-3.jpg",
+        "http://semoga.speedgabia.com/2/0-4.jpg",
+        "http://semoga.speedgabia.com/2/0-5.jpg",
+        "http://semoga.speedgabia.com/2/1-1.jpg"
       ],
       "is_cross_hot": false
     },
     {
-      "id": "ppomppu_f46bbb7daee0",
-      "source": "뽐뿌",
-      "title": "ㅇㅎ 말타는 서양 누나",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=humor&no=795449",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": ",\nYour browser does not support the video tag.\nYour browser does not support the video tag.\nYour browser does not support the video tag.\nYour browser does not support the video tag.\nYour browser does not support the video tag.",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ppomppu_b3d8f5be484c",
-      "source": "뽐뿌",
-      "title": "신한슈퍼SOL 밸런스게임",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=money&no=549994",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "어제 결과\n약속 잡을 때?\n연락 올 때까지 기다리기 : 39% (재포 48%)\n내가 먼저 연락 : 61% (재포 52%)\n재포 승 (투표자수 1182명)\n예측 626승 52패 (92%)\n현재 예상 상금은 92포인트입니다.\n좋은 하루 보내세요~^^",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ppomppu_43bcd3130dd8",
-      "source": "뽐뿌",
-      "title": "[알리특가] 네이처하이크 발열 USB담요($19),발열 조끼 USB 포트($13)/무료",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu8&no=106994",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "네이처하이크 전기 발열 담요, 겨울 USB 가열 담요\n앱시작가 $24.80\n할인코드 $3   KLBB03, SUKR03\n코인할인 $1.99\n앱할인가: $19.81\n--->\n네이처하이크 전기 가열 담요, 겨울 USB 가열 담요\n겨울용 발열 조끼  USB 포트 남성용 아웃도어용\n앱시작가 $14.09\n코인할인 $0.28\n앱할인가: $13.81\n--->\nCROSSGUN 미니 제트 터보 킹콩 제트팬\n링크오류시\n갤럭시: 1) 링크 꾹 눌러 새 창에서 열기 -> 해당 페이지에서 상단 알리익스프레스 앱으로 열기\n2) 알리앱 꾹 눌러서 설정 -> 기본 -> 기본으로 설정 -> 지원되는링크열기 비활성화\n아이폰: 사파리에서 링크 꾹 누르고  -> 새로운 탭에서 열기 -> 상단에 앱 연결",
+      "id": "dc_6ffbea3e8da1",
+      "source": "디시인사이드",
+      "title": "[기갤]떠련이는 현실에서 ㄹㅇ 존나 이쁜데",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481992&_dcbest=1&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-27 13:16:04",
+      "likes": "13",
+      "comments": "73",
+      "content": "드라마에선 왜 이느낌이 안나오는거노 드라마만 벗어나먼 ㅈㄴ이뻐\n출처: 기타 국내 드라마 갤러리\n[원본 보기]",
       "images": [
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1126/20261126212442_sOtPXQ1IUN.png",
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1127/900w_20261127122427_6FX9069VMP.png"
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767984537d445a1be1d7d56bef3b5de88742fc20cdfa6e2b4d653496b56292f57a3c775f61ddb8fff01d310e407d0f35481d22c7d12998b29d22",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767984537d445a1be1d7d56bef3b5de88742fc26237ad81d0dffb5439c20b99f0b58b53e05619ee33c9ed22fa35ccf40e1ed10b031bd58878c8c",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767984537d445a1be1d7d56bef3b5de8872f912b9b6ef9a7416f6f0f01bcc0f57041218fe1ea151c9564ac329624372c1ddac334afca9464b1",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767984537d445a1be1d7d56bef3b5de88742fc2735328cfff693564fb423448deed75e92ac2e7859b250f6f5ac231f25407b5d86275b3ff9c0cf",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767984537d445a1be1d7d56bef3b5de88742fc27303085f4f096564dbe234d83b2d00c95881a195c5b8dae6b008406d565fb9636dfad0ce1a4da",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767984537d445a1be1d7d56bef3b5de8872f9220b081198e8707ee751cfbb11b1639567b3db8e913409eca158cb5674f3f9878aa0c9d121761",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=29afd12be4ed36a379ec&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767984537d445a1be1d7d56bef3b12bedd45922729f7f9470034f1d432b1e1c4e5e79f3887b662e44e22ac93bf"
       ],
       "is_cross_hot": false
     },
     {
-      "id": "ppomppu_96ce2eeb0393",
-      "source": "뽐뿌",
-      "title": "AD[신한카드 7년차] 개인정보보호를 최우선으로 신한모든카드 상담 가능!! 빠른 피드백과 친절한상담은 물론 업계...",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=card_market&no=1884773",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "7년\n무사고\n정식카드상담사\n(7년차  SNS 리얼발급후기 ✔ 문의시 즉시 확인 가능!)\nYour browser does not support the video tag.\n무사고 진행 (\n문제발생 ZERO\n)\n✔ 접수시 빠른 심사진행 요청\n✔ 개인정보는 접수 후 바로 폐기\n✔ 발급 후\n앱카드\n즉시 사용가능\n💰카드 수령 전\n‘\n당일빠른! 혜택 지급\n’\n7년내 역대급 지원조건!!\n바로\n오늘!! 신청 타이밍\n입니다\n▷ 빠 른 오 픈 카 톡 상 담 Click ◁",
+      "id": "dc_9879ef806aae",
+      "source": "디시인사이드",
+      "title": "[싱갤]오싹오싹 은퇴한 MMA 파이터 살인사건 ㄷㄷ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481991&_dcbest=1&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-27 12:56:06",
+      "likes": "84",
+      "comments": "332",
+      "content": "덩치 큰 흰색 옷 남자가 일반인\n덩치 작은 남자가 전적 3전 2승 1패로 은퇴한 전 MMA 파이터\n1. 호텔에서 소음문제로 직원이랑 말다툼\n2. 느닷없이 지나가던 덩치 큰 남자가 시비걸고 싸움 시작\n3. 덩치 작은 남자가 알고보니 mma 선출이였고\nmma 선수가 초크 걸었는데 초크를 오래 걸었는지 사망함\nmma 선출 남자는 현재 체포된 상태고 정당방위 주장중\n출처: 싱글벙글 지구촌 갤러리\n[원본 보기]",
       "images": [
-        "https://cdn4.ppomppu.co.kr/images/gif_load.png",
-        "https://cdn4.ppomppu.co.kr/images/gif_load_all.png",
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2025/0414/20260219191343_6e257ebae8.gif"
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebc8c224b5afd59092abb4b53374328158b048bf88583d1269bc47c028a3552bd0c9ba9f2af41806f7b2dcc8f05667c93755f414fdd7429c79c16f59bea3adb7f141fcb00d4eb8657a9456d941224",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebc8c224b5afd59092abb4b53374328158b048bf88589d72092c179078f3655bd5d748849e0799aae22afd0e9e71e3b3e12ab244171044dfa5ad525eca75267a24acb11ab53ec6ef4d56e12801a80"
       ],
       "is_cross_hot": false
     },
     {
-      "id": "ppomppu_317d7cccbcee",
-      "source": "뽐뿌",
-      "title": "콘서트 3천석 .. 규모보니 일부러 그런건지",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=rescene&no=3441",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "첫 콘이라 그런건지 아님 좀 더 가까이 보게 하려고\n일부러 작은곳에서 하는건지\n직관하는 분들 여운 크게 남을거 같네요\nvip 석은 말할것도 없고 일반석 가더라도\n멤버들 아주 잘보일거 같아요\n아래가 올림픽 홀 입니다",
+      "id": "dc_cda3231fd2e2",
+      "source": "디시인사이드",
+      "title": "[싱갤]지금 논란인 뮤지컬배우 충격적인점.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481990&_dcbest=1&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-27 12:51:01",
+      "likes": "97",
+      "comments": "221",
+      "content": "잘보면 편지 읽고 버린게아니라\n아예 봉인스티커 뜯지도않음ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n출처: 싱글벙글 지구촌 갤러리\n[원본 보기]",
       "images": [
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1127/20261127102613_zIeNUvjxK6.jpeg"
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebc8c224b5afd59092abb4b53374328158b41dfa3ed83d2269dc4746d833d02da5aca3481641a893380a039693422678c632720c3a469d5ecc9df08bf8ab017214eed68a54a7966bd1a767cc0b985f9dc",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebc8c224b5afd59092abb4b53374328158b048bf88588d22292c57a048d345cbd0c4ac667eae274eddefca8f4955d0a25f6a64e2173218c62fb8ed1a3b4989816eec0375a8a7ea1"
+      ],
+      "is_cross_hot": true
+    },
+    {
+      "id": "dc_cf9dd45fd5a9",
+      "source": "디시인사이드",
+      "title": "[중갤]9급시험 5개월컷 해버린 미친 합격자 ㄷㄷㄷ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481988&_dcbest=1&page=1",
+      "author": "중갤러(117.111)",
+      "time": "2026-11-27 12:46:06",
+      "likes": "71",
+      "comments": "297",
+      "content": "AI 시대에는\n안 짤리는 킹급이 답이노..\nㅈ소 다니면서 틈틈히 공부해라\n5개월컷도 있더라\n한번 붙으면 평생직장이노\n출처: 중소기업 갤러리\n[원본 보기]",
+      "images": [
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=27a8de21f6dd28a2&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce6932288927ad2a87c69298c76d6132fbd6811da82856254a3b564d02593122a8f8250c642b26891a097bee2c5",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=27a8de21f6dd28a2&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce6932288927ad2a87c69298c7fd51028bf6d15df1bc536b5eccf887a397f36a9689d8d41b48329a075d34b64e3"
       ],
       "is_cross_hot": false
     },
     {
-      "id": "ppomppu_456ea555942b",
-      "source": "뽐뿌",
-      "title": "휴비딕 한국생산 저주파 마사지기 (21,098원) 웨이브 펄스 저주파 마사지기(27,429원)",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu8&no=106962",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "휴비딕 한국생산 가정용 저주파 마사지기 HMB-150\n의료기기 인증 받은 제품입니다\n흡착패드 추가옵션 선택시 4,300원 할인코드 FMKA03, KLBB03 사용 가능\n앱 기본가 : 25,116원\n코인할인 4,018원 (장바구니 담고 코인 -> 최근 본 상품에서 찾기)\n최종가 : 21,098원\n>>>>>> 휴비딕 한국생산 가정용 저주파 마시지기 HMB-150 바로가기\n휴비딕 파워펄스 프로 EMS 저주파 마시지기 HMB-550P\n흡착패드 추가옵션 선택시 4,300원 할인코드 FMKA03, KLBB03 사용 가능\n앱 기본가 : 27,416원\n코인할인 4,386원 (장바구니 담고 코인 -> 최근 본 상품에서 찾기)\n최종가 : 23,030원\n>>>>>> 휴비딕 파워펄스 프로 EMS 저주파 마시지기 HMB-550P 바로가기\n휴비딕 웨이브 펄스 어드벤스 저주파 마시지기 HMB-1000A\n앱 기본가 : 36,894원\n코드할인 4,300원 : FMKA03, KLBB03\n코인할인 5,165원 (장바구니 담고 코인 -> 최근 본 상품에서 찾기)\n최종가 : 27,429원\n>>>>>> 휴비딕 웨이브 펄스 어드벤스 저주파 마시지기 HMB-1000A 바로가기",
+      "id": "dc_b8c1812bc43b",
+      "source": "디시인사이드",
+      "title": "[시갤]또 이렇게 서있노",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481987&_dcbest=1&page=1",
+      "author": "ㅇㅇ(118.235)",
+      "time": "2026-11-27 12:41:01",
+      "likes": "60",
+      "comments": "73",
+      "content": "다 정면보는데 지혼자 쳐 튀어나와서 옆멤 등지고 또\n출처: 시즌그리팅 갤러리\n[원본 보기]",
       "images": [
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1116/20261116205726_vqC40M7s3c.jpg",
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1008/20261008175709_F9M7ank0uh.jpg",
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/0825/20260825070029_VWfP2sWTpz.jpg"
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb8d135eadc3fb46bbac2bc18d62629a7&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebc88d0da93b8650436c1c4de1912966bb9b60fc49c6bee053e7ff7d30fc61708b6fd75890e6d109614cce2c664cccf607ff828ae7b4462d6a51eb54a068d599693c0dc27b78eeede502084a1aecc1cbc5497"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "dc_c8bb1de32c20",
+      "source": "디시인사이드",
+      "title": "[싱갤]와들와들 팬레터 버린걸로 언냐들이 지랄한 이유",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481985&_dcbest=1&page=1",
+      "author": "GoGo",
+      "time": "2026-11-27 12:36:03",
+      "likes": "139",
+      "comments": "217",
+      "content": "본인들이 공주라고 생각함..\n출처: 싱글벙글 지구촌 갤러리\n[원본 보기]",
+      "images": [
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebc8c224b5afd59092abb4b53374328158b4adfa9ec80d32999c4746ddf3152865775df9371540522b4eb514848bd6bb32a15a0c25aea60091e2e2df80309f923a293b8d4dab3d8e18e26f373e8"
+      ],
+      "is_cross_hot": true
+    },
+    {
+      "id": "dc_67868fc5e1aa",
+      "source": "디시인사이드",
+      "title": "[리갤]\" 내가 롤판은 잔인하다 느낀계기가 \"",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481984&_dcbest=1&page=1",
+      "author": "ㅇㅇ(112.109)",
+      "time": "2026-11-27 12:31:01",
+      "likes": "400",
+      "comments": "570",
+      "content": "보통 스포츠는 한시즌에서 크고 작은 굴곡을 겪으며 끝마치면\n다음시즌의 희망을 이야기하는데\n유독 롤판은 월즈하나가 전부며 월즈우승못한 모든팀은 실패자로 낚인찍음\n이게 전문가들조차 이런다는거임 그러면서 정당화함 \" 롤판은 그렇게 설계됐다 \" 내가 속물은아니고 롤판이그래\n내가보기엔 그렇게 설계안됐거든 lck컵도있고 퍼텐도있고 msi도있고 ewc도있고 lck도있고\n세상 모든스포츠가 중요대회는 있어도 그게전부라고하진않음\n그걸보면서 와 롤판은 그럼 도박판인가?\n꼴에 전문가라는 타이틀을 들고있는 이들조차 저러는거보고\n좀 속물같다고 느꼇음\n희망 성공 도약같은 것보단\n마지막에 한팀말고는 모두다 실패라는 거대한도박장\n출처: 리그 오브 레전드 갤러리\n[원본 보기]",
+      "images": [
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=21b8d121f0d737a062bad1b018d5376b&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce693228e0f85637817471134f2274206fcaab108f2f148ed8ac01cbb403e4c4b5967acd53ad8f99136f9b6d220dce4d52f6e3a2cac"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "dc_7e5a62472d10",
+      "source": "디시인사이드",
+      "title": "[시갤]실시간 재평가 시급하신분",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481982&_dcbest=1&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-27 12:01:01",
+      "likes": "218",
+      "comments": "150",
+      "content": "대 도 영\n출처: 시대인재 N 재수종합 갤러리\n[원본 보기]",
+      "images": [
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb9d92ceb&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebc81254658b74c19268310053446261697abc95dc4340a829ce1d7b4ec91002baaceab08fce8b1074329157d5d235cf5b06f085fefdd7bb0c438b94837f954ec1f31bc9f"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "dc_e41b35f2b3ca",
+      "source": "디시인사이드",
+      "title": "[미갤]캬 삼성이 일론머스크에게 갑질 ㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481980&_dcbest=1&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-27 11:41:01",
+      "likes": "371",
+      "comments": "433",
+      "content": "일론머스크가 어디가서 애원하고 다니는 사람이 아닌데 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n출처: 미국 주식 갤러리\n[원본 보기]",
+      "images": [
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ea9df25eec72b&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f3a0d498810fa286407f941a08d9fa23067c8f1c3830e1978a7ff3dcc9602a28320d7700"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "dc_4d670b6d77ff",
+      "source": "디시인사이드",
+      "title": "[기갤]권진영",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481976&_dcbest=1&page=1",
+      "author": "정수현",
+      "time": "2026-11-27 11:31:04",
+      "likes": "18",
+      "comments": "24",
+      "content": "출처: 기상캐스터 갤러리\n[원본 보기]",
+      "images": [
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3abed135f1d72a&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757eb819221faaefeebadd8c8fa8d5b40eeeda02916f9a1f3b0a0999a91fb17bd1908c2a0d",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3abed135f1d72a&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757eb819221faaefeebadd8c8fa8d2b408e9dc74a71d9a22992401fae12825e88a5314a0a7",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3abed135f1d72a&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757eb819221faaefeebadd8c8fa8d9b60feed2cd6ca00ffeb80311e2afa0b52f4f62fb58e2",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3abed135f1d72a&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757eb819221faaefeebadd8c8fa8d9bf09e9dcedd33c1cfa5043d21754cf158dfc7f80e8eb",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3abed135f1d72a&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757eb819221faaefeebadd8c8fa8d3be0febdd8299ecc84a0d68e13e6d5a46da2da17f25f0",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3abed135f1d72a&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757eb819221faaefeebadd8c8fa8d4be0cecd25d9c71fd8c093a7a20f0c83fb56fb38e05bd",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3abed135f1d72a&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757eb819221faaefeebadd8c8fa8d8b00be2de754b88c91048b574836ecaf13c8cf3b9cb88",
+        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3abed135f1d72a&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757eb819221faaefeebadd8c8fa8d4b50eedd947a4f9dbc3befa50ac58cb0e064d9b6ea638"
       ],
       "is_cross_hot": false
     },
@@ -1936,226 +2153,6 @@
         "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b8df35f1dd3bad&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6767ea1d32ef8ce72a1df7c6383ce219f65b9ba50da80f084c1329213bf5ea7d4a3913154db5277",
         "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b8df35f1dd3bad&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6767ea1d32ef8ce72a1df7c6383ce219f6cbfbc757db47569b6eef34b188f72f9a390406fa19972",
         "https://dcimg6.dcinside.co.kr/viewimage.php?id=23b8df35f1dd3bad&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6767ea1d32ef8ce72a1df7c6383ce219f6cbdbfe9ace65faa8d7e91bd6cdf78e85effa2cbab383f"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "dc_fe1493d1dca8",
-      "source": "디시인사이드",
-      "title": "[싱갤]싱글벙글 담배꽁초 쌀먹단",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481537&_dcbest=1&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-25 11:26:02",
-      "likes": "133",
-      "comments": "250",
-      "content": "https://youtu.be/fWzjd4iQb5Q\n영상 너무 길어서 요약\n1. 담배꽁초 버리는 놈 사진 찍어서 신고하면 일부 지자체에서 포상금 줌 (보통 건당 5000원에서 1만원… 저 6만원은 6건 신고한거)\n2. 차에서 버리는거 혹은 차에서 내려서 담배 피고 꽁초 버리는거(반대로 버린뒤에 차에 타는거)면 차량 번호로 피신고자 특정 가능\n3. 몰카 아니냐? 공익신고라 몰카 아님\n4. 최초 글쓴이는 도서관에 책빌리러 갔다가 도서관 앞 풀숲에 자꾸 4050 아재들이 담배꽁초 버려서 신고했다고 함\n출처: 싱글벙글 지구촌 갤러리\n[원본 보기]",
-      "images": [
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6767ebc4e76e58d0760f4f95a6e720f00704f2dfb3903b26f3bb94c13a2d8ff42cd8571083017659eb6c12c2ca2f866b58fd54e63064a030949e25a124100cfeaac872f5c6397e7c547f1ca22bd05d22a312d25",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6767ebc4e76e58d0760f4f95a6e720f00704f2dfb3903b26434bd4612a0d1f746c58527b536ce7a0397230af29aa7a34fb545f87cd0f9c92b0ce50213f286000cf130a2819eb209b515091a26122268cdf93714",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6767ebc4e76e58d0760f4f95a6e720f00704f2dfb3903b26034b24d1aacdbfb41c085241b7f1140bc73393129f6c4b6f57bf251519da9dd8728a2e94f96323f956775e70b15c9a666ea899a0ce04489116f692d",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6767ebc4e76e58d0760f4f95a6e720f00704f2dfb3903b26232be4012a1d9f644cd8527999266a51bea27cb92ebe77cde6de584348701e84c60fd5791ab1020483888160c89ea994a66323eb9b321c5598d41e9",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6767ebc4e76e58d0760f4f95a6e720f00704f2dfb3903b26f34bc4010addbf640c78524f6c3f4beab63f2cbc2612d3460fbbb75e297025cce09fd711457425294310b42f3343d1b31371a4c650a7117bdebe611",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6767ebc4e76e58d0760f4f95a6e720f00704f2dfb3903b26f34bd4515a2dbfc49cd8525a20ac0c73e6a7c3fec40820e48978431364771a53327b7e187096d932b4a585d291c34a8b1c884ab2580a950391f967f",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6767ebc4e76e58d0760f4f95a6e720f00704f2dfb3903b26037b84415addafc49c08571e31275b5a7c01c0ce6fff35ea3a8183e0ee744d1eb8209dd3aa746225262e11ddc39cc82341a9e20d4157366baf1dd67",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6767ebc4e76e58d0760f4f95a6e720f00704f2dfb3903b26e35b84c17a0defe49c385766329fd5ae28573de7899d3b05add7511dd2af23673be46078f3963d42bce26da264f672c3449c1e2359badca0c13f67f"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "dc_ca52f7b18fb1",
-      "source": "디시인사이드",
-      "title": "[4갤]서울대는 줄고 부산대는 몰린다",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481535&_dcbest=1&page=1",
-      "author": "서부연고(106.101)",
-      "time": "2026-11-25 11:21:01",
-      "likes": "21",
-      "comments": "222",
-      "content": "출처: 4년제 대학 갤러리\n[원본 보기]",
-      "images": [
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=79a4d527f7ed2da867a9d3a705d83024&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767a8403578c8f3f405c0f12b2e7496b824fe026f13f8079f581f1964784564a0395062e10e7ee2c3adf7fe36e8d98c1a3",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=79a4d527f7ed2da867a9d3a705d83024&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767a8403578c8f3f405c0f12b2e7496b824fe026f531867afc80f09f4c84561c55c1547a8a2846c9cd3bea117a4f3986f3",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=79a4d527f7ed2da867a9d3a705d83024&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767a8403578c8f3f405c0f12b2e7496b824fe026f43f8275f183f0964b81564a0495592fface3c4f8d11567e9b1ae0d5ca",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=79a4d527f7ed2da867a9d3a705d83024&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767a8403578c8f3f405c0f12b2e7496b824fe026fe34847ff787f69f4d85564706c1527ba6d7433b58af8180def5e7f5b0",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=79a4d527f7ed2da867a9d3a705d83024&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767a8403578c8f3f405c0f12b2e7496b824fe026fe328278fc85f7974b80561c06c7572fb1c5acd57122ee144325c8fe33",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=79a4d527f7ed2da867a9d3a705d83024&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767a8403578c8f3f405c0f12b2e7496b824fe026f5328378fd80f5924f8f561c00935079439076a2c3a8139b5a18314fae",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=79a4d527f7ed2da867a9d3a705d83024&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767a8403578c8f3f405c0f12b2e7496b824fe026f1328d74f782f393498f564e03c301285067c2edc61fcac8611194d46d",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=79a4d527f7ed2da867a9d3a705d83024&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767a8403578c8f3f405c0f12b2e7496b824fe026f135817df285f49f4f8f564f5397017a66ccef1a927ee092fc838c8126"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "dc_e785a837d05b",
-      "source": "디시인사이드",
-      "title": "[냉갤]맛피자가 나이든 고양이를 키우는 이유",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481460&_dcbest=1&page=1",
-      "author": "ㅇㅇ(175.119)",
-      "time": "2026-11-25 01:55:02",
-      "likes": "32",
-      "comments": "49",
-      "content": "출처: 냉장고를 부탁해 갤러리\n[원본 보기]",
-      "images": [
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=27bcde21e2dd&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce6902288b04340d2183540bd22b4d9d59326e12b82eb508ccaaa60e72c75427a043e2e3c00",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=27bcde21e2dd&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce6902288b04340d2183540bd22b4d4d7952de12a74bd862a4c0d685bfd32acddb7a695f503",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=27bcde21e2dd&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce6902288b04340d2183540bd22b4dbd69526e2210b40efe4e79cda38f3ae715745657079c1",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=27bcde21e2dd&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce6902288b04340d2183540bd22b4ded29e2aed2aac6cb4930d72651d6498c23ed8e12be321",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=27bcde21e2dd&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce6902288b04340d2183540bd22b4d5d29629e5291d344f8bf87c8abbed01d7fc19b4744d47",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=27bcde21e2dd&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce6902288b04340d2183540bd22b4d9d3952eed2fd234cd6ba0ef16735d0c424785d088e2f1",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=27bcde21e2dd&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce6902288b04340d2183540bd22b4dbd0962ee72c060ad678cd9e24614ac303e8d2b1b53abc",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=27bcde21e2dd&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce6902288b04340d2183540bd22b4deda9f2ae12a9127a6ae1e85390815278c2357497315cf"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "dc_ffa7525fca68",
-      "source": "디시인사이드",
-      "title": "[동갤]의사도 출근 못하고 119도 못지나 가게하는 마라토너들 .",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481458&_dcbest=1&page=1",
-      "author": "갈라드리엘",
-      "time": "2026-11-25 01:45:02",
-      "likes": "21",
-      "comments": "61",
-      "content": "- dc official App\n출처: 동정뱀파이어젖을빨다 갤러리\n[원본 보기]",
-      "images": [
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ea4dd36e4c630bf78bedba51fc321&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebc005eb46d12e9ce978352895b610554ee9059117f466b32f8ea2333743bc7a532b3e52e8ef98b54dfbd3014c9590c653034555b14381111caa0f48b4fef121025c546fcd266a4da725dd63ff2d46254",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ea4dd36e4c630bf78bedba51fc321&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebc005eb46d12e9ce978352895b610554ee9059117d476d36ffef27337e3ac7f365b48e88dcf577ec17639ba761512def510607ad18775dc35a85c15d631205b489959f40f29832dd627aae7d62a8c0de",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ea4dd36e4c630bf78bedba51fc321&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebc005eb46d12e9ce978352895b610554ee9059117a476931f6ec26357f35c7a4654b6e2fc373da780d9c4402699ee0007e621cb8d0eca96639ed0e832695a1b47d2e328a5a5da09f6e4d75425c5b38c1",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ea4dd36e4c630bf78bedba51fc321&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebc005eb46d12e9ce978352895b610554ee9059117f496b3ff8ec20327438c7fe6018ffcbf3950e04c9013b4f73adcfd088d689f4b807b94d4fcfee2acc36c1e6fd034953ab06f73eaff23898ccc80123",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ea4dd36e4c630bf78bedba51fc321&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebc005eb46d12e9ce978352895b610554ee90591179406f30fbea2631713fc7f1619c2410eb95a0d71de29d89dcbe302e65165908fa26830686c83e8c9e0e4e88fe14a03804d5e4a183ee4c38daccb86e",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ea4dd36e4c630bf78bedba51fc321&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebc005eb46d12e9ce978352895b610554ee9059117d456b30f8e6233c7e3dc7a232f351cba7e2b8a2c8fd9ae826190a721d4c842edcf6aca44b1c515f18ab023674296c5efd8cfd383198f38bc7af4785",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ea4dd36e4c630bf78bedba51fc321&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebc005eb46d12e9ce978352895b610554ee90591179466831ffe82431763fc7a034f75af0a18fe43b2c706f847656b1a97dedbb39c96b265ded4279c08a8a517796eb68a2022071b5e25f43031b1330ad",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3ea4dd36e4c630bf78bedba51fc321&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebc005eb46d12e9ce978352895b610554ee9059117f48673efaee2734703fc7a06770cc831c485af03e96329fda06a82744126fedb68d2e5fe74db98583668340d355d2d21e6b6b63e802177e6b0ce673"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "dc_ea77158aedd2",
-      "source": "디시인사이드",
-      "title": "[서갤]서인영도 놀란 연애 성지라는 애버랜드.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481456&_dcbest=1&page=1",
-      "author": "ㅇㅇ(175.119)",
-      "time": "2026-11-25 01:35:02",
-      "likes": "11",
-      "comments": "48",
-      "content": "그래서 애버랜드에 커플들이 많구나.....\n-\n슈바오 일일 사육사 체험한 서인영 눈나 근황.jpg\n애버랜드 방문해 인기많다는\n아기판다 슈바오 일일 사육사 체험한 서인영\n출처: 서인영 갤러리\n[원본 보기]",
-      "images": [
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb8df2febcb37b360b8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa915032c09aa34e8b8969f6816c3cf9d16929f741baa93daa20ada0c0fabd7dd1db925f6b0882957c",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb8df2febcb37b360b8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa915032c09aa34e8b8969f6816c3cf9d1692dfab37992711169a7d80191cedd9620ae4e2af1d75e1f",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb8df2febcb37b360b8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa915032c09aa34e8b8969f6816c3cf9d1692ba8bbd3730d08c787ce90b263dfa7dbab7942e4447c03",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb8df2febcb37b360b8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa915032c09aa34e8b8969f6816c3cf9d16928426160026afca50b4bda9da31eb9a14afc2783dd8c0f",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb8df2febcb37b360b8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa915032c09aa34e8b8969f6816c3cf9d169271d96d457d915394be05b0d5b03efbfe7f190df6772ff",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb8df2febcb37b360b8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa915032c09aa34e8b8969f6816c3cf9d169284b6a630b6efdac0548dac9f340e0a7187f25023666bb",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb8df2febcb37b360b8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa915032c09aa34e8b8969f6816c3cf9d1692a9ed53062cbfc848787e10ba440b7261532d527c5616a",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb8df2febcb37b360b8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa915032c09aa34e8b8969f6816c3cf9d16929f240b3a733ad27afa9c0f5ee2ed38794a55c63079dff"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "dc_d294092ce887",
-      "source": "디시인사이드",
-      "title": "[싱갤]싱글벙글 한국 좋아하는 베트남 사람",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481454&_dcbest=1&page=1",
-      "author": "수인갤러리",
-      "time": "2026-11-25 01:25:02",
-      "likes": "46",
-      "comments": "61",
-      "content": "출처: 싱글벙글 지구촌 갤러리\n[원본 보기]",
-      "images": [
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e3dba18cf4057151d6a8748693b2e2fa412a4018e71d06a85288e776b4854662c40fd93467b4cbaae9",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e3dba18cf4057151d6a8748693b2e2fa41234611ed1206a9528bea76e08f47339acc8e200166a496c0",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e3dba18cf4057151d6a8748693b2e2fa412e4313e41301ac528ae576e2d9186e978b1c1379207d497d",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e3dba18cf4057151d6a8748693b2e2fa41284014e11806a45580e076e18e1b6201e88d2ef72cb38f5b",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e3dba18cf4057151d6a8748693b2e2fa412a4810e11b04ad558aeb76b1881860e8fcbda45277d1068d",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e3dba18cf4057151d6a8748693b2e2fa412d4114e71307a95789e376bade1c662cd2edb255218656ad",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e3dba18cf4057151d6a8748693b2e2fa41234119e21801ac578ee576e78818606be973cbe98da80425",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e3dba18cf4057151d6a8748693b2e2fa41224319e41e08ab508fe576b1894967eaeaeb105e633e7403"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "dc_5f14108b415f",
-      "source": "디시인사이드",
-      "title": "[갤갤]잇섭 신형 스냅 벤치마크",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481452&_dcbest=1&page=1",
-      "author": "갤붕이(59.1)",
-      "time": "2026-11-25 01:15:02",
-      "likes": "54",
-      "comments": "87",
-      "content": "긱7 당연히 26울한테 발림\n냉장고 신공 쓴다고 다를건 없고 오히려 싱글은 오차수준이라고는 하나 더 낮아짐\n삼디막도 똑같은 양상 최저점은 전작인 17 프로한테도 따잇\n툼///레이더 결과\n8EG6 전용 기술인 프레임보간 덕분에 프레임 뻥튀기가 성공한 모습\n그런거 없는 게임은 섹시노스 2600과 좋은 승부\nㅋㅋ\n출처: 갤럭시 갤러리\n[원본 보기]",
-      "images": [
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2abcdc27fdcb&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce69722855f67d7e12d376ea476145ead2851087dde5512fc6da3c583a0dcc1d16076a513bbd220",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2abcdc27fdcb&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce69722855f67d7e12d376ca1771b59a02e540d791f6affd2e43c3db10089401362972e600eff26",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2abcdc27fdcb&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce69722855f67d7e12d376ba87c1855ac2954067eae46377760d2ef779466594f83d74624313cc2",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2abcdc27fdcb&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce69722855f67d7e12d376ba2791f5bac2e50077e94c61c0941af5d678a59a636eee1af1ae34fdc",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2abcdc27fdcb&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce69722855f67d7e12d3769a27e1e58a020540870e8e9eb3323bb4587c5de5b45f3e0b1ab269e21",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2abcdc27fdcb&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce69722855f67d7e12d376da0771b5fac2e510a793d849ec51902ddba7f26bee45467f0fe7046b8",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2abcdc27fdcb&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce69722855f67d7e12d376ba9761a59ae2e5d077e87587f9d40a9ec07bc88e40f50b3ad2c876c5b",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2abcdc27fdcb&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce69722855f67d7e12d3769a27b155ca921500d7087e05d2a50389f9301dd910be7e012ba2d6bc6"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "dc_786d69e70cb9",
-      "source": "디시인사이드",
-      "title": "[기음]6000원 뼈해장국 혜자 애국보수네집밥.",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481450&_dcbest=1&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-25 01:05:02",
-      "likes": "54",
-      "comments": "104",
-      "content": "- dc official App\n출처: 기타음식 갤러리\n[원본 보기]",
-      "images": [
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2bb2df22&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767a8451ab1839cd260f651ec578d806ba169c7c9d455f9c26e32ab3fe99cbb3b11a4d5f052cdfb724ae0a403975630c11503e57fce91c6b6e16b6106a6795988d9872ff47c38071",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2bb2df22&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767a8451ab1839cd260f651ecb74df08bc17937652edb4260585c957071974e286cd47e9035771bcb74c0f93063a1cea6139150c47374486d748ba55776828f3be0484a2fe3836a3",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2bb2df22&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767a8451ab1839cd260f651ecf7cd008be129371d69ff39694a91a68c9024b9fb3cbcad57b4261933f40ddc459bed8307fe6caadd14e977ea566fb2d5763dfa770a943baabcd7e4d",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2bb2df22&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767a8451ab1839cd260f651ecf75d107bd119377a227f3392d327a6d92fcccc7310dc36e9bf62e2f161437b02441c0981656b992ff0d1c1646bf3586c9402def1c1fd64339c8aeed",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2bb2df22&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767a8451ab1839cd260f651ec579dd08bb129773d37848e1c267c428e0926b274161cf3a2a662941c559f74dc22f5d34a10f8e18511b778c5e859ec2abb3e6df065f186937a81ae1",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2bb2df22&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767a8451ab1839cd260f651ecb7dd002bd119377b744eeb3079aaaed2c0b5bc073d6b08d11caa1c3b849f72325262b2a9ee1f1ad6457228c74a58f6f8d511414b8c373e7af645dce",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2bb2df22&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767a8451ab1839cd260f651ecf7ed001b71393744009e679ef600fd09fa95e5dd0225a1b35daaaac23c2cf5fa47b5d264ffde8167aba90ba4902ad3b408c44b3346789c91f2c6b7c",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=2bb2df22&no=24b0d769e1d32ca73fe783fa11d02831d94ba5ea472e98c89921229e767a8451ab1839cd260f651ec47bd809bc109d7089a5ebfb25495b4ffc1fe0d0697d2aa63b32725eff1d3c9d4d80e31bddb190ba0a1a8509fa0320a773cfdddda5037f3b063b2fa1"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "dc_05f7b31629d2",
-      "source": "디시인사이드",
-      "title": "[싱갤]싱글벙글 어느 유명 여배우 스토리.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481448&_dcbest=1&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-25 00:55:02",
-      "likes": "82",
-      "comments": "80",
-      "content": "출처: 싱글벙글 지구촌 갤러리\n[원본 보기]",
-      "images": [
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebc105da36003e3c28f85539c03275749b682d518f3ed12aecb45575eae726da71f0d6932f738a6ea296d49f7c427b76d3af0df839ffb4f9f98de4055595ca05201b987",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebc105da36003e3c28f85539c03275749b682d518f3ef18a9cf435355a97a6ca71a274a07984c963b057c61ceef03ed4458631c2b0b96cea82f0a0dd9845a1485a27913",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebc105da36003e3c28f85539c03275749b682d518f3e812a9cd415059a57268a71a364be20037a761920b1b38847fac47e8708c4dfe0736b973636201dc937fdc14f4d7",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebc105da36003e3c28f85539c03275749b682d518f3ea1dabc947545caf7b6da71b3029980979c139d465fbe2629628e02b1b2355c19d2e9aa65fa5adb9479f25f8465d",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebc105da36003e3c28f85539c03275749b682d518f3ea13a8cf44535ea97d6fa71b1da2bcb589ffd73c048ed35bffd3c8265e15022a8a55e5fee4bf1d195f5933515623",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebc105da36003e3c28f85539c03275749b682d518f3ed1faecc46585baf7b6fa7484918b1d9d11e44faeb31d411a65880c41999c1b443c2d89a77343307f996b1d0f1ef",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebc105da36003e3c28f85539c03275749b682d518f3e012a7c3445955ad736ba749749ed3741a95db7b5803ab40b981d22d447719b28f6f5e48714063a9f629236ff153",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=3eb4de21e9d73ab360b8dab04785736f&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebc105da36003e3c28f85539c03275749b682d518f3ef19abc346595cad786aa7491e49104ed85577425286f30146335dec0da95d0f08da5d55c6785197008177feedb2"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "dc_e678e118c8b8",
-      "source": "디시인사이드",
-      "title": "[부갤]의사도 출근 못하고 119도 못지나 가게하는 마라토너들",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=481446&_dcbest=1&page=1",
-      "author": "갈라드리엘",
-      "time": "2026-11-25 00:45:02",
-      "likes": "50",
-      "comments": "117",
-      "content": "- dc official App\n출처: 부동산 갤러리\n[원본 보기]",
-      "images": [
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=24b0dd29f3d33aaa6bac&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce697228ba0211e2db3821e02b28a0406b90cf2762706d30d1eac2dd941aad30a8a44216a75fd8d233d6b0d220e8354a65312d24e133b9f46218f0d8b700e62ca25eb00ce1e4d99f33280658306f4",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=24b0dd29f3d33aaa6bac&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce697228ba0211e2db3821e02b28a0406b90cff7ddd4f9e4db404e9299b6aa355ba525bb6692b191eea5cb0175c0c0b6c10b41203b89f52c57c11ef395dc4a3152dc2df75e58c096a86ac27732777",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=24b0dd29f3d33aaa6bac&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce697228ba0211e2db3821e02b28a0406b90cf57a068b471df691933f22933bad31bbcbd53d15eeeb2d5beb538e5a9d6ec8fc1d99d2650afb2870c146784f61422ca31806874bc91947215923310e",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=24b0dd29f3d33aaa6bac&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce697228ba0211e2db3821e02b28a0406b90cf07eb61a8197159d011637dbc6b40b33e429e0368f9325b9cb3b437b4ace7c1a377f987114ed4971b653d4ad07b2f224eb4323c51277a690d2d3a7da",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=24b0dd29f3d33aaa6bac&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce697228ba0211e2db3821e02b28a0406b90cff7dde429f4db201ee2c9b3ff254eb5701e7726a63378904b8bf4e265986b00b0d1b5d3ee9011b224b3d2c3d310a313c79a1cd5a1b5a344604a69805",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=24b0dd29f3d33aaa6bac&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce697228ba0211e2db3821e02b28a0406b90cf07f9a9f64a4c3f257e3b1c9134a9260590f8db84f5ac1b6a83472cd1a7e030bf02c7a73cf46a895f3eb88a1491beb4c0e6ecd1d1c349f2cf4c147b1",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=24b0dd29f3d33aaa6bac&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce697228ba0211e2db3821e02b28a0406b90cf6782bb802bdeccfb756699d59920f3a69f5968c73f099ae5dd58cea7aab6c491a43357cce5665c1a98d356b9d8faadca1626e352803bfc994df4977",
-        "https://dcimg6.dcinside.co.kr/viewimage.php?id=24b0dd29f3d33aaa6bac&no=24b0d769e1d32ca73ce783fa11d02831f78cc54da837353cbf8b3ddce697228ba0211e2db3821e02b28a0406b90cf37a7c512ca38ab9b7cbd8dcacb243138aa6854aa9f0e3ac963b0b14b3549268c39f27740ab4271bfa052465a222569ef87a290479fcfe419e0a1b93"
       ],
       "is_cross_hot": false
     }
