@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-27 23:30",
+  "updated_at": "2026-11-28 08:03",
   "source_status": {
-    "루리웹 예판·핫딜": "cached (89, ConnectTimeout)",
-    "루리웹 콘솔뉴스": "cached (10, ConnectTimeout)",
-    "루리웹 PC·스팀": "cached (10, ConnectTimeout)",
+    "루리웹 예판·핫딜": "ok (10)",
+    "루리웹 콘솔뉴스": "ok (10)",
+    "루리웹 PC·스팀": "ok (10)",
     "에펨코리아 PC·콘솔": "cached (10, HTTPStatusError)",
     "에펨코리아 핫딜": "error: HTTPStatusError",
     "뽐뿌 핫딜": "error: HTTPStatusError",
@@ -30,6 +30,578 @@
       ]
     },
     {
+      "id": "ruli_b3f2610ac483",
+      "source": "루리웹 예판·핫딜",
+      "category": "할인·예판",
+      "title": "[네이버] 초록매실 제로 1.5L 12개 (16,450원/무료)",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109442",
+      "author": "",
+      "time": "2026-11-28 00:30",
+      "likes": "9",
+      "comments": "",
+      "content": "초록매실 제로 1.5L 12개 쿠폰받으시면 16,450원 나옵니다",
+      "images": [
+        "https://i2.ruliweb.com/img/26/11/28/1a21da096a95d693.webp"
+      ]
+    },
+    {
+      "id": "ruli_62f42ccf267c",
+      "source": "루리웹 예판·핫딜",
+      "category": "할인·예판",
+      "title": "[네이버페이] 일일적립, 클릭 43원",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109441",
+      "author": "",
+      "time": "2026-11-28 00:27",
+      "likes": "114",
+      "comments": "",
+      "content": "클릭적립 합계 43원\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=cr_2026112801_2612_01_1840\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=cr_2026112403_2612_1128\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=cr_pointdraw_261128_1666\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=cr_pointdraw_261128_1616\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=pointdraw_benefit_261128\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=pointdraw_mycar_261128\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=pointdraw_spay_261128\n일일적립\n포인트뽑기 토스트 적립 (여기 누르면 ?원 클릭)\nhttps://home.pay.naver.com\n결제홈 깜짝 방문 (10원+5원, 스크롤 15초 유지, 월 5회 제한)\nhttps://new-m.pay.naver.com/historybenefit/home\n클릭 미션 (자정 초기화, 초록색 클릭버튼)\nhttps://point.pay.naver.com/pc/main?category=quickreward\n마이카 방문 혜택\nhttps://mycar.naver.com/\n네이버페이 보험 방문 미션 (자정 초기화)\nhttps://insurance.pay.naver.com/?inflow=point_category\n네이버페이 운세 (1원, 자정 초기화)\nhttps://ofw.adison.co/u/naverpay/ads/730013\n가장 빠른 즉시적립 혜택 보기 (1원, 10시 초기화)\nhttps://ofw.adison.co/u/naverpay/ads/67823\n브랜드뽑기 후 결제하러 가기 클릭 (10원, 14시 초기화)\nhttps://campaign2.naver.com/npay/branddraw/?from=pointtab\n직링 적립 실패 시\n네이버페이->즉시적립\n에서 직접 받아주세요\nhttps://point.pay.naver.com/pc/mission-detail?dataType=category&rank=18&pageKey=quickreward",
+      "images": []
+    },
+    {
+      "id": "ruli_916920487c16",
+      "source": "루리웹 예판·핫딜",
+      "category": "할인·예판",
+      "title": "[GOG] Dead Age 2 (무료 재등록)",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109439",
+      "author": "",
+      "time": "2026.11.27",
+      "likes": "53",
+      "comments": "",
+      "content": "다시 재등록됐습니다.\n일정보다 일찍 풀어서 중간에 막아놓은 것 같습니다.\n11월 30일 23시까지 무료입니다.",
+      "images": [
+        "https://i2.ruliweb.com/img/26/11/27/1a21d5323fb242da.webp",
+        "https://i1.ruliweb.com/img/26/11/27/1a21d54f90e242da.webp"
+      ]
+    },
+    {
+      "id": "ruli_a850b826fc4b",
+      "source": "루리웹 예판·핫딜",
+      "category": "할인·예판",
+      "title": "아트뮤) AVS 충전기 아이폰 18프로,프맥 충전 호환성 무상 업뎃",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109437",
+      "author": "",
+      "time": "2026.11.27",
+      "likes": "19",
+      "comments": "",
+      "content": "핫딜은 아니고 아이폰 18 프로,프맥 쓰시는분들 AVS 호환성 업뎃 받으시라고 알려드립니다.\n여기 핫딜게에도 올라온 물건 같아서요.",
+      "images": [
+        "https://i1.ruliweb.com/img/26/11/27/1a21d158f653a92b.webp",
+        "https://i1.ruliweb.com/img/26/11/27/1a21d18914d3a92b.webp",
+        "https://i1.ruliweb.com/img/26/11/27/1a21d15912f3a92b.webp"
+      ]
+    },
+    {
+      "id": "ruli_c261d4162868",
+      "source": "루리웹 예판·핫딜",
+      "category": "할인·예판",
+      "title": "[지마켓] AULA 쿤룬 L5 8k 마우스 (62,480원/무배)",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109443",
+      "author": "슈테판츠바이크",
+      "time": "2026-11-28 08:00",
+      "likes": "",
+      "comments": "",
+      "content": "링크 :\nhttps://link.gmarket.co.kr/xETb5AZWw\n바브삼 짭이라 불리는 독브삼 입니다.\n바로 전에 나왔던 x5(독슈스)와의 차이점(by 제미나이)은 다음과 같습니다.\n자세한 사항은 구매처 링크 참고 하시고요,\n삼성카드, 롯데카드 할인 적용시 58,110원 나옵니다.\n충전독도 같이 구매하실 분은 아래 링크 같이 참고하시면 될듯 합니다. 같이 구매시 72,240원 나옵니다.\n충전독 링크 :\nhttps://link.gmarket.co.kr/DGTb5AZWw\n참고가 되셨길...",
+      "images": [
+        "https://i2.ruliweb.com/img/26/11/28/1a21f2e5b9184baf.webp",
+        "https://i2.ruliweb.com/img/26/11/28/1a21f2e7fd784baf.webp",
+        "https://i3.ruliweb.com/img/26/11/28/1a21f36a4b084baf.webp",
+        "https://i1.ruliweb.com/img/26/11/28/1a21f3ace8b84baf.webp",
+        "https://i1.ruliweb.com/img/26/11/28/1a21f3bf6b484baf.webp"
+      ]
+    },
+    {
+      "id": "ruli_72b2f790699c",
+      "source": "루리웹 예판·핫딜",
+      "category": "할인·예판",
+      "title": "[던킨도너츠] 네이버페이 결제시 50% 할인 (최대 1만원) (11/28...(3)",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109440",
+      "author": "아타호-_-",
+      "time": "2026-11-28 00:22",
+      "likes": "7",
+      "comments": "",
+      "content": "https://www.dunkindonuts.co.kr/event/view?id=5473\n행사 매장은 여기서 확인할 수 있습니다.",
+      "images": [
+        "https://i2.ruliweb.com/img/26/11/28/1a21d8d1f501874ce.webp",
+        "https://i2.ruliweb.com/img/26/11/20/1a1f8ac1a231874ce.webp"
+      ]
+    },
+    {
+      "id": "ruli_eedf9b0a5e8f",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "금일 테일즈 오브 데스티니 2 발매 24주년 맞이",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367295",
+      "author": "로메오카이",
+      "time": "2026-11-28 08:01",
+      "likes": "",
+      "comments": "",
+      "content": "【오늘은 무슨 날?】\n2002년 11월 28일, 『테일즈 오브 데스티니 2』가 발매되었습니다. 올해로 24주년입니다.\nhttps://www.famitsu.com/article/202611/94970\n전투에는 TT-LMBS(트러스트 & 택티컬 리니어 모션 배틀 시스템)가 채용되었다. 바르바토스의 \"아이템 따위 쓰지 마!\"라는 대사는 잊을 수가 없다.",
+      "images": [
+        "https://i1.ruliweb.com/img/26/11/28/1a21f3cc9734d4df1.webp",
+        "https://i3.ruliweb.com/img/26/11/28/1a21f3d046c4d4df1.webp",
+        "https://i1.ruliweb.com/img/26/11/28/1a21f3d06104d4df1.webp"
+      ]
+    },
+    {
+      "id": "ruli_84f82ce83960",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "GTA 6 국가별 초기 판매량 / 한국 44만장",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367294",
+      "author": "루리웹-912735355120",
+      "time": "2026-11-28 07:26",
+      "likes": "5",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://i3.ruliweb.com/img/26/11/28/1a21f1d07a353d19c.webp"
+      ]
+    },
+    {
+      "id": "ruli_3a60f76b21e6",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "데이브 더 다이브 GTA6 관련 트윗",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367293",
+      "author": "c-r-a-c-k-ER",
+      "time": "2026-11-28 01:43",
+      "likes": "20",
+      "comments": "",
+      "content": "Is that...?",
+      "images": [
+        "https://i1.ruliweb.com/img/26/11/28/1a21de2d08810a2ff.webp"
+      ]
+    },
+    {
+      "id": "ruli_068fb853a0ef",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "아랑전설 CotW - 레이나(철권) 커맨드 리스트 공개",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367292",
+      "author": "echospherics",
+      "time": "2026-11-28 01:01",
+      "likes": "8",
+      "comments": "",
+      "content": "REV 블로\n-뇌동 만자차기 : (S.P.G 중) CD\n-공중 뇌섬각 : (S.P.G 중) 공중에서 CD\n특수기\n-섬돌 : ↘+ A\n-전체 주전차기 : (대시중) →+B\n-삼계 떨구기 : →→ + B\n-영재문 : ↙+C\n-사해 떨구기 : (일어나며) D > D\n-육천락 : →+D\n-강장파 : AC\n-운족 감 : ←+BD\n-운풍 뛰어 만자 : (운족 감) D\n커맨드 콤보\n-커맨드 콤보1 : A>A> C\n-커맨드 콤보2 : A>C>C\n-커맨드 콤보3 : ↘+A>A\n-커맨드 콤보4 : ↘+A>C\n-커맨드 콤보5 : ↘+A>A>C>C\n-커맨드 콤보6 : A>C>B>D\n필살기\n-풍신 스텝 : →N↓↘ 또는 ↓↘→ + B or D\n├뇌신권 : (풍신 스텝) A\n│├ 뇌강십천떨구기 : (뇌신권) B\n│└ 뇌강전륜 : (뇌신권) D\n├무신각 : (풍신 스텝) B\n├풍신권 : (풍신 스텝) C\n└나락쓸기(1) : (풍신 스텝) D\n├나락무참 : (나락쓸기(1)) C\n└나락쓸기 : (나락쓸기(1)) D\n-최속무신각 : →N↓↘ + B (↘와 B를 동시 입력)\n-최속풍신권 : →N↓↘ + C (↘와 C를 동시 입력)\n-금강벽 : ↓↙← + A or C\n├풍신 스텝 : (금강벽) ↘\n├강마쇄 : (금강벽) A\n├지천뇌굉 : (금강벽) B\n├선체 : (금강벽) →+B\n├이선공인각 : (금강벽) ↖ or ↑ or ↗︎ + B>D\n├발뢰강장파 : (금강벽) C\n└금각경멸진 : (금강벽) D>C\n-선체 : ↓↙← + B or D\n├풍림화참 : (선체) A>C\n├장풍 : (선체) B\n├나생문 : (선체) C\n└야차쓸기 : (선체) D\n-답철유린(1) : ↓↓+B or D\n└답철유린 : (강/REV 답철유린(1)) C\n초필살기\n-패도섬괴 : ↓↘→↓↘→+A\n-뇌신람각 : ↓↘→↓↘→+B\n잠재능력\n-오기 패도섬괴 : ↓↘→↓↘→+C\n-오기 뇌신람권 : ↓↘→↓↘→+D\n히든기어\n-(S.P.G 중) ↓↘→↓↘→+REV\n일부 기술은 철권에 없는 오리지널 기술 + 일본어 커맨드표가 안 나와서 의역했습니다.",
+      "images": [
+        "https://i1.ruliweb.com/img/26/11/28/1a21d8e40f1fd3bc.webp"
+      ]
+    },
+    {
+      "id": "ruli_283f0a52403d",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "할로우 나이트: 실크송 - 슬픔의 바다 출시 트레일러, 12월 11일 출...",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367291",
+      "author": "이토 시즈카",
+      "time": "2026-11-28 00:14",
+      "likes": "10",
+      "comments": "",
+      "content": "할로우 나이트: 실크송의 첫 대형 확장팩에서 잊힌 광활한 바다를 항해하세요! 2026년 12월 11일, 모든 플레이어에게 무료로 출시됩니다!",
+      "images": []
+    },
+    {
+      "id": "ruli_39294e68ae43",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "할로우 나이트: 실크송 - 슬픔의 바다 론치 트레일러, 12월 11일 출...",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367290",
+      "author": "이토 시즈카",
+      "time": "2026-11-28 00:14",
+      "likes": "6",
+      "comments": "",
+      "content": "할로우 나이트: 실크송의 첫 대형 확장팩에서 잊힌 광활한 바다를 항해하세요! 2026년 12월 11일, 모든 플레이어에게 무료로 출시됩니다!",
+      "images": []
+    },
+    {
+      "id": "ruli_00bebdcd6743",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "SNK 월드 챔피언십 2026 FINALS | KOF15, COTW, 사...",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367288",
+      "author": "나쁜짓",
+      "time": "2026-11-28 00:11",
+      "likes": "3",
+      "comments": "",
+      "content": "킹오파\nhttps://www.start.gg/tournament/snk-world-championship-2026-2/event/finals-the-king-of-fighters-xv/brackets/2459787/3535528\nCOTW\n사쇼",
+      "images": [
+        "https://i1.ruliweb.com/img/26/11/28/1a21d8d1f5d17557.webp"
+      ]
+    },
+    {
+      "id": "ruli_d994cdc0fecd",
+      "source": "루리웹 콘솔뉴스",
+      "category": "할인·예판",
+      "title": "잠시후 할로우 나이트 실크송 무료 확장팩 슬픔의 바다 포함 팀 체리 발표...",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367287",
+      "author": "nokcha",
+      "time": "2026.11.27",
+      "likes": "10",
+      "comments": "",
+      "content": "11월 28일 0:00부터\n체리 타임에 함께하세요!\n팀 체리의 다양한 흥미로운 소식과 Hollow Knight: Silksong - Sea ofSorrow 업데이트가 포함된\n특별 프레젠테이션이 준비되어 있습니다!",
+      "images": []
+    },
+    {
+      "id": "ruli_022d3601ce0f",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "아랑전설 CotW - 레이나(철권) 실기 플레이 영상",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367286",
+      "author": "echospherics",
+      "time": "2026.11.27",
+      "likes": "10",
+      "comments": "",
+      "content": "SNK WORLD CHAMPIONSHIP 2026 시연 빌드",
+      "images": [
+        "https://i2.ruliweb.com/img/26/11/27/1a21d2a34a2fd3bc.webp"
+      ]
+    },
+    {
+      "id": "ruli_3eeb408b1d97",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "GTA 6 깨알 디테일들",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367285",
+      "author": "마이동숲-",
+      "time": "2026.11.27",
+      "likes": "58",
+      "comments": "",
+      "content": "급제동을 하면 브레이크 디스크가 빨갛게 달아오른다\n강아지는 마음에 드는 나뭇가지가 있으면 입에 물고 다닌다\n워터 슬라이드를 탈 수 있다\n풍선은 줄을 끊으면 날아간다\n지나가는 대형 트럭 때문에 머리가락이 바람에 휘날린다\n차량 조명이 일부 파손되면 불빛이 깜빡거리기 시작한다\n차량 속도 전광판이 실제로 작동한다\n탄산음료를 흔들면 거품이 올라와 넘친다\n핸드폰 화면에 지문 자국이 남는다\n음식을 던지면 안에 들어있는 재료들이 여기저기 흩어진다\n캐릭터마다 체형에 맞게 자동차 시트 위치가 조절된다\n번아웃을 하면 타이어가 실제로 마모된다",
+      "images": []
+    },
+    {
+      "id": "ruli_e6b40d4a6569",
+      "source": "루리웹 PC·스팀",
+      "category": "할인·예판",
+      "title": "[스팀] '할인 및 이벤트' 페이지 업데이트",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360115",
+      "author": "ComShepard",
+      "time": "2026-11-28 00:54",
+      "likes": "3",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://i3.ruliweb.com/img/26/11/28/1a21db6331215e737.webp",
+        "https://i2.ruliweb.com/img/26/11/28/1a21db63d6515e737.webp"
+      ]
+    },
+    {
+      "id": "ruli_9177364180a4",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "로그라이트 액션 \"악선\" 정식 출시 트레일러",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360114",
+      "author": "ComShepard",
+      "time": "2026-11-28 00:49",
+      "likes": "2",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://i1.ruliweb.com/img/26/11/28/1a21db25fa515e737.webp",
+        "https://i1.ruliweb.com/img/26/11/28/1a21db141b315e737.webp",
+        "https://i1.ruliweb.com/img/26/11/28/1a21db1368b15e737.webp"
+      ]
+    },
+    {
+      "id": "ruli_a744cd5455cc",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "SRPG \"RE:CHAINED ~구원의 사슬~\" 얼리 액세스 출시 트레일...",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360113",
+      "author": "ComShepard",
+      "time": "2026-11-28 00:41",
+      "likes": "",
+      "comments": "",
+      "content": "https://store.steampowered.com/app/5057880/",
+      "images": [
+        "https://i2.ruliweb.com/img/26/11/28/1a21da9c9ab15e737.webp",
+        "https://i3.ruliweb.com/img/26/11/28/1a21da9f5c615e737.webp",
+        "https://i2.ruliweb.com/img/26/11/28/1a21da9f3c115e737.webp",
+        "https://i1.ruliweb.com/img/26/11/28/1a21da9f90415e737.webp",
+        "https://i3.ruliweb.com/img/26/11/28/1a21da9f7a315e737.webp",
+        "https://i2.ruliweb.com/img/26/11/28/1a21da9f8b015e737.webp",
+        "https://i3.ruliweb.com/img/26/11/28/1a21da9fb0315e737.webp",
+        "https://i1.ruliweb.com/img/26/11/28/1a21da9fc9815e737.webp"
+      ]
+    },
+    {
+      "id": "ruli_106c309a21c4",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "로그라이트 덱빌딩 RPG \"아키타입 블루\" 게임플레이 트레일러",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360112",
+      "author": "ComShepard",
+      "time": "2026-11-28 00:35",
+      "likes": "3",
+      "comments": "",
+      "content": "https://store.steampowered.com/app/2541560/\n아키타입 블루는 파티를 만들고 전략을 구성하는 재미에 이야기를 더한 JRPG 스타일의 롤플레잉 게임입니다.\n독특한 능력과 특징을 지닌 동료들로 파티를 구성하고 전략적인 재미를 느껴보세요!",
+      "images": []
+    },
+    {
+      "id": "ruli_06f25c82d9a9",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "플랫포밍 어드벤처 \"라디오 레인\" 공개 트레일러",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360111",
+      "author": "ComShepard",
+      "time": "2026-11-28 00:27",
+      "likes": "",
+      "comments": "",
+      "content": "https://store.steampowered.com/app/4960150/Radio_Rain/\n비 내리는 폐허의 세계에서 감성적인 로파이 비트와 유쾌한 플랫폼 모험이 만나다!\n빗방울이 흩뿌려진 거리를 탐험하고, 장난기 넘치는 생물들의 무리를 상대하며, 영혼의 동반자와 힘을 합쳐 집으로 돌아갈 길을 찾아보세요.\n현재 Team Cherry Presents의 자랑스러운 후원을 받아 개발 중입니다.",
+      "images": [
+        "https://i2.ruliweb.com/img/26/11/28/1a21d9ccda915e737.webp",
+        "https://i3.ruliweb.com/img/26/11/28/1a21d9cce1615e737.webp",
+        "https://i1.ruliweb.com/img/26/11/28/1a21d9cd42015e737.webp",
+        "https://i1.ruliweb.com/img/26/11/28/1a21d9cd22e15e737.webp",
+        "https://i1.ruliweb.com/img/26/11/28/1a21d9cd40d15e737.webp",
+        "https://i1.ruliweb.com/img/26/11/28/1a21d9cd63115e737.webp",
+        "https://i3.ruliweb.com/img/26/11/28/1a21d9cdcff15e737.webp",
+        "https://i3.ruliweb.com/img/26/11/28/1a21d9cdd4315e737.webp"
+      ]
+    },
+    {
+      "id": "ruli_0f223cdf1244",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "식물학자의 모험 \"식물학자와 통역사\" 공개 트레일러",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360110",
+      "author": "ComShepard",
+      "time": "2026-11-28 00:23",
+      "likes": "1",
+      "comments": "",
+      "content": "https://store.steampowered.com/app/5571450/The_Botanist_and_the_Translator/\n성간 식물학자 해티와 그녀의 믿음직한 통역사 올리버가 되어, 행성 전체를 아우르는 식물의 수수께끼를 풀어보세요!\n이 경쾌하고 아름다운 모험 속에서 무성한 자연 세계를 탐험하고, 기상천외한 생물들과 친구가 되어 보세요.\n현재 Team Cherry Presents의 자랑스러운 후원으로 개발 중입니다.",
+      "images": [
+        "https://i2.ruliweb.com/img/26/11/28/1a21d998db615e737.webp",
+        "https://i1.ruliweb.com/img/26/11/28/1a21d998e4015e737.webp",
+        "https://i1.ruliweb.com/img/26/11/28/1a21d998fe115e737.webp",
+        "https://i2.ruliweb.com/img/26/11/28/1a21d99920c15e737.webp",
+        "https://i3.ruliweb.com/img/26/11/28/1a21d9993f915e737.webp",
+        "https://i1.ruliweb.com/img/26/11/28/1a21d99963d15e737.webp",
+        "https://i2.ruliweb.com/img/26/11/28/1a21d99990c15e737.webp",
+        "https://i3.ruliweb.com/img/26/11/28/1a21d999a7d15e737.webp"
+      ]
+    },
+    {
+      "id": "ruli_f6f02fdad1ca",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "퍼즐 어드벤처 \"블록칸: 걷는 도시의 비밀\" 공개 트레일러",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360109",
+      "author": "ComShepard",
+      "time": "2026-11-28 00:16",
+      "likes": "",
+      "comments": "",
+      "content": "https://store.steampowered.com/app/5571470/Blokkan_Secret_of_the_Walking_City/\n블록칸: 걷는 도시의 비밀에서 거대한 걷는 도시의 꼭대기에서 펼쳐지는 대미스터리를 풀어보세요!\n단서를 모으고, 개성 넘치는 캐릭터들을 만나며, 유쾌한 퍼즐을 해결하는 잊을 수 없는 모험을 경험해 보세요.\n현재 Team Cherry Presents의 자랑스러운 후원을 받아 개발 중입니다.",
+      "images": [
+        "https://i1.ruliweb.com/img/26/11/28/1a21d93baff15e737.webp",
+        "https://i1.ruliweb.com/img/26/11/28/1a21d93bbfd15e737.webp",
+        "https://i1.ruliweb.com/img/26/11/28/1a21d93beef15e737.webp",
+        "https://i3.ruliweb.com/img/26/11/28/1a21d93c09115e737.webp",
+        "https://i2.ruliweb.com/img/26/11/28/1a21d93c69415e737.webp",
+        "https://i3.ruliweb.com/img/26/11/28/1a21d93c4a315e737.webp",
+        "https://i1.ruliweb.com/img/26/11/28/1a21d93df2e15e737.webp",
+        "https://i3.ruliweb.com/img/26/11/28/1a21d93c80915e737.webp"
+      ]
+    },
+    {
+      "id": "ruli_05b9e5cbaaf4",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "할로우 나이트: 실크송 슬픔의 바다 - 론칭 트레일러",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360108",
+      "author": "ComShepard",
+      "time": "2026-11-28 00:14",
+      "likes": "5",
+      "comments": "",
+      "content": "https://store.steampowered.com/news/app/1030300/view/687523504123283104\n할로우 나이트: 실크송, 12월 11일 모든 플레이어에게 무료 배포!\n슬픔의 바다에서 플레이어는 파룸의 잊혀진 바다 위와 아래를 누비며, 섬들을 가로지르고, 요새를 통과해 파도 아래 깊은 동굴 속으로 모험을 떠납니다. 저희는 지난 한 해 동안 이 모험을 할로우 나이트: 실크송에서 기대할 수 있는 모든 요소—기상천외한 캐릭터, 스릴 넘치는 모험, 그리고 장대한 보스전—로 가득 채우는 데 전념해 왔습니다! 또한, 끝없는 재능을 지닌 크리스토퍼 라킨이 선사하는 더욱 뛰어난 음악들로 넘쳐납니다!\n12월 11일 여러분 모두에게 이 게임을 선보일 수 있게 되어 정말 기쁩니다. 많은 기대 부탁드립니다.",
+      "images": [
+        "https://i3.ruliweb.com/img/26/11/28/1a21da09dc015e737.webp"
+      ]
+    },
+    {
+      "id": "ruli_6a96fe2ba012",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "에픽세븐 E7WC 2026, 28일 결승전 개최",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360107",
+      "author": "민초맛돈까스",
+      "time": "2026-11-28 00:11",
+      "likes": "",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://i3.ruliweb.com/img/26/11/28/1a21d8f8ee053a69d.webp"
+      ]
+    },
+    {
+      "id": "ruli_2eee93fd1fc5",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "[EZ2ON] REBOOT : R - 12/4 서버 점검 안내",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360106",
+      "author": "Ruka151",
+      "time": "2026.11.27",
+      "likes": "1",
+      "comments": "",
+      "content": "안녕하세요, EZ2ON TEAM 입니다.\n아래의 내용을 적용하기 위한 서버 작업이 진행될 예정입니다.\n점검 기간 동안 게임 이용이 불가능할 예정이오니 양해를 부탁드립니다.\n● 주요 작업 내용\n클라이언트 업데이트\n● 점검 일정\n(Countdown)\n[KST/JST] Dec. 04, 15:00 - Dec. 04, 19:00 (Korea / Japan Standard Time)\n[CST/SGT] Dec. 04, 14:00 - Dec. 04, 18:00 (China / Singapore Standard Time)\n[UTC] Dec. 04, 06:00 - Dec. 04, 10:00\n[PT] Dec. 03, 22:00 - Dec. 04, 02:00 (Pacific Time)\n점검 시작 최소 10분 전에 게임을 종료하는 것이 좋습니다.\n점검 경과에 따라 조기 종료되거나 연장되는 등 일정은 변경될 수 있습니다.",
+      "images": []
+    },
+    {
+      "id": "fm_othergame_950c8cd8e0a2",
+      "source": "에펨코리아 PC·콘솔",
+      "category": "PC·스팀",
+      "title": "크레토스는 추위를 못느끼나",
+      "url": "https://www.fmkorea.com/10571176103",
+      "author": "",
+      "time": "2026-11-22 22:53",
+      "likes": "",
+      "comments": "",
+      "content": "입김은 나는데 복장만 보면 추위를 못느끼는 거 같음",
+      "images": [
+        "https://image.fmkorea.com/./files/attach/new5/20261118/10571176103_2518140_c9a5c183949a4e3bed7f52af5f9df52f.png.webp"
+      ]
+    },
+    {
+      "id": "fm_othergame_50fa795f24a9",
+      "source": "에펨코리아 PC·콘솔",
+      "category": "PlayStation",
+      "title": "GTA6 ps5 노멀 ps5 pro 비교스샷",
+      "url": "https://www.fmkorea.com/10571172968",
+      "author": "",
+      "time": "2026-11-22 22:52",
+      "likes": "",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://image.fmkorea.com/files/attach/new5/20261118/10571172968_2518140_91d9f9ddf8a62f5c8ab4465a3a1975cc.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261118/10571172968_2518140_50dc7219a96dcdcd388c36346f182540.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261118/10571172968_2518140_69d86c84a9ae6962f63e6758736a3456.webp",
+        "https://image.fmkorea.com/files/attach/new5/20261118/10571172968_2518140_64321634b8527edc0d506b0932270bb9.webp"
+      ]
+    },
+    {
+      "id": "fm_othergame_c00937645820",
+      "source": "에펨코리아 PC·콘솔",
+      "category": "PC·스팀",
+      "title": "그타 6 억까리뷰 몇개당해도 98점이라는게 미쳤네",
+      "url": "https://www.fmkorea.com/10571171284",
+      "author": "",
+      "time": "2026-11-22 22:52",
+      "likes": "",
+      "comments": "",
+      "content": "만점 리뷰수부터가 100개가 넘음 ㅋㅋㅋㅋㅋㅋ",
+      "images": []
+    },
+    {
+      "id": "fm_othergame_e8daf630ba05",
+      "source": "에펨코리아 PC·콘솔",
+      "category": "PlayStation",
+      "title": "GTA6 PS5 역대 리뷰 수 1위 달성, 99점 유지 중",
+      "url": "https://www.fmkorea.com/10571154606",
+      "author": "",
+      "time": "2026-11-22 22:51",
+      "likes": "",
+      "comments": "",
+      "content": "GTA6은 점수 1위뿐 아니라,\nPS5 게임 역사상 가장 많은 리뷰 (153개) 를 기록\n점수는 여전히 역대 최고 점수인 99점\n참고로 스파이더맨2가 145개, 파판7 리버스가 142개, 갓옵 라그나로크가 141개, 아스트로봇이 136개임",
+      "images": [
+        "https://image.fmkorea.com/./files/attach/new5/20261118/10571154606_2518140_bb6af45a44d4691eae348235ac53214f.png.webp"
+      ]
+    },
+    {
+      "id": "fm_othergame_3c8d27faed11",
+      "source": "에펨코리아 PC·콘솔",
+      "category": "PC·스팀",
+      "title": "그타6 얼마나 재밌는건지 호주 워홀간 새끼 한시간 전에 카톡하고",
+      "url": "https://www.fmkorea.com/10571167873",
+      "author": "",
+      "time": "2026-11-22 22:51",
+      "likes": "",
+      "comments": "",
+      "content": "후기 남기겠다더니 51분 동안 답장이 없음",
+      "images": []
+    },
+    {
+      "id": "fm_othergame_bae3d2e82d7d",
+      "source": "에펨코리아 PC·콘솔",
+      "category": "PC·스팀",
+      "title": "gta 80점 준 리뷰어 울버린 100점 줬다는 글 보이는 게",
+      "url": "https://www.fmkorea.com/10571162689",
+      "author": "",
+      "time": "2026-11-22 22:49",
+      "likes": "",
+      "comments": "",
+      "content": "누가 처음에 gta 80점 리뷰 글 쓰면서\n이거 80점 준 리뷰어 울버린 100점 줬다고 글 쓰면서 같이 올려서 그거 보고 하는 소리 인 거 같던데",
+      "images": []
+    },
+    {
+      "id": "fm_othergame_d8e0109d06dd",
+      "source": "에펨코리아 PC·콘솔",
+      "category": "PlayStation",
+      "title": "혹시 모르니 psn, 락스타 연동 해놓는게",
+      "url": "https://www.fmkorea.com/10571159957",
+      "author": "",
+      "time": "2026-11-22 22:48",
+      "likes": "",
+      "comments": "",
+      "content": "안전빵으로다가",
+      "images": []
+    },
+    {
+      "id": "fm_othergame_2663448ca1b3",
+      "source": "에펨코리아 PC·콘솔",
+      "category": "PC·스팀",
+      "title": "야 이거는 30프레임이라고 안 하면 안 되는 게임이네 ㅋㅋㅋㅋ",
+      "url": "https://www.fmkorea.com/10571157620",
+      "author": "",
+      "time": "2026-11-22 22:48",
+      "likes": "",
+      "comments": "",
+      "content": "그냥 개레전드네..",
+      "images": []
+    },
+    {
+      "id": "fm_othergame_757fff0eb287",
+      "source": "에펨코리아 PC·콘솔",
+      "category": "PC·스팀",
+      "title": "듀센 배터리 없었네..",
+      "url": "https://www.fmkorea.com/10571156422",
+      "author": "",
+      "time": "2026-11-22 22:47",
+      "likes": "",
+      "comments": "",
+      "content": "하마터면 오열할뻔 휴",
+      "images": []
+    },
+    {
+      "id": "fm_othergame_ef2ecc686ce6",
+      "source": "에펨코리아 PC·콘솔",
+      "category": "PC·스팀",
+      "title": "gta6 이러면 pc판 더 기다리기 힘들잖아 !!!!!",
+      "url": "https://www.fmkorea.com/10571152395",
+      "author": "",
+      "time": "2026-11-22 22:46",
+      "likes": "",
+      "comments": "",
+      "content": "메타, 오픈 쌍 99는 어케 참음 ㅋㅋ",
+      "images": []
+    },
+    {
+      "id": "clien_game_c0067d8e461d",
+      "source": "클리앙 알뜰구매",
+      "category": "할인·예판",
+      "title": "[에픽게임즈] Mark of the Deep 무료 외",
+      "url": "https://www.clien.net/service/board/jirum/19295737?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-20 01:28",
+      "likes": "",
+      "comments": "2",
+      "content": "이번주 에픽무료게임, 에픽모바일 무료게임 각1종 있습니다\n안드로이드\nhttps://store.epicgames.com/p/lonesome-village-android-15d165\niOS\nhttps://store.epicgames.com/p/lonesome-village-ios-2a807f",
+      "images": [
+        "https://edgio.clien.net/F01/2026/11/15867270/7166e24f7c36.jpg?scale=width:740",
+        "https://edgio.clien.net/F01/2026/11/15867271/73adbbe1d4f8.jpg?scale=width:740"
+      ]
+    },
+    {
       "id": "ruli_35d1d3afde91",
       "source": "루리웹 예판·핫딜",
       "category": "할인·예판",
@@ -43,7 +615,8 @@
       "images": [
         "https://i1.ruliweb.com/img/26/11/27/1a21b0174d5f78d.webp",
         "https://i3.ruliweb.com/img/26/11/27/1a21b0176abf78d.webp"
-      ]
+      ],
+      "is_cross_hot": false
     },
     {
       "id": "ruli_62fe295be641",
@@ -58,7 +631,8 @@
       "content": "순삭 될거같긴한데\n필요하신분들 꼭 성공하시길 바랍니다.\nhttps://www.musinsa.com/products/7883566",
       "images": [
         "https://i1.ruliweb.com/img/26/11/27/1a21add00674bfa2f.webp"
-      ]
+      ],
+      "is_cross_hot": false
     },
     {
       "id": "ruli_84d235dddc83",
@@ -71,7 +645,8 @@
       "likes": "24",
       "comments": "",
       "content": "라이브방송\nhttps://external-token.pay.naver.com/entry/pincrux?gd=ab8e18ef4ebebeddc0b3152ce9c9006e14fc05242e3fc9ce32246ea6a9543074\n일정표에 올라온 기준으로 작성\n금일 라이브일정\n오전\n11시 1개\n오후\n2시 2개\n7시 1개\n9시 1개",
-      "images": []
+      "images": [],
+      "is_cross_hot": false
     },
     {
       "id": "ruli_1e38621c963c",
@@ -86,7 +661,8 @@
       "content": "",
       "images": [
         "https://i1.ruliweb.com/img/26/11/27/1a2191e06888b18e.webp"
-      ]
+      ],
+      "is_cross_hot": false
     },
     {
       "id": "ruli_c952b994eea9",
@@ -99,7 +675,8 @@
       "likes": "",
       "comments": "",
       "content": "TAMASHII NATION 2026 한정 상품 예약 판매 시작\nhttps://www.instagram.com/reel/DgMhOuzNzw9\n2026년 11월 27일 16시부터\n반다이남코코리아몰 프리미엄 반다이\n●메탈빌드 버닝 건담 (명경지수)\n●메탈로보트혼 데스티니 건담 SpecII 최종결전 Ver.\n●S.H.피규아트 가면라이더 가브 팝핀구미 폼 이상한 가면라이더 세트\n●S.H.피규아트 (진골조제법) 가면라이더 1호 / 혼고 타케시 (가면라이더 THE FIRST)\n●S.H.피규아트 (진골조제법) 티가 다크\n●세인트세이야 EX 여신 아테나 -ORIGINAL COLOR EDITION-\nACTION FIGURE EXPO in SUWON\n✔️이벤트 기간 : 2026년 11월 27일 (금) ~ 12월 10일 (목)\n✔️이벤트 장소 : AK 플라자 수원점 5층 이벤트홀\n프리미엄 반다이\nhttps://kr.gundam.info\nhttps://www.bnkrmall.co.kr/plan/list.do\nhttps://www.facebook.com/gundambase\nhttps://www.bnkrmall.co.kr/main/figure_index.do\nhttps://www.bnkrmall.co.kr/goods/category.do?cate=1607\nhttps://www.bnkrmall.co.kr/goods/new.do?pageNum=1&endGoods=Y\nhttps://www.bnkrmall.co.kr/premium/p_category.do\nR프라모델/피규어/건갤/달롱넷/타마시이\nhttps://bbs.ruliweb.com/family/232/board/300016\nhttps://bbs.ruliweb.com/family/242/board/300017\nhttps://gall.dcinside.com/mgallery/board/lists/?id=gundam\nhttps://www.dalong.net/reviews/index.htm\nhttps://x.com/gundam_tamashii\n반다이몰 신상품 등록순 / 네반몰 실시간 베스트\nhttps://www.bnkrmall.co.kr/goods/new.do\nhttps://brand.naver.com/bandai/category/a21ce579d1be40a29303a34f294808c6?st=RECENT\nhttps://brand.naver.com/bandai/shoppingstory/list?page=1\nhttps://brand.naver.com/bandai/best\n이번주 총판 재입고 예정\nhttps://www.joyhobby.co.kr/mall/ipgo.asp?siteid=joyhobby&buyID=249\n오전 11시 반 부터 재판 재입고 판매 중\nMG 런처/소드 스트라이크 건담 / 67,200원\nhttps://www.bnkrmall.co.kr/goods/detail.do?gno=29558601\nhttps://brand.naver.com/bandai/products/11603161155\nMG 건너 자쿠 워리어 (루나마리아 커스텀) / 57,600원\nhttps://www.bnkrmall.co.kr/goods/detail.do?gno=14809\nhttps://brand.naver.com/bandai/products/4679963617\nMG 마라사이 / 54,000원\nhttps://www.bnkrmall.co.kr/goods/detail.do?gno=3879109\nhttps://brand.naver.com/bandai/products/8199532515\nMGSD 프리덤 건담 / 46,800원\nhttps://www.bnkrmall.co.kr/goods/detail.do?gno=59863\nhttps://brand.naver.com/bandai/products/7291065547\nRG 스트라이크 프리덤 건담 / 42,000원\nhttps://www.bnkrmall.co.kr/goods/detail.do?gno=53798\nhttps://brand.naver.com/bandai/products/4757216891\nRG 제타 건담 / 39,600원\nhttps://www.bnkrmall.co.kr/goods/detail.do?gno=55300\nhttps://brand.naver.com/bandai/products/5638802100\nRG 유니콘 건담 / 49,200원\nhttps://www.bnkrmall.co.kr/goods/detail.do?gno=53803\nhttps://brand.naver.com/bandai/products/4589407608\nHGUC 자쿠 III 커스텀 / 21,600원\nhttps://www.bnkrmall.co.kr/goods/detail.do?gno=56131\nhttps://brand.naver.com/bandai/products/6227485278\nHGUC 드라이센 유니콘 Ver. / 27,600원\nhttps://www.bnkrmall.co.kr/goods/detail.do?gno=58355\nhttps://brand.naver.com/bandai/products/6984895256\nHGUC 도벤 울프 유니콘 Ver. / 28,800원\nhttps://www.bnkrmall.co.kr/goods/detail.do?gno=56494\nhttps://brand.naver.com/bandai/products/6329854075\nHGUC 멧사 타입-F01 / 30,000원\nhttps://www.bnkrmall.co.kr/goods/detail.do?gno=13893\nhttps://brand.naver.com/bandai/products/4998691514\nHG 건담 엑시아 / 16,800원\nhttps://www.bnkrmall.co.kr/goods/detail.do?gno=15433\nhttps://brand.naver.com/bandai/products/5663438173\nHG 건담 발바토스 / 14,400원\nhttps://www.bnkrmall.co.kr/goods/detail.do?gno=15558\nhttps://brand.naver.com/bandai/products/6511222567\nHG 더블오 건담 / 14,400원\nhttps://www.bnkrmall.co.kr/goods/detail.do?gno=15493\nhttps://brand.naver.com/bandai/products/5663421246",
-      "images": []
+      "images": [],
+      "is_cross_hot": false
     },
     {
       "id": "ruli_614566c60311",
@@ -114,7 +691,8 @@
       "content": "진격의 거인 3 한국어판 예약 판매 오늘(27일) 시작\nhttps://bbs.ruliweb.com/news/read/232509\n오후 03시 부터 예판 시작\n(직링크)\nhttps://sofrano.com/product/detail.html?product_no=4169\nhttps://sofrano.com/product/detail.html?product_no=4172\nhttps://sofrano.com/product/detail.html?product_no=4170\nhttps://sofrano.com/product/detail.html?product_no=4173\nhttps://sofrano.com/product/detail.html?product_no=4171\nhttps://sofrano.com/product/detail.html?product_no=4174\n겜우리 / 한우리\n// 국전 / 신도림\nhttps://www.gamewoori.com/product/list.html?cate_no=58\nhttps://gamewoori.com/product/detail.html?product_no=00000\nhttps://smartstore.naver.com/gamewoori/category/4f0340b724fc41ef894a2a9b9be3717c?cp=2\nhttps://www.instagram.com/hanwooriofficial/\nhttps://www.instagram.com/hanwoorisindorim/\n게임몰 / 투바이\n/ 위브엔 / 용산\nhttps://www.gamemol.co.kr/goods/goods_list.php?cateCd=014&sort=date&pageNum=40\nhttps://www.game2buy.co.kr/goods/goods_list.php?cateCd=014&sort=date&pageNum=20\nhttps://smartstore.naver.com/gamemol/category/fc65cdb7ce5943109528c33a6ec1188b?cp=2\nhttps://blog.naver.com/bestcenter\n티티게임 / 와이세븐스타일\n/ 용산\nhttps://www.ttgame.kr/product/list.html?cate_no=196\nhttps://smartstore.naver.com/y7style/category/2960b9f6994d4d949166f00fa5e9bc75?cp=1\nhttps://smartstore.naver.com/y7style/category/5c845f2a12dc4d9e8ef0a3f4fc1badb0?st=RECENT\n불광\n조이캠프\nhttps://joycamp.kr/goods/catalog?code=0020\nhttps://joycamp.kr/goods/new_arrivals?page=1&searchMode=new_arrivals&per=40&sorting=regist&filter_display=list\nhttps://smartstore.naver.com/joycampstore/category/e0dd12090b5b4ff9be1b06fe625f79af?st=RECENT\n게임앤라이프 / 워커홀릭\n/ 용산\nhttps://www.gamenlife.kr/product/list.html?cate_no=54\nhttps://smartstore.naver.com/gamenlife/category/8902df513ede4417bbe957131238dab2?cp=2\n소프라노 / 게임피아\n/ ID게임\nhttps://sofrano.com/product/list.html?cate_no=24\nhttps://smartstore.naver.com/sofrano/category/bb95a86e34e94c0ba6350314f39b12af?st=RECENT\n예판런\n/ 씨엠케이네트웍스\nhttps://yepan.run/product/list.html?cate_no=42\nhttps://smartstore.naver.com/yepanrun/category/aa1680bde5154c55aeda1e5c3cac5a88?st=RECENT\nhttps://smartstore.naver.com/yepanrun/category/301mneTABN2vkwE6z3Txi_ALL_PRODUCT?cp=2\n게임터치몰 / 디지털터치\n/ 가산 디지털\nhttps://gametouchmall.com/product/list.html?cate_no=86\nhttps://gametouchmall.com/product/detail.html?product_no=0000\nhttps://smartstore.naver.com/gametouchmall/category/abbb55f59a0541c6938a406bf24288b5?cp=1\nhttps://www.lotteon.com/p/display/seller/sellerShop/LO10008745\n비콘몰 / 지콘 스토어\n/ 강남구 논현동\nhttps://bighornmall.co.kr/goods/goods_list.php?cateCd=007\nhttps://stores.auction.co.kr/bighorn\nhttps://minishop.gmarket.co.kr/bighorn\nhttps://shop.11st.co.kr/stores/398603\nhttps://www.ssg.com/sellerhome/103673/new.ssg\nhttps://smartstore.naver.com/bighorn1004/category/4fb20b5ed4674fff939b970ba946d8e8?st=RECENT\n슈퍼플레이\n// 홍대 T1BC / AK&홍대 / 롯백 동탄 / 타임빌라스 의왕\nhttps://thesuperplay.com/product/list.html?cate_no=413\nhttps://thesuperplay.com/product/detail.html?product_no=0000\nhttps://smartstore.naver.com/consolemarket/category/129c124a3ac548aab5ba4220192e113f?cp=1\n부천\n게임스퀘어몰\nhttps://smartstore.naver.com/sqgame/category/ALL?st=RECENT\n로그인소프트몰\n/ 국전 9층\nhttps://www.loginsoft.kr/\nhttps://smartstore.naver.com/loginsoft/category/b2b191c8845d48969f4bd8d40d26ff86?cp=2\n게임스위치\n/ 게임피아 / 국전 9층\nhttps://smartstore.naver.com/gameswitch/category/1322201428b54fe48b3ac86a02c7af77?cp=1\n대원샵\nhttps://www.daewonshop.com/category/422785?orderBy=RECENT_PRODUCT&orderDirection=DESC\n롯데온 /\n토이저러스\n// 손오공E샵\nhttps://www.lotteon.com/m/display/main/toysrus?mall_no=9\nhttps://brand.naver.com/sonokongtoy/category/c664a60378b94c70b4bc48388edf80e1?st=RECENT\n뉴클리어\n/ 용산\nhttps://smartstore.naver.com/nuclearclub/category/42e11b31c33c43e6ab04499fc00aca0e?cp=1\n에드몰\n/ 헤르메스트리 / 영등포구 당산\nhttps://smartstore.naver.com/aidermall/category/fbe9ad5f2f8f4ac39fdecbdb9d53ce35?st=RECENT\nA클럽\n/ 드림유통이엔티 / 용산\nhttps://smartstore.naver.com/aclub/category/03e2a79901684912b0ad2edb93684058?cp=2\n라온아토\n/ 강변 테크노마트 7층\nhttps://smartstore.naver.com/raonato_game/category/c6df524cd68845828e8da7da354a703e?st=RECENT\n하이티지 / 용산 전자랜드 본관 4층\nhttps://smartstore.naver.com/hitg/category/ALL?st=RECENT\n테크라인\n/ 게임오브킹 / 게임테크몰\nhttps://gametechmall.com/product/list.html?cate_no=24\nhttps://gametechmall.com/product/detail.html?product_no=0000\nhttps://smartstore.naver.com/techline/category/e35de5d342784da98721053facd2ef60?cp=1\nhttps://www.lotteon.com/p/display/seller/sellerShop/LD476076\n플레이스위치 / 지피클럽\n/ 용산\nhttps://playswitch.kr/product/list.html?cate_no=43\nhttps://playswitch.co.kr/product/detail.html?product_no=0000\nhttps://smartstore.naver.com/playswitch/category/b9aa0877c81b4e7b82c79bc99c054941?st=RECENT\n픽셀드림즈\n/ 대전\nhttps://smartstore.naver.com/pixeldreams/category/09c957de8b494f16baa86b282f8fd5d8?st=RECENT\n게임할 고양\n/ 일산\nhttps://smartstore.naver.com/playingcat/category/6ae829a061224cffbddde31bef0d7219?st=RECENT\n레트로스펙트\n/  용산 전자랜드 본관 4층\nhttps://smartstore.naver.com/rockyjoe/category/1ab0e6073063406c963c2d1945b4ddab?cp=1\n에픽몬\n/ 게임몬 / 경기 용인\nhttps://smartstore.naver.com/epmon/category/74d6ec895630450ba9e4af1c1b001d0a?st=RECENT\n청라롱롱리베게임즈\n/ 인천 서구\nhttps://smartstore.naver.com/longlongliebegames/category/a054929b20414735a90318ab3d6ae199?st=RECENT\n아이엠게임 / 의정부\n조이게임\nhttps://smartstore.naver.com/imgame/category/3c091eea9ef14dfe92d8c41c493b9ee5?st=RECENT\n정직한겜판매 / 인천\n게임홀릭\nhttps://smartstore.naver.com/gamefam/category/6137d5cba6ad4e9d94b5a863dc7292c3?st=RECENT\n광주\n수정 게임\nhttps://sj-game.com/product/list.html?cate_no=149&sort_method=5#Product_ListMenu\nhttps://sj-game.com/product/list.html?cate_no=122&sort_method=5#Product_ListMenu\nhttps://sj-game.com/product/switch2main.html?cate_no=168&sort_method=5#Product_ListMenu\n컴투스\n/ 컴투플레이\nhttps://smartstore.naver.com/cometostore/category/b02e8565aa0d45b68bd6a5b120aeb041?st=RECENT\n예스24\n/\n에스엠퓨처스\n/ 서울 금천구 가산동\nhttps://smartstore.naver.com/top/category/ALL?st=RECENT\nhttps://www.yes24.com/product/category/display/006001089017005\n해피플러스\n/ 경기 안양\nhttps://smartstore.naver.com/hpmart/category/583d64e57a0a4066870c005e2784a59a?st=RECENT\n아하오피스2\n/ 충주 에쓰씨플레닛\nhttps://smartstore.naver.com/ahaoffice2/category/50000088?st=RECENT\nhttps://smartstore.naver.com/ahaoffice2/category/ALL?st=RECENT\n이엠바이 / 겜맥\n/ 경문엔터테인먼트\nhttps://embuy.co.kr/product/list.html?cate_no=60\nhttps://embuy.co.kr/product/detail.html?product_no=0000\nhttps://smartstore.naver.com/gammac/category/9b9498225b934e25b247748ef698ce75?st=RECENT\n네이버\n신세계 아이앤씨\n/ 신세계몰\nhttps://smartstore.naver.com/sincapi/category/eccd4109e5da4dcd90b02593d438f7b2?st=RECENT\nH2몰\n/ 게임파라닷컴\nhttps://h2mall.net/PREORDER\nhttps://smartstore.naver.com/h2mall_net/category/60ff69f8208f4f2c9494cfc28652fbff?cp=1\n아크시스템웍스\n온라인샵\nhttps://smartstore.naver.com/arcsystemworks/category/6483878c1e0a4d809c8e3a3924fa3cfb?st=RECENT\n플레이샵\n/ 오진상사\nhttps://playshop.co.kr/product/list.html?cate_no=55\nhttps://playshop.co.kr/product/detail.html?product_no=0000\nhttps://rpp.gmarket.co.kr/?exhib=45514\nhttps://rpp.auction.co.kr/?exhib=48450\nhttps://brand.naver.com/playshop/category/c7545754fccf4fffa3181e69da3b9ec7?st=RECENT\n반다이남코\n스토어\nhttps://smartstore.naver.com/bnek/category/31BdY5D5IA3NuLcsbjun0_ALL_PRODUCT?st=RECENT\n플레이스테이션 국내 정식 판매처\nhttps://www.playstation.com/ko-kr/local/retailers/?smcid=store/Ako-kr/Apages-latest/Aprimary/nav/Amsg-shop/A\n닌텐도 국내 정식 판매처\nhttps://www.nintendo.co.kr/support/switch/officialstore/index.php",
       "images": [
         "https://i2.ruliweb.com/img/26/11/27/1a21b09303cc444.webp"
-      ]
+      ],
+      "is_cross_hot": false
     },
     {
       "id": "ruli_a7650c8b0d98",
@@ -129,7 +707,8 @@
       "content": "식혼도 : 블루 피에타 PS5, NS, NS2 리미티드 에디션 패키지 예약 판매 오늘(27일) 시작\nhttps://bbs.ruliweb.com/news/read/232496\n오후 03시 부터 예판 시작\n(직링크)\nhttps://sofrano.com/product/detail.html?product_no=4163\nhttps://sofrano.com/product/detail.html?product_no=4167\nhttps://sofrano.com/product/detail.html?product_no=4165\nhttps://sofrano.com/product/detail.html?product_no=4164\nhttps://sofrano.com/product/detail.html?product_no=4168\nhttps://sofrano.com/product/detail.html?product_no=4166\n겜우리 / 한우리\n// 국전 / 신도림\nhttps://www.gamewoori.com/product/list.html?cate_no=58\nhttps://gamewoori.com/product/detail.html?product_no=00000\nhttps://smartstore.naver.com/gamewoori/category/4f0340b724fc41ef894a2a9b9be3717c?cp=2\nhttps://www.instagram.com/hanwooriofficial/\nhttps://www.instagram.com/hanwoorisindorim/\n게임몰 / 투바이\n/ 위브엔 / 용산\nhttps://www.gamemol.co.kr/goods/goods_list.php?cateCd=014&sort=date&pageNum=40\nhttps://www.game2buy.co.kr/goods/goods_list.php?cateCd=014&sort=date&pageNum=20\nhttps://smartstore.naver.com/gamemol/category/fc65cdb7ce5943109528c33a6ec1188b?cp=2\nhttps://blog.naver.com/bestcenter\n티티게임 / 와이세븐스타일\n/ 용산\nhttps://www.ttgame.kr/product/list.html?cate_no=196\nhttps://smartstore.naver.com/y7style/category/2960b9f6994d4d949166f00fa5e9bc75?cp=1\nhttps://smartstore.naver.com/y7style/category/5c845f2a12dc4d9e8ef0a3f4fc1badb0?st=RECENT\n불광\n조이캠프\nhttps://joycamp.kr/goods/catalog?code=0020\nhttps://joycamp.kr/goods/new_arrivals?page=1&searchMode=new_arrivals&per=40&sorting=regist&filter_display=list\nhttps://smartstore.naver.com/joycampstore/category/e0dd12090b5b4ff9be1b06fe625f79af?st=RECENT\n게임앤라이프 / 워커홀릭\n/ 용산\nhttps://www.gamenlife.kr/product/list.html?cate_no=54\nhttps://smartstore.naver.com/gamenlife/category/8902df513ede4417bbe957131238dab2?cp=2\n소프라노 / 게임피아\n/ ID게임\nhttps://sofrano.com/product/list.html?cate_no=24\nhttps://smartstore.naver.com/sofrano/category/bb95a86e34e94c0ba6350314f39b12af?st=RECENT\n예판런\n/ 씨엠케이네트웍스\nhttps://yepan.run/product/list.html?cate_no=42\nhttps://smartstore.naver.com/yepanrun/category/aa1680bde5154c55aeda1e5c3cac5a88?st=RECENT\nhttps://smartstore.naver.com/yepanrun/category/301mneTABN2vkwE6z3Txi_ALL_PRODUCT?cp=2\n게임터치몰 / 디지털터치\n/ 가산 디지털\nhttps://gametouchmall.com/product/list.html?cate_no=86\nhttps://gametouchmall.com/product/detail.html?product_no=0000\nhttps://smartstore.naver.com/gametouchmall/category/abbb55f59a0541c6938a406bf24288b5?cp=1\nhttps://www.lotteon.com/p/display/seller/sellerShop/LO10008745\n비콘몰 / 지콘 스토어\n/ 강남구 논현동\nhttps://bighornmall.co.kr/goods/goods_list.php?cateCd=007\nhttps://stores.auction.co.kr/bighorn\nhttps://minishop.gmarket.co.kr/bighorn\nhttps://shop.11st.co.kr/stores/398603\nhttps://www.ssg.com/sellerhome/103673/new.ssg\nhttps://smartstore.naver.com/bighorn1004/category/4fb20b5ed4674fff939b970ba946d8e8?st=RECENT\n슈퍼플레이\n// 홍대 T1BC / AK&홍대 / 롯백 동탄 / 타임빌라스 의왕\nhttps://thesuperplay.com/product/list.html?cate_no=413\nhttps://thesuperplay.com/product/detail.html?product_no=0000\nhttps://smartstore.naver.com/consolemarket/category/129c124a3ac548aab5ba4220192e113f?cp=1\n부천\n게임스퀘어몰\nhttps://smartstore.naver.com/sqgame/category/ALL?st=RECENT\n로그인소프트몰\n/ 국전 9층\nhttps://www.loginsoft.kr/\nhttps://smartstore.naver.com/loginsoft/category/b2b191c8845d48969f4bd8d40d26ff86?cp=2\n게임스위치\n/ 게임피아 / 국전 9층\nhttps://smartstore.naver.com/gameswitch/category/1322201428b54fe48b3ac86a02c7af77?cp=1\n대원샵\nhttps://www.daewonshop.com/category/422785?orderBy=RECENT_PRODUCT&orderDirection=DESC\n롯데온 /\n토이저러스\n// 손오공E샵\nhttps://www.lotteon.com/m/display/main/toysrus?mall_no=9\nhttps://brand.naver.com/sonokongtoy/category/c664a60378b94c70b4bc48388edf80e1?st=RECENT\n뉴클리어\n/ 용산\nhttps://smartstore.naver.com/nuclearclub/category/42e11b31c33c43e6ab04499fc00aca0e?cp=1\n에드몰\n/ 헤르메스트리 / 영등포구 당산\nhttps://smartstore.naver.com/aidermall/category/fbe9ad5f2f8f4ac39fdecbdb9d53ce35?st=RECENT\nA클럽\n/ 드림유통이엔티 / 용산\nhttps://smartstore.naver.com/aclub/category/03e2a79901684912b0ad2edb93684058?cp=2\n라온아토\n/ 강변 테크노마트 7층\nhttps://smartstore.naver.com/raonato_game/category/c6df524cd68845828e8da7da354a703e?st=RECENT\n하이티지 / 용산 전자랜드 본관 4층\nhttps://smartstore.naver.com/hitg/category/ALL?st=RECENT\n테크라인\n/ 게임오브킹 / 게임테크몰\nhttps://gametechmall.com/product/list.html?cate_no=24\nhttps://gametechmall.com/product/detail.html?product_no=0000\nhttps://smartstore.naver.com/techline/category/e35de5d342784da98721053facd2ef60?cp=1\nhttps://www.lotteon.com/p/display/seller/sellerShop/LD476076\n플레이스위치 / 지피클럽\n/ 용산\nhttps://playswitch.kr/product/list.html?cate_no=43\nhttps://playswitch.co.kr/product/detail.html?product_no=0000\nhttps://smartstore.naver.com/playswitch/category/b9aa0877c81b4e7b82c79bc99c054941?st=RECENT\n픽셀드림즈\n/ 대전\nhttps://smartstore.naver.com/pixeldreams/category/09c957de8b494f16baa86b282f8fd5d8?st=RECENT\n게임할 고양\n/ 일산\nhttps://smartstore.naver.com/playingcat/category/6ae829a061224cffbddde31bef0d7219?st=RECENT\n레트로스펙트\n/  용산 전자랜드 본관 4층\nhttps://smartstore.naver.com/rockyjoe/category/1ab0e6073063406c963c2d1945b4ddab?cp=1\n에픽몬\n/ 게임몬 / 경기 용인\nhttps://smartstore.naver.com/epmon/category/74d6ec895630450ba9e4af1c1b001d0a?st=RECENT\n청라롱롱리베게임즈\n/ 인천 서구\nhttps://smartstore.naver.com/longlongliebegames/category/a054929b20414735a90318ab3d6ae199?st=RECENT\n아이엠게임 / 의정부\n조이게임\nhttps://smartstore.naver.com/imgame/category/3c091eea9ef14dfe92d8c41c493b9ee5?st=RECENT\n정직한겜판매 / 인천\n게임홀릭\nhttps://smartstore.naver.com/gamefam/category/6137d5cba6ad4e9d94b5a863dc7292c3?st=RECENT\n광주\n수정 게임\nhttps://sj-game.com/product/list.html?cate_no=149&sort_method=5#Product_ListMenu\nhttps://sj-game.com/product/list.html?cate_no=122&sort_method=5#Product_ListMenu\nhttps://sj-game.com/product/switch2main.html?cate_no=168&sort_method=5#Product_ListMenu\n컴투스\n/ 컴투플레이\nhttps://smartstore.naver.com/cometostore/category/b02e8565aa0d45b68bd6a5b120aeb041?st=RECENT\n예스24\n/\n에스엠퓨처스\n/ 서울 금천구 가산동\nhttps://smartstore.naver.com/top/category/ALL?st=RECENT\nhttps://www.yes24.com/product/category/display/006001089017005\n해피플러스\n/ 경기 안양\nhttps://smartstore.naver.com/hpmart/category/583d64e57a0a4066870c005e2784a59a?st=RECENT\n아하오피스2\n/ 충주 에쓰씨플레닛\nhttps://smartstore.naver.com/ahaoffice2/category/50000088?st=RECENT\nhttps://smartstore.naver.com/ahaoffice2/category/ALL?st=RECENT\n이엠바이 / 겜맥\n/ 경문엔터테인먼트\nhttps://embuy.co.kr/product/list.html?cate_no=60\nhttps://embuy.co.kr/product/detail.html?product_no=0000\nhttps://smartstore.naver.com/gammac/category/9b9498225b934e25b247748ef698ce75?st=RECENT\n네이버\n신세계 아이앤씨\n/ 신세계몰\nhttps://smartstore.naver.com/sincapi/category/eccd4109e5da4dcd90b02593d438f7b2?st=RECENT\nH2몰\n/ 게임파라닷컴\nhttps://h2mall.net/PREORDER\nhttps://smartstore.naver.com/h2mall_net/category/60ff69f8208f4f2c9494cfc28652fbff?cp=1\n아크시스템웍스\n온라인샵\nhttps://smartstore.naver.com/arcsystemworks/category/6483878c1e0a4d809c8e3a3924fa3cfb?st=RECENT\n플레이샵\n/ 오진상사\nhttps://playshop.co.kr/product/list.html?cate_no=55\nhttps://playshop.co.kr/product/detail.html?product_no=0000\nhttps://rpp.gmarket.co.kr/?exhib=45514\nhttps://rpp.auction.co.kr/?exhib=48450\nhttps://brand.naver.com/playshop/category/c7545754fccf4fffa3181e69da3b9ec7?st=RECENT\n반다이남코\n스토어\nhttps://smartstore.naver.com/bnek/category/31BdY5D5IA3NuLcsbjun0_ALL_PRODUCT?st=RECENT\n플레이스테이션 국내 정식 판매처\nhttps://www.playstation.com/ko-kr/local/retailers/?smcid=store/Ako-kr/Apages-latest/Aprimary/nav/Amsg-shop/A\n닌텐도 국내 정식 판매처\nhttps://www.nintendo.co.kr/support/switch/officialstore/index.php",
       "images": [
         "https://i1.ruliweb.com/img/26/11/27/1a21b05dd81c444.webp"
-      ]
+      ],
+      "is_cross_hot": false
     },
     {
       "id": "ruli_fd05fb2fa20d",
@@ -1332,561 +1911,6 @@
         "https://i3.ruliweb.com/img/26/11/21/1a1fe524ebd48c272.webp"
       ],
       "is_cross_hot": false
-    },
-    {
-      "id": "ruli_581d3ad64d50",
-      "source": "루리웹 예판·핫딜",
-      "category": "할인·예판",
-      "title": "[알리] 이어폰 dac 등등 가격다양",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109257",
-      "author": "",
-      "time": "2026-11-22 17:03",
-      "likes": "12",
-      "comments": "",
-      "content": "꼬다리 dac는 없을까요 물어보셔서   올려봅니다\n포시 신제품  할인코드 떳길래 추가했습니다\n카드가 제외가격입니다 계속 찾아보고 추가해보겠습니다\n방금 AliExpress에서 찾은 상품이에요:\n포시 오디오 IM3 오픈형 유선 이어폰, 하이파이 인이어 이어폰, 10mm N52 드라이버, 3.5mm 잭, 마이크 내장, 인라인 컨트롤, 게임 및 음악 감상용.\nhttps://a.aliexpress.com/_c4PD1GYz\nKRIM310\nGHRE08\n41.99\n포시 오디오(Fosi Audio) IM3는 $59 가격대에 오픈백 구조, 경량 레진 하우징, USB-C DAC 꼬다리, 마이크가 포함된 가성비 입문용 유선 이어폰(IEM)\n입니다. 상위 모델인\nIM4\n의 사운드 성향을 계승하면서 무게를 줄이고 편의성을 높여 음악 감상과 게이밍 모두를 겨냥한 제품입니다.\n주요 스펙 및 특징\n드라이버 및 구조\n: 10mm N52 듀얼 마그넷 다이나믹 드라이버(알루미늄-마그네슘 합금 진동판)와 세미 오픈백 디자인을 적용했습니다.\n초경량 착용감\n: 3D 스캔 데이터 기반의 의료용 레진 쉘을 사용해 유닛당 무게가 약 4.3g으로 매우 가볍고 장시간 착용이 편합니다.\n풍부한 기본 구성\n: 0.78mm 2핀 탈착식 케이블에 물리적 마이크 음소거 스위치가 달린 인라인 리모컨이 있으며, 32bit/384kHz 지원 USB-C to 3.5mm DAC 어댑터가 기본 동봉됩니다.\n사운드 성향 (리뷰 요약)\n중저음의 타격감과 그루브\n: 리뷰어\nsekixyo의 사전 청음기\n및\nReddit r/iems 사용자 후기\n에 따르면 기분 좋은 펀치감과 입체적인 저음 표현이 돋보입니다.\n선명한 보컬 표현\n: 남녀 보컬 모두 답답함 없이 뚜렷하게 들려 J-POP이나 대중가요 감상에 잘 어울립니다\n. 상위 기종인\nIM4\n와 비교해 전체적인 톤은 비슷하지만 중고역대 표현에서 약간의 차이를 보입니다\n.\n자연스러운 공간감\n: 오픈백 구조 덕분에 밀폐형 이어폰 특유의 압박감이 적고 악기 분리가 깔끔해 게임 사운드 플레이에도 적합합니다.\n방금 AliExpress에서 찾은 상품이에요:\n포시 오디오 DISC 나노 휴대용 CD 플레이어, 자석식 블루투스 CD 플레이어, CS43198 하이파이 DAC, 3.5mm, 4.4mm.\nhttps://a.aliexpress.com/_c3akhWNn\nKRDSIC8015\nZXYH13\n71.99\nFosi Audio DISC Nano\n는\n작은 본체 밖으로 CD가 반쯤 드러나며 회전하는 독창적인 레트로 디자인과 4.4mm 밸런스 출력, CS43198 DAC를 갖춘 초소형 CD 플레이어\n입니다. 가성비와 보는 재미가 뛰어나지만, 짧은 배터리 시간과 노출된 디스크 구조 때문에 '이동 중 휴대'보다는 '책상 위나 실내 감상'에 더 잘 어울립니다.\n장점\n독특한 디자인과 맥세이프(MagSafe) 활용\n: 8cm CD 크기의 작은 본체에 12cm CD를 걸면 디스크가 밖으로 돌출되어 돌아가는 시각적 재미가 큽니다. 뒷면이 맥세이프와 호환되어 스탠드나 자석 거치대 등에 거치해 쓰기 좋습니다.\n알찬 유선·디지털 출력\n: Head-Fi 리뷰에 따르면 Cirrus Logic\nCS43198\nDAC를 탑재했고, 4.4mm 밸런스 출력과 3.5mm/광(Optical) 겸용 출력을 지원해 16~300Ω 헤드폰·이어폰 구동 및 외부 DAC·앰프 연결(트랜스포트)이 가능합니다.\n세밀한 볼륨 조절과 USB-C 충전\n: 99단계 볼륨 조절로 고감도 이어폰에서도 세팅하기 쉽고 USB-C로 충전합니다. 해외 기준 약 $99.99 가격대 대비 구성이 매력적이라는 평가가 많습니다.\n단점 및 주의할 점\n짧은 배터리 수명\n: Head-Fi 기준 약 1.8~2시간 내외로 재생 시간이 짧은 편입니다.\n노출된 디스크의 휴대 한계\n: 디스크가 밖으로 나와 있어 재생 중 가방에 넣고 걷기 어렵고, 먼지나 스크래치에 주의해야 합니다.\n방금 AliExpress에서 찾은 상품이에요:\nFosi Audio Vienna SP400 북쉘프형 패시브 스피커 2웨이 하이파이 스테레오 4인치 알루미늄 콘 실크 돔 트위터 홈 오디오 20-100W\nhttps://a.aliexpress.com/_c3jOjgQv\nKRSP400\nPOLK19\n155.99\n방금 AliExpress에서 찾은 상품이에요:\n포시 오디오 ZH1 밸런스 헤드폰 앰프, 2300MW, ES9039Q2M 칩셋, 데스크톱 DAC, 헤드폰 앰프, AI PEQ, RGB 조명, PCM768, DSD512 지원\nhttps://a.aliexpress.com/_c3gWaYCV\nX279KKL2T30E\nPOUT13\n120.12\nFosi Audio ZH1\n은\n가격 대비 출력과 기능성이 매우 뛰어난 입문~중급형 데스크톱 DAC 겸 헤드폰 앰프\n입니다.\n2026년 가을에 출시된 모델로, 기존 직사각형 앰프들과 다른 육각형 디자인과 AI 기반 EQ 튜닝 기능을 앞세워 좋은 평가를 받고 있습니다.\n주요 장점\n강력한 구동력과 깔끔한 배경:\n4.4mm 밸런스 단자 기준 32Ω에서 채널당 최대 2,300mW의 높은 출력을 내어 구동이 까다로운 평판형 헤드폰도 무리 없이 울려줍니다. 동시에 노이즈 플로어가 매우 낮아(≤ 1.7μV) 민감한 유선 이어폰(IEM)을 물려도 화이트 노이즈가 거의 들리지 않습니다.\nESS 칩셋 특유의 명료하고 중립적인 음색:\nES9039Q2M DAC 칩과 듀얼 TPA6120 앰프 칩을 탑재해 전반적으로 착색이 적고 해상도가 높으며 공간감이 넓게 표현된다는 평이 많습니다.\nAI 스마트 PEQ 및 웹 제어:\n별도 프로그램 설치 없이 PC 웹 브라우저로 접속해 기기를 제어할 수 있으며, 사용 중인 헤드폰 모델과 원하는 성향(예: \"더 따뜻하게\")을 입력하면 AI가 자동으로 파라메트릭 EQ(PEQ)를 생성해 기기 자체에 저장해 줍니다.\n높은 활용성과 게임기 호환:\n전면에 3.5mm, 4.4mm, 6.35mm 단자를 모두 갖추고 후면 RCA 출력으로 액티브 스피커 연결도 지원합니다. 헤드폰과 스피커 전환 시 볼륨을 각각 기억하며, UAC 1.0 모드를 지원해 PS5나 닌텐도 스위치 등 콘솔 게임기와도 바로 연결됩니다.\n아쉬운 점 및 주의사항\n다소 분석적이고 직선적인 성향:\nESS 칩셋 특성상 고역대가 선명하고 뻗침이 좋은 반면, 따뜻하고 진득한 음색을 선호하는 분들에게는 다소 차갑거나 날카롭게 느껴질 수 있습니다(EQ로 조절 가능).\n무선 기능 및 리모컨 부재:\n블루투스 수신 기능과 전용 리모컨이 없어 철저히 책상 위 PC나 콘솔에 유선으로 연결해 쓰는 용도에 맞춰져 있습니다.\n외관 마감:\n상단 다이얼은 알루미늄이지만 전면 터치 버튼 주변 등 일부 하우징에 플라스틱 소재가 쓰여 풀메탈 섀시 대비 묵직한 고급감은 조금 덜하다는 의견이 있습니다.\n요약 및 추천 대상\n데스크톱 환경에서\n이어폰, 고임피던스 헤드폰, 액티브 스피커, 콘솔 게임기까지 한 번에 깔끔하게 연결해 쓰고 싶은 분\n들에게 가성비가 훌륭한 선택지입니다. 반면 소파에서 리모컨으로 조작하거나 스마트폰 블루투스 연결이 필수적이라면 다른 모델을 고려하는 것이 좋습니다.\n방금 AliExpress에서 찾은 상품이에요:\nFosi Audio MD3 마그네틱 헤드폰 Dac Amp(LCD 화면 포함) ES9039Q2M 칩 iPhone Android용 휴대용 Hifi 헤드폰 앰프\nhttps://a.aliexpress.com/_c4sBLJJR\n1YZCPIHLNJ5F\nZXYH13\n104.99\nFosi Audio MD3\n는 스마트폰에 맥세이프(자석)로 부착해 쓸 수 있는 휴대용 DAC/AMP로,\n깔끔한 사운드와 개성 있는 원형 디스플레이·충전 패스스루 기능을 갖춘 제품\n입니다.\n주요 장점\n일체감 있는 휴대성\n: N52 자석 구조로 맥세이프 지원 스마트폰이나 자석 링 부착 기기 뒷면에 붙여 케이블이 덜렁거리는 불편을 줄여줍니다.\n충전 패스스루 지원\n: 듀얼 USB-C 포트를 활용해 음악 감상과 동시에 호스트 기기를 충전할 수 있고, 내장 배터리가 없어 별도로 기기를 충전할 번거로움이 적습니다.\n균형 잡힌 사운드와 출력\n: ESS ES9039Q2M DAC와 ES9603Q 앰프 구성을 바탕으로 배경 노이즈가 적고 정돈된 소리를 들려주며, 3.5mm(32Ω 기준 80mW×2)와 4.4mm 밸런스(32Ω 기준 180mW×2) 출력을 지원합니다. [\n1\n,\n2\n]\n원형 LCD와 커스텀 재미\n: 1.28인치 원형 디스플레이로 이미지·애니메이션 설정이나 미니게임 등 가젯 같은 재미 요소를 제공합니다.\n셰에라자드\n리뷰에 따르면 국내 정식 유통 및 1년 AS가 지원되며, 옵시디언과 갤럭시 두 가지 색상으로 출시되었습니다. [\n1\n]\n아쉬운 점 및 유의할 점\n제한적인 출력\n: 고감도 이어폰(IEM)이나 포터블 헤드폰에는 무난하지만, 임피던스가 높거나 요구 출력이 큰 풀사이즈 헤드폰을 구동하기에는 출력이 넉넉하지 않습니다.\n케이스 및 주머니 휴대감\n: 자석 고정력은 케이스 두께에 따라 달라질 수 있고, 두꺼운 형태라 바지 주머니에 넣었을 때 부피감이나 움직임이 느껴질 수 있습니다.\nUI 언어\n: 설정 메뉴가 한국어를 지원하지 않습니다.\n방금 AliExpress에서 찾은 상품이에요:\nIBasso Jr. 마카롱 HIFI 휴대용 USB DAC 헤드폰 앰프 CS43131 디코더 4.4mm/3.5mm PCM 32bit/384khz 네이티브 DSD 256x\nhttps://a.aliexpress.com/_c4d9HUg9\niBasso Jr. 마카롱(Macaron)\n은 듀얼 CS43131 칩셋과 4.4mm 밸런스드 단자를 갖춘 입문용 가성비 USB 동글 DAC입니다.\n가격 대비 깔끔하고 균형 잡힌 사운드와 휴대성이 장점\n으로 꼽힙니다.\n주요 특징 및 장점\n스펙 및 출력\n: 듀얼 CS43131 DAC 칩셋을 탑재해 PCM 32bit/384kHz, DSD256을 지원하며, 3.5mm 언밸런스와 4.4mm 밸런스드 출력을 모두 제공합니다.\n사운드 성향\n: Head-Fi 리뷰와 사용자 후기에 따르면 전반적으로 깨끗하고 중립적이면서도 음악적인 밸런스를 보여주며, 입문용 이어폰(IEM)이나 저임피던스 환경에서 무난하게 쓰기 좋습니다.\n디자인 및 편의성\n: 마카롱을 연상시키는 둥근 형태와 파스텔/다양한 컬러 옵션, LED 인디케이터(대기/PCM/DSD 표시)가 특징이며, 전용 앱을 통해 게인·필터·볼륨 등 세부 설정을 조절할 수 있습니다.\n아쉬운 점 및 유의사항\n고임피던스 한계\n: 초소형 동글 특성상 고임피던스 헤드폰의 성능을 온전히 끌어내기에는 출력 한계가 있습니다.\n공간감·저음 평가\n: 일부 퀘이사존 사용자 후기에서는 동급·대안 기기 대비 저음이 다소 약하거나 공간감이 좁게 느껴질 수 있다는 의견도 있습니다.\n배터리 소모\n: 스마트폰 연결 시 DAC 특성상 기기 배터리 소모가 발생하므로 장시간 청취 시 고려해야 합니다.\n방금 AliExpress에서 찾은 상품이에요:\nTRN 블랙 펄 DAC 하이파이 DAC/앰프 칩 이어폰 앰프\nhttps://a.aliexpress.com/_c3O99o5B\nSUKR03\n26.46\n방금 AliExpress에서 찾은 상품이에요:\n뮤세히피 U3 휴대용 USB Type-C DAC 헤드폰 앰프, 완전 디지털 방식의 연산 증폭기, 하이파이 이어폰 앰프, 3.5mm + 4.4mm 이퀄라이저 디코더.\nhttps://a.aliexpress.com/_c3OZkCTx\nHGU301\nSUKR03\n19.93\nMUSEHiFi U3\n는\n약 $29.99(약 3만 원대) 가격에 4.4mm 밸런스드 출력과 PEQ 기능을 갖춘 18.8g 초소형 USB Type-C 꼬다리 DAC/앰프\n입니다. L\n주요 사양 및 특징\n출력 및 앰프 구성\n: 최대 125mW 출력과 SGM8262 듀얼 독립 오피앰프 구성을 갖추었습니다. 3.5mm 및 4.4mm 단자를 모두 지원합니다.\n음원 지원\n: 최대 32-bit/384kHz PCM 및 네이티브 DSD128 재생을 지원합니다.\nPEQ 지원\n: 전용 앱(APK 설치 또는 웹 버전)을 통해 5밴드 커스텀 PEQ 및 프리셋 설정이 가능합니다.\n휴대성 및 호환성\n: 무게 18.8g의 콤팩트한 크기로 Android, iOS, Windows, macOS와 호환됩니다.\n사용자 평가 요약\n장점\n: 낮은 가격대 대비 4.4mm 단자와 PEQ 조절 기능을 제공하며, 고감도 이어폰에서도 히스 노이즈가 적고 배경이 깔끔하다는 평가가 많습니다. 사운드 성향은 개성이 과하지 않은 무난한 올라운드 계열로 꼽힙니다.\n단점\n: Android 전용 앱이 구글 플레이스토어 정식 등록 방식이 아니라 QR/APK로 설치해야 하는 번거로움이 언급됩니다\n방금 AliExpress에서 찾은 상품이에요:\nFiiO BTR25 휴대용 블루투스 DAC 헤드폰 앰프, 블루투스 6.2, LDAC, aptX Lossless, LE 오디오, ESS ES9069Q DAC, 고출력\nhttps://a.aliexpress.com/_c3fNbz5T\nZXYH13\n103.59\nFiiO BTR25\n는\n가볍고 휴대성 좋은 무선 환경(이어폰 위주)을 원한다면 가성비가 매우 뛰어난 선택지\n입니다. 반면, 고임피던스 헤드폰을 쓰거나 거치형으로 묵직하게 사용할 목적이라면 상위 모델인 BTR17이 더 낫습니다.\n2026년 11월 출시된 따끈따끈한 신제품으로,\nFiiO 공식 발표\n스펙과 초기 사용자 실사용기를 바탕으로 장단점을 정리해 드립니다. [\n1\n,\n2\n]\n주요 특징 및 장점\n최신 무선 규격 및 코덱 지원.\n퀄컴 QCC3095 칩셋을 탑재해 최신\n블루투스 6.2\n를 지원하며,\naptX Lossless, LDAC, LE 오디오\n등 고음질 무선 코덱을 폭넓게 지원합니다.\n가벼운 무게와 휴대성.\n46g의 가벼운 무게와 탈부착 가능한 마그네틱 클립 덕분에 옷깃이나 주머니에 걸고 쓰기 좋습니다.\n편리한 모드 전환과 UI.\n물리 스위치로 PC, 블루투스, 폰 모드를 원터치로 바꿀 수 있고, 1.3인치 컬러 IPS 디스플레이로 곡 정보와 상태를 직관적으로 확인할 수 있습니다.\n깔끔한 음색.\n싱글 ESS ES9069Q DAC와 듀얼 ES9603Q 앰프를 탑재했으며,\n아카라이브 헤드폰 채널\n등 초기 사용자 후기에 따르면 따뜻했던 BTR17과 달리\n밝고 깨끗한(쿨클리어) 성향\n을 보여줍니다.\n아쉽거나 주의할 점 (실사용 후기 기반)\n데스크탑 모드 부재 및 출력 한계.\n4.4mm 밸런스드 기준 최대 570mW(16Ω) 출력을 내지만,\n퀘이사존 하이파이 게시판\n리뷰에 따르면 상위 기종(BTR17)에 있는 외장 전원 직결 '데스크탑 모드'가 빠졌고 3.5mm 언밸런스 단자 출력은 다소 평범하다는 평이 있습니다.\n초기 펌웨어 이슈 및 마감.\n일부 사용자 리뷰에서 LDAC 연결 시 간헐적 팝 노이즈가 보고되었으며, 측면 물리 버튼에 미세한 유격(달각거림)이 느껴진다는 의견이 있습니다.\n추천하는 경우.\n주로 인이어(IEM) 이어폰을 사용하며, 10만 원 중반대 예산으로 가볍고 앱 반응성 빠릿한 최신 블루투스 DAC를 찾는 분께 적합합니다.\n비추천하는 경우.\n구동이 어려운 평판형·고임피던스 헤드폰을 물리거나, 유선 거치형 DAC 겸용(데스크탑 모드)으로 쓸 계획이라면 BTR17을 고려하는 편이 좋습니다.\n방금 AliExpress에서 찾은 상품이에요:\nFiiO BTR17 헤드폰 앰프 Bluetooth 5.4, LDAC/aptX 무손실 지원, USB DAC 768K/32Bit DSD512\nhttps://a.aliexpress.com/_c3HG7WRb\nPOLK19\n136.62\nFiiO BTR17\n은 블루투스 리시버와 유선 USB DAC/앰프 기능을 모두 갖춘 플래그십 포터블 기기로,\n넓은 공간감과 높은 출력이 강점인 제품\n입니다.\n주요 특징 및 장점\n음질과 출력:\n듀얼 ESS ES9069Q DAC와 THX AAA 78+ 앰프를 탑재했고, 데스크탑 모드 기준 밸런스 채널당 650mW(32Ω)의 높은 출력을 냅니다. 실사용 후기에서는 전작 BTR7보다 넓어진 스테이징과 디테일, 깔끔한 성향이 장점으로 꼽힙니다.\n연결성:\n퀄컴 QCC5181(블루투스 5.4) 기반으로 LDAC, aptX Lossless 등을 지원하며, USB 연결 시 PC/모바일 DAC로도 활용할 수 있습니다. 4.4mm 밸런스와 3.5mm 단자를 모두 갖추고 있습니다.\n조작 및 화면:\n1.3인치 컬러 IPS 디스플레이와 최대 120단계 조절이 가능한 볼륨 휠을 적용해 직관적인 확인과 세밀한 볼륨 조절이 가능합니다. 영디비의\nFiiO BTR17 개봉기 및 간단 리뷰\n에서도 볼륨 휠의 저항감과 앱 연동 편의성이 언급되었습니다.\n유의할 점 및 단점\n데스크탑 모드 조건:\n고출력을 내는 데스크탑 모드는 외부 전원 케이블 연결이 필요하며, 무선 충전은 지원하지 않습니다.\n조작감 호불호:\n볼륨 노브가 선택 버튼 역할도 겸해 고장 우려를 제기하는 의견이 있고, 헤드폰 채널의\nBTR17 간단후기(vs btr7)\n에서는 화면이 꺼진 상태에서 노브를 처음 돌리면 볼륨 대신 화면만 켜지는 점이나 기본 케이스 뒷면 구조가 다소 번거롭다는 지적이 있습니다.\n배터리 및 휴대성:\n무게는 약 73.4g이며, 블루투스 사용 시 배터리 지속 시간은 약 7~8시간 수준으로 평가됩니다.\n방금 AliExpress에서 찾은 상품이에요:\nAIYIMA H4 HIFI 휴대용 헤드폰 앰프 USB DAC AMP ES9039Q2M PCM768 DSD512 4.4mm 밸런스드/3.5mm 잭 출력 OLED 디스플레이\nhttps://a.aliexpress.com/_c2I9183j\nAIYIMA11CODE\nGHRE08\n72.04\nAIYIMA H4는 탄탄한 하드웨어 스펙과 다기능성을 갖춘 가성비 뛰어난 입문·중급용 포터블 DAC/헤드폰 앰프(꼬다리 DAC)\n로 평가받습니다. [\n1\n]\n주요 특징과 리뷰어들의 평가를 바탕으로 장단점을 정리해 드립니다.\n핵심 스펙 및 장점\n플래그십급 DAC 칩셋과 듀얼 앰프.\nESS의 고성능 ES9039Q2M DAC 칩과 RT6863 듀얼 연산 증폭기(Op-Amp)를 탑재해 최대 PCM 32bit/768kHz, DSD512의 고해상도 음원을 지원합니다.\n깔끔하고 중립적인 사운드.\n리뷰어들에 따르면 착색이 적고 투명하며 해상도가 높은 성향을 보여줍니다. 저음은 단단하게 잡아주면서 고음은 지나치게 자극적이지 않게 튜닝되어 밸런스가 좋다는 평입니다.\n직관적인 OLED 디스플레이와 물리 버튼.\n약 22.5g의 가벼운 알루미늄 본체 전면에 0.91인치 OLED 화면이 있어 현재 샘플링 레이트, 볼륨(100단계), 게인, 필터 설정 등을 스마트폰 앱 없이 본체 버튼만으로 직관적으로 조작할 수 있습니다.\n풍부한 부가 기능 및 출력 단자.\n3.5mm 언밸런스드(125mW)와 4.4mm 밸런스드(240mW) 단자를 모두 지원합니다. 또한 닌텐도 스위치나 PS5 연결을 위한 UAC 1.0 모드, USB 신호를 동축(Coaxial) 디지털 신호로 변환해 주는 DDC 기능, 8가지 디지털 필터 등 활용도가 높습니다.\n아쉬운 점 및 고려사항\n구동력의 한계.\n4.4mm 단자 기준 최대 240mW(32Ω) 출력은 대부분의 유선 이어폰(IEM)이나 일반적인 포터블 헤드폰을 울리기에 충분하지만, 임피던스가 매우 높거나 감도가 낮은 거치형 헤드폰을 완벽히 구동하기에는 출력이 다소 부족하게 느껴질 수 있습니다.\n브랜드 특유의 초기 제품군.\nAIYIMA가 거치형 앰프 시장에서는 인지도가 높지만 포터블 동글 DAC 분야에서는 초기 모델에 속해, FiiO나 iFi 등 기존 포터블 전문 브랜드에 비해 국내 실사용 후기나 펌웨어 지원 레퍼런스가 아직 적은 편입니다.\n총평\n스마트폰이나 노트북, 콘솔 게임기 등에 연결해\n직관적인 화면 조작과 다재다능한 기능(DDC, UAC 1.0 등)을 10만 원대 초반 예산으로 누리고 싶은 분\n께 매력적인 선택지입니다.\n방금 AliExpress에서 찾은 상품이에요:\n벤처 일렉트로닉스 데바스테이터 프로 맥스 타입-C to 3.5 4.4 DAC 동글\nhttps://a.aliexpress.com/_c3wpirmd\nGHRE08\n55.01\n데바스테이터 프로 맥스(Venture Electronics Devastator Pro Max)\n는 이어폰·헤드폰용 고출력 휴대용 USB-C 꼬다리 DAC/AMP 동글입니다.\n핵심 사양 및 특징\n출력 성능.\n채널당 3 VRMS, 32옴(Ω) 기준 최대 300~330mW의 출력을 지원해 평판형 이어폰이나 고임피던스 풀사이즈 헤드폰(예: 젠하이저 HD600)도 무리 없이 구동합니다.\n회로 구성.\n커스텀 ESS Sabre DAC 칩셋과 듀얼 앰프 스테이지가 적용된 리얼 밸런스드(4.4mm) 설계를 채택했습니다.]\n음질 성향.\n기본형 및 프로(Pro) 모델 대비 더 넓어진 스테이징, 단단한 저역 타격감, 선명한 해상도를 제공하며 전력 효율이 높아 스마트폰 배터리 소모가 적습니다.\n외관 및 연결.\n광택이 있는 블랙 메탈 바디에 내구성이 뛰어난 파라코드 편조 케이블이 적용되었으며, USB Type-C 입력과 4.4mm(또는 3.5mm) 출력을 지원합니다.\n가격대.\n공식 스토어 및 해외 직구 기준 약 $60(USD) 선에 판매됩니다.\n하위 모델(Pro)과의 차이점\n앰프 구성 및 출력.\nPro 모델은 싱글 앰프(약 150mW, 2 VRMS)로 노이즈 억제에 유리해 고감도 인이어(IEM)에 적합하고, Pro Max는 듀얼 앰프(약 300mW, 3 VRMS)로 고출력 구동이 필요한 헤드폰·오픈형 이어폰에 유리합니다.\n방금 AliExpress에서 찾은 상품이에요:\nNICEHCK 옥타브 하이파이 휴대용 DAC 앰프 플래그십 ES9039Q2M 디코딩 칩 타입-C 3.5mm & 4.4mm 출력 최대 550mW@32Ω 전력\nhttps://a.aliexpress.com/_c3HYxo45\nGHRE08\n64.47\nNICEHCK 옥타브(Octave)\n는 ESS ES9039Q2M DAC과 듀얼 SGM8262 OP앰프를 탑재한 휴대용 꼬다리 DAC/앰프로,\n가격 대비 높은 출력과 깔끔한 분리도가 장\n주요 스펙 및 특징\n칩셋 및 디코딩\n: ESS ES9039Q2M DAC, 듀얼 SGM8262 OP앰프 적용; PCM 32bit/768kHz, DSD256 지원.\n출력과 단자\n: 3.5mm 싱글엔드(32Ω 기준 150mW) 및 4.4mm 밸런스드(32Ω 기준 550mW) 지원.\n조작 및 앱\n: 100단계 물리 볼륨 조절, 하이/로우 게인 스위치, 전용 앱을 통한 8밴드 EQ 및 펌웨어 업데이트 지원.\n장단점 요약\n장점\n:\n클리앙\n리뷰에 따르면 10만 원대 초반 가격대에서 550mW 출력과 ES9039Q2M 구성을 갖춘 가성비가 돋보입니다. Reddit r/iems 후기와 국내 사용자 후기에서도 악기 분리도와 넓은 공간감, 낮은 노이즈가 호평받았습니다.\n단점 및 주의점\n: Reddit r/iems 후기에서는 소리 간 응집력이 다소 약하게 느껴질 수 있고, 금속 외관 모서리가 날카롭거나 휴대용 파우치·홀더가 부족하다는 지적이 있습니다. 또한\n퀘이사존\n후기 중에는 장시간 사용 시 발열과 함께 노이즈·다운 증상을 겪었다는 사례도 있어 초기 불량이나 발열 관리에 유의할 필요가 있습니다.\n방금 AliExpress에서 찾은 상품이에요:\nJCALLY 갤럭시 소나타 미니 DAC 앰프 듀얼 CS43198 칩 4.4mm 밸런스드 포트 LCD 디스플레이 고음질 사운드 카드 (오디오파일용)\nhttps://a.aliexpress.com/_c3cjtTBn\nGHRE08\n60.29\nJCALLY 갤럭시 소나타(Galaxy Sonata)\n는\n가성비와 디스플레이 편의성, 넉넉한 출력을 갖춘 꼬다리 DAC/앰프\n입니다.\n주요 장점 및 특징\n준수한 스펙과 출력\n: 듀얼 CS43198 DAC와 듀얼 SGM8262 앰프 구성을 갖췄으며, 4.4mm 밸런스드 기준 560mW(32옴) 출력을 지원해 이어폰뿐 아니라 감당 가능한 헤드폰까지 무난히 구동합니다.\n상태 표시 LCD 디스플레이\n: 볼륨, 샘플링 레이트, 전압/전류, 게인, 스펙트럼 등을 화면으로 확인할 수 있어 직관적입니다.\n실시간 정보 표시와 100단계 볼륨 조절, EQ 지원이 장점으로 꼽힙니다.\n단자 구성 및 휴대성\n: 3.5mm 언밸런스와 4.4mm 밸런스 단자를 모두 지원하며, 무게 약 16~17g의 가벼운 알루미늄 CNC 바디로 휴대성이 좋습니다.\n방금 AliExpress에서 찾은 상품이에요:\n하이바이 FC3 MQA 동글 타입 C to 3.5mm 112mW 출력 USB DAC 오디오 하이파이 디코더 헤드폰 앰프 PCM384 DSD128 (안드로이드, iOS, 윈도우10용)\nhttps://a.aliexpress.com/_c4tfK3RB\nSUKR03\n27.81\n방금 AliExpress에서 찾은 상품이에요:\nDUNU PRS5 유선 IEM 이어폰, 1개의 단일 다이내믹 드라이버 + 3개의 BA 드라이버 + 1개의 마이크로 플래너, 2핀 0.78mm 하이파이 오디오파일 이어폰, 게이밍 및 모니터링용 이어버드\nhttps://a.aliexpress.com/_c3W6vAWh\n225522\nPOLK19\n129.52\nDUNU PRS5\n는 2026년 10월 출시된 5유닛(1DD + 3BA + 1 마이크로 평판형) 트라이브리드 이어폰으로,\n묵직한 저음과 편안한 고음을 내세운\n따뜻하고 즐거운 감상 성향\n의 제품\n입니다.\n주요 특징 및 사양\n드라이버 구성:\n10mm 다이내믹 드라이버(DD) 1개 + 밸런스드 아마추어(BA) 3개(중역 2, 중고역 1) + 커스텀 마이크로 평판형(PL) 1개, 4웨이 크로스오버\n사운드 성향:\n전체적으로 양감과 밀도가 높고 따뜻한 편입니다. 극저역·중저역의 묵직한 잔향과 두툼한 보컬이 돋보이며, 고역은 자극을 줄여 피로도가 낮습니다.\n구성품:\n3.5mm/4.4mm 모듈러 케이블, Dunu S&S 이어팁 4쌍 및 기본 실리콘 팁 6쌍, 세미하드 케이스, 아크릴 스탠디 등 비교적 넉넉한 편입니다.\n장점과 아쉬운 점\n장점:\n분석적이거나 날카로운 소리 대신 쏘는 고음 없이 편안하게 오래 듣기 좋으며, 다중 드라이버임에도 이질감이 적고 공간감이 자연스럽다는 평가가 많습니다.\n아쉬운 점:\n세밀한 모니터링이나 초고역의 짜릿한 타격감을 찾는 취향에는 다소 무난하거나 순하게 느껴질 수 있습니다. 중저역 양감이 있는 편이라 게임 환경에서는 상황에 따라 소리가 뭉개진다고 느끼는 후기도 있고, 쉘 크기가 귀에 따라 다소 크게 느껴질 수 있습니다.\n방금 AliExpress에서 찾은 상품이에요:\n출시 예정인 Binary Apsara 유선 이어폰\nhttps://a.aliexpress.com/_c3s2OH13\nBinary Acoustics Apsara는 2026년 11월 말 정식 출시 예정인 신작 유선 이어폰(IEM)으로, 현재로서는 리뷰어들의 사전 프리뷰 단계에 있어 실사용 평가가 막 형성되고 있는 제품입니다\n.\n돈황 벽화의 비천(Apsara)에서 영감을 받은 화려한 디자인과 차세대 드라이버인 MEMS를 탑재해 음향 커뮤니티에서 큰 기대를 모으고 있습니다.\n주요 특징 및 스펙\n하이브리드 드라이버 구성.\n새롭게 개발된 10mm DLC(다이아몬드 라이크 카본) 다이나믹 드라이버 1개와 고음역대 처리를 위한 패시브 직구동 압전 MEMS 드라이버 1개(1DD + 1MEMS)를 조합했습니다.\n음향 설계.\n복합 헬름홀츠 공명기(Helmholtz Resonator) 구조와 독립된 2개의 후면 챔버, 5개의 음향 튜브 등을 적용해 두 드라이버 간의 자연스러운 연결과 고음 확장성, 해상력 향상을 꾀했습니다.\n외관 및 착용감.\nHeyGears와 협업한 3D 프린팅 레진 쉘과 포토리소그래피 회절 격자 공법이 들어간 스테인리스 스틸 페이스플레이트를 채택해 빛의 각도에 따라 색상이 오묘하게 변합니다.\n구동 스펙.\n임피던스 16Ω, 감도 120dB/Vrms로 설계되어 출력이 아주 높지 않은 기기에서도 무난하게 구동할 수 있는 사양입니다.\n구매 전 참고할 점\n정식 출시 및 리뷰 일정.\n해외 기준 11월 27일경 정식 출시 및 리뷰 엠바고 해제가 예정되어 있습니다.\n전작과의 관계.\n앞서 화제가 되었던 상위 모델(EP-321 등)에서 BA 드라이버를 덜어내고 핵심인 DD와 MEMS의 조합에 집중한 파생 모델 성격이 강해, MEMS 특유의 선명하고 빠른 고음 질감을 합리적으로 경험해 보고 싶은 분들에게 적합할 것으로 보입니다.\n방금 AliExpress에서 찾은 상품이에요:\n앙겔리어스 피닉스 MKII 업그레이드 이어폰 케이블, 5N 은도금 리츠 코어, LCOFC 구리 + 금도금 리츠 코어, SPC + 7N 금도금 OCC\nhttps://a.aliexpress.com/_c4EJqJEl\nDRD1101\nZXYH13\n76.42\n요즘 가격대비 평이 가장 좋은 케이블 인듯합니다\n엔젤이어스(Angelears) 피닉스 MKII(Phoenix 2.0)\n커스텀 이어폰 케이블은\n이어폰 본연의 성향을 억지로 바꾸기보다 전체적인 사운드의 밀도와 정숙도를 높여 차분하고 매끄럽게 정돈해 주는 성향\n을 지니고 있습니다.\n5N 은도금 LCOFC(리츠 구조) 선재를 사용한 이 케이블의 세부적인 음향 특징은 다음과 같습니다.\n대역별 사운드 특징\n저역대.\n저음의 윤곽과 두께감을 탄탄하게 잡아주며, 다소 흩어지거나 애매했던 저역의 질감을 밀도 있게 채워줍니다.\n중역대.\n소리의 상(음상)이 또렷해지면서 중저역에 적당한 두께감과 부드러움을 더해 보컬과 악기의 존재감을 살려줍니다.\n고역대.\n자극적이거나 날카롭기보다는 섬세하고 부드러운 여운과 울림을 남기는 쪽으로 튜닝되었습니다.\n전체적인 밸런스 및 추천 매칭\n배경 정숙도와 몰입감.\n소리가 나는 부분과 나지 않는 부분(배경의 어두움)의 대비가 뚜렷해져 음악의 분위기나 잔향감을 느끼기에 좋습니다.\n자연스러운 통일감.\n특정 대역을 과하게 강조하기보다 전체적인 공기감과 밸런스를 해치지 않는 선에서 소리를 안정적으로 묶어줍니다.\n추천 조합.\n소리가 너무 가볍고 날리거나 고역의 치찰음이 거슬리는 이어폰에 매칭하여 차분함과 무게감을 더하고 싶을 때 잘 어울립니다\n방금 AliExpress에서 찾은 상품이에요:\nDUNU S&S 프로 이어팁: 육각형 통풍 채널이 있는 실리콘 이어팁 (TITANS/KIMA/DK3001 BD/PRS6 모델용)\nhttps://a.aliexpress.com/_c37F3TIz\n방금 AliExpress에서 찾은 상품이에요:\n키네라 오라클 범용 실리콘 이어팁, 인이어 모니터용, 균형 잡힌 음향과 외부 소음 차단 기능 제공\nhttps://a.aliexpress.com/_c32fow73\n방금 AliExpress에서 찾은 상품이에요:\nPenon Liqueur O Orange 4.5mm S/M/L/XL HiFi 오디오파일용 실리콘 이어팁 4.0-6.5mm 노즐 유선 이어폰형 이어폰 IEM(3쌍)\nhttps://a.aliexpress.com/_c4cozhgt",
-      "images": [
-        "https://i1.ruliweb.com/img/26/11/21/1a1fca43f2b112e12.webp",
-        "https://i2.ruliweb.com/img/26/11/21/1a1fca6ebd3112e12.webp",
-        "https://i2.ruliweb.com/img/26/11/21/1a1fca8cb06112e12.webp",
-        "https://i1.ruliweb.com/img/26/11/21/1a1fcaf1b8e112e12.webp",
-        "https://i2.ruliweb.com/img/26/11/21/1a1fcb1df9b112e12.webp",
-        "https://i3.ruliweb.com/img/26/11/21/1a1fcb9b6b2112e12.webp",
-        "https://i2.ruliweb.com/img/26/11/21/1a1fcbb18a8112e12.webp",
-        "https://i1.ruliweb.com/img/26/11/21/1a1fcbdeded112e12.webp"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ruli_03c1e6ed230d",
-      "source": "루리웹 예판·핫딜",
-      "category": "할인·예판",
-      "title": "[엑박스토어] 다크소울 시리즈 50% 할인",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109254",
-      "author": "",
-      "time": "2026-11-22 13:40",
-      "likes": "9",
-      "comments": "",
-      "content": "블프 할인 혹시나 하고 기대했는데,\n역시나 이제는 최대 50% 고정... 어쩔 수 없죠 ㅠㅠ\n할인 기다리셨던 분들 구입에 참고하시라고 올립니다.",
-      "images": [
-        "https://i3.ruliweb.com/img/26/11/21/1a1fc670a7356830b.webp",
-        "https://i3.ruliweb.com/img/26/11/21/1a1fc6722e856830b.webp"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ruli_e55544b8ff0f",
-      "source": "루리웹 예판·핫딜",
-      "category": "할인·예판",
-      "title": "[네이버페이] 라방 랜덤 5원",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109250",
-      "author": "",
-      "time": "2026-11-22 02:24",
-      "likes": "22",
-      "comments": "",
-      "content": "라이브방송\nhttps://external-token.pay.naver.com/entry/pincrux?gd=ab8e18ef4ebebeddc0b3152ce9c9006e14fc05242e3fc9ce32246ea6a9543074\n일정표에 올라온 기준으로 작성\n금일 라이브일정\n오후\n7시 1개\n8시 3개",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ruli_7274aa4105cc",
-      "source": "루리웹 예판·핫딜",
-      "category": "할인·예판",
-      "title": "[애플TV스토어] 블프 50%, 키즈&패밀리 3,500원, 번들 50%",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109249",
-      "author": "",
-      "time": "2026-11-22 01:46",
-      "likes": "38",
-      "comments": "",
-      "content": "어제 글 올릴때 블프 항목 적다고 징징댔는\n아니나 다를까 내용이 추가됐네요.\n그럼에도 불구하고 기존 할인 내역에 가족영화가 추가된 게 커서\n여전히 좀 아쉬운데...좀 만 더 할인해주면 좋겠네요.\n오디세이는 11,000원에 예약 중인데\n아마 추후(1~2년 뒤) 7,500원~5,000원 사이로 떨어질텐데\n급하지 않다면 그냥 그때 사는 걸 추천드려요.\n이번엔 지난 번 할인 품목으로 올린걸 제외하고 올리자니\n내용이 너무 파편화되서 최대한 합쳐서 올립니다.\n* 해당 상품은 구독 상품이 아닙니다.\n* 구독 상품과 별도의 VOD 서비스입니다.\n* 애플 기기가 없어도 시청이 가능합니다.\n* 윈도우에서도 시청이 가능합니다.(MS스토어에서 애플티비 어플 다운로드)\n* 구매는 윈도우 애플티비 어플, 애플 기기에서 가능합니다.(안드로이드폰에선 불가)\n* PC 기준으로 올리는데 영상 및 사운드 사양은 윈도우PC로 접속 시 오류가 있을 수 있습니다.\n* 해당 상품은 구매 후 애플이 서비스 종료를 하지 않는다면 계속 볼 수 있습니다.\n신작 영화\n오디세이: 11,000원(할인없음, 사전주문)\n호러\n패신저: 3,000원\n프라이메이트: 3,000원\n나이트 패트롤: 3,500원\n무서운 영화(2026): 3,000원\n액션\n13시간: 3,000원\n비키퍼: 3,000원\n월드워 Z: 3,500원\n더 러닝 맨: 3,000원\n나는 전설이다: 3,500원\nSF\n그래비티: 3,500원\n디스클로저 데이\n: 4,000원\n로맨스\n리그레팅 유: 3,000원\n코미디\n대역전: 3,000원\n핫 라드: 3,000원\n소림축구: 3,000원\n페이퍼 문: 3,000원\n허니 돈트: 3,500원\n나쵸 리브레: 3,000원\n트로픽 썬더: 3,000원\n영광의 날들: 3,000원\n그들만의 계절: 3,000원\n아메리칸 에스코트걸: 2,000원\n총알 탄 사나이(2026): 3,000원\n드라마\n포레스트 검프: 3,000원\n캐치 미 이프 유 캔: 3,000원\n스릴러\n조커: 3,500원\n러커: 3,500원\n스코어: 3,000원\n언터쳐블: 3,000원\n화이트 데스: 3,500원\n알카트라즈 탈출: 3,000원\n유령 셔츠를 찾아서: 3,500원\n시카리오 암살자의 도시: 3,500원\n노인을 위한 나라는 없다: 3,000원\n미스테리\n나는 결백하다: 3,000원\n키즈&가족(애니)\n씽: 3,500원\n랭고: 3,500원\n스머프: 3,500원\n스몰풋: 3,500원\n원더랜드: 3,500원\n앤트 불리: 3,500원\n아바타 아앙: 3,500원\n지미 뉴트론: 3,500원\n몬스터 트럭: 3,500원\n호랑이의 후예: 3,500원\n신나는 동물동장: 3,500원\n아기 배달부 스토크: 3,500원\n럼블 몬스터 파이트: 3,500\n원\n미니언즈&몬스터즈: 4,000원\n아이언 자이언트: 3,500원(SE 아님)\n테드 미다스 황금손의 비밀: 3,500원\n야! 러그래츠 무인도 대모험: 3,500원\n키즈&패밀리(실사)\n팬: 3,500원\n잉크하트: 3,500원\n낸시 드류: 3,500원\n요기 베어: 3,500원\n샬롯의 거미줄: 3,500원\n천국의 아이들: 3,500원\n이프 상상의 친구: 3,500원\n타임머신 클락 스토퍼: 3,500원\n클리포드 더 빅 레드 독: 3,500원\n스파이더위크가의 비밀: 3,500원\n마고리엄의 장난감 백화점: 3,500원\n레모니 스니캣의 위험한 대결: 3,500원\n기타\n에픽 엘비스 프레슬리 콘서트: 3,500원\n빌리 아일리시 - 히트 미 하드 앤드 소프트: 3,000원\n영화 번들 할인\n조던 필 3 무비 컬렉션: 8,000원\n비버리 힐스 캅 3 영화 컬렉션: 8,000원\n드림웍스\n슈렉: 3,500원\n터보: 3,500원\n도그맨: 3,500원\n가디언즈: 3,500원\n쿵푸팬더: 3,500원\n마다가스카: 3,500원\n강아지 호텔: 3,500원\n배드 가이즈 2: 3,500원\n장화 신은 고양이: 3,500원\n몬스터 VS 에일리언: 3,500원\n틴 에이지 크라켄 무비: 3,500원\n글래디에이터 시리즈\n글래디에이터 1: 3,000원\n글래디에이터 2: 3,000원\n대부 시리즈\n대부 1~3: 각 3,000원\n대부 3 영화 패키지: 8,000원\n피치 퍼펙트 트릴로지: 8,000원\n퀸카로 살아남는 법 2 영화 패키지: 6,000원\n미트 페어런츠 시리즈\n미트 페어런츠 1~3: 각 3,000원\n미트 페어런츠 3 영화 패키지: 8,000원\n반지의 제왕 & 호빗 시리즈\n반지의 제왕 일반판 1~3: 각 3,500원\n반지의 제왕 확장판 1~3: 각 3,500원\n반지의 제왕 확장판 트릴로지: 10,500원\n호빗 일반판 1~3: 각 3,500원\n호빗 확장판 1~3: 각 3,500원\n호빗 일반판 트릴로지: 10,500원\n호빗 확장판 트릴로지: 10,500원\n반지의 제왕 로히림 전쟁: 3,5000원\n미들어스 패키지: 21,000원\n(일반판 구성이므로 굳이 추천안함)\n소닉 시리즈\n수퍼 소닉 1: 3,500원\n수퍼 소닉 2: 3,500원\n수퍼 소닉 3: 3,000원\n수퍼 소닉 2 영화 패키지: 7,000원\n스쿠비 두 시리즈\n스쿠비!: 3,500원\n스쿠비 두 2: 3,500원(실사)\n스파이 키드 시리즈\n스파이 키드 1~3: 각 3,500원\n스파이 키드 3 영화 패키지: 10,500원\n셜록홈즈 시리즈\n셜록홈즈 1~2: 각 3,500원\n셜록홈즈 2편 패키지: 7,000원\n이탈리안 잡\n이탈리안잡(1969년): 3,000원\n이탈리안잡(2003년): 3,000원\n아담스 패밀리 시리즈(애니)\n아담스 패밀리 1: 3,500원\n아담스 패밀리 2: 3,500원\n트랜스 포머 시리즈\n트랜스포머 1~5: 각 3,000원\n트랜스포머ONE: 3,000원\n트랜스포머 범블비: 3,000원\n트랜스포머 비스트의 시작: 3,000원\n트랜스포머 얼티밋 컬렉션: 15,000원\n범블비+트랜스포머 5영화 패키지: 18,000원\n트랜스포머 7영화 패키지: 21,000원\n퍼피 구조대 시리즈\n퍼피 구조대 더 무비: 3,500원\n퍼피 구조대 더 마이티 무비: 3,500원\n퍼피 구조대 더 다이노 무비: 3,000원\n퍼피 구조대 3편 컬렉션: 10,000원\n스크림 시리즈\n스크림 6: 3,000원\n스크림 7: 3,000원\n스폰지밥 시리즈\n보글보글 스폰지 밥: 3,500원\n스폰지밥 무비: 핑핑이 탈출 대작전: 3,500원\n스폰지밥 무비: 네모 바지를 찾아서: 3,500원\n스폰지밥 4 영화 패키지: 15,500원\n인디아나 존스 시리즈\n인디아나 존스 1~4: 각 3,000원\n인디아나 존스 영화 4편 컬렉션: 10,000원\n헝거게임 시리즈(1은 없음)\n헝거게임 2: 3,500원\n헝거게임 3: 3,500원\n헝거게임 4: 3,500원\n톰 크루즈 출연작\n우주 전쟁: 3,000원\n콜래트럴: 3,000원\n야망의 함정: 3,000원\n폭풍의 질주: 3,000원\n바닐라 스카이: 3,000원\n탑건1: 3,000원\n탑건 2 영화 패키지: 6,000원\n잭 리처 1~2: 각 3,000원\n잭 리처 2 영화 패키지: 6,000원\n미션임파서블 1~6: 각 3,000원\n미션임파서블 데드 레코닝: 3,000원\n미션 임파서블 파이널 레코닝: 3,000원",
-      "images": [
-        "https://i2.ruliweb.com/img/26/11/21/1a1f982eb05edce.webp",
-        "https://i1.ruliweb.com/img/26/11/21/1a1f98358acedce.webp",
-        "https://i1.ruliweb.com/img/26/11/21/1a1f98472c6edce.webp",
-        "https://i1.ruliweb.com/img/26/11/21/1a1f984d967edce.webp",
-        "https://i2.ruliweb.com/img/26/11/21/1a1f9856973edce.webp",
-        "https://i3.ruliweb.com/img/26/11/21/1a1f985e320edce.webp",
-        "https://i1.ruliweb.com/img/26/11/21/1a1f9a286f8edce.webp",
-        "https://i1.ruliweb.com/img/26/11/21/1a1f9a1fc2eedce.webp"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ruli_2f0f44e4a3be",
-      "source": "루리웹 예판·핫딜",
-      "category": "할인·예판",
-      "title": "[아마존] 인텔 285K /직배송 60만원",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109259",
-      "author": "Fatal Fury",
-      "time": "2026-11-22 19:08",
-      "likes": "1",
-      "comments": "",
-      "content": "어도비 계열이나 작업용 cpu로 추천 합니다.",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ruli_e6bc666fff5b",
-      "source": "루리웹 예판·핫딜",
-      "category": "할인·예판",
-      "title": "[XBOX]콜오브듀티 시리즈 할인(8)",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109256",
-      "author": "롤링스타트",
-      "time": "2026-11-22 16:57",
-      "likes": "6",
-      "comments": "",
-      "content": "콜 오브 듀티® 2 (2005) 12500원\nCall of Duty® 3 17400원\n콜 오브 듀티® 4: 모던 워페어 (2007) 12500원\nCall of Duty®: World at War 19900원\nCall of Duty®: Modern Warfare® 2 14850원\nCall of Duty®: Black Ops 29350원\nCall of Duty®: Modern Warfare® 3 17400원\nCall of Duty®: Black Ops II 29350원\n콜 오브 듀티®: 고스트 (Windows) 22360원-엑스박스게임아님\nCall of Duty®: Advanced Warfare Gold Edition 23480원\nCall of Duty®: Black Ops III - Zombies Chronicles Edition 9375원\nCall of Duty®: Infinite Warfare - Launch Edition 16225원-모던워페어리마스터포함판은 30240원\nCall of Duty®: Modern Warfare® Remastered 20360원\nCall of Duty®: WWII - 골드 에디션 16225원\n콜 오브 듀티®: 블랙 옵스 4 17350원\n콜 오브 듀티®: 모던 워페어 - 디지털 스탠다드 에디션 할인안함\n콜 오브 듀티®: 블랙 옵스 콜드 워 18750원\n콜 오브 듀티®: 뱅가드 - 세대 호환 번들 27885원\n콜 오브 듀티®: 모던 워페어 II 2022 할인안함\n콜 오브 듀티®: 모던 워페어 III 2023 할인안함\n콜 오브 듀티®: 블랙 옵스 6 - 세대 호환 번들 39160원\n콜 오브 듀티®: 블랙 옵스 7 - 세대 호환 번들 할인안함-XPA\n콜 오브 듀티®: 모던 워페어 4 할인안함",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ruli_cac54cc9af75",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "[젠레스 존 제로] 에이전트 메커니즘 소개 | 로빈 편",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367250",
-      "author": "이토 시즈카",
-      "time": "2026-11-27 13:30",
-      "likes": "",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://i1.ruliweb.com/img/26/11/27/1a21b44c1a6137dbd.webp",
-        "https://i3.ruliweb.com/img/26/11/27/1a21b44c416137dbd.webp",
-        "https://i1.ruliweb.com/img/26/11/27/1a21b44c859137dbd.webp",
-        "https://i2.ruliweb.com/img/26/11/27/1a21b44ccae137dbd.webp",
-        "https://i1.ruliweb.com/ori/26/11/27/1a21b44d264137dbd.gif",
-        "https://i2.ruliweb.com/ori/26/11/27/1a21b44dc78137dbd.gif",
-        "https://i2.ruliweb.com/ori/26/11/27/1a21b44e507137dbd.gif",
-        "https://i2.ruliweb.com/ori/26/11/27/1a21b44ea4a137dbd.gif"
-      ]
-    },
-    {
-      "id": "ruli_0b8a9c05767b",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "GTA6 - 메탈 채널 수록곡(The Chamber 106.6) live...",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367249",
-      "author": "thrasher_kj",
-      "time": "2026-11-27 13:29",
-      "likes": "",
-      "comments": "",
-      "content": "GTA6 앨범 신곡이라 라이브 버전 없음\n'The Chamber 106.6'\nSLAYER의 탐 아라야 & 케리 킹이 진행\nAnthrax, \"I Am The Law\"\nBlack Sabbath, \"I\"\nDio, \"We Rock\"\nExodus, \"Bonded by Blood\"\nFlotsam & Jetsam, \"Hammerhead\"\nIron Maiden, \"The Trooper\"\nJudas Priest, \"Freewheel Burning\"\nLinkin Park, \"In the End\"\nMastodon, \"Blood and Thunder\"\nMegadeth, \"Symphony of Destruction\"\nMetallica, \"Battery\"\nMetallica, \"Master of Puppets\"\nMetallica, \"Seek & Destroy\"\nOverkill, \"Rotten to the Core\"\nPantera, \"I’m Broken\"\nPower Trip, \"Mutual Death Warrant\"\nSepultura, \"Territory\"\nSlayer, \"Raining Blood\"\nSlayer, \"Payback\"\nSystem of a Down, \"Sugar\"\nTestament, \"Over the Wall\"\nTOOL, \"Sober\"\nVenom, \"Countess Bathory\"\nVoivod, \"Panorama\"",
-      "images": []
-    },
-    {
-      "id": "ruli_ee2582baa704",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "MS 산하 깃허브, PS5 에뮬의 번성을 자축하는 도발적인 게시물을 올렸...",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367248",
-      "author": "게이밍포럼",
-      "time": "2026-11-27 13:09",
-      "likes": "9",
-      "comments": "",
-      "content": "마이크로소프트 산하 깃허브, GTA 6 출시 후 플레이스테이션 5 에뮬레이터의 번성을 자축하는 도발적인 게시물을 올렸다가 삭제\n현재 삭제된 X(구 트위터) 게시물에서 깃허브 측은 GTA 6를 언급한 뒤, 해당 플랫폼에서 AnyPS5 에뮬레이터가 ‘5만 8천 개의 별표’를 돌파한 것을 뻔뻔스럽게 자축했습니다.\n마이크로소프트 산하 협업 코딩 플랫폼인 GitHub의 공식 소셜 미디어 팀은 X에 기이할 정도로 뻔뻔한 게시물을 올렸다가 이후 삭제했는데, 이 게시물에서는 ‘그랜드 테프트 오토 6(GTA 6)’의 출시로 인해 플레이스테이션 5 에뮬레이터인 ‘AnyPS5’가 “8월 출시 이후 5만 8천 개의 스타를 돌파했다”는 사실을 축하했습니다. 이어 “게임이 실행되는 환경을 바꾸는 것이 법적 선을 넘는 것일까요?”라는 질문을 던지기도 했습니다.\n분명히 말하자면, 우리가 억지로 GTA 6을 이 기사에 끼워 넣은 것은 아닙니다. GitHub의 PS5 에뮬레이터 인기에 대한 게시물은 “GTA 6이 드디어 출시되어 GitHub에서 게임 및 오픈소스 분야에서 가장 큰 화제가 된 한 주를 맞이했습니다”라는 문장으로 시작되었습니다.\n마찬가지로, GitHub 게시물에 포함된 영상은 AnyPS5 에뮬레이터를 개선하려는 사용자들의 노력이 주로 GTA 6의 출시에서 비롯되었다는 점을 강조했습니다. 이 영상은 특히 한 AnyPS5 개발자의 댓글을 인용하며, “GTA 6 출시까지 3일 남았습니다, 여러분[…]에이전트나 개발자[sic]를 모아 작업에 매진하세요.”라고 언급하고 있습니다.\n다행히도 제 말만 믿으실 필요는 없습니다. X(구 트위터)의 한 사용자가 GitHub의 영상이 삭제되기 전에 미리 다운로드해 다시 업로드해 두었기 때문입니다.\n다시 한 번 강조하자면, GitHub는 2018년 “75억 달러 상당의 주식”으로 이 회사를 인수한 마이크로소프트의 소유라는 점을 유념해야 합니다. 그렇기에 GitHub의 게시물 자체가 “게임이 실행되는 환경을 변경하는 것이 법적 선을 넘는 것인가요?”라는 소니를 자극하는 질문을 제기하고 있다는 사실은 더욱 의아하게 만듭니다.\n음, 글쎄요, 지난 일주일 동안 GTA 6의 PC 포트를 비공식적으로 개발하려는 모든 GitHub 저장소를 적극적으로 차단해 온 점을 고려할 때, ‘그랜드 테프트 오토 6(GTA 6)’의 퍼블리셔인 테이크투(Take-Two)는 이 질문에 대해 단호하게 “예”라고 대답할 것이라고 장담합니다.\n그들이 왜 그 게시물을 삭제하기로 결정했는지는 꽤 명백해 보이지만, 애초에 GitHub의 소셜 미디어 팀이 왜 그런 질문을 던지게 되었는지 궁금해지지 않을 수 없습니다.",
-      "images": [
-        "https://i1.ruliweb.com/img/26/11/27/1a21b3085f9490c12.webp"
-      ]
-    },
-    {
-      "id": "ruli_fe453b131cd6",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "[젠레스 존 제로] 태양을 가져온 자 애니메이션 단편 「마지막 여정」",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367246",
-      "author": "이토 시즈카",
-      "time": "2026-11-27 13:00",
-      "likes": "2",
-      "comments": "",
-      "content": "「태양을 가져온 자, 넌 교수와 달라. 넌 언제나 『볼 수 있었잖아』, 안 그래?」\n애니메이션 제작: Studio Tumble & Flintsugar\n제작 보조: Studio Mind",
-      "images": []
-    },
-    {
-      "id": "ruli_418c430d6c08",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "「2027 명일방주 엔드필드 종말의 메아리 우주에 새긴 소리」 티저 트레...",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367245",
-      "author": "nokcha",
-      "time": "2026-11-27 13:00",
-      "likes": "4",
-      "comments": "",
-      "content": "사람들이 처음 소리를 기록한 이유는 단 하나, 망각에 저항하기 위해서였다.\n음성 기록 장치에 담긴 동요, 심해를 울리는 고래의 노랫소리, 폐허에 울려 퍼지는 영탄...\n하지만 생명이란 너무도 짧아서, 그 어떤 찬란한 문명마저 찰나에 스쳐 가는 유성과 다를 바 없다.\n그래서 우린, 이런 생각을 하기 시작했다.\n찰나의 소리만으로, 문명을 먼 미래까지 전할 수 있다면 어떨까?\n그 모든 소리를... 하나의 음반에 새겨, 미지의 별바다로 보낼 수 있다면?\nListen! 그 이름도 찬란한... 골든 레코드 프로젝트!\n우린 이제 그 누구도 시도하지 못했던 위대한 원정을 시작할 거예요. 탈로스 II의 선율과 문명의 악장을 머나먼 별들에 전하는 거죠!\n작곡: Hans Zimmer\n음악 프로듀싱: Bleeding Fingers",
-      "images": []
-    },
-    {
-      "id": "ruli_cbc761ce3bfe",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "페르소나4 리바이벌 래핑 차량 서울 주행 예정, 이벤트",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367243",
-      "author": "이토 시즈카",
-      "time": "2026-11-27 12:31",
-      "likes": "6",
-      "comments": "",
-      "content": "🚗 『#페르소나4리바이벌』 래핑 차량을 공개합니다!\n⠀\n이 차량은 불시에 서울 시내 곳곳을 누빌 예정!\n어쩌면 AGF 현장에서 우연히 만날 수도 있을지도?! 👀\n⠀\n『페르소나4 리바이벌』 래핑 차량을 발견했다면\n사진을 찍어 #P4R_자동차발견 해시태그와 함께 업로드해 주세요!\n⠀\n선착순 10분께 #P4R 캐릭터 아크릴 스탠드를 선물로 드립니다! 🎁\n(DM을 보내주시면 더 빠른 확인 가능!💨)\n⠀\n서울 곳곳을 누비는 P4R 차량을 찾아보세요!\n⠀\n📅기간 : ~2027년 2월 28일\n※종료되는 시점에 인용으로 공지 예정드릴 입니다.",
-      "images": [
-        "https://i3.ruliweb.com/img/26/11/27/1a21b0dc555137dbd.webp",
-        "https://i3.ruliweb.com/img/26/11/27/1a21b0dcae3137dbd.webp",
-        "https://i1.ruliweb.com/img/26/11/27/1a21b0dd16c137dbd.webp",
-        "https://i2.ruliweb.com/img/26/11/27/1a21b0dd7bc137dbd.webp",
-        "https://i3.ruliweb.com/img/26/11/27/1a21b0ddee7137dbd.webp",
-        "https://i3.ruliweb.com/img/26/11/27/1a21b0de977137dbd.webp",
-        "https://i2.ruliweb.com/img/26/11/27/1a21b0df163137dbd.webp"
-      ]
-    },
-    {
-      "id": "ruli_015edf91517e",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "아크시스템웍스 아시아, AGF 2026 타입문 한국어판 신작 체험 및 전...",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367242",
-      "author": "nokcha",
-      "time": "2026-11-27 12:28",
-      "likes": "1",
-      "comments": "",
-      "content": "안녕하세요, 아크시스템웍스 아시아입니다!\n오는 12월 4일부터 개최되는 Anime X Game Festival 2025 (AGF 2025) 행사에\n저희 아크시스템웍스 아시아는 『FateEXTRA Record』를 비롯한 한국어화 TYPE-MOON 타이틀로 출전합니다!\n총 20부스 규모로 조성되는 이번 AGF 2026 아크시스템웍스 아시아 부스는 TYPE-MOON 팬 여러분을 위한 거대한 축제의 장으로 찾아뵐 예정입니다! 특히 2027년 1월 28일 글로벌 출시를 앞둔 기대작 『Fate/EXTRA Record』의 한국어판을 한국에서 최초로 직접 플레이해 볼 수 있는 대규모 체험존이 마련됩니다. 또한 TYPE-MOON 마니아로 유명한 인플루언서 ‘시나맨’님이 진행하는 스페셜 스테이지 「가르쳐줘! 시나맨 선생님 (AGF 2026 출장판)」이 개최됩니다!\n■ 아크시스템웍스 아시아 AGF 2026 출전 개요\n● 부스 위치: KINTEX 제 1전시장, A07\n- 최신작 『Fate/EXTRA Record』를 비롯한 5종의 TYPE-MOON 타이틀 통합 전시 및 체험존\n- AGF 2026 행사 현장 한정으로 증정되는 체험존 방문객, 전시존 방문객 대상 증정 굿즈\n- TYPE-MOON 마니아 ‘시나맨’과 함께하는 스테이지 이벤트 「가르쳐줘! 시나맨 선생님 (AGF 2026 출장판)」 개최\n● 부스 출전 내용\n① 『Fate/EXTRA Record』 한국어판 체험존\n2027년 1월 28일 출시를 앞둔 『Fate/EXTRA Record』를 힌국에서 최초로 플레이 할 수 있는 체험존이 여러분을 찾아갑니다!\n체험존에서 게임을 플레이하시면, AGF 2026 한정 「Fate/EXTRA Record 오리지널 스티커 (총 4종, 랜덤 증정)」와 「Fate/EXTRA Record 포스터」, 「Fate/EXTRA Record 포스트카드」를 받으실 수 있습니다!\n※ 체험 증정 굿즈는 일일 수량이 한정되어 있습니다.\n② TYPE-MOON 한국어화 타이틀 통합 비주얼 전시존\n아크시스템웍스 아시아 부스에서는 한국어화 버전으로 절찬 판매 중인 타이틀 및 출시가 예정된\n『월희 -A piece of blue glass moon-』, 『마법사의 밤』\n『페이트/스테이 나이트 REMASTERED』, 『페이트/할로우 아타락시아 REMASTERED』\nTYPE-MOON 4개 타이틀의 일러스트 갤러리가 마련되며,\n부스에 방문하시면 AGF 2026 한정 「마법사의 밤 포스터」를 받으실 수 있습니다!\n※ 체험 증정 굿즈는 일일 수량이 한정되어 있습니다.\n③ 스테이지 이벤트 「가르쳐줘! 시나맨 선생님 (AGF 2026 출장판)」\nAGF 2026 아크시스템웍스 아시아 부스 내 스테이지에서는\n#시나맨 님과 함께\n『Fate/EXTRA Record』 한국어판을 플레이하며 게임의 매력을 파헤치는\n라이드 대담회가 개최됩니다!\n여러분의 많은 관심과 참여 부탁드립니다!",
-      "images": [
-        "https://i1.ruliweb.com/img/26/11/27/1a21b0b89e6242da.webp",
-        "https://i2.ruliweb.com/img/26/11/27/1a21b0b8baa242da.webp",
-        "https://i2.ruliweb.com/img/26/11/27/1a21b0b8e70242da.webp",
-        "https://i2.ruliweb.com/img/26/11/27/1a21b0b8f9b242da.webp",
-        "https://i1.ruliweb.com/img/26/11/27/1a21b0b9198242da.webp",
-        "https://i3.ruliweb.com/img/26/11/27/1a21b0b9390242da.webp",
-        "https://i2.ruliweb.com/img/26/11/27/1a21b0b962c242da.webp"
-      ]
-    },
-    {
-      "id": "ruli_d05f60d75e3c",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "GTA6 50가지 디테일",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367241",
-      "author": "마이동숲-",
-      "time": "2026-11-27 12:27",
-      "likes": "5",
-      "comments": "",
-      "content": "",
-      "images": []
-    },
-    {
-      "id": "ruli_3904b63f50a2",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "실버 팰리스丨세계관 PV - 동화의 서막",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367240",
-      "author": "이토 시즈카",
-      "time": "2026-11-27 12:05",
-      "likes": "1",
-      "comments": "",
-      "content": "넝쿨 같은 활자가 낡은 책장을 뒤덮는다.\n검은 새가 창틀에 내려앉아, 늘 같은 결말을 노래한다.\n마침내 당신의 노래에도 그 글자가 새겨진다.\n깊은 밤, 은빛과 피만이 속삭인다:\n\"우화는 결국 현실이 되리라\"",
-      "images": []
-    },
-    {
-      "id": "ruli_d1249faddd3b",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "어쌔신 크리드 심포닉 콘서트 한국 공연 2027년 7월로 연기",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367239",
-      "author": "nokcha",
-      "time": "2026-11-27 12:01",
-      "likes": "1",
-      "comments": "",
-      "content": "안녕하세요. 유비소프트 코리아입니다.\n11월 29일 개최 예정이었던 ‘어쌔신 크리드 심포닉 콘서트 (ASSASSIN’S CREED SYMPHONIC ADVENTURE)’가 주최 측 사정으로 인해 2027년 7월로 연기되었음을 안내드립니다.\n예매자분들께는 카드 승인 취소 및 환불 절차를 안내드리고 있습니다.\n이번 공연을 기다려 주신 모든 분께 갑작스러운 소식을 전하게 되어 유감스럽게 생각합니다. 여러분의 너른 양해를 부탁드리며, 보다 나은 공연으로 2027년 7월 다시 찾아뵐 수 있기를 고대하겠습니다.\n감사합니다.",
-      "images": [
-        "https://i1.ruliweb.com/img/26/11/27/1a21af6e1a4242da.webp"
-      ]
-    },
-    {
-      "id": "ruli_83277dd8fec4",
-      "source": "루리웹 PC·스팀",
-      "category": "PC·스팀",
-      "title": "AMD 에픽의 9년간 진화…AI 처리 성능 무려 133배 향상",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360077",
-      "author": "사쿠라모리 카오리P",
-      "time": "2026-11-27 12:24",
-      "likes": "",
-      "comments": "",
-      "content": "AMD의 6세대 서버용 CPU 에픽 베니스가 1세대 대비 종합 성능은 최대 12.1배를 기록했다. AMD는 아키텍처 개선과 전력 효율 향상을 앞세워 데이터센터 시장 공략을 강화하고 있다.",
-      "images": []
-    },
-    {
-      "id": "ruli_c4f9269b01e1",
-      "source": "루리웹 PC·스팀",
-      "category": "PC·스팀",
-      "title": "오픈AI,GPT-6.2 출시 시 과금 오류 인정.한도 최대 40% 빨리 ...",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360076",
-      "author": "사쿠라모리 카오리P",
-      "time": "2026-11-27 12:23",
-      "likes": "2",
-      "comments": "",
-      "content": "오픈AI가 GPT-6.2 아스트라와 솔의 사용량 과금 오류를 수정하면서 이용 한도가 각각 40%, 25% 더 빨리 소진되게 됐다. 구독자에게 1회성 사용량 초기화를 제공하지만, AI 구독의 불투명한 사용량과 비용 부담을 둘러싼 논란은 이어지고 있다.",
-      "images": []
-    },
-    {
-      "id": "ruli_92eb3b81a148",
-      "source": "루리웹 PC·스팀",
-      "category": "PC·스팀",
-      "title": "\"화웨이, 데이터 핀 밀도 2배 높인 HBM 설계...내년 2월 공개\"",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360075",
-      "author": "사쿠라모리 카오리P",
-      "time": "2026-11-27 12:20",
-      "likes": "",
-      "comments": "",
-      "content": "",
-      "images": []
-    },
-    {
-      "id": "ruli_fe5003b2bb1b",
-      "source": "루리웹 PC·스팀",
-      "category": "PC·스팀",
-      "title": "가격 비교 플랫폼 ‘다나와’ 해킹 추정 사고 서비스 일시 중단",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360074",
-      "author": "MB_Go prison",
-      "time": "2026-11-27 12:06",
-      "likes": "1",
-      "comments": "",
-      "content": "ㅇㅇ;;;",
-      "images": []
-    },
-    {
-      "id": "ruli_e53202fbbcb8",
-      "source": "루리웹 PC·스팀",
-      "category": "PC·스팀",
-      "title": "[단독]'FA 최대어 ‘바이퍼’ 박도현, LPL 생활 끝내고 DRX 합류",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360073",
-      "author": "박주영",
-      "time": "2026-11-27 11:37",
-      "likes": "1",
-      "comments": "",
-      "content": "원제목\n[단독] '웰컴 백 챔피언'… FA 최대어 ‘바이퍼’ 박도현, LPL 생활 끝내고 DRX 합류",
-      "images": []
-    },
-    {
-      "id": "ruli_7810bef98c7b",
-      "source": "루리웹 PC·스팀",
-      "category": "PC·스팀",
-      "title": "GTA 6 포팅으로 멀티플레이 모드가 나오다",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360072",
-      "author": "루리웹-912735355120",
-      "time": "2026-11-27 11:35",
-      "likes": "3",
-      "comments": "",
-      "content": "https://x.com/TeKGameR950/status/2126015173274312796?a=pxXfLpZPBumN4OglCHg&s=20",
-      "images": []
-    },
-    {
-      "id": "ruli_8f613f4bbc5b",
-      "source": "루리웹 PC·스팀",
-      "category": "할인·예판",
-      "title": "다이렉트 게임즈 2026 블랙 프라이데이 할인 시작",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360071",
-      "author": "루리웹-6481364117",
-      "time": "2026-11-27 11:22",
-      "likes": "4",
-      "comments": "",
-      "content": "다이렉트 게임즈도 블랙 프라이데이 할인 시작했네요!\n최대 96% 할인 프로모션이고 어제인 11월 26일 4시부터 시작해서\n12월 3일 오후4시까지 진행한다고 합니다\n눈 여겨 봤던 최신 인기 게임들도 많이 할인하고 있어서 좋은 기회 같아요 ㅎㅎ\n특히나 11월30일까지 회원 등급별로 특별 포인트도 지급해주고\n컨트롤:레조넌트, 데드 애즈 디스코, 블레이블루 엔트로피 이펙트 등 일부 타이틀들은\n10%추가 적립 혜택까지 제공된다고 하니\n다른 플랫폼보다 좋은 조건으로 구매할 수 있을 것 같습니다\n특별 포인트는 12월7일까지 사용할 수 있으니\n장바구니에 담아뒀던 게임들 이번 기회에\n비워보시면 좋을 것 같습니다ㅎㅎ",
-      "images": [
-        "https://i3.ruliweb.com/img/26/11/27/1a21ac6d4825a85c8.webp",
-        "https://i3.ruliweb.com/img/26/11/27/1a21ac966f45a85c8.webp",
-        "https://i2.ruliweb.com/img/26/11/27/1a21ac6d6435a85c8.webp"
-      ]
-    },
-    {
-      "id": "ruli_bac000e7a3e9",
-      "source": "루리웹 PC·스팀",
-      "category": "PC·스팀",
-      "title": "앤트로픽, 메시지 API 파이썬서 러스트로 전환...CPU 사용량 70%...",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360070",
-      "author": "사쿠라모리 카오리P",
-      "time": "2026-11-27 11:12",
-      "likes": "2",
-      "comments": "",
-      "content": "",
-      "images": []
-    },
-    {
-      "id": "ruli_9a92c17f8131",
-      "source": "루리웹 PC·스팀",
-      "category": "PC·스팀",
-      "title": "화웨이, 중국산 EDA로 '3D 칩' 설계 길 연다",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360069",
-      "author": "사쿠라모리 카오리P",
-      "time": "2026-11-27 11:06",
-      "likes": "",
-      "comments": "",
-      "content": "",
-      "images": []
-    },
-    {
-      "id": "ruli_289f35edbf18",
-      "source": "루리웹 PC·스팀",
-      "category": "PC·스팀",
-      "title": "서든어택, 16:9 해상도 정식 지원",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360068",
-      "author": "하지만구",
-      "time": "2026-11-27 10:32",
-      "likes": "2",
-      "comments": "",
-      "content": "마참내",
-      "images": [
-        "https://i1.ruliweb.com/img/26/11/27/1a21aa1961532b630.webp"
-      ]
-    },
-    {
-      "id": "fm_othergame_950c8cd8e0a2",
-      "source": "에펨코리아 PC·콘솔",
-      "category": "PC·스팀",
-      "title": "크레토스는 추위를 못느끼나",
-      "url": "https://www.fmkorea.com/10571176103",
-      "author": "",
-      "time": "2026-11-22 22:53",
-      "likes": "",
-      "comments": "",
-      "content": "입김은 나는데 복장만 보면 추위를 못느끼는 거 같음",
-      "images": [
-        "https://image.fmkorea.com/./files/attach/new5/20261118/10571176103_2518140_c9a5c183949a4e3bed7f52af5f9df52f.png.webp"
-      ]
-    },
-    {
-      "id": "fm_othergame_50fa795f24a9",
-      "source": "에펨코리아 PC·콘솔",
-      "category": "PlayStation",
-      "title": "GTA6 ps5 노멀 ps5 pro 비교스샷",
-      "url": "https://www.fmkorea.com/10571172968",
-      "author": "",
-      "time": "2026-11-22 22:52",
-      "likes": "",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://image.fmkorea.com/files/attach/new5/20261118/10571172968_2518140_91d9f9ddf8a62f5c8ab4465a3a1975cc.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261118/10571172968_2518140_50dc7219a96dcdcd388c36346f182540.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261118/10571172968_2518140_69d86c84a9ae6962f63e6758736a3456.webp",
-        "https://image.fmkorea.com/files/attach/new5/20261118/10571172968_2518140_64321634b8527edc0d506b0932270bb9.webp"
-      ]
-    },
-    {
-      "id": "fm_othergame_c00937645820",
-      "source": "에펨코리아 PC·콘솔",
-      "category": "PC·스팀",
-      "title": "그타 6 억까리뷰 몇개당해도 98점이라는게 미쳤네",
-      "url": "https://www.fmkorea.com/10571171284",
-      "author": "",
-      "time": "2026-11-22 22:52",
-      "likes": "",
-      "comments": "",
-      "content": "만점 리뷰수부터가 100개가 넘음 ㅋㅋㅋㅋㅋㅋ",
-      "images": []
-    },
-    {
-      "id": "fm_othergame_e8daf630ba05",
-      "source": "에펨코리아 PC·콘솔",
-      "category": "PlayStation",
-      "title": "GTA6 PS5 역대 리뷰 수 1위 달성, 99점 유지 중",
-      "url": "https://www.fmkorea.com/10571154606",
-      "author": "",
-      "time": "2026-11-22 22:51",
-      "likes": "",
-      "comments": "",
-      "content": "GTA6은 점수 1위뿐 아니라,\nPS5 게임 역사상 가장 많은 리뷰 (153개) 를 기록\n점수는 여전히 역대 최고 점수인 99점\n참고로 스파이더맨2가 145개, 파판7 리버스가 142개, 갓옵 라그나로크가 141개, 아스트로봇이 136개임",
-      "images": [
-        "https://image.fmkorea.com/./files/attach/new5/20261118/10571154606_2518140_bb6af45a44d4691eae348235ac53214f.png.webp"
-      ]
-    },
-    {
-      "id": "fm_othergame_3c8d27faed11",
-      "source": "에펨코리아 PC·콘솔",
-      "category": "PC·스팀",
-      "title": "그타6 얼마나 재밌는건지 호주 워홀간 새끼 한시간 전에 카톡하고",
-      "url": "https://www.fmkorea.com/10571167873",
-      "author": "",
-      "time": "2026-11-22 22:51",
-      "likes": "",
-      "comments": "",
-      "content": "후기 남기겠다더니 51분 동안 답장이 없음",
-      "images": []
-    },
-    {
-      "id": "fm_othergame_bae3d2e82d7d",
-      "source": "에펨코리아 PC·콘솔",
-      "category": "PC·스팀",
-      "title": "gta 80점 준 리뷰어 울버린 100점 줬다는 글 보이는 게",
-      "url": "https://www.fmkorea.com/10571162689",
-      "author": "",
-      "time": "2026-11-22 22:49",
-      "likes": "",
-      "comments": "",
-      "content": "누가 처음에 gta 80점 리뷰 글 쓰면서\n이거 80점 준 리뷰어 울버린 100점 줬다고 글 쓰면서 같이 올려서 그거 보고 하는 소리 인 거 같던데",
-      "images": []
-    },
-    {
-      "id": "fm_othergame_d8e0109d06dd",
-      "source": "에펨코리아 PC·콘솔",
-      "category": "PlayStation",
-      "title": "혹시 모르니 psn, 락스타 연동 해놓는게",
-      "url": "https://www.fmkorea.com/10571159957",
-      "author": "",
-      "time": "2026-11-22 22:48",
-      "likes": "",
-      "comments": "",
-      "content": "안전빵으로다가",
-      "images": []
-    },
-    {
-      "id": "fm_othergame_2663448ca1b3",
-      "source": "에펨코리아 PC·콘솔",
-      "category": "PC·스팀",
-      "title": "야 이거는 30프레임이라고 안 하면 안 되는 게임이네 ㅋㅋㅋㅋ",
-      "url": "https://www.fmkorea.com/10571157620",
-      "author": "",
-      "time": "2026-11-22 22:48",
-      "likes": "",
-      "comments": "",
-      "content": "그냥 개레전드네..",
-      "images": []
-    },
-    {
-      "id": "fm_othergame_757fff0eb287",
-      "source": "에펨코리아 PC·콘솔",
-      "category": "PC·스팀",
-      "title": "듀센 배터리 없었네..",
-      "url": "https://www.fmkorea.com/10571156422",
-      "author": "",
-      "time": "2026-11-22 22:47",
-      "likes": "",
-      "comments": "",
-      "content": "하마터면 오열할뻔 휴",
-      "images": []
-    },
-    {
-      "id": "fm_othergame_ef2ecc686ce6",
-      "source": "에펨코리아 PC·콘솔",
-      "category": "PC·스팀",
-      "title": "gta6 이러면 pc판 더 기다리기 힘들잖아 !!!!!",
-      "url": "https://www.fmkorea.com/10571152395",
-      "author": "",
-      "time": "2026-11-22 22:46",
-      "likes": "",
-      "comments": "",
-      "content": "메타, 오픈 쌍 99는 어케 참음 ㅋㅋ",
-      "images": []
-    },
-    {
-      "id": "clien_game_c0067d8e461d",
-      "source": "클리앙 알뜰구매",
-      "category": "할인·예판",
-      "title": "[에픽게임즈] Mark of the Deep 무료 외",
-      "url": "https://www.clien.net/service/board/jirum/19295737?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-20 01:28",
-      "likes": "",
-      "comments": "2",
-      "content": "이번주 에픽무료게임, 에픽모바일 무료게임 각1종 있습니다\n안드로이드\nhttps://store.epicgames.com/p/lonesome-village-android-15d165\niOS\nhttps://store.epicgames.com/p/lonesome-village-ios-2a807f",
-      "images": [
-        "https://edgio.clien.net/F01/2026/11/15867270/7166e24f7c36.jpg?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15867271/73adbbe1d4f8.jpg?scale=width:740"
-      ]
     }
   ]
 }
