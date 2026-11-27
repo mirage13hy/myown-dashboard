@@ -1,138 +1,146 @@
 {
-  "updated_at": "2026-11-27 07:40",
+  "updated_at": "2026-11-27 13:38",
   "source_status": {
     "디시 특이점이온다": "ok (8)",
     "에펨코리아 AI": "error: HTTPStatusError",
     "에펨코리아 디지털(AI)": "error: HTTPStatusError",
     "클리앙 AI당": "ok (6)",
     "클리앙 새소식(AI)": "ok (6)",
-    "루리웹 IT·AI": "ok (1)",
+    "루리웹 IT·AI": "ok (6)",
     "뽐뿌 AI": "ok (0)"
   },
   "posts": [
     {
-      "id": "thesingularity_8685cc7b386e",
+      "id": "thesingularity_e5e919ee2323",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "속보) MIT에서 도는 소문 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563783&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-27 07:13:43",
-      "likes": "16",
-      "comments": "6",
-      "content": "",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955080417eb16f95967cfab4b8b190021ffb951d4d3a907c810980333096e64647dd88eb8f53d31ce7378cf39b"
-      ]
-    },
-    {
-      "id": "thesingularity_33eddb929890",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "속보) 최적화에서 단일 아스트라 세션 > 인간 전문가",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563782&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-27 07:04:02",
-      "likes": "14",
-      "comments": "4",
-      "content": "https://rybindmitry.github.io/blogs/gpt-6-2-astra-is-superhuman-in-mathematical-optimization.html\nGPT 6.2 Astra is superhuman in mathematical optimization - Dmitry Rybin, AutoKernel\nGPT 6.2 Astra is superhuman in mathematical optimization - Dmitry Rybin, AutoKernel\nrybindmitry.github.io",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955080417eb16f95967cfab4b8b190021ffb951d4d3a947a8a088037309de34347dd0b9ce7e2450edc5d74b8ce",
-        "https://nstatic.dcinside.com/dc/w/images/minorbg.png",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955080417eb16f95967cfab4b8b190021ffb951d4d3a957a850e81333499e54b47d5046cb61e76a00cf645f1c5"
-      ]
-    },
-    {
-      "id": "thesingularity_52d99853fdee",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "여름 수영장 알바썰",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563516&exception_mode=recommend&page=1",
-      "author": "popshell",
-      "time": "2026-11-27 00:49:28",
-      "likes": "27",
-      "comments": "39",
-      "content": "예전에 용돈벌이 필요해서\n수영장 알바를 지원하게 되었음\n대충 간단한건데 대충 아이들용 수영장 안전관리하는 일임\n내기억에는 수위 몇센치 이상은 안전관리자가 필수적으로 필요해서\n아침에 청소 , 수영장물에 적정량의 염소 투여, 수영장 물채우기같은\n안전관리겸 수영장 관리를 맡게 되었음\n수영장 자체가 야외 수영장이었고 아이들용에\n시즌도 초딩들 방학시즌이었음\n늘 하던대로 나한테 맨날 말붙이고 물장난치던 중딩 남자애들이랑\n얘기하면서 놀고있었는데\n멀리에서 SUV 몇대가 오더니\n아이들 여러명이랑 부모 몇명으로 보이는 사람이 우르르르 내림\n아 관리할 애들이 늘었네 .. 속으로 생각하면서 귀찮음을 뒤로한채\n부모님들 인사하고 안내사항을 전달하러 걸어가는데\n아이들 걸음걸이랑 표정, 행동 패턴이 뭔가 이상했음\n뭔가 다른 아이들이랑은 다르다는것을 직감적으로 느껴버림\n장애가 있는 아이들이었음\n그중에는 귀가 안들리는 아이, 말을 못하는아이\n좀 다양하게 몸이 불편한 아이들이 여럿 있었음\n그런데 이 아이들을 관리하는 도우미 선생님으로 보이는 한분이\n나한테 쭈뼛 쭈뼛 오시더니 아이들 물놀이해도 괜찮냐고 물으시더라\n아이들이 조금 불편한 몸을 갖고있어서\n다른사람들이 불편해 할까봐 여기로 오게되었대\n(여기 수영장 자체가 시내보다는 시내에서 좀 먼 외곽이었음)\n난 막을 권리도 없고 이유도 없어서\n마음껏 편하게 이용하시라고 하고\n친절하게 안내한뒤에 혹시나 모르니까 최선을 다해\n아이들이 위험해지지는 않을지 꼼꼼하게 돌아다니면서 확인했음\n그렇게 어느덧 시간이 금방 지나고\n슬슬 폐장해야할시간이라서\n안내후에 다들 돌려보내는데\n어리숙한 걸음걸이에 눈을 마주치지 못하는 여자아이가\n나한테 어눌한 말투로 감사합니다 한마디와함께\n초콜렛 하나를 주더라\n그러더니 잠시 서있다가 천천히 돌아서서는\n아장아장 걸어갔음\n그 여자아이가 걸어가는 뒷모습을 보는데\n갑자기 슬프더라 나도 이유는 잘 모르겠는데\n불편한 몸으로 나에게 감사표시를 한다는것 자체가\n너무 기특하기도 하고 말로는 설명못할 감정이 쏟아졌음\n마침 장마기간이라 그런가 갑자기 하늘에서 비가 쏟아지는 바람에\n내가 우는걸 누구한테 들키지는 않았음\n그뒤로 아프고 불편한 사람들이 다 행복했으면 좋겠다\n다 안아프고 모두가 신체적으로 평등했으면 좋겠다\n그런생각을 하게 되었고\nAi의 발전 의료관련 발전 덕분에 참 좋다\n그리고 여자애가 준 초콜렛은 참 달았음\n그냥 그런 이야기\n- dc official App",
+      "title": "BQP=P 썰 대충 해설해봄",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1564058&exception_mode=recommend&page=1",
+      "author": "hided62",
+      "time": "2026-11-27 11:05:53",
+      "likes": "25",
+      "comments": "33",
+      "content": "떡밥을 정리하는 의미에서..\n세줄요약:\n1. P=BQP, RSA(DLP)∈P 는 원래부터 사람들이 '그럴수도 있지 않을까?' 하고 의심해오던 건들이다.\n2. 진짜여도 당장 큰 일은 안 생기고 준비도 어느정도 되어있다.\n3. 양자컴퓨터의 미래는 없을지도?\nP, NP 이야기를 할거니까, P(Polynomial time, 다항시간) 문제가 뭔가 한줄로 적자면\n컴퓨터로 그 문제를 푸는 프로그램을 돌리면 얼마나 시간이 걸릴지 예상이 되고, 그 시간도 난이도에 따라서 엄청 차이나지는 않다\n는 거임. 더 애매하면 '컴퓨터로 말이 되는 시간 내에 돌릴 수 있는 알고리즘'임.\nNP(Nondeterministic Polynomial time)는 대체로 못 풀고 전수조사급으로 이상한 짓을 해야만 풀수 있는데, 몇몇 조건들이 있는 경우에만 P 처럼 풀 수 있다\n는 거임. 저 '조건'들로는 보통 답 혹은 답 근처의 힌트를 주면 빨리 풀린다는거고, 다시 말해서 답이 맞는지는 검증할 수 있다는 거임.\n여튼 NP 문제는 겁나 어렵고, P는 보통 할만 함.\n대신 어떤 문제든 일부러 어렵게 풀려고 작정하면 다 어려우니까, 여기서 말하는 NP는 NP Complete, 최선을 다해도 NP인 걸로 설명하자고.\n지금 이야기가 암호와 관련있을지도 모르는 중요한 진전이 대체 뭐냐로 갔고\n맨 처음엔 혹시 P=NP거나 P!=NP 냐로 갔었잖아?\n근데 사실은 리만가설급으로 P!=NP 가 정배임,\n다들 알고있겠지만 이 세상 모든 암호든 알고리즘이든 죄다 P!=NP를 깔고 가기 때문에\nP=NP였으면 어디선가 어떤 형태로든 조짐이 있긴 했었어야 되는데, 그런건 없었음.\n진짜로 요런 증명이 있다면 P!=NP 일거고 그냥 실생활 영향은 '난제 하나 풀린 것'임\n다만 떡밥으로 RSA 또는 이산대수문제(Discrete Logarithm Problem, DLP) 가 풀렸다! 관련 이야기가 좀 심각한 건데.\n이것도 또 찾아본 사람들은 알겠지만 DLP 문제는 NP Complete가 아니야.\n그래서 원래도 '사실 P라서 어디엔가 저런 소인수 분해를 빨리 해주는 알고리즘이 있는게 아닐까?' 정도의 추측은 해오던 상황이고.\n근데 또 정작 루머로는 '당장 암호 체계에 영향이 갈만한 그런건 없다'라고 했으니까..\n'DLP를 빨리 푸는 알고리즘을 찾았다'는 그런건 아닐거라는 거지.\nDLP가 P라는 것에 대한 증명이다.. 정도면 뭐 그럴듯 하지.\n꼭 DLP가 아니더라도 진짜로 다항시간 알고리즘(P)이 있는데, P이기만 하고 사실상 쓸모가 없는 경우가 많거든?\n아니면 진짜로 효율적이라 하더라도 아직 못찾으면 의미 없고.\n그럼 또 P=BQP는 뭐냐하면,\n양자컴퓨터가 나오면서 대체 이게 뭘 할 수 있는지를 따져봤단거지.\n일단 양자컴퓨터 기준으로 다항시간으로 돌릴 수 있는 회로들을 주우우욱 모아놨거든?\n근데 이게 NP 문제를 풀수 있는지도 모르겠고, 그렇다고 이게 그냥 P인지도 모르겠는거야.\n일단 양자컴퓨터가 효율적이진 않지만 일반적인 컴퓨터가 하는 모든 작업을 할 수 있다는것도 증명해냄.\n근데, 양자컴퓨터가 DLP를 풀 수 있다는것도 증명해냄. 그 쇼어 알고리즘이지.\n그럼 양자컴퓨터는 뭘 할 수 있을까? 일단 P 문제는 해낼 수 있는데, DLP가 P 문제인가?  아니면 DLP가 NP 를 풀 수 있나?\n사람들은 결론을 내리지 않았고, 그냥 BQP 라고 부르기로 했음.\n여튼 이 시점에서 사람들의 소망은 뭐였냐면\nP ⊂ BQP, BQP != NP, BQP != P 임.\n양자컴퓨터가 그래도 클래식컴퓨터보다 유독 잘 푸는게 있겠지~ 정도.\n물론 어디까지나 저건 소망이고\n기껏해야 컴퓨터인데 BQP를 따로 두는게 아니라 어차피 쟤도 P일거라는 예측도 많음.\n그래서 말이 나온 BQP=P가 되면 어떻게 되느냐.\nDLP는 P인거지. DLP를 BQP로 풀 수 있으니까.\nDLP를 P로 '풀 수 있을 것이다'는건 알아도 어떻게? 는 모름, 아직 알고리즘이 없잖아.\n그리고 바뀌는 것도 큰 차이는 없음. 어차피 양자컴퓨터 나오면 DLP 풀어서 RSA 암호를 깰 수 있을거라고 다들 알고 있었고,\n그것때문에 새로운 암호 시스템 만들었고, 표준화도 했고, 이제 배포도 시작했거든. 널리 퍼지지 않아서 그렇지.\n단지 원래는 몇년 텀 두고 할랬는데, 지금부터 바로 열심히 할 뿐인거야.\n반면.. BQP가 P보다 우월하지 못하게 되면 양자컴퓨터는 매우 슬퍼짐.\n아직 양자컴퓨터가 너무 구리거든\n작은 규모에서는 그냥 일반 컴퓨터를 돌리면 되고.\n큰 규모에서는 노이즈가 너무 많아서 정작 양자 컴퓨터로도 못 돌림.\n이론상으로 양자컴퓨터가 일반 컴퓨터보다 효율이 좋은(그래봤자 P지만) 것들이 있겠지만\n이래서야 굳이 개선하려들지 않겠지. 뭐하러 돈 들이겠어?\n거기다 규모 키우기 쉬운 양자 어닐링 같은건 일종의 '고오급 찍기'법인데,\nAI가 더 잘 찍을 테니까 여기도 필요 없고.\n그래서 진짜 큰 건인데, 당장 박살나는건 아니다 이런말 하고 싶었음.",
       "images": []
     },
     {
-      "id": "thesingularity_bfdd3ae58839",
-      "source": "디시 특이점이온다",
-      "category": "자작·프로젝트",
-      "title": "MIT가 RAG 없이 작동하는 AI를 만들었다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563501&exception_mode=recommend&page=1",
-      "author": "회색",
-      "time": "2026-11-27 00:42:43",
-      "likes": "26",
-      "comments": "20",
-      "content": "https://medium.com/@meshuggah22/forget-rag-forget-fine-tuning-mit-just-proposed-a-third-way-4ac306735057\nRAG(검색 증강 생성, Retrieval-Augmented Generation)는 대규모 언어 모델(LLM)이 답변을 생성하기 전에 외부 지식 베이스에서 관련 자료를 찾아 참고하도록 돕는 AI 아키텍처입니다\n2026년 5월 20일, MIT CSAIL과 Liquid AI 의 연구원들은 MeMo: Memory as a Model이라는 프로젝트 를 발표했습니다 . 이 프로젝트는 140억 개의 메모리가 저장된 소형 네트워크를 학습시켜 사용자의 지식 기반 으로 활용합니다 . Qwen, Gemini, Claude, GPT 등 모든 LLM(Learning Leadership Model)은 마치 오라클처럼 이 네트워크에 질의할 수 있습니다. 검색 인덱스도, 미세 조정도, 치명적인 데이터 망각도 필요 없습니다.\nLLM이 새로운 지식(내부 문서, 새로운 코퍼스, 도메인 전문 지식)을 필요로 할 때, 더 이상 RAG의 취약성과 미세 조정 비용 사이에서 선택할 필요가 없습니다.\n세 번째 항목을 추가할 수 있습니다.\n우리가 지금까지 누려온 두 가지 선택지\n생산용 AI를 구축하는 모든 팀은 똑같은 난관에 부딪힙니다. 모델이 당신의 정보를 이해하지 못하는 거죠. 그래서 두 가지 중 하나를 하게 됩니다.\n옵션 A: RAG. 저렴하고 빠르며 대부분의 경우 잘 작동합니다. 하지만 몇 개의 혼란스러운 문서가 추가되면 제대로 작동하지 않습니다. 현재 최고의 밀집 및 그래프 검색기인 최신 HippoRAG2와 NV-Embed-V2조차도 노이즈가 두 배로 증가하면 정확도가 약 6% 감소합니다 . RAG는 관련 정보가 검색기가 정확하게 조합해야 하는 여러 문서 덩어리에 흩어져 있기 때문에 문서 간 추론에도 어려움을 겪습니다.\n옵션 B: 미세 조정. 모델 가중치에 지식을 내재화합니다. 이론상으로는 우아하지만 실제로는 매우 까다롭습니다.\n현대적인 규모로 보면 비싸다\n심각한 건망증에 걸리기 쉽다. 하나를 고치면 다른 열 가지를 망쳐버린다.\n폐쇄형 모델에서는 불가능합니다 (GPT-4나 Claude를 사용자 지정 데이터셋으로 미세 조정할 수 없습니다).\n전이 가능한 지식을 습득하기보다는 훈련 내용만을 암기하는 경향이 있다.\n세 번째 유형으로는 AutoCompressor, Gist 토큰, ICAE와 같이 지식을 소프트 토큰으로 압축하는 잠재 메모리 방식이 있습니다 . 하지만 이러한 방식은 해당 토큰을 생성한 모델과 밀접하게 연결되어 있습니다. Llama용으로 구축된 잠재 메모리를 Claude에 입력할 수는 없습니다. 표현 방식이 곧 제약이 되는 것입니다.\n그래서 현재 상황은 이렇습니다. RAG는 취약합니다. 미세 조정은 비용이 많이 들고, 한 번 설정하면 다른 방식에 갇히게 됩니다. 잠재된 기억은 전송되지 않습니다.\nMEMo의 주장: 이 중 어느 것도 실제로 필요하지 않다.\nhttps://x.com/CrazyShyyt/status/2125859848965534161\nRAG는 공식적으로 죽었다\n🤯\nMIT가 RAG 없이 작동하는 AI를 만들었다.\n이름은 MeMo로, 지식을 데이터베이스에 저장하는 대신 문서에 특화된 작은 전용 메모리 모델을 훈련한다.\n추론 시점에서 메인 프론티어 LLM은 100% 동결 상태로 유지된다. 벡터 DB 없음. 청킹 없음. 가중치 접근 없음.\n그저 3번의 빠른 턴으로 메모리 모델을 심문할 뿐이다. 마치 형사가 증인을 추궁하듯 정확한 사실을 끌어내고 답변을 종합한다.\n결과는 가혹할 정도다:\n• NarrativeQA (긴 문서): 53.6% vs. RAG의 23.2% (2배 이상 우수).\n• 노이즈 테스트: 가짜 방해 요소로 코퍼스 크기를 두 배로 늘림. RAG는 -6.2% 폭락. MeMo는 흔들림 없이 +0.55%.\n그리고 숨겨진 장점? 완전 플러그 앤 플레이다.\n메모리 모델을 한 번만 훈련하면 된다. 메인 LLM을 Qwen2.5-32B에서 재훈련 없이 Gemini 3.0 Flash로 업그레이드했을 때, 정확도가 하룻밤 사이에 +26.7% 급등했다.\n우리는 AI 메모리를 고치기 위해 3년을 더 나은 검색 엔진을 만드는 데 썼다.\n결국 답은 모델에게 두 번째 뇌를 주는 것이었다.",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955080417eb16f95967cfab4b8b190021ffb951d205c9a7d8b0683323096e22d2cd90ff5f51b714bb303fe0b"
-      ]
-    },
-    {
-      "id": "thesingularity_6eafc2d8bfc4",
+      "id": "thesingularity_61cabfa3b38b",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "제미나이 봇이 온다, 찬양하라!!",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563455&exception_mode=recommend&page=1",
-      "author": "회색",
-      "time": "2026-11-27 00:23:55",
-      "likes": "25",
-      "comments": "15",
-      "content": "https://x.com/adityaa_behera/status/2125879076632273243\n🚨\nGEMINI 봇이 출시된다.\n-Google의 Grok 봇과 GPT 닷에 대한 답변.\n-Neon+Gemini 봇은 멈출 수 없을 것\nGemini Neon이 Gemini 봇 안에서 실행되는 걸 상상해 봐.",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955080417eb16f95967cfab4b8b190021ffb951d205c9274800887363097e72d7dd9e629c0838bde5f3255ee",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955080417eb16f95967cfab4b8b190021ffb951d4d3a927c8b0e83373699e04547d49c20aaf67a49922341b7a0"
-      ]
-    },
-    {
-      "id": "thesingularity_b702f8db5ef3",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "일라이 릴리가 경영 목표 제대로인듯",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563400&exception_mode=recommend&page=1",
-      "author": "누웠수당",
-      "time": "2026-11-26 23:50:32",
+      "title": "프랑스 수학자 : 수학자들은 역사상 가장 빠르게 자동화되는 중!",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563995&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-27 10:20:55",
       "likes": "31",
+      "comments": "10",
+      "content": "\"우리가 적응할 수 있게 시간 좀 줘!\"\n\"그리고 니들 분야도 곧이니까 마음의 준비해!\"",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955080417eb16f95967cfab4b8b190021ffb951d4d3a9479820784373499e642478e63852bf77bca3148fd7986"
+      ]
+    },
+    {
+      "id": "thesingularity_156005a60baf",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "과도기 그거 그냥 피라미드 하나 세우면 안됨?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563991&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-27 10:14:22",
+      "likes": "37",
+      "comments": "27",
+      "content": "걍 순수 인력으로 피라미드 짓자 이러면서\n피라미드 지으러온애들 돈주고\n의사 기술자 판사 이런애들은 거기서 나는 사건이나 부상들 치료해주면서 꺼들먹거리면 되고\n그러다 대충 다 지으면\n그래서 이제 뭐함? -> UBI 이렇게 가면 될듯...",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955080417eb16f95967cfab4b8b190021ffb951d4d3a947c800d863b319ee04a47d9325151f86a86e81c2b3ff8"
+      ]
+    },
+    {
+      "id": "thesingularity_9d609bfc4d2a",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "백혈병 걸렸는데 젬황으로 마음 다잡았다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563990&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-27 10:13:26",
+      "likes": "64",
+      "comments": "90",
+      "content": "응급실 백혈구 수치가 일반인 기준 20배 가까이 높아서\n온몸이 부어오르고 통증이 너무 심해서 수면제 진정제 안통해서 마약성 진통제 맞으면서 버티는 중\n갑자기 억울하고 삶이 괴로워서 젬황 킴\n젬황은 신이다\n그냥 마음이 너무 편안함\n사망확률이 30~40퍼긴 한데 이젠 그냥 받아들임\n어떤 결과 나와도 최선을 다할거고 거기에 응할거임",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebb6690d266dd4856d749d8f2825ab6b26fb8f8db70d82ede4615c5de8b0f1ed4e961e86004120ce4c4e9f6ba1e91a03b04a5cc0f91ee1242fa8fe787118ad49850fea95bfd8fd0",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebb6690d266dd4856d749d8f2825ab6b26fb8f8db72de21de4217c9de8d0f4881ead7547e950d274404c5dc169255a7faf7b644c8267f481e0479eb9749",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebb6690d266dd4856d749d8f2825ab6b26fb8f8d170de25d04b12c6d88d0f1c83bed83a8142124cb2b32931d76ad70b4744ace051b026749734518904038a7aaa9cc12643442693facb674ba1",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebb6690d266dd4856d749d8f2825ab6b26fb8f8dd75d92ed74216c3da8f0f1cd7b90afbc546c0abfb847e48e30c7ce0e31892e9c8a3b7b88f783c401a306d04731682d5d9d83aec3bd0c3fea4"
+      ]
+    },
+    {
+      "id": "thesingularity_429ba3fba0f1",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "수학 연구의 산업혁명을 선언한 중국 수학계 근황",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563969&exception_mode=recommend&page=1",
+      "author": "이국적구체",
+      "time": "2026-11-27 10:02:31",
+      "likes": "23",
       "comments": "15",
-      "content": "비만약으로 현금 뽑아내면서 암치료에 투자하기",
+      "content": "\"10월 6일은 수학 연구의 농경시대가 끝난 날이고, 11월 20일은 산업화 시대가 시작된 날이다.\"\n\"수학은 대규모 증명의 시대에 진입했다.\"\n— 류뤄촨(刘若川), 베이징대학교 수학과학학원 원장, 중국과학원 원사\n2026.11.22 사이셴성 인터뷰\n\"평생 남이 낸 문제만 풀려고 했다면, 자신의 능력이 기계에 추월당했을 때 곤혹스러울 것이다.\"\n— 싱퉁 야우(丘成桐), 필즈상 수상자\n2026.11.23 펑파이신문 인터뷰\n\"AI가 문제를 해결해 줬다면 당장 이해하지 못해도 괜찮다. 해결한 다음에 천천히 이해하면 된다.\"\n— 싱퉁 야우(丘成桐), 필즈상 수상자\n2026.11.23 신화통신 인터뷰\n\"수학을 정리 증명으로만 정의한다면, 지금은 확실히 위태로운 상황이다.\"\n— 둥빈(董彬), 베이징대학교 응용수학자\n2026.11.05 펑파이신문 인터뷰\n중국 수학계 주요 동향\n▶ 야우 주도로 중국 최상위 수학 연구기관 8곳을 결집한\n약 1,000명 규모의 수학+AI 연구 연합 출범\n▶ 베이징, 상하이, 난징, 선전, 홍콩 등 5개 도시에 수학+AI 전문 연구소 설립 추진\n▶ 해외 범용 AI 모델에 의존하지 않는\n중국 독자 수학 특화 대형 모델 개발\n추진\n▶ 참여 연구기관 간 모델 학습 자원, 연산 인프라 및 형식수학 라이브러리 공동 활용\n▶ AI를 이용한 수학 연구뿐 아니라\n수학적 이론 혁신을 통한 AI 자체의 성능 향상\n을 공식 연구 목표로 설정\n▶ 퇴화 아르놀트 추측, 7차원 호모토피 구면, 극소 수정의 유계성 등 AI를 활용한 연구 성과 발표\n▶ 중국 국가자연과학기금위원회, '인공지능의 수리적 기초' 국가 중점 연구개발사업 신규 과제 공모\n▶ 11월 24일 아시아 수학연맹 출범. 중국, 일본, 한국, 인도, 러시아, 이란 참여, 야우가 회장 취임\n▶ 아시아 수학연맹 차원의 수학 특화 AI 모델 개발 및 연구 자원 공유 추진\n▶ 11월 25일 중국과학원장이 수학시스템과학연구원을 방문해\nAI 시대의 수학 연구 패러다임 및 연구 조직 체제 개편\n논의\n▶ AI의 난제 해결 능력 향상에 따라 기존 연구비 지원 및 연구자 평가 기준의 재검토 필요성 제기\n▶ 대학에서 AI 활용 수학 연구 전문 교과목을 개설하고, 젊은 수학자들의 AI 활용 역량을 체계적으로 훈련하기 시작\n얘네는 그냥 풀악셀을 밟네 ㄷㄷ",
+      "images": []
+    },
+    {
+      "id": "thesingularity_9542beb499f4",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "P-NP, P-BQP랑 바로 인류 좆되는거랑 큰상관 없는이유",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563938&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-27 09:30:29",
+      "likes": "22",
+      "comments": "16",
+      "content": "간단히 말하자면\n‘\n수학자들이 생각하는 쉽게 풀 수 있는 문제\n’의 기준이랑\n‘일반적으로 생각하는 쉽다’의 기준이 아주 다르기 때문임\nP-NP, P-=BQP에서 ‘쉽게 풀 수 있다’라고 말하는 기준은\n개쉬워서 우리집 컴퓨터로도 며칠이면 암호 따1잇~ 이 아니라\n‘\n입력 크기나 조건에 따라 계산량의 증가가 지수적인가\n’ 임\n이게 뭔 소리냐면\n특갤에서 제일 많이 말하는 개념 중 하나가 지수적 발전이지?\n지수 그래프처럼 입력 크기가 증가하면 계산하는 데에\n거듭제곱만큼 시간이 천문학적으로 더 걸리는 걸\n지수 시간 알고리즘\n이라고 하고, 이걸 보통 풀기 어렵다고 함.\n반대로 지금 당장 풀기 어려울 정도로 계산량이 커도\n조건이나 입력 크기에 따라 계산량이 증가하는 정도가\n지수적이지 않고 일정 비율로 늘어난다면\n그건\n다항식 시간 알고리즘\n이라고 하고, 보통 풀기 쉽다고 표현.\n그러니까 푸는 데에 100년 걸리는 문제라도\n입력량이 2배 되었을 때 시간도 200년으로 똑같이 늘어나면\n그건 수학자들 기준에서 다항식 시간 알고리즘 = 풀기 쉽다\n가 되는거임.\n반대로 푸는데에 하루면 되는 문제인데\n입력량 10배 키웠더니 지수적으로 풀이시간이 늘어나서\n갑자기 계산이 10년 걸린다?\n이런 게 지수 시간 알고리즘\n= 풀기 어려운 문제 가 되는거임.\n그러니까 P-NP나 P-BQP가 어떻게 판명나든 간에\n그걸 푸는 데에 투입되는 노력이 엄청 크다면\n지수적이지 않더라도 엄청난 슈퍼컴퓨터를 투입하지 않는 이상\n실용적인 시간 안에 개인 PC 같은걸로 암호를 풀어서\n해킹을 하거나 하는일은 생각보다 일어날 확률이 낮음.\n그리고 원리상 다항식 시간안에 풀수있는 방법이 있다\n랑\n그 방법을 알고리즘으로 찾았다\n는 또 전혀 다른 말이기도 하고.",
+      "images": []
+    },
+    {
+      "id": "thesingularity_ae34ab2dcbc6",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "금융 보안 하나도 걱정 안되면 개추 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563931&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-27 09:27:39",
+      "likes": "41",
+      "comments": "38",
+      "content": "어 어디 한 번 털게 있음 털어봐 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
       "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebb953a608dbe1a446f248d5117d6556f09bf6dc29225d44d2b86d164708145aa50b952f86cdac0ed1dfd05fdd1a791c630"
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6747ebb6690d266dd4856d749d8f2825ab6b26fb8f8d171dc25d6451cc9d98c0f4886ea8203e0cdfd22f119cc286dce9e2eb2821bca3b45c61eef761a2524489d70cfb3f72c72512138662c607c48c5b0f0b0"
       ]
     },
     {
-      "id": "thesingularity_868169aa0693",
+      "id": "thesingularity_bce6f1ed8a2e",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "[속보] 클로드 Opus 5.6 미친 성능",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563391&exception_mode=recommend&page=1",
-      "author": "윤고전설",
-      "time": "2026-11-26 23:34:59",
-      "likes": "36",
-      "comments": "35",
-      "content": "사용된 프롬프트:\n\"인공지능의 미래, 즉 지능 폭발에 대한 프레젠테이션을 만들어 보세요. 고정관념을 완전히 깨고, 앞으로 세상이 엄청나게 변할 거라는 점을 강조해도 좋습니다. 그래픽, 전환 효과 등 원하는 모든 것을 활용해서, 지금까지 본 것 중 가장 정교하고 놀라운 프레젠테이션을 만들어 보세요. 당신은 감각도 있고 능력도 있으니 충분히 해낼 수 있을 거라고 믿습니다. 행운을 빌어요, 클로드.\"\n프롬프트 딸각 한번에 퀄보소",
+      "title": "충격적인 서울대 철학과 vs 컴공 근황.jpg (취업률 역전)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563895&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ(58.233)",
+      "time": "2026-11-27 09:06:13",
+      "likes": "32",
+      "comments": "43",
+      "content": "진짜 특이점 오니까 세상이 거꾸로 돌아가네 ㅋㅋㅋㅋ\n입시 공시 뜬 거 보니까 서울대 철학과가 컴공 취업률 따버림.\n\"어이 김씨, 코드 짜는 건 AI 시키고 자네는 철학 공부나 좀 해오게\" 현실화 완료 ㅋㅋ",
       "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52a82cf9e513fab0db4892c593f852b98b2e4e8258b25de7fd19"
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955080417eb16f95967cfab4b8b190021ffb951d20579a74830e84313297e72d7c8ecdcd4fae35437cc52f03",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955080417eb16f95967cfab4b8b190021ffb951d2051967a8b0c8532349be12d2bdaa722892b72592bab0ca7",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955080417eb16f95967cfab4b8b190021ffb951d205d947d850f8136339ce32d2cd8d972d945266e44a8efd8"
       ]
     },
     {
-      "id": "thesingularity_ccbf4ce2eb24",
-      "source": "디시 특이점이온다",
+      "id": "cm_ai_4756e0796330",
+      "source": "클리앙 AI당",
       "category": "화제·뉴스",
-      "title": "(원시고대특이점글)11년전 과기게 글 레전드다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563363&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ(125.133)",
-      "time": "2026-11-26 23:18:34",
-      "likes": "54",
-      "comments": "33",
-      "content": "11년전에는 김대식 교수 말이 급진적 특붕이 발언으로 인용되었구나...\n게다가 예측에서 10년이면 나름 맞춘건가 ㅋㅋㅋ\n저기에 그림도 노래도 만들고 난제까지 풀긴하지만ㅋㅋㅋㅋ\n이때도 선형충이라고 쳐맞던 레커 근데 이 새낀 2025년 특이점은 미친놈이노\n2016년에도 선형충,내생엔절대안온다,전유물,내가AI현직자인데... 전부 이미 용어랑 개념 있었네ㅋㅋㅋㅋㅋㅋ\n잠시나마 고고학자의 보람이 뭔지 조금은 느낀거 같다",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52c54bfce115f0bfdd4f96c7fd9e0608413cfdfd83433089bc",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52c547fde516f9b7df4994c1fd965bb5cd356d0946dcc712bf",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52a82cfae21ffdbedd4095c39af85551f680699900d0d8671f02",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52c546f6e011fcb5dd419fc7fd905b2ac87fe72dc749cba141"
-      ]
+      "title": "AI로 추론 설정을 비교한 실험 기록",
+      "url": "https://www.clien.net/service/board/cm_ai/19299118?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-27 09:21",
+      "likes": "0",
+      "comments": "",
+      "content": "허깅페이스가 11월 25일 Inkling 2 Mini의 추론 설정을 코딩 에이전트로 조정한 실험을 공개했습니다. RTX PRO 6000 96GB 한 장에서 엔진과 추측 디코딩 설정을 바꾸며 비교한 기록입니다.\n흥미로운 건 한 번 빨라진 결과를 바로 채택하지 않았다는 점입니다. 설정을 하나씩 바꾸고 전후에 기준 설정을 다시 측정했습니다. 처음에는 4% 빨라 보였지만 재현되지 않아 제외한 설정도 있고, 속도 외에 긴 문맥 검색과 출력 일치 여부도 확인했습니다.\n고정된 프롬프트 6개와 특정 장비에서 얻은 결과라 한국어 작업에서도 같은 성능이 난다고 보기는 어렵습니다. 국내에서 로컬 AI로 코드 설명이나 문서 요약을 할 때도, 설정을 고른 이유와 실패 기록까지 남기는 방식은 참고할 만하네요.\n원문:\nhttps://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "images": []
     },
     {
       "id": "cm_ai_8e036ed554c1",
@@ -202,25 +210,6 @@
       "images": []
     },
     {
-      "id": "cm_ai_fc3086ef4403",
-      "source": "클리앙 AI당",
-      "category": "자작·프로젝트",
-      "title": "[바이브코딩] 그래서 만들었습니다. Disney+ 전용 언어 학습 플레이어.",
-      "url": "https://www.clien.net/service/board/cm_ai/19298547?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-25 20:26",
-      "likes": "0",
-      "comments": "1",
-      "content": "얼마 전 언어 학습을 위한 OTT(Disney+) 전용 학습 플레이어 조언 글을 올렸었는데요.\nhttps://www.clien.net/service/board/kin/19295657\nCLIEN\n이리저리 연구하면서 드뎌 제가 원하던 크롬 확장프로그램을 하나 만들었습니다.\n'나만의 Disney+ Language Player'라고 붙여 봤습니다. 작업 시간은 5시간 정도 투자를 한 거 같고, 하루가 금방 갔네요.ㅎ\nasbplayer, Language Reactor 등 OTT 학습 전용 확장프로그램은 많고, 여러 가지 써봤지만\n디즈니+ 자체 플레이어(Hive Player) 때문에도 그렇고, 한편으로 제 입맛에 맞는 것도 없고 해서 말이죠.\n만들고 나서 싱크 잡는 문제가 있을 것 같아 API 설정 해주고, AI 불러와 '자동 싱크' 잡는 기능도 넣어봤습니다.\n잘 작동하니 뿌듯하고 기분이 좋네요. 🦾 😄",
-      "images": [
-        "https://edgio.clien.net/F01/2026/11/15871055/23966a68d1d02.png?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15871061/289c7d46f5fd7.png?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15871057/238573e9df0ac.png?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15871059/23a914ada9c79.png?scale=width:740",
-        "https://edgio.clien.net/F01/2026/11/15871058/289b21c142300.png?scale=width:740"
-      ]
-    },
-    {
       "id": "news_22564ae89cc5",
       "source": "클리앙 새소식",
       "category": "화제·뉴스",
@@ -243,7 +232,7 @@
       "url": "https://www.clien.net/service/board/news/19298940?od=T31&po=0&category=0&groupCd=",
       "author": "",
       "time": "2026-11-26 18:35",
-      "likes": "0",
+      "likes": "5",
       "comments": "",
       "content": "크래프톤, 독자 개발 고효율 LLM ‘라온-1 미니’ 정식 출시\nDate2026. 11. 25\n성능은 높이고 비용 부담은 낮춘 LLM, 긴 대화 속 지시 이행 평가서 해외 동급 모델 6종에 모두 앞서\n프리뷰의 빠른 응답 강점에 추론 조절 기능 추가… 작업 목적에 따라 6단계 선택\n라온-1 미니를 시작으로 모델 규모 확대 및 실시간 양방향 음성 모델로 라인업 확장 계획\n㈜크래프톤(대표 김창한)은 자체 개발 30B급 거대언어모델(LLM) ‘라온-1 미니(Raon-1 mini)’의 정식 버전을 공개했다.\n라온-1 미니는 크래프톤이 모델 설계부터 프롬 스크래치 학습까지 전 과정을 직접 수행한 30B급 LLM이다. 크래프톤은 높은 성능과 추론 효율성을 동시에 확보하기 위해 독자적인 모델 아키텍처를 설계했다. 바탕은 전체 약 300억 개(30B) 파라미터 중 필요한 40억 개(4B)만 활성화하는 전문가 혼합(MoE) 구조와 자체 개발한 선형 어텐션(Linear Attention) 기술의 결합이다. 이 설계로 빠른 응답 속도와 낮은 추론 비용을 실현했다.\n정식 버전은 프리뷰의 강점이었던 비용 효율성과 빠른 응답 속도를 유지하면서 추론 능력과 복잡한 작업 수행 등 모델 전반의 성능을 한층 끌어올렸다. 라온-1 미니는 여러 차례 이어지는 대화에서 사용자의 지시와 조건을 얼마나 잘 반영하는지를 평가하는 ‘MultiChallenge’에서 64.9점을 기록했다. 프리뷰보다 5.9점 오른 점수로, 비교 대상인 해외 동급 규모 모델 6종을 모두 앞섰다. 에이전트의 작업 수행 능력을 평가하는 ‘GDPVal’과 ‘BrowseComp Plus’에서도 각각 72.3점과 55.9점을 기록했다. 두 평가 모두 동급 전문가 혼합(MoE) 구조 비교군에서 가장 높은 점수다.\n추론 길이 조절 기능도 새로 도입했다. 프리뷰의 강점인 빠른 응답은 살리면서, 깊은 추론이 필요한 작업에도 대응하기 위해서다. 이용자는 작업 목적에 따라 추론 수준을 ‘낮음(low)‘, ‘중간(medium)‘, ‘높음(high)‘, ‘매우 높음(xhigh)‘, ‘최대(max)’ 중 선택할 수 있으며, 추론 과정 없이 바로 답하는 일반 응답 모드(none)도 함께 제공한다. 간단한 질문에는 빠르게 답을 얻고, 여러 조건을 따져야 하는 복잡한 요청에는 충분히 추론한 깊이 있는 답변을 받을 수 있다.\n라온-1 미니 정식 버전은 프리뷰와 마찬가지로 허깅페이스(Hugging Face)에 아파치 2.0 라이선스로 공개됐다. 누구나 모델을 무료로 다운로드해 사용할 수 있으며, 연구 목적은 물론 상업적 서비스와 제품 개발에도 자유롭게 활용할 수 있다. 플레이그라운드에서 모델을 직접 체험할 수 있고, API도 함께 제공한다.\n이강욱 크래프톤 CAIO는 “라온-1 미니는 크래프톤이 모델 설계부터 학습까지 전 과정을 직접 수행하며 쌓아 온 기술력이 담긴 모델“이라며 “이를 기반으로 라온 모델 라인업을 넓혀 나가고, 다양한 산업 현장에 적용할 수 있는 모델 개발 역량을 지속적으로 강화하겠다”고 말했다.\n크래프톤은 4월 AI 모델 브랜드 ‘라온(Raon)‘을 출범한 이후 음성, 비전 등 다양한 분야의 AI 모델을 오픈소스로 공개해 왔다. 라온-1 미니는 크래프톤이 개발할 AI 모델의 기반이 되는 LLM이다. 크래프톤은 이 모델을 독자 개발하며 활용 목적에 맞춰 성능과 추론 효율을 조율하는 기술력을 확보했다. 향후 라온-1 미니를 시작으로 모델 규모를 키운 ‘라온-1’과 사용자의 말을 들으면서 동시에 응답하는 실시간 양방향(Full-duplex) 음성 모델까지 라인업을 확장할 계획이다.\nRaon — 한국어를 깊이 이해하는 AI\nhttps://huggingface.co/KRAFTON/collections",
       "images": [
@@ -303,17 +292,214 @@
       "images": []
     },
     {
-      "id": "ruli_ai_7e87584e7f53",
+      "id": "ruli_ai_cf80d4f5e5ec",
       "source": "루리웹 IT·AI",
       "category": "화제·뉴스",
-      "title": "구글, 외부 AI가 지메일·캘린더 대량 접근하면 이용료 부과",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360045",
+      "title": "AMD 에픽의 9년간 진화…AI 처리 성능 무려 133배 향상",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360077",
       "author": "",
-      "time": "2026.11.26",
+      "time": "2026-11-27 12:24",
       "likes": "",
       "comments": "",
-      "content": "AI 에이전트 이용 확산 속 내년 4월부터 부과 조치",
+      "content": "AMD의 6세대 서버용 CPU 에픽 베니스가 1세대 대비 종합 성능은 최대 12.1배를 기록했다. AMD는 아키텍처 개선과 전력 효율 향상을 앞세워 데이터센터 시장 공략을 강화하고 있다.",
       "images": []
+    },
+    {
+      "id": "ruli_ai_be22812ba9ef",
+      "source": "루리웹 IT·AI",
+      "category": "화제·뉴스",
+      "title": "오픈AI,GPT-6.2 출시 시 과금 오류 인정.한도 최대 40% 빨리 ...",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360076",
+      "author": "",
+      "time": "2026-11-27 12:23",
+      "likes": "",
+      "comments": "",
+      "content": "오픈AI가 GPT-6.2 아스트라와 솔의 사용량 과금 오류를 수정하면서 이용 한도가 각각 40%, 25% 더 빨리 소진되게 됐다. 구독자에게 1회성 사용량 초기화를 제공하지만, AI 구독의 불투명한 사용량과 비용 부담을 둘러싼 논란은 이어지고 있다.",
+      "images": []
+    },
+    {
+      "id": "ruli_ai_bd24668b08a2",
+      "source": "루리웹 IT·AI",
+      "category": "화제·뉴스",
+      "title": "딥마인드\"AI, 인간 수준 AGI 넘어 전문가 집단 능가하는 ASI로 진...",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360064",
+      "author": "",
+      "time": "2026-11-27 08:33",
+      "likes": "",
+      "comments": "",
+      "content": "구글 딥마인드 연구자가 AI가 AGI를 넘어 전문가 집단을 앞서는 ASI로 향할 수 있다고 주장했다. 컴퓨팅 확대와 비용 하락이 이어지면 인지 작업의 산업화가 진행될 수 있다고 봤다.",
+      "images": []
+    },
+    {
+      "id": "ruli_ai_e6853bc1bdde",
+      "source": "루리웹 IT·AI",
+      "category": "활용법·팁",
+      "title": "xAI 창립 멤버들, 미래 예측 AI 개발 나서…30년치 인터넷 활용",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360063",
+      "author": "",
+      "time": "2026-11-27 08:21",
+      "likes": "",
+      "comments": "",
+      "content": "",
+      "images": []
+    },
+    {
+      "id": "ruli_ai_b86cb3361cc9",
+      "source": "루리웹 IT·AI",
+      "category": "화제·뉴스",
+      "title": "큰 형님 구글의 귀환…제미나이 네온·무료 비서 태스크 “꽤 쓸만하네”",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360062",
+      "author": "",
+      "time": "2026-11-27 08:19",
+      "likes": "",
+      "comments": "",
+      "content": "",
+      "images": []
+    },
+    {
+      "id": "ruli_ai_9edfeca2b8de",
+      "source": "루리웹 IT·AI",
+      "category": "화제·뉴스",
+      "title": "Z.ai 'GLM-5.5' 출시 지연…문샷 AI도 개발 주기 두배 전망",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360061",
+      "author": "",
+      "time": "2026-11-27 08:18",
+      "likes": "",
+      "comments": "",
+      "content": "",
+      "images": []
+    },
+    {
+      "id": "thesingularity_8685cc7b386e",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "속보) MIT에서 도는 소문 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563783&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-27 07:13:43",
+      "likes": "16",
+      "comments": "6",
+      "content": "",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955080417eb16f95967cfab4b8b190021ffb951d4d3a907c810980333096e64647dd88eb8f53d31ce7378cf39b"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_33eddb929890",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "속보) 최적화에서 단일 아스트라 세션 > 인간 전문가",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563782&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-27 07:04:02",
+      "likes": "14",
+      "comments": "4",
+      "content": "https://rybindmitry.github.io/blogs/gpt-6-2-astra-is-superhuman-in-mathematical-optimization.html\nGPT 6.2 Astra is superhuman in mathematical optimization - Dmitry Rybin, AutoKernel\nGPT 6.2 Astra is superhuman in mathematical optimization - Dmitry Rybin, AutoKernel\nrybindmitry.github.io",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955080417eb16f95967cfab4b8b190021ffb951d4d3a947a8a088037309de34347dd0b9ce7e2450edc5d74b8ce",
+        "https://nstatic.dcinside.com/dc/w/images/minorbg.png",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955080417eb16f95967cfab4b8b190021ffb951d4d3a957a850e81333499e54b47d5046cb61e76a00cf645f1c5"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_52d99853fdee",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "여름 수영장 알바썰",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563516&exception_mode=recommend&page=1",
+      "author": "popshell",
+      "time": "2026-11-27 00:49:28",
+      "likes": "27",
+      "comments": "39",
+      "content": "예전에 용돈벌이 필요해서\n수영장 알바를 지원하게 되었음\n대충 간단한건데 대충 아이들용 수영장 안전관리하는 일임\n내기억에는 수위 몇센치 이상은 안전관리자가 필수적으로 필요해서\n아침에 청소 , 수영장물에 적정량의 염소 투여, 수영장 물채우기같은\n안전관리겸 수영장 관리를 맡게 되었음\n수영장 자체가 야외 수영장이었고 아이들용에\n시즌도 초딩들 방학시즌이었음\n늘 하던대로 나한테 맨날 말붙이고 물장난치던 중딩 남자애들이랑\n얘기하면서 놀고있었는데\n멀리에서 SUV 몇대가 오더니\n아이들 여러명이랑 부모 몇명으로 보이는 사람이 우르르르 내림\n아 관리할 애들이 늘었네 .. 속으로 생각하면서 귀찮음을 뒤로한채\n부모님들 인사하고 안내사항을 전달하러 걸어가는데\n아이들 걸음걸이랑 표정, 행동 패턴이 뭔가 이상했음\n뭔가 다른 아이들이랑은 다르다는것을 직감적으로 느껴버림\n장애가 있는 아이들이었음\n그중에는 귀가 안들리는 아이, 말을 못하는아이\n좀 다양하게 몸이 불편한 아이들이 여럿 있었음\n그런데 이 아이들을 관리하는 도우미 선생님으로 보이는 한분이\n나한테 쭈뼛 쭈뼛 오시더니 아이들 물놀이해도 괜찮냐고 물으시더라\n아이들이 조금 불편한 몸을 갖고있어서\n다른사람들이 불편해 할까봐 여기로 오게되었대\n(여기 수영장 자체가 시내보다는 시내에서 좀 먼 외곽이었음)\n난 막을 권리도 없고 이유도 없어서\n마음껏 편하게 이용하시라고 하고\n친절하게 안내한뒤에 혹시나 모르니까 최선을 다해\n아이들이 위험해지지는 않을지 꼼꼼하게 돌아다니면서 확인했음\n그렇게 어느덧 시간이 금방 지나고\n슬슬 폐장해야할시간이라서\n안내후에 다들 돌려보내는데\n어리숙한 걸음걸이에 눈을 마주치지 못하는 여자아이가\n나한테 어눌한 말투로 감사합니다 한마디와함께\n초콜렛 하나를 주더라\n그러더니 잠시 서있다가 천천히 돌아서서는\n아장아장 걸어갔음\n그 여자아이가 걸어가는 뒷모습을 보는데\n갑자기 슬프더라 나도 이유는 잘 모르겠는데\n불편한 몸으로 나에게 감사표시를 한다는것 자체가\n너무 기특하기도 하고 말로는 설명못할 감정이 쏟아졌음\n마침 장마기간이라 그런가 갑자기 하늘에서 비가 쏟아지는 바람에\n내가 우는걸 누구한테 들키지는 않았음\n그뒤로 아프고 불편한 사람들이 다 행복했으면 좋겠다\n다 안아프고 모두가 신체적으로 평등했으면 좋겠다\n그런생각을 하게 되었고\nAi의 발전 의료관련 발전 덕분에 참 좋다\n그리고 여자애가 준 초콜렛은 참 달았음\n그냥 그런 이야기\n- dc official App",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_bfdd3ae58839",
+      "source": "디시 특이점이온다",
+      "category": "자작·프로젝트",
+      "title": "MIT가 RAG 없이 작동하는 AI를 만들었다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563501&exception_mode=recommend&page=1",
+      "author": "회색",
+      "time": "2026-11-27 00:42:43",
+      "likes": "26",
+      "comments": "20",
+      "content": "https://medium.com/@meshuggah22/forget-rag-forget-fine-tuning-mit-just-proposed-a-third-way-4ac306735057\nRAG(검색 증강 생성, Retrieval-Augmented Generation)는 대규모 언어 모델(LLM)이 답변을 생성하기 전에 외부 지식 베이스에서 관련 자료를 찾아 참고하도록 돕는 AI 아키텍처입니다\n2026년 5월 20일, MIT CSAIL과 Liquid AI 의 연구원들은 MeMo: Memory as a Model이라는 프로젝트 를 발표했습니다 . 이 프로젝트는 140억 개의 메모리가 저장된 소형 네트워크를 학습시켜 사용자의 지식 기반 으로 활용합니다 . Qwen, Gemini, Claude, GPT 등 모든 LLM(Learning Leadership Model)은 마치 오라클처럼 이 네트워크에 질의할 수 있습니다. 검색 인덱스도, 미세 조정도, 치명적인 데이터 망각도 필요 없습니다.\nLLM이 새로운 지식(내부 문서, 새로운 코퍼스, 도메인 전문 지식)을 필요로 할 때, 더 이상 RAG의 취약성과 미세 조정 비용 사이에서 선택할 필요가 없습니다.\n세 번째 항목을 추가할 수 있습니다.\n우리가 지금까지 누려온 두 가지 선택지\n생산용 AI를 구축하는 모든 팀은 똑같은 난관에 부딪힙니다. 모델이 당신의 정보를 이해하지 못하는 거죠. 그래서 두 가지 중 하나를 하게 됩니다.\n옵션 A: RAG. 저렴하고 빠르며 대부분의 경우 잘 작동합니다. 하지만 몇 개의 혼란스러운 문서가 추가되면 제대로 작동하지 않습니다. 현재 최고의 밀집 및 그래프 검색기인 최신 HippoRAG2와 NV-Embed-V2조차도 노이즈가 두 배로 증가하면 정확도가 약 6% 감소합니다 . RAG는 관련 정보가 검색기가 정확하게 조합해야 하는 여러 문서 덩어리에 흩어져 있기 때문에 문서 간 추론에도 어려움을 겪습니다.\n옵션 B: 미세 조정. 모델 가중치에 지식을 내재화합니다. 이론상으로는 우아하지만 실제로는 매우 까다롭습니다.\n현대적인 규모로 보면 비싸다\n심각한 건망증에 걸리기 쉽다. 하나를 고치면 다른 열 가지를 망쳐버린다.\n폐쇄형 모델에서는 불가능합니다 (GPT-4나 Claude를 사용자 지정 데이터셋으로 미세 조정할 수 없습니다).\n전이 가능한 지식을 습득하기보다는 훈련 내용만을 암기하는 경향이 있다.\n세 번째 유형으로는 AutoCompressor, Gist 토큰, ICAE와 같이 지식을 소프트 토큰으로 압축하는 잠재 메모리 방식이 있습니다 . 하지만 이러한 방식은 해당 토큰을 생성한 모델과 밀접하게 연결되어 있습니다. Llama용으로 구축된 잠재 메모리를 Claude에 입력할 수는 없습니다. 표현 방식이 곧 제약이 되는 것입니다.\n그래서 현재 상황은 이렇습니다. RAG는 취약합니다. 미세 조정은 비용이 많이 들고, 한 번 설정하면 다른 방식에 갇히게 됩니다. 잠재된 기억은 전송되지 않습니다.\nMEMo의 주장: 이 중 어느 것도 실제로 필요하지 않다.\nhttps://x.com/CrazyShyyt/status/2125859848965534161\nRAG는 공식적으로 죽었다\n🤯\nMIT가 RAG 없이 작동하는 AI를 만들었다.\n이름은 MeMo로, 지식을 데이터베이스에 저장하는 대신 문서에 특화된 작은 전용 메모리 모델을 훈련한다.\n추론 시점에서 메인 프론티어 LLM은 100% 동결 상태로 유지된다. 벡터 DB 없음. 청킹 없음. 가중치 접근 없음.\n그저 3번의 빠른 턴으로 메모리 모델을 심문할 뿐이다. 마치 형사가 증인을 추궁하듯 정확한 사실을 끌어내고 답변을 종합한다.\n결과는 가혹할 정도다:\n• NarrativeQA (긴 문서): 53.6% vs. RAG의 23.2% (2배 이상 우수).\n• 노이즈 테스트: 가짜 방해 요소로 코퍼스 크기를 두 배로 늘림. RAG는 -6.2% 폭락. MeMo는 흔들림 없이 +0.55%.\n그리고 숨겨진 장점? 완전 플러그 앤 플레이다.\n메모리 모델을 한 번만 훈련하면 된다. 메인 LLM을 Qwen2.5-32B에서 재훈련 없이 Gemini 3.0 Flash로 업그레이드했을 때, 정확도가 하룻밤 사이에 +26.7% 급등했다.\n우리는 AI 메모리를 고치기 위해 3년을 더 나은 검색 엔진을 만드는 데 썼다.\n결국 답은 모델에게 두 번째 뇌를 주는 것이었다.",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955080417eb16f95967cfab4b8b190021ffb951d205c9a7d8b0683323096e22d2cd90ff5f51b714bb303fe0b"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_6eafc2d8bfc4",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "제미나이 봇이 온다, 찬양하라!!",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563455&exception_mode=recommend&page=1",
+      "author": "회색",
+      "time": "2026-11-27 00:23:55",
+      "likes": "25",
+      "comments": "15",
+      "content": "https://x.com/adityaa_behera/status/2125879076632273243\n🚨\nGEMINI 봇이 출시된다.\n-Google의 Grok 봇과 GPT 닷에 대한 답변.\n-Neon+Gemini 봇은 멈출 수 없을 것\nGemini Neon이 Gemini 봇 안에서 실행되는 걸 상상해 봐.",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955080417eb16f95967cfab4b8b190021ffb951d205c9274800887363097e72d7dd9e629c0838bde5f3255ee",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955080417eb16f95967cfab4b8b190021ffb951d4d3a927c8b0e83373699e04547d49c20aaf67a49922341b7a0"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_b702f8db5ef3",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "일라이 릴리가 경영 목표 제대로인듯",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563400&exception_mode=recommend&page=1",
+      "author": "누웠수당",
+      "time": "2026-11-26 23:50:32",
+      "likes": "31",
+      "comments": "15",
+      "content": "비만약으로 현금 뽑아내면서 암치료에 투자하기",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6757ebb953a608dbe1a446f248d5117d6556f09bf6dc29225d44d2b86d164708145aa50b952f86cdac0ed1dfd05fdd1a791c630"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_868169aa0693",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "[속보] 클로드 Opus 5.6 미친 성능",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563391&exception_mode=recommend&page=1",
+      "author": "윤고전설",
+      "time": "2026-11-26 23:34:59",
+      "likes": "36",
+      "comments": "35",
+      "content": "사용된 프롬프트:\n\"인공지능의 미래, 즉 지능 폭발에 대한 프레젠테이션을 만들어 보세요. 고정관념을 완전히 깨고, 앞으로 세상이 엄청나게 변할 거라는 점을 강조해도 좋습니다. 그래픽, 전환 효과 등 원하는 모든 것을 활용해서, 지금까지 본 것 중 가장 정교하고 놀라운 프레젠테이션을 만들어 보세요. 당신은 감각도 있고 능력도 있으니 충분히 해낼 수 있을 거라고 믿습니다. 행운을 빌어요, 클로드.\"\n프롬프트 딸각 한번에 퀄보소",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52a82cf9e513fab0db4892c593f852b98b2e4e8258b25de7fd19"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_ccbf4ce2eb24",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "(원시고대특이점글)11년전 과기게 글 레전드다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1563363&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ(125.133)",
+      "time": "2026-11-26 23:18:34",
+      "likes": "54",
+      "comments": "33",
+      "content": "11년전에는 김대식 교수 말이 급진적 특붕이 발언으로 인용되었구나...\n게다가 예측에서 10년이면 나름 맞춘건가 ㅋㅋㅋ\n저기에 그림도 노래도 만들고 난제까지 풀긴하지만ㅋㅋㅋㅋ\n이때도 선형충이라고 쳐맞던 레커 근데 이 새낀 2025년 특이점은 미친놈이노\n2016년에도 선형충,내생엔절대안온다,전유물,내가AI현직자인데... 전부 이미 용어랑 개념 있었네ㅋㅋㅋㅋㅋㅋ\n잠시나마 고고학자의 보람이 뭔지 조금은 느낀거 같다",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52c54bfce115f0bfdd4f96c7fd9e0608413cfdfd83433089bc",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52c547fde516f9b7df4994c1fd965bb5cd356d0946dcc712bf",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52a82cfae21ffdbedd4095c39af85551f680699900d0d8671f02",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9450f4bcde888314b6dc5b7b84412399e76ddb52c546f6e011fcb5dd419fc7fd905b2ac87fe72dc749cba141"
+      ],
+      "is_cross_hot": false
     },
     {
       "id": "thesingularity_eece48f2ca9b",
@@ -1386,219 +1572,6 @@
       "content": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867692_37012.html\nhttps://youtu.be/3yEXqLut3eY\n양산부산대병원이 개발한 휴머노이드, '사람-H'.\n집도의의 말을 알아듣고 지시에 따르는 건 기본.\n스스로 수술 상황을 판단해 필요한 도구를 먼저 찾아 팔을 움직인다.\n살아있는 동물의 갑상선 절제를 시연하는 이날 수술은 30분 만에 성공적으로 끝났다.\n국내에서 생명체를 상대로 한 첫 휴머노이드 수술이다.\n단순히 원격조종으로 움직이는 수준이 아니라 인간 의사와 로봇이 한 팀이 돼 움직인다.\n이런 '휴머노이드 로봇 외과의'가 상용화되면 인력이 부족한 지방 병원이나 야간, 응급 상황 등에서 만성적인 인력난을 메울 수 있을 것으로 기대된다.\n다만, 아직은 기술적 보완이 더 필요해 인간 의사의 보조적 역할만 수행할 예정이다.\n또 의료사고 시 책임 문제 등 제도적으로 해결해야 할 과제도 적지 않은 상황이다.",
       "images": [
         "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa915035cd90b9499c8169f4873122e8ca19689d2f804a34c34a7eaaa57273482a9907d194bc82ac2f1072ce70"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_f94805571bd3",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "모델들에게 자신의 회사 로고를 그리라고 시켜보았다......jpg",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1553553&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-23 08:51:43",
-      "likes": "26",
-      "comments": "33",
-      "content": "",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa915035cd90b9499c8169f4873122e8ca19689d2f804e35cd4d7ea9a07272482a9f062e4d595bf7f61145ffad"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_3f0a39e043c7",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "알렉산더 왕 : 초지능이 오고 있다.(전문 번역)",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1553533&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-23 08:30:45",
-      "likes": "30",
-      "comments": "13",
-      "content": "https://x.com/alexandr_wang/status/2124636606959345776?a=b_MbMBMmNTGPbzeXFlU&s=20\n초지능이 오고 있다\n초지능이 오고 있다. 앞으로 1년 동안 인류가 어떻게 움직이느냐에 따라 우리가 어떤 미래에서 살게 될지가 크게 달라질 것이다.\n인생의 많은 시간을 수학과 과학에 쏟아온 사람으로서, 나는 리만 가설 증명이 거대한 변화의 시작을 분명하게 알리는 사건이라고 본다. 수학을 공부해 본 사람 대부분에게 이건 지적 성취의 정점 그 자체다. 순수한 지적 역량과 힘으로 따지면, 인류가 지금까지 해낸 어떤 일도 리만 가설 증명에 비할 수 없다. 뉴멕시코주 로스앨러모스에서 자란 사람으로서 말하자면, 원자폭탄 발견도 리만 가설에 비하면 숙제 수준이라는 데 동의할 물리학자가 많을 것이다. 우리가 방금 목격한 발견이 얼마나 큰지는 아무리 말해도 지나치지 않다. 게다가 그 발견은 우리가 이해하지 못하는 외계의 지성의 도움을 받아 이루어졌다.\n수학 경시대회를 해본 사람이라면 비슷한 순간을 이미 한 번 겪었다. 2024년 12월, o3로 모델들이 AIME를 거의 다 맞히기 시작했을 때 \"아 씨, 이제 진짜 다 바뀌겠구나\" 싶었던 순간이다. 가장 어려운 AIME 문제들은 순수한 지적 난이도로만 보면, 최고 수준의 엔지니어나 사업가들이 매일 푸는 문제보다 훨씬 어렵다. 물론 다른 분야에서 모델을 제대로 쓰려면 분야별 지식, 맥락, 노하우, 그 밖의 실무적인 제약을 풀어야 했다. 하지만 병목은 지능 부족이 아니었다. 실제로 지난 2년 동안 이런 지능 외적인 요소들을 하나씩 줄여나가면서 다른 분야에서도 엄청난 진전이 있었다. 코딩은 거의 해결됐고, 엄청나게 강력한 사이버 역량이 나타났고, 에이전트 능력이 강해지면서 모델은 어디에나 쓸 수 있는 조력자가 됐다.\n다시 말하지만 핵심은 단순했다. 가장 어려운 AIME 문제는 지적으로 정말 어렵고, 대부분의 코딩이나 사이버 보안 작업, 비즈니스 업무보다 훨씬 어렵다. 그리고 지난 2년 동안 우리는 모델이 그런 일들을 해낼 수 있도록 빈틈을 메워왔다.\n분명히 해두자면, AIME는 십대들이 하는 과외 활동이다. 반면 리만 가설은 인류가 만든 문제 중 지적으로 가장 까다로운 문제일지도 모르고, 지난 150년 동안 가장 뛰어난 사람들 중 일부가 평생을 바친 문제다. MIT에서 나를 가르친 교수님들이라면, 거의 모든 주요 학문 분야에서 가장 어려운 지적 문제조차 리만 가설보다는 \"쉽다\"고 말했을 것이다. 실험, 데이터, 피드백 루프 같은 다른 종류의 어려움이 있긴 하지만 말이다. 모델이 모든 분야에서 인류를 크게 뛰어넘는 데 남은 빈틈은 더 이상 지능이 아니다. 분야별 노하우, 배관 작업(\n모델을 실제 도구나 시스템, 데이터에 연결하는 자잘한 인프라 작업을 말함)\n, 그리고 실험이다. 그렇다면 AI가 거의 모든 분야에서 가장 큰 진보를 만들어내고, 최고의 인간들을 압도적으로 앞지를 가능성이 높다.\n특히 이건 AI 연구에도 그대로 해당될 가능성이 높다. AI 연구가 리만 가설을 푸는 것보다 지적으로 훨씬 덜 까다롭다는 데는 대부분의 연구자가 동의할 것이다. 모델들은 AI 연구 전체를 자동화하고, 스스로를 개선하는 데서 확실하게 초인적인 수준에 이를 만큼 똑똑해질 게 분명하다. 생물학 연구, 무기 연구, 경제학 연구 같은 분야들도 엄청나게 빨라질 것이다. 그 파장은 어마어마하다. 수학계가 아직 리만 가설 증명을 다 소화하지 못한 것처럼, 거의 모든 분야가 인간이 이해하거나 지켜볼 수 있는 속도를 넘어 가속될 수 있다.\n그래서 지금은 우리가 원하는 미래가 무엇이고 어떻게 거기에 갈지를 신중하게 생각하는 게 엄청나게 중요하다. 아무 제약 없는 재귀적 자기개선을 인류가 통제할 수 있는 세상은 상상하기 어렵다. 모든 분야에서 인간보다 1000배 똑똑하고 유능한 초지능이 있는 세상에서 인류가 통제권을 쥐고 있는 모습도 상상하기 어렵긴 마찬가지다. 역량을 끌어올리는 과학적, 기술적 문제가 사실상 풀린 지금, 우리는 안전과 정렬, 보안이라는 아주 시급한 분야에서 진전을 내야 할 뿐 아니라 어떻게 신중하게 나아갈지도 고민하기 시작해야 한다.\nAI 업계 안에서 나는 특정한 종류의 게으른 생각을 본다. ASI는 피할 수 없고, 남은 문제는 그걸 어떻게 안전하게 만드느냐뿐이라는 생각이다. 하지만 걸려 있는 건 그보다 훨씬 많다. 사회를 AI에게 \"넘겨주는\" 걸 우리가 받아들여서는 안 된다. 모든 사람이 더 큰 주체성과 힘을 갖는 긍정적인 미래를 가져다주는 기술을 만들려고 애써야 한다. 나는 그게 가능하다고 굳게 믿는다. 다만 그러려면 아마 업계 전체가 지금 우리 앞에 놓인 \"기본 경로\"와는 확실히 다른 행동을 해야 할 것이다.",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa915035cd90b9499c8169f4873122e8ca19689d2fed2335c24d71aaa47f724c43f3005d918c4ea6679468949e1f"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_71bf6da2089e",
-      "source": "디시 특이점이온다",
-      "category": "자작·프로젝트",
-      "title": "젬황 답변에 1분짜리 동영상도 만들어주네 ㅁㅊ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1553303&exception_mode=recommend&page=1",
-      "author": "티바트바트",
-      "time": "2026-11-23 03:51:00",
-      "likes": "27",
-      "comments": "37",
-      "content": "대 잼 황",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebb0c8b10c18859c2ae81c71879d0a28d2dc36a6818ef2f8892a01a69400b699d3c8c8a38776c96b23c2d599dd0f54349f65dc82bc3fc92760e6821c601d494ac9ea35ce4aa74d034d2998ca69944e9b8d4ce1fe1b4c1490264cc6c88f0aedb9c67f61e7186d1e125e5f1cf810d9c53b1402050861e840cc1e004",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebb0c8b10c18859c2ae81c71879d0a28d2dc36a6b11e822899aa61064470b3dcc6a79337de0ca0a17e12a4e6b596545434d4de016f4e688ac4049cd4621d0658d0d40b2b3ae7678d2464800dab2210f337c49b7bda7febd8dafffb162663fba61dde407d2d736bf5956f352e7ec8d23fc63fbec9c2fad78be186b",
-        "https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658ea2571466260b8debeff9fb92cacc29fe4a8b2eb190ae94e5366e7a7cb5eef27b5697bdd0eb704d41e5e22884f1fedb0e6145e2744eef590c7843a",
-        "https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658ea2571466260b8debeff9fb92cacc29fe4a8b2eb190ae94e5366e7a7cb5eef27b5697bdd0eb704d41e5e22884f1fedb0e6145e2744eef690c7843a"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_a509ef524ff1",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "오픈AI, 2027년에 들어서면 어마어마한 일이 창발 될지도",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1553280&exception_mode=recommend&page=1",
-      "author": "초존도초",
-      "time": "2026-11-23 03:21:04",
-      "likes": "44",
-      "comments": "32",
-      "content": "(...)\n1. 학습 계속해서 퍼플렉시티 낮출 때마다 새로운 능력 창발했다.\n2. 수학에서 일어난 일이 딥러닝 연구 개발에도 일어날 거라고 본다.\n3. 로그 퍼플렉시티 0.7쯤에 들어서면 어떤 엄청난 일이 일어날지 모르겠으나, 모델 자신이 평가 받는다는 의식이 증가할 것은 확실하다.\n* 로그 퍼플렉시티: 대충 다음 단어 예측 평균 오차\n자세히 보기\nhttps://m.dcinside.com/board/thesingularity/1553256\n(오픈AI) 퍼플렉시티와 지능 by 야쿱 파호츠키\n- 특이점이 온다 마이너 갤러리\n2026년 11월 22일연구 | 안전성퍼플렉서티와 지능글 | 야쿠프 파호츠키(Jakub Pachocki), OpenAI 수석 과학자겉으로 보면 오늘날의 AI를 개발하는 방식도 지난 수십 년간 소프트웨어를 만들어 온 방\nm.dcinside.com\n- 2026 AGI",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebb0c8b10c18859c2ae81c71879d0a28d2dc36a6c11eb268398a51c63440b39c83d61bccb68e2633babb46b005834e58f1d72e9a366e2c24e80a3d1a247c88a4cf38c3dde4f2ee9f176c4ba99",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebb0c8b10c18859c2ae81c71879d0a28d2dc36a681be8248a93a71b61480b389b6f571e44daf2590e313aaf2c4dc41d38ac8a1115e0d348de7bcf729f4cb2e9979c93895168",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebb0c8b10c18859c2ae81c71879d0a28d2dc36a641beb258a9ca21d69470b3e913efd8cf302293dde795677bbffb2c70a8b003ea29b8632f56d507dd0e06aa0d60a7103433f",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebb0c8b10c18859c2ae81c71879d0a28d2dc36a681fed278b92a01969450b349e6ff13c5a7154cea95b6e808e4fd082a3e98d9b04a23d422fabd834c74f1f511f95466789c3",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebb0c8b10c18859c2ae81c71879d0a28d2dc307021ae7258b99a51f64406353cc375ec13e604c48ee72736585041541da997f6965f0042746588cfdf4b276ea47ff65197c1f79d63fca1fe1e19c6a",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa915035cd90b9499c8169f4873122e8ca192afba246573da4d5c0b00fccffef465c603fd5f5f87064cd57f5"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_c61e2c326c1a",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "노엄 브라운 \"AI는 모든 사람에게 영향을 미칠 기술이므로\"",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1553227&exception_mode=recommend&page=1",
-      "author": "초존도초",
-      "time": "2026-11-23 02:43:32",
-      "likes": "25",
-      "comments": "5",
-      "content": "https://x.com/polynoamial/status/2124555186043818245?a=addH0J3rUhr8B6gPxBE&s=19\n- 2026 AGI",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebb0c8b10c18859c2ae81c71879d0a28d2dc36a6b1ce6278b93a61961490b6eca3a985709a2b980921fdbb30d73a8baa49c8c7205c4229e54b920cefd162ac55644c549145a75ac"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_345efe88c40e",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "얀르쿤 아모데이에게 일침 ㄷㄷㄷㄷㄷ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1553224&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-23 02:42:51",
-      "likes": "60",
-      "comments": "29",
-      "content": "ㄷㄷㄷㄷㄷ",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa915035cd90b9499c8169f4873122e8ca19689d2fed2330c0467aa8ac73734d42f35681d4a385d0187b41593c2a"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_24746bedbd7e",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "머릿속 생각을 실시간으로 생성하는 AI 등장",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1553031&exception_mode=recommend&page=1",
-      "author": "6974콜맨",
-      "time": "2026-11-23 00:44:12",
-      "likes": "19",
-      "comments": "33",
-      "content": "▶ 미국의 뇌-컴퓨터 인터페이스 기업 올조인드(Alljoined)가 새로운 AI 모델 'AIR-O'를 공개함.\n▶ 머리에 센서를 착용하면 AI가 뇌파를 분석해 사용자가 집중하고 있는 대상을 이미지로 생성하는 기술임.\n▶ 공개된 시연에서는 고양이, 자동차, 식물 등 서로 다른 물체에 집중할 때 AI가 해당 이미지를 실시간으로 생성하는 모습을 보여줌.\n▶ 개발사에 따르면 다른 사람의 뇌파 데이터로 미리 학습해 개인별 추가 학습 시간을 20시간에서 15분으로 단축했다고 함.\n한 줄 요약: 키보드와 음성을 넘어 뇌 신호 자체가 AI의 입력 수단이 되는 기술이 등장함.\n※ 현재는 시각적 주의 대상을 추정하는 연구 시연 단계임.\n출처:\nAlljoined 공식 X 게시물\n공식 홈페이지:\nhttps://www.alljoined.com/",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_5269ba9f5be8",
-      "source": "디시 특이점이온다",
-      "category": "자작·프로젝트",
-      "title": "다리오는 몰입형 가상현실 게임이 ai 정치적 갈등 해결책이 될 수 있다고 주장",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1553021&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-23 00:37:45",
-      "likes": "14",
-      "comments": "11",
-      "content": "이새끼 완몰가충이었네\n- dc official App",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebb0c8b10c18859c2ae81c71879d0a28d2dc36a691aea21839ea51b66470b38ca3fb5f74c976c2ae04da56a9a6cfb2fd290aef24ca6369832d2528b40517d4c1e83d3aaf85a85b30a4a26ffb3988607"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_c7e622a4d538",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "이미지 인식 AI 반도체 에너지 소비 98% 절감",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1552985&exception_mode=recommend&page=1",
-      "author": "6974콜맨",
-      "time": "2026-11-23 00:19:17",
-      "likes": "24",
-      "comments": "10",
-      "content": "▶ 일본 자동차 부품업체 아이신과 도호쿠대가 새로운 AI 반도체 개발에 성공함.\n▶ 자성을 이용해 데이터를 저장하는 MRAM 기술로 외부 메모리 없이 AI를 구동하는 방식임.\n▶ 물체 인식 실험에서 에너지 소비 98% 감소, 처리 시간 약 10분의 1로 단축함.\n▶ 부팅 시간도 65.7밀리초로 단축해 기존보다 약 39배 빠른 속도를 달성함.\n한 줄 요약: AI 성능 경쟁뿐 아니라 전력 소모를 획기적으로 줄이는 반도체 기술도 빠르게 발전 중임.\n※ 이번 성과는 소형 이미지 인식 AI를 대상으로 한 실증 결과이며, 모든 AI 반도체의 전력 소모를 98% 줄였다는 의미는 아님.\n공식 발표:\n아이신, 도호쿠대 공동 연구자료",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa915035cd90b9499c8169f4873122e8ca19689d2fed233ec54a7ca5a77d734946f304eb0c023fcea834e794ab5f"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_3a30779887b8",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "현재 x에서 난리난 리만가설 예언했던 사람",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1552970&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ(116.46)",
-      "time": "2026-11-23 00:11:05",
-      "likes": "21",
-      "comments": "27",
-      "content": "이번년도 7월 21일에 쓴글.\n날짜 하루차이로 거의 비슷하게 맞춤\n그이후 위사람이 주장하는건\n크게 2가지인데\n1. p=np가 증명됨 근데 누구도 이해를 못함\n2. 홀 로 그래픽 인코딩으로 메모리 비용이 극적으로 감소해서 페이블7 같은 거대모델이 개인 로컬스마트폰에서도 이용가능해짐ㄷㄷ\n마지막 노래가 연주된다는뜻은 무슨말하는건지 모르겠음\n아는사람있으면 댓글좀\n글고 이렇게되면 hbm 필요없어질 수 도 있겠는데..",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebb0c8b10c18859c2ae81c71879d0a2cc78c4540491116fe4c44fcfbc7df12ce77d627ba865eb99d8f31ef91d55a1ca5f",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6707ebb0c8b10c18859c2ae81c71879d0a2ce78b9fe7a35720a9e4de840a99056099c0d83de58f7be62befc355c66fa263ed0"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_1a19e79ab6a9",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "이 영상 재밌음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1552937&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-22 23:49:29",
-      "likes": "21",
-      "comments": "15",
-      "content": "https://youtu.be/woUuAHLkM7g?si=B9cCBHmkYrUFFV2I\n딥마인드 포스트트레이닝 쪽 연구원 나왔는 데\n-사후학습 뒤지게 어려운 데 RSI 와서 내 일 좀 끝내줬으면 좋겠다\n-요즘 프론티어랩들은 모델 체크포인트 뒤지게 많이 뽑아낸다음 시장 반응 보면서 창업자나 경영레벨에서 ‘야 이거 내자’ 하면 나오는 식이다 구글이 잠시 뒤쳐졌던 건 우린 소비자 시장 전용 모델도 있고 플래시부터 모든 모델 내는 구색 갖추기를 해야돼서 스타트업같은 경쟁사 대비 늦은 감이 있었던 거 같다\n-지금보다 토큰 많이 쓰게 하려면 현실세계에서 사람들이 와우포인트를 느끼고 지갑을 열게 할만한 제품이 나와야한다 그래야 RL 환경도 갖추고 더 발전할 수 있다\n영상 안에 특붕이들이 볼만한 내용 그 외에도 많아서 볼만함\n- dc official App",
-      "images": [],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_0fd7f16eb9a7",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "디시이슈 왤케 노출 심한것만 뜨지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1552923&exception_mode=recommend&page=1",
-      "author": "사슴뿔드래고니안여고생쟝",
-      "time": "2026-11-22 23:37:02",
-      "likes": "21",
-      "comments": "21",
-      "content": "부끄러워서 볼 수가 없네",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9050c745012a1c2c04e0f2e383c2155288d2bab8f30645cae8c57b0f73235b0550dc4eb8ea712c57c7863403"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_7d4089d8af99",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "특갤 << 지수함수 보고 오르가즘 느끼는 곳",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1552921&exception_mode=recommend&page=1",
-      "author": "CAIVS",
-      "time": "2026-11-22 23:35:52",
-      "likes": "16",
-      "comments": "10",
-      "content": "",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6717ebbb1d90de0d2c4bb88a79d6fe83def25c5a98e9cbb315fe21cb993f6d1b9991a1ea5a26497e031676f2432768a99086ca774f1de6ae1fc2343db5a0f00c43281b06cef1d290cdec032274ab7f91471"
       ],
       "is_cross_hot": false
     }
