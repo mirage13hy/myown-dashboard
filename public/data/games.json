@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 14:07",
+  "updated_at": "2026-11-28 23:38",
   "source_status": {
     "루리웹 예판·핫딜": "ok (10)",
     "루리웹 콘솔뉴스": "ok (10)",
@@ -37,7 +37,7 @@
       "url": "https://bbs.ruliweb.com/market/board/1020/read/109447",
       "author": "",
       "time": "2026-11-28 11:51",
-      "likes": "20",
+      "likes": "44",
       "comments": "",
       "content": "https://point.pay.naver.com/mission-detail?dataType=category&rank=27&pageKey=all&rankType=DESC&sortCompletedAdToLast=false&mssCode=all\n즉시적립에 파파존스",
       "images": []
@@ -50,11 +50,26 @@
       "url": "https://bbs.ruliweb.com/market/board/1020/read/109445",
       "author": "",
       "time": "2026-11-28 09:56",
-      "likes": "8",
+      "likes": "13",
       "comments": "",
       "content": "빅토리아 탄산수 20개+20개 13,900원나오네요",
       "images": [
         "https://i2.ruliweb.com/img/26/11/28/1a21fa78ce358d1be.webp"
+      ]
+    },
+    {
+      "id": "ruli_5acf815c27e0",
+      "source": "루리웹 예판·핫딜",
+      "category": "할인·예판",
+      "title": "[롯데온] 펩시콜라 제로슈거 라임향 355ml 48캔 (25,760원/무...",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109444",
+      "author": "",
+      "time": "2026-11-28 08:51",
+      "likes": "10",
+      "comments": "",
+      "content": "엘포 천점 적립있어서 체감은 2.4만대 정도네요\n뚱캔 개당 536원 꼴이고 제로카페인으로도 가능합니다",
+      "images": [
+        "https://i3.ruliweb.com/img/26/11/28/1a21f6c137555a057.webp"
       ]
     },
     {
@@ -65,7 +80,7 @@
       "url": "https://bbs.ruliweb.com/market/board/1020/read/109442",
       "author": "",
       "time": "2026-11-28 00:30",
-      "likes": "13",
+      "likes": "15",
       "comments": "",
       "content": "초록매실 제로 1.5L 12개 쿠폰받으시면 16,450원 나옵니다",
       "images": [
@@ -73,27 +88,30 @@
       ]
     },
     {
-      "id": "ruli_62f42ccf267c",
+      "id": "ruli_01161a60f015",
       "source": "루리웹 예판·핫딜",
       "category": "할인·예판",
-      "title": "[네이버페이] 일일적립, 클릭 43원",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109441",
-      "author": "",
-      "time": "2026-11-28 00:27",
-      "likes": "162",
+      "title": "[롯데온] 다이제샌드 바닐라 5개+초코 5개+나샌드 5개 (14,110원...(1)",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109450",
+      "author": "루랄",
+      "time": "2026-11-28 18:47",
+      "likes": "6",
       "comments": "",
-      "content": "클릭적립 합계 43원\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=cr_2026112801_2612_01_1840\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=cr_2026112403_2612_1128\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=cr_pointdraw_261128_1666\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=cr_pointdraw_261128_1616\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=pointdraw_benefit_261128\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=pointdraw_mycar_261128\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=pointdraw_spay_261128\n일일적립\n포인트뽑기 토스트 적립 (여기 누르면 ?원 클릭)\nhttps://home.pay.naver.com\n결제홈 깜짝 방문 (10원+5원, 스크롤 15초 유지, 월 5회 제한)\nhttps://new-m.pay.naver.com/historybenefit/home\n클릭 미션 (자정 초기화, 초록색 클릭버튼)\nhttps://point.pay.naver.com/pc/main?category=quickreward\n마이카 방문 혜택\nhttps://mycar.naver.com/\n네이버페이 보험 방문 미션 (자정 초기화)\nhttps://insurance.pay.naver.com/?inflow=point_category\n네이버페이 운세 (1원, 자정 초기화)\nhttps://ofw.adison.co/u/naverpay/ads/730013\n가장 빠른 즉시적립 혜택 보기 (1원, 10시 초기화)\nhttps://ofw.adison.co/u/naverpay/ads/67823\n브랜드뽑기 후 결제하러 가기 클릭 (10원, 14시 초기화)\nhttps://campaign2.naver.com/npay/branddraw/?from=pointtab\n직링 적립 실패 시\n네이버페이->즉시적립\n에서 직접 받아주세요\nhttps://point.pay.naver.com/pc/mission-detail?dataType=category&rank=18&pageKey=quickreward",
-      "images": []
+      "content": "일반 다이제보다 샌드가 부드러워서 먹기 좋습니다\n총 15개 오는거고 개당 940원 정도 나와요",
+      "images": [
+        "https://i2.ruliweb.com/img/26/11/28/1a2218d85be595be5.webp",
+        "https://i3.ruliweb.com/img/26/11/28/1a2218d86f5595be5.webp"
+      ]
     },
     {
       "id": "ruli_256d96933409",
       "source": "루리웹 예판·핫딜",
       "category": "할인·예판",
-      "title": "헌터x헌터 샤르나크 누들스토퍼 5월 예약 상품 가격다양(1)",
+      "title": "[네이버쇼핑]헌터x헌터 샤르나크 누들스토퍼 5월 예약 상품 가격다양(7)",
       "url": "https://bbs.ruliweb.com/market/board/1020/read/109448",
       "author": "순한타입",
       "time": "2026-11-28 13:28",
-      "likes": "1",
+      "likes": "3",
       "comments": "",
       "content": "샤르나크 누들 스토퍼 재판 예약 검색돼서 공유 드립니다\nhttps://msearch.shopping.naver.com/search/all?adQuery=%ED%97%8C%ED%84%B0%ED%97%8C%ED%84%B0%20%EC%83%A4%EB%A5%B4%EB%82%98%ED%81%AC&includeDeliveryFee=true&origQuery=%ED%97%8C%ED%84%B0%ED%97%8C%ED%84%B0%20%EC%83%A4%EB%A5%B4%EB%82%98%ED%81%AC&pagingIndex=1&pagingSize=40&productSet=total&query=%ED%97%8C%ED%84%B0%ED%97%8C%ED%84%B0%20%EC%83%A4%EB%A5%B4%EB%82%98%ED%81%AC&sort=rel&viewType=list",
       "images": [
@@ -104,11 +122,11 @@
       "id": "ruli_80f19bd022df",
       "source": "루리웹 예판·핫딜",
       "category": "할인·예판",
-      "title": "[공홈,스팀] 길드워2 확장팩 세일 / ~35%(4)",
+      "title": "[공홈,스팀] 길드워2 확장팩 세일 / ~35%(9)",
       "url": "https://bbs.ruliweb.com/market/board/1020/read/109446",
       "author": "곰태식",
       "time": "2026-11-28 10:37",
-      "likes": "1",
+      "likes": "2",
       "comments": "",
       "content": "[스팀 주소]\nhttps://store.steampowered.com/app/1284210/Guild_Wars_2/\n유저 한글 패치로 한글 플레이 가능\n12월 2일 종료",
       "images": [
@@ -117,19 +135,73 @@
       ]
     },
     {
-      "id": "ruli_5acf815c27e0",
-      "source": "루리웹 예판·핫딜",
-      "category": "할인·예판",
-      "title": "[롯데온] 펩시콜라 제로슈거 라임향 355ml 48캔 (25,760원/무...(4)",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109444",
-      "author": "마니태",
-      "time": "2026-11-28 08:51",
+      "id": "ruli_fa2e30eb9d64",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "GTA6에서 전기톱을 사용 못 하는 이유",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367307",
+      "author": "Straw Man",
+      "time": "2026-11-28 18:25",
+      "likes": "47",
+      "comments": "",
+      "content": "락스타 스튜디오 공동 대표인 롭 넬슨 인터뷰\n\"전기톱 만큼은\n이런 그래픽과 이 캐릭터들에게는 너무 과했을 거라고 생각합니다.\", \"리소스 부족의 문제가 아닙니다. 아무리 광기에 휩싸인 제이슨과 루시아라고 해도 정말 그게 필요했을까요? 그런 모습이 어떻게 보여질까요?\"",
+      "images": [
+        "https://i3.ruliweb.com/img/26/11/28/1a22174dff851216c.webp"
+      ]
+    },
+    {
+      "id": "ruli_261c4ee4be2e",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "SNK 월드 챔피언십 | DAY 2 | KOF15, COTW, 사쇼",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367306",
+      "author": "나쁜짓",
+      "time": "2026-11-28 18:17",
+      "likes": "3",
+      "comments": "",
+      "content": "킹오파\nhttps://www.start.gg/tournament/snk-world-championship-2026-2/event/finals-the-king-of-fighters-xv/brackets/2459787/3535528\n한국인은 동네형, 팡마 2인 출전했습니다.\n한국어 같이보기\nCOTW\n사쇼 + 용호 외전",
+      "images": []
+    },
+    {
+      "id": "ruli_2c82b75977e9",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "어둠의 실력자가 되고 싶어서! 팬텀 에코즈 트레일러, 5월 14일 발매",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367305",
+      "author": "이토 시즈카",
+      "time": "2026-11-28 18:05",
+      "likes": "8",
+      "comments": "",
+      "content": "",
+      "images": []
+    },
+    {
+      "id": "ruli_823fa44c1702",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "[AC]금일 페르소나 4 디 얼티맥스 울트라 수플렉스 홀드 가동 13주년...",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367304",
+      "author": "로메오카이",
+      "time": "2026-11-28 14:54",
+      "likes": "8",
+      "comments": "",
+      "content": "[ARC: 오늘날의 역사]\n2013년 11월 28일, 아크시스템웍스(Arc System Works)와 아틀러스(Atlus)가 공동 개발한 《페르소나 4 디 얼티맥스 울트라 수플렉스 홀드(Persona 4 Arena Ultimax)》의 아케이드 버전이 정식으로 가동을 시작했습니다.\n이 버전에서는 타케바 유카리, 이오리 준페이, 미나즈키 쇼, 그리고 미나즈키(쇼)가 새로운 플레이어 캐릭터로 추가되었습니다. 또한, '섀도 타입(Shadow Type)' 시스템이 도입되어 더욱 치열한 전투를 즐길 수 있게 되었습니다!",
+      "images": [
+        "https://i3.ruliweb.com/img/26/11/28/1a220b62fbf4d4df1.webp"
+      ]
+    },
+    {
+      "id": "ruli_21b51f2f212e",
+      "source": "루리웹 콘솔뉴스",
+      "category": "PlayStation",
+      "title": "[GTA 6] 칼럼: 전설적인 록 아티스트들을 추가하여, 메탈 라디오를 ...",
+      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367303",
+      "author": "게이패스",
+      "time": "2026-11-28 14:22",
       "likes": "5",
       "comments": "",
-      "content": "엘포 천점 적립있어서 체감은 2.4만대 정도네요\n뚱캔 개당 536원 꼴이고 제로카페인으로도 가능합니다",
-      "images": [
-        "https://i3.ruliweb.com/img/26/11/28/1a21f6c137555a057.webp"
-      ]
+      "content": "GTA 6에서는 록과 메탈 음악이 두드러지게 등장하며, 락스타 게임즈(Rockstar Games)는 전설적인 가수와 영향력 있는 밴드들이 출연하는 전용 라디오 방송국들을 게임에 포함시켰습니다. 사운드트랙에는 록 음악에 특화된 4개의 방송국이 있으며, 그중 106.6 The Chamber는 슬레이어의 멤버인 톰 아라야와 케리 킹이 진행하는 메탈 전문 방송국입니다.\nLoudwire의 11월 18일 보도에 따르면, 이 게임에는 총 22개의 라디오 방송국이 있습니다. 그중 4개의 록 및 메탈 방송국은 세계적인 유명 아티스트들의 음악과 수십 년에 걸친 대중음악을 아우르는 곡들을 제공합니다.\n메탈 라인업에는 Anthrax, Black Sabbath, Dio, Exodus, Flotsam & Jetsam, Iron Maiden, Judas Priest, Linkin Park, Mastodon 등이 포함됩니다. 수록곡 중에는 Anthrax의 \"I Am The Law\", Black Sabbath의 \"I\", Dio의 \"We Rock\", Exodus의 \"Bonded by Blood\", Mastodon의 \"Blood and Thunder\" 등이 있습니다.\n다른 라디오 방송국들은 헤비메탈 외에도 다양한 장르를 선곡합니다. Emotion 98.3은 유명 팝과 소프트록 가수들의 음악을, V-Rock은 AC/DC, Aerosmith, Bon Jovi, Def Leppard, Fleetwood Mac, Motley Crue, The Rolling Stones, Tom Petty 등 하드록 아티스트들의 음악을 들려줍니다.\nGTA 6 공식 트레일러1 (현재 조회 수 3.1억회)에서 사용된 Tom Petty의 \"Love Is A Long Road\"\nGTA 6에는 케이티 밥스와 숀 더 부처를 포함하여 시리우스XM의 록 및 메탈 방송계에서 활동하는 유명 인사들의 목소리도 담겨 있습니다. 유명 뮤지션과 라디오 진행자들의 참여는 이 프랜차이즈가 가상의 방송국에 뚜렷한 정체성을 부여하기 위해 친숙한 목소리를 활용하는 전통을 이어가는 것입니다.\nGTA 시리즈와 록 음악의 관계는 여러 세대에 걸쳐 발전해 왔습니다. 2002년에 출시된 GTA: 바이스 시티는 1980년대 음악을 광범위하게 라이선스하여 젊은 유저들에게 글램 메탈과 하드 록과 관련된 아티스트들을 소개하며 특히 큰 영향을 미쳤습니다.\nGTA 바이스 시티 드라이브 영상 (Quiet Riot의 Come on Feel the Noize)\n이 게임의 V-Rock 스테이션에서는 Motley Crue, Scorpions, Def Leppard, Quiet Riot 등의 밴드 음악을 들을 수 있었습니다. 또한 게임 속 가상의 스코틀랜드 헤비메탈 밴드인 Love Fist는 밴드와 멤버들이 등장하는 여러 미션을 통해 스토리라인의 중요한 부분을 차지했습니다.\n러브 피스트의 드러머 딕의 목소리를 연기한 존 리치는 가상의 밴드 음악이 1980년대 헤어 메탈의 과격함과 밀접한 관련이 있다고 설명했습니다. 캐릭터 중심의 미션 덕분에 밴드는 게임 속 음악적 배경 이상의 존재감을 갖게 되었습니다.\nGTA 바이스 시티에 나오는 가상의 헤비메탈 밴드 '러브 피스트' 미션 모음 영상 (디피니티브 에디션 버전)\n이후 프랜차이즈는 더욱 강렬한 음악을 계속해서 도입했습니다. GTA 4: The Lost and Damned 확장팩에는 At The Gates, Cannibal Corpse, Deicide와 같은 데스 메탈 밴드들이 참여하여 플레이어들이 즐길 수 있는 음악적 다양성을 넓혔습니다.\nGTA 6의 확장된 라디오 선곡 기능은 클래식 록, 헤비메탈, 그리고 최신 아티스트들을 아우릅니다. 특히 메탈 전용 프로그램은 기존 거장들의 음악과 다양한 세대의 헤비메탈 음악을 함께 선보이며, 그랜드 테프트 오토 시리즈의 특징적인 사운드트랙 전통을 이어갑니다.",
+      "images": []
     },
     {
       "id": "ruli_0d7db89c4470",
@@ -139,7 +211,7 @@
       "url": "https://bbs.ruliweb.com/news/board/1001/read/2367301",
       "author": "이토 시즈카",
       "time": "2026-11-28 13:00",
-      "likes": "8",
+      "likes": "15",
       "comments": "",
       "content": "태양을 가져온 자 EP 「Triple Threat」 | 젠레스 존 제로\n어쩌면, 우리와 비슷하면서도 전혀 다른 어느 세계에서는——\n「드라드라, 오늘 저녁은 뭐 먹어? 오늘 진짜 너무 힘들었어!」\n「음~ 브로콜리 크림 스튜!」\n「또 브로콜리야? 임무도 무사히 끝냈는데, 축하라도 해야 하는 거 아니야?」\n「린드베른, 전에 집안일만 하지 않아도 된다면 드라케나가 해주는 음식은 뭐든 먹겠다고 하지 않았던가?」\n「그렇긴 한데, 꼭 오늘까지 그래야 해——?!」\n「풉~ 농담이야, 네가 좋아하는 스테이크랑 웨지 포테이토도 있어~」\n▼ 제작 명단\n프로듀서: Zhou Bin\n작사: Kat Leon\n작곡: Zhou Bin\n메인 보컬: Kat Leon\n믹싱: Zhou Bin\n마스터링: Zhou Bin\n로프꾼 여러분, 안녕하세요!\n이번에 여러분을 위해 가져온 내용은 「로빈」의 신규 코스튬 「은하의 리듬」입니다. 함께 확인해 봐요!",
       "images": [
@@ -157,7 +229,7 @@
       "url": "https://bbs.ruliweb.com/news/board/1001/read/2367300",
       "author": "echospherics",
       "time": "2026-11-28 12:27",
-      "likes": "1",
+      "likes": "8",
       "comments": "",
       "content": "『구역질이 나. 세상은 온통 거짓말뿐이야.』\n거짓말을 혐오하는 청년, 나가츠키 아키토.\n그는 타인의 ‘거짓말’이나 ‘연기’를 감지하면,\n마치 몸이 거부하기라도 하듯 구역질에 시달리게 된다.\n그런 그가 만난 것은, 누구보다 능숙하게\n‘이상적인 자신’을 연기하는 소녀, 사쿠라미야 무이였다.\n그녀를 본 순간, 아키토는 직감한다.\n――이것은, 최악의 만남이라고.\n장르 : 거짓말에서 시작하는 청춘 어드벤처\n플랫폼 : Switch / Steam\n발매일\n-Steam : 2026년 12월 10일\n-Switch : 2027년 봄\n가격\n-다운로드판 : 2860엔\n-Switch 패키지판 : 4000엔\n언어 : 일본어 / 영어 / 중국어 간체 / 중국어 번체\n클리어 시간 : 4시간 정도",
       "images": [
@@ -176,7 +248,7 @@
       "url": "https://bbs.ruliweb.com/news/board/1001/read/2367299",
       "author": "이토 시즈카",
       "time": "2026-11-28 12:03",
-      "likes": "5",
+      "likes": "11",
       "comments": "",
       "content": "<실버 팰리스> 정식 출시 프리뷰 특별 방송\n탐정님께,\n<실버 팰리스> 정식 출시 프리뷰 특별 방송이 2026/12/5 20:00 (KST)에 진행됩니다. 방송을 통해 탐정 여러분께 정식 출시 버전 관련 정보를 공개할 예정입니다.\n▼공식 라이브 방송 페이지에서 방송을 사전 예약해 주세요:\nhttps://youtube.com/@SilverPalace_KO\n<실버 팰리스> 12월 14일 글로벌 출시 확정!\n▼사전예약 바로가기:\nhttps://urlhe.com/ckpg2",
       "images": [
@@ -191,7 +263,7 @@
       "url": "https://bbs.ruliweb.com/news/board/1001/read/2367298",
       "author": "이토 시즈카",
       "time": "2026-11-28 12:00",
-      "likes": "7",
+      "likes": "12",
       "comments": "",
       "content": "(폭탄급) 에이전트 파일 | 휴기\n「『선동과 날조밖에 모르는 조회수 악귀』? 칭찬 고마워! 동종 업계 사람들의 비방은 전혀 임팩트가 없다니까? 꼭 자기들이 쓴 기사처럼 말이야~」\n휴기 허먼드\n「하? 〈에이전트 파일 | 휴기〉… 이것 보라고, 제목만 봐도 범재의 졸작이라는 티가 팍팍 나는군!」\n「운이 좋네, 풋내기 기자——오늘 내가 한 수 알려주지」\n「훌륭한 기자가 되기 위한 제1원칙: 일단 제목부터 폭탄급으로 뽑아야 해! 구체적으로 어떻게 해야 하냐고? 그런 것까지 일일이 가르쳐 줘야 해?」\n휴기\n한국어 CV: 손선영\n일본어 CV: 스즈시로 사유미\n(제작 일정 사정으로 일본어판 쇼츠는 보이스 미수록)",
       "images": [
@@ -207,7 +279,7 @@
       "url": "https://bbs.ruliweb.com/news/board/1001/read/2367297",
       "author": "이토 시즈카",
       "time": "2026-11-28 11:01",
-      "likes": "11",
+      "likes": "16",
       "comments": "",
       "content": "에이전트 파일 | 세실리아\n「오랜만이에요… 뉴에리두! 이 노래를 시작으로 다시 서로를 알아가 봐요~」\n세실리아 로레이\n「거센 물살이 소용돌이치는 깊은 바닷속에서는, 소리가 빛보다 더 멀리 퍼져 나가고…」\n「참혹한 폐허 속에서도, 희망은 슬픔보다 치유에 더 가까이 있죠」\n「——제 노래가 여러분의 새로운 출발을 여는, 전주곡이 되기를 바라요」\n한국어 CV: 이눈솔\n일본어 CV: 키쿠치 유리나",
       "images": [
@@ -216,249 +288,149 @@
       ]
     },
     {
-      "id": "ruli_9dfc4405a7da",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "GTA 6 1주 예상 판매량 5300만 역대 13번째로 많이 팔린 게임",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367296",
-      "author": "게이밍포럼",
-      "time": "2026-11-28 08:33",
-      "likes": "16",
-      "comments": "",
-      "content": "GTA 6의 1주일 예상 판매량은 사이버펑크 2077, 심즈, 그리고 초기 포켓몬 시리즈를 제치고 역대 13번째로 많이 팔린 게임으로 꼽힌다.\n5,300만 장이라는 판매량은 어떤 콜 오브 듀티 시리즈보다도 높은 수치다.\n애널리스트들의 추산에 따르면 GTA 6의 판매량은 5,300만 장에 달하는 것으로 나타났으며, 이 수치가 정확하다면 출시 불과 일주일 만에 역대 13번째로 많이 팔린 게임이 되는 셈입니다.\n2026년 가장 놀랍지 않은 소식 중 하나인 GTA 6의 판매 실적은 꽤 좋은 편입니다. 이 게임은 아마도 역사상 가장 기대를 모았던 게임이었을 뿐만 아니라 메타크리틱에서 역대 최고 평점을 받은 게임이기도 하므로, 당연히 판매량도 그에 걸맞게 나왔습니다. 록스타 게임즈가 발표한 첫 번째 공식 수치에 따르면, 출시 전부터 이미 3,250만 장이 판매된 것으로 집계되었는데, 이는 ‘슈퍼 마리오 오디세이’, ‘몬스터 헌터 월드’, ‘엘든 링’ 등을 제치고 역대 30위권에 진입한 기록이었습니다. 하지만 이는 출시 전 수치에 불과했기에, 그 성공이 거기서 멈추지 않았다는 사실은 전혀 놀랍지 않습니다.\n알리네아 애널리틱스(Alinea Analytics)의 시장 분석 책임자인 리스 엘리엇(Rhys Elliott)은 트위터를 통해 최신 추정치를 공개했는데, 이에 따르면 락스타의 최신작은 5,300만 장이 판매되었으며, 출시 첫 주에 47억 달러의 매출을 올린 것으로 나타났습니다.\n이 수치가 정확하다면, GTA 6는 역대 13번째로 많이 팔린 게임이 되며, ‘동물의 숲: 뉴 호라이즌’을 제치고 ‘사이버펑크 2077’, ‘심즈’, 그리고 ‘포켓몬스터 1세대’ 게임들(레드, 블루, 옐로우의 합산 판매량이 4,744만 장)을 앞지르게 됩니다.\n엘리엇의 데이터에 따르면, GTA 6 판매량의 4분의 1 미만이 엑스박스 플랫폼에서 발생했으며, 시리즈 X|S 버전은 1,300만 부, PS5 버전은 4,000만 부를 기록한 것으로 추정됩니다. 또한 단순히 판매량만 좋은 것이 아니라, 이미 700만 명의 플레이어가 50시간 이상 플레이했으며, 그중 25만 명은 100시간 이상을 플레이한 것으로 나타났습니다. 참고로, 이 트윗이 게시된 시점에서 뉴질랜드에서는 게임이 출시된 지 약 219시간이 지났습니다.\n어떻게 보더라도 이는 분명 엄청난 성과입니다. 하지만 PC 버전은 아직 출시되지도 않았다는 점을 염두에 두어야 합니다. 따라서 PC 유저들과, 두 번 구매할 예정인 콘솔 유저들이 게임을 접하게 되면 이 수치는 다시 한 번 급증할 가능성이 있습니다.",
-      "images": [
-        "https://i3.ruliweb.com/img/26/11/28/1a21f58f9c4490c12.webp",
-        "https://i2.ruliweb.com/img/26/11/28/1a21f5a4acf490c12.webp"
-      ]
-    },
-    {
-      "id": "ruli_eedf9b0a5e8f",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "금일 테일즈 오브 데스티니 2 발매 24주년 맞이",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367295",
-      "author": "로메오카이",
-      "time": "2026-11-28 08:01",
-      "likes": "20",
-      "comments": "",
-      "content": "【오늘은 무슨 날?】\n2002년 11월 28일, 『테일즈 오브 데스티니 2』가 발매되었습니다. 올해로 24주년입니다.\nhttps://www.famitsu.com/article/202611/94970\n전투에는 TT-LMBS(트러스트 & 택티컬 리니어 모션 배틀 시스템)가 채용되었다. 바르바토스의 \"아이템 따위 쓰지 마!\"라는 대사는 잊을 수가 없다.",
-      "images": [
-        "https://i1.ruliweb.com/img/26/11/28/1a21f3cc9734d4df1.webp",
-        "https://i3.ruliweb.com/img/26/11/28/1a21f3d046c4d4df1.webp",
-        "https://i1.ruliweb.com/img/26/11/28/1a21f3d06104d4df1.webp"
-      ]
-    },
-    {
-      "id": "ruli_84f82ce83960",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "GTA 6 국가별 초기 판매량 / 한국 44만장",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367294",
-      "author": "루리웹-912735355120",
-      "time": "2026-11-28 07:26",
-      "likes": "45",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://i3.ruliweb.com/img/26/11/28/1a21f1d07a353d19c.webp"
-      ]
-    },
-    {
-      "id": "ruli_3a60f76b21e6",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "데이브 더 다이브 GTA6 관련 트윗",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367293",
-      "author": "c-r-a-c-k-ER",
-      "time": "2026-11-28 01:43",
-      "likes": "28",
-      "comments": "",
-      "content": "Is that...?",
-      "images": [
-        "https://i1.ruliweb.com/img/26/11/28/1a21de2d08810a2ff.webp"
-      ]
-    },
-    {
-      "id": "ruli_068fb853a0ef",
-      "source": "루리웹 콘솔뉴스",
-      "category": "PlayStation",
-      "title": "아랑전설 CotW - 레이나(철권) 커맨드 리스트 공개",
-      "url": "https://bbs.ruliweb.com/news/board/1001/read/2367292",
-      "author": "echospherics",
-      "time": "2026-11-28 01:01",
-      "likes": "14",
-      "comments": "",
-      "content": "REV 블로\n-뇌동 만자차기 : (S.P.G 중) CD\n-공중 뇌섬각 : (S.P.G 중) 공중에서 CD\n특수기\n-섬돌 : ↘+ A\n-전체 주전차기 : (대시중) →+B\n-삼계 떨구기 : →→ + B\n-영재문 : ↙+C\n-사해 떨구기 : (일어나며) D > D\n-육천락 : →+D\n-강장파 : AC\n-운족 감 : ←+BD\n-운풍 뛰어 만자 : (운족 감) D\n커맨드 콤보\n-커맨드 콤보1 : A>A> C\n-커맨드 콤보2 : A>C>C\n-커맨드 콤보3 : ↘+A>A\n-커맨드 콤보4 : ↘+A>C\n-커맨드 콤보5 : ↘+A>A>C>C\n-커맨드 콤보6 : A>C>B>D\n필살기\n-풍신 스텝 : →N↓↘ 또는 ↓↘→ + B or D\n├뇌신권 : (풍신 스텝) A\n│├ 뇌강십천떨구기 : (뇌신권) B\n│└ 뇌강전륜 : (뇌신권) D\n├무신각 : (풍신 스텝) B\n├풍신권 : (풍신 스텝) C\n└나락쓸기(1) : (풍신 스텝) D\n├나락무참 : (나락쓸기(1)) C\n└나락쓸기 : (나락쓸기(1)) D\n-최속무신각 : →N↓↘ + B (↘와 B를 동시 입력)\n-최속풍신권 : →N↓↘ + C (↘와 C를 동시 입력)\n-금강벽 : ↓↙← + A or C\n├풍신 스텝 : (금강벽) ↘\n├강마쇄 : (금강벽) A\n├지천뇌굉 : (금강벽) B\n├선체 : (금강벽) →+B\n├이선공인각 : (금강벽) ↖ or ↑ or ↗︎ + B>D\n├발뢰강장파 : (금강벽) C\n└금각경멸진 : (금강벽) D>C\n-선체 : ↓↙← + B or D\n├풍림화참 : (선체) A>C\n├장풍 : (선체) B\n├나생문 : (선체) C\n└야차쓸기 : (선체) D\n-답철유린(1) : ↓↓+B or D\n└답철유린 : (강/REV 답철유린(1)) C\n초필살기\n-패도섬괴 : ↓↘→↓↘→+A\n-뇌신람각 : ↓↘→↓↘→+B\n잠재능력\n-오기 패도섬괴 : ↓↘→↓↘→+C\n-오기 뇌신람권 : ↓↘→↓↘→+D\n히든기어\n-(S.P.G 중) ↓↘→↓↘→+REV\n일부 기술은 철권에 없는 오리지널 기술 + 일본어 커맨드표가 안 나와서 의역했습니다.",
-      "images": [
-        "https://i1.ruliweb.com/img/26/11/28/1a21d8e40f1fd3bc.webp"
-      ]
-    },
-    {
-      "id": "ruli_84cc43364575",
+      "id": "ruli_82e2f9822e54",
       "source": "루리웹 PC·스팀",
       "category": "PC·스팀",
-      "title": "두근두근 메모리얼 드라마 시리즈 무지갯빛 청춘 - 한국어 패치 (비공식)",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360130",
-      "author": "아미",
-      "time": "2026-11-28 13:40",
+      "title": "[로아]로스트아크 2부 파밍 재료 이관 요약 및 총정리",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360148",
+      "author": "Naeri",
+      "time": "2026-11-28 22:53",
       "likes": "1",
       "comments": "",
-      "content": "패치 배포 페이지:\nhttps://17labs.tistory.com/15\n사람이 직접 글과 그림을 번역하고 수정했습니다.",
+      "content": ":: 원문(링크) ::\n이번 겨울 로스트아크 2부 시작과 함께 기존에 모든 성장 재료 및 아이템들이 삭제나 2부 재료들로 간소화됩니다.\n#로스트아크\n#로아\n#금강선\n#스마일게이트\n#나에리\n#전재학\n#로아",
       "images": [
-        "https://i2.ruliweb.com/img/26/11/28/1a22071ca582ba4.webp",
-        "https://i3.ruliweb.com/img/26/11/28/1a22071fb032ba4.webp",
-        "https://i1.ruliweb.com/img/26/11/28/1a220721bef2ba4.webp",
-        "https://i3.ruliweb.com/img/26/11/28/1a220725f2b2ba4.webp",
-        "https://i1.ruliweb.com/img/26/11/28/1a2207260e52ba4.webp",
-        "https://i2.ruliweb.com/img/26/11/28/1a2207262f82ba4.webp",
-        "https://i3.ruliweb.com/img/26/11/28/1a2207264fc2ba4.webp",
-        "https://i3.ruliweb.com/img/26/11/28/1a2207266cb2ba4.webp"
+        "https://i2.ruliweb.com/img/26/11/28/1a2226b225847f450.webp",
+        "https://i2.ruliweb.com/img/26/11/28/1a2226b2e3f47f450.webp",
+        "https://i1.ruliweb.com/img/26/11/28/1a2226b3a8f47f450.webp",
+        "https://i1.ruliweb.com/img/26/11/28/1a2226b4a1a47f450.webp",
+        "https://i1.ruliweb.com/img/25/06/25/197a5ec1f9a47f450.png"
       ]
     },
     {
-      "id": "ruli_2aa36675bdd4",
+      "id": "ruli_202396fbb299",
       "source": "루리웹 PC·스팀",
       "category": "PC·스팀",
-      "title": "비주얼 노벨 \"트라우마 레코드\" 티저 PV",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360129",
-      "author": "ComShepard",
-      "time": "2026-11-28 12:47",
-      "likes": "",
-      "comments": "",
-      "content": "https://x.com/teamunnamedmoon/status/2126451006846476723\nhttps://store.steampowered.com/app/3442310/Trauma_Record/",
-      "images": [
-        "https://i1.ruliweb.com/img/26/11/28/1a2204284d815e737.webp",
-        "https://i3.ruliweb.com/img/26/11/28/1a220428dee15e737.webp",
-        "https://i2.ruliweb.com/img/26/11/28/1a22042ae2915e737.webp",
-        "https://i3.ruliweb.com/img/26/11/28/1a22042b01f15e737.webp",
-        "https://i3.ruliweb.com/img/26/11/28/1a22042b17415e737.webp",
-        "https://i3.ruliweb.com/img/26/11/28/1a22042b38a15e737.webp",
-        "https://i2.ruliweb.com/img/26/11/28/1a22042b53715e737.webp",
-        "https://i3.ruliweb.com/img/26/11/28/1a22042b72b15e737.webp"
-      ]
-    },
-    {
-      "id": "ruli_42216fef172a",
-      "source": "루리웹 PC·스팀",
-      "category": "PC·스팀",
-      "title": "실시간 전술 슈팅 \"얼라인먼트 제로\" 티저 트레일러",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360128",
-      "author": "ComShepard",
-      "time": "2026-11-28 12:38",
-      "likes": "",
-      "comments": "",
-      "content": "",
-      "images": [
-        "https://i2.ruliweb.com/img/26/11/28/1a2203a2eee15e737.webp",
-        "https://i2.ruliweb.com/img/26/11/28/1a2203a3c3315e737.webp",
-        "https://i1.ruliweb.com/img/26/11/28/1a2203a50a315e737.webp",
-        "https://i2.ruliweb.com/img/26/11/28/1a2203a528215e737.webp",
-        "https://i1.ruliweb.com/img/26/11/28/1a2203a546a15e737.webp",
-        "https://i2.ruliweb.com/img/26/11/28/1a2203a565b15e737.webp",
-        "https://i2.ruliweb.com/img/26/11/28/1a2203a585015e737.webp",
-        "https://i1.ruliweb.com/img/26/11/28/1a2203a5a5015e737.webp"
-      ]
-    },
-    {
-      "id": "ruli_090746e8ab4e",
-      "source": "루리웹 PC·스팀",
-      "category": "PC·스팀",
-      "title": "텐센트, 세련된 멀티플레이어 격투 액션 [SHOTIME] 공개",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360127",
-      "author": "Trust No.1",
-      "time": "2026-11-28 11:55",
+      "title": "와우 한밤 12.2 패치 및 3시즌 날짜 추정",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360147",
+      "author": "Naeri",
+      "time": "2026-11-28 22:53",
       "likes": "2",
       "comments": "",
+      "content": ":: 원문(링크) ::\n월드 오브 워크래프트: 한밤 12.1.7 패치는 다음주 목요일인 12월 3일에 나올 예정입니다. 12.1.7 패치의 주요 콘텐츠 중 하나가 격동하는 시간의 길입니다. 격동하는 시간의 길을 보면 12.2.0 패치의 날짜를 추정할 수 있습니다.\n12.1.7 패치의 격동하는 시간의 길은 북미 시간 기준으로 12월 1일부터 2027년 1월 26일까지 열립니다. 한국 시간으로 하면 12월 3일부터 1월 28일까지입니다.\n12.1.0 패치의 선례를 보면\n12.0.7 패치 때 격동하는 시간의 길은 7월 2일부터 8월 13일까지 열렸습니다.\n8월 13일에 12.1.0 패치인 울라텍의 저주가 열렸습니다.\n8월 20일에 2시즌이 시작되었습니다.\n이를 현재 상황에 대입하면 다음 결과가 나옵니다.\n12.1.7 격동하는 시간의 길은 12월 3일부터 2027년 1월 28일까지 진행될 예정입니다.\n12.2.0 빛의 잠식은 격동하는 시간의 길이 끝나는 1월 28일에 출시될 가능성이 높습니다.\n3시즌은 한 주 후인 2월 4일에 진행될 가능성이 높습니다.\n이는 12.1.7 패치의 교역소 데이터가 매우 적은 것에서 볼 때 제법 타당합니다. 12.1.7의 교역소 데이터는 다른 패치에 비해 매주 적기 때문입니다. 이름으로 보면 테마도 2027년 1월 한달분이라고도 볼 수 있습니다.\n물론 12월과 1월은 연휴가 많고, 교역소라 (한 달 욕먹는다 생각하고) 재탕으로 간다면 쓸 데이터가 제법 있습니다. 그래서 이는 틀릴 수도 있습니다.\n#블리자드\n#블쟈\n#Blizzard\n#나에리\n#NAERI\n#WOW\n#와우\n#월드오브워크래프트\n#한밤\n#확장팩",
+      "images": [
+        "https://i2.ruliweb.com/img/26/11/28/1a2226d55e747f450.webp",
+        "https://i2.ruliweb.com/img/26/11/28/1a2226d59fa47f450.webp",
+        "https://i2.ruliweb.com/img/26/09/15/1a0a2e7a73347f450.webp"
+      ]
+    },
+    {
+      "id": "ruli_f29b3bda9e0b",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "다나와 \"회원정보 일부 유출 확인\"…예스24 때와 판박이?",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360146",
+      "author": "Saminet",
+      "time": "2026-11-28 22:39",
+      "likes": "",
+      "comments": "",
       "content": "",
       "images": []
     },
     {
-      "id": "ruli_73b01c1dfe86",
+      "id": "ruli_65bb637b136f",
       "source": "루리웹 PC·스팀",
       "category": "PC·스팀",
-      "title": "[종합] 엔씨 사상 첫 '리니지 페스티벌'",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360126",
+      "title": "에픽세븐 최강자를 가리는 E7WC 2026, 전승으로 결승 오른 '키스'...",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360145",
+      "author": "민초맛돈까스",
+      "time": "2026-11-28 22:06",
+      "likes": "1",
+      "comments": "",
+      "content": "",
+      "images": [
+        "https://i2.ruliweb.com/img/26/11/28/1a2224206d853a69d.webp",
+        "https://i3.ruliweb.com/img/26/11/28/1a2224227b453a69d.webp"
+      ]
+    },
+    {
+      "id": "ruli_61b2d9666cb4",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "[카봇] Getting A Job | WoW Forever (Ep2)",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360144",
+      "author": "아타호-_-",
+      "time": "2026-11-28 22:01",
+      "likes": "",
+      "comments": "",
+      "content": "",
+      "images": []
+    },
+    {
+      "id": "ruli_c5e2de5dded4",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "사카나 AI, 30B급 추론 모델 '나마즈 스몰' 공개",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360143",
+      "author": "사쿠라모리 카오리P",
+      "time": "2026-11-28 20:51",
+      "likes": "",
+      "comments": "",
+      "content": "웹 검색서 120B 모델 압도",
+      "images": []
+    },
+    {
+      "id": "ruli_ae8085020b8d",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "아주르 프로밀리아, 오프닝 일일 매출 약 200억 달성",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360142",
+      "author": "Taliss",
+      "time": "2026-11-28 20:50",
+      "likes": "7",
+      "comments": "",
+      "content": "만쥬 대표 임서인이 게이머들에게 편지를 작성\n일일 매출 약 1억위안(약 200억원)이라고 언급하며 플래폼 비율은 PC가 65%, 안드로이드가 30%, iOS가 5%라고 언급",
+      "images": [
+        "https://i1.ruliweb.com/img/26/11/28/1a221fa09e158a88e.webp",
+        "https://i3.ruliweb.com/img/26/11/28/1a221fa0c0758a88e.webp"
+      ]
+    },
+    {
+      "id": "ruli_7adaa0840a82",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "앨리스 황 관련 중국 데이터센터서 블랙웰 확인…일련번호까지 추적",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360141",
+      "author": "사쿠라모리 카오리P",
+      "time": "2026-11-28 20:50",
+      "likes": "3",
+      "comments": "",
+      "content": "",
+      "images": []
+    },
+    {
+      "id": "ruli_1754aef3c83b",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "바이트댄스, AI 에이전트 강화학습 도구 라미나 공개",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360140",
+      "author": "사쿠라모리 카오리P",
+      "time": "2026-11-28 20:49",
+      "likes": "",
+      "comments": "",
+      "content": "GPU 사용 시간 64% 절감",
+      "images": []
+    },
+    {
+      "id": "ruli_a816f4f4ef84",
+      "source": "루리웹 PC·스팀",
+      "category": "PC·스팀",
+      "title": "“젠슨 황 불륜 상대와 연계된 중국 데이터센터에 엔비디아 블랙웰 설치”",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360139",
       "author": "빡통이",
-      "time": "2026-11-28 11:52",
-      "likes": "1",
+      "time": "2026-11-28 20:39",
+      "likes": "4",
       "comments": "",
       "content": "",
-      "images": []
-    },
-    {
-      "id": "ruli_b241c7d6188d",
-      "source": "루리웹 PC·스팀",
-      "category": "PC·스팀",
-      "title": "알케론 - 얼리 액세스 트레일러",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360125",
-      "author": "ComShepard",
-      "time": "2026-11-28 11:44",
-      "likes": "",
-      "comments": "",
-      "content": "https://store.steampowered.com/app/3333850/\n알케론은 아이템에 깃든 강력한 능력을 익혀 싸우는, 빠른 템포의 팀 기반 PvP 게임입니다.\n능력을 조합해 실력과 창의력으로 라이벌 팀을 압도하며 탑을 오르세요.\n런마다 달라지는 상황에 적응하면서, 새로운 조합을 익혀 끝까지 살아남아야 합니다.",
-      "images": []
-    },
-    {
-      "id": "ruli_816eee1fb954",
-      "source": "루리웹 PC·스팀",
-      "category": "PC·스팀",
-      "title": "「에테리아」 x 「길티기어 -스트라이브-」 콜라보 캐릭터 PV 공개",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360124",
-      "author": "ComShepard",
-      "time": "2026-11-28 11:41",
-      "likes": "",
-      "comments": "",
-      "content": "https://store.steampowered.com/app/2084970/\n2026년 12월 2일, 콜라보 버전이 드디어 오픈됩니다.\n신규 콜라보 애니머스 [솔 배드가이]와 [퀸 디지]가 기간 한정으로 등장하며, [잭 오]를 무료로 획득할 수 있습니다!\n또한, 다양한 콜라보 이벤트와 전용 스킨을 포함한 풍성한 보상도 준비되어 있으니, 12월 2일, 게임에서 직접 만나보세요!",
-      "images": []
-    },
-    {
-      "id": "ruli_035b0faf0768",
-      "source": "루리웹 PC·스팀",
-      "category": "PC·스팀",
-      "title": "다나와 개인정보 유출(의심) 사고 관련 안내",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360123",
-      "author": "슈프림양념치킨",
-      "time": "2026-11-28 11:01",
-      "likes": "6",
-      "comments": "",
-      "content": "오늘 오전 다나와 가입자들에게 보낸 메일 입니다.",
-      "images": [
-        "https://i3.ruliweb.com/img/26/11/28/1a21fe1de9c13ccf9.webp"
-      ]
-    },
-    {
-      "id": "ruli_82ca097f0cd4",
-      "source": "루리웹 PC·스팀",
-      "category": "PC·스팀",
-      "title": "3인칭 슈팅 \"외계인 하루오군\" 트레일러",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360122",
-      "author": "ComShepard",
-      "time": "2026-11-28 10:35",
-      "likes": "1",
-      "comments": "",
-      "content": "https://store.steampowered.com/app/5168600/Alien_Entity_Hal09/\n위험으로 가득 찬 침수된 시설을 탐색하며, 버려진 중요 물자를 회수하는 임무를\n수행하는 카에데와 코즈에, 두 군인의 이야기를 그린 3인칭 슈팅 게임",
-      "images": [
-        "https://i3.ruliweb.com/img/26/11/28/1a21fca264a15e737.webp",
-        "https://i3.ruliweb.com/img/26/11/28/1a21fc9eae415e737.webp",
-        "https://i2.ruliweb.com/img/26/11/28/1a21fc9ec2615e737.webp",
-        "https://i1.ruliweb.com/img/26/11/28/1a21fc9ee0a15e737.webp",
-        "https://i3.ruliweb.com/img/26/11/28/1a21fc9f00a15e737.webp",
-        "https://i3.ruliweb.com/img/26/11/28/1a21fc9f1fb15e737.webp",
-        "https://i1.ruliweb.com/img/26/11/28/1a21fc9f3fa15e737.webp",
-        "https://i3.ruliweb.com/img/26/11/28/1a21fc9f5ee15e737.webp"
-      ]
-    },
-    {
-      "id": "ruli_9825519cd363",
-      "source": "루리웹 PC·스팀",
-      "category": "PC·스팀",
-      "title": "히어로즈 오브 마이트 앤 매직 3 리메이크 - 개발자 라이브 스트리밍",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360121",
-      "author": "ComShepard",
-      "time": "2026-11-28 10:31",
-      "likes": "5",
-      "comments": "",
-      "content": "히어로즈 오브 마이트 앤 매직 3 리메이크 - 개발자 라이브 스트리밍 | 플레이 스타일, 클로즈 플레이 테스트",
       "images": []
     },
     {
@@ -615,6 +587,20 @@
         "https://edgio.clien.net/F01/2026/11/15867270/7166e24f7c36.jpg?scale=width:740",
         "https://edgio.clien.net/F01/2026/11/15867271/73adbbe1d4f8.jpg?scale=width:740"
       ]
+    },
+    {
+      "id": "ruli_62f42ccf267c",
+      "source": "루리웹 예판·핫딜",
+      "category": "할인·예판",
+      "title": "[네이버페이] 일일적립, 클릭 43원",
+      "url": "https://bbs.ruliweb.com/market/board/1020/read/109441",
+      "author": "",
+      "time": "2026-11-28 00:27",
+      "likes": "162",
+      "comments": "",
+      "content": "클릭적립 합계 43원\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=cr_2026112801_2612_01_1840\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=cr_2026112403_2612_1128\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=cr_pointdraw_261128_1666\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=cr_pointdraw_261128_1616\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=pointdraw_benefit_261128\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=pointdraw_mycar_261128\nhttps://campaign2.naver.com/npay/v2/click-point/?eventId=pointdraw_spay_261128\n일일적립\n포인트뽑기 토스트 적립 (여기 누르면 ?원 클릭)\nhttps://home.pay.naver.com\n결제홈 깜짝 방문 (10원+5원, 스크롤 15초 유지, 월 5회 제한)\nhttps://new-m.pay.naver.com/historybenefit/home\n클릭 미션 (자정 초기화, 초록색 클릭버튼)\nhttps://point.pay.naver.com/pc/main?category=quickreward\n마이카 방문 혜택\nhttps://mycar.naver.com/\n네이버페이 보험 방문 미션 (자정 초기화)\nhttps://insurance.pay.naver.com/?inflow=point_category\n네이버페이 운세 (1원, 자정 초기화)\nhttps://ofw.adison.co/u/naverpay/ads/730013\n가장 빠른 즉시적립 혜택 보기 (1원, 10시 초기화)\nhttps://ofw.adison.co/u/naverpay/ads/67823\n브랜드뽑기 후 결제하러 가기 클릭 (10원, 14시 초기화)\nhttps://campaign2.naver.com/npay/branddraw/?from=pointtab\n직링 적립 실패 시\n네이버페이->즉시적립\n에서 직접 받아주세요\nhttps://point.pay.naver.com/pc/mission-detail?dataType=category&rank=18&pageKey=quickreward",
+      "images": [],
+      "is_cross_hot": false
     },
     {
       "id": "ruli_916920487c16",
@@ -1895,23 +1881,6 @@
       "content": "롯데카드나 카카오페이 머니로\n결제하면 16,790원 나와요",
       "images": [
         "https://i1.ruliweb.com/img/26/11/22/1a200daf89e58ac6f.webp"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "ruli_9b6a96559fdf",
-      "source": "루리웹 예판·핫딜",
-      "category": "할인·예판",
-      "title": "[롯데온] 펩시 제로슈거 라임/제로카페인 210ml 60캔 (22,820...(1)",
-      "url": "https://bbs.ruliweb.com/market/board/1020/read/109271",
-      "author": "마니태",
-      "time": "2026-11-22 08:52",
-      "likes": "3",
-      "comments": "",
-      "content": "펩시 제로라인 2종류 다 개당 380원 정도로 싸네요",
-      "images": [
-        "https://i2.ruliweb.com/img/26/11/22/1a20086774b55a057.webp",
-        "https://i2.ruliweb.com/img/26/11/22/1a20086791e55a057.webp"
       ],
       "is_cross_hot": false
     }
