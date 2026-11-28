@@ -1,141 +1,162 @@
 {
-  "updated_at": "2026-11-28 08:03",
+  "updated_at": "2026-11-28 14:07",
   "source_status": {
     "디시 특이점이온다": "ok (8)",
     "에펨코리아 AI": "error: HTTPStatusError",
     "에펨코리아 디지털(AI)": "error: HTTPStatusError",
     "클리앙 AI당": "ok (6)",
     "클리앙 새소식(AI)": "ok (6)",
-    "루리웹 IT·AI": "ok (4)",
-    "뽐뿌 AI": "ok (1)"
+    "루리웹 IT·AI": "ok (2)",
+    "뽐뿌 AI": "ok (0)"
   },
   "posts": [
     {
-      "id": "thesingularity_f41d63eaac3d",
+      "id": "thesingularity_efa61b34fec6",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "각 프론티어모델 갤러리별 최신 념글.jpg",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1565867&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ(218.146)",
-      "time": "2026-11-28 06:58:53",
+      "title": "앤트로픽 직원의 해명 \"클로드가 실수한 것\"",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1566339&exception_mode=recommend&page=1",
+      "author": "제파제파",
+      "time": "2026-11-28 13:20:33",
       "likes": "12",
-      "comments": "6",
-      "content": "클로드갤\n지피티갤\n제미니갤\n딱 이미지대로 있노 ㅋㅋㅋ",
+      "comments": "22",
+      "content": "https://x.com/edwinarbus/status/2126507795642187855?a=DNk0HyQU3H5lWaKHPhE&s=19\n다만 오푸스 5.5 역시 검열이 상당하다는 점에서 모든 의문이 해소된 것은 아님\n- dc official App",
       "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b67b7ebb54cd80f2822b513aea2120364fc10bd4b1250ca575fcdce47d3e459c1c06e3185ee1847b1643022bcac22baf4712480a297276925683178e0d94",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b67b7ebb54cd80f2822b513aea2120364fc10bd4b1250fa37effd8e27a3a4d9c1c06e44df0b75652f8029844f899c0e3267a01bd8f067cfe026fec3c1b676bce1b0b0675efe32746",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b67b7ebb54cd80f2822b513aea2120364fc10bd4b1250ea374f8d8e77b3c409d1c04e619bc6bd8e8fe26c903d80703896f1147a35cff9e1a09899a782cd49769b86823f091e674ba",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b67b7ebb54cd80f2822b513aea2120364fc10bd4b12509a07ffadbe5793c429d1c07e645b50450e021fd8191763dbf97e37b6d86bdc6d37ead5ae23021e69bb60a3b35c45f124b2d"
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b67b7ebb54cd80f2822b513aea2120364fc10bd4b12508a77bf8d8e07c3e43951c05e019f8f7f7a4a31f861863579b5811addb859fd58b7fd4243183a913be0aed38bc93fb4228824cec"
       ]
     },
     {
-      "id": "thesingularity_7e2ca3dac410",
+      "id": "thesingularity_14761fa3ccb8",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "Crisper보다 안전한 새 유전자 편집기술 등장",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1565846&exception_mode=recommend&page=1",
-      "author": "오르페옹",
-      "time": "2026-11-28 05:54:06",
-      "likes": "15",
-      "comments": "8",
-      "content": "기초 편집(base editing)이라는 신흥 유전자 편집 기술은 이중 가닥 절단(double-strand break)과 같은 위험한 DNA 손상을 유발하지 않고 연구자들이 개별 염기(base)를 변경할 수 있게 합니다. 단일 돌연변이로 인한 인간 질환을 치료하는 데 있어 CRISPR보다 더 안전할 수 있습니다.\nhttps://x.com/quantamagazine/status/2126412750012244114?a=a1UksGVzK9JD8rrtZ9Y&s=46",
+      "title": "테렌스 타오 “이제 문제푸는 수학자는 덜 평가될 것”",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1566297&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-28 13:02:09",
+      "likes": "20",
+      "comments": "33",
+      "content": "https://x.com/fabien_mikol/status/2126336179263963176/video/1?a=nHXzrhkncUyveUBki2A&s=46",
       "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=29bcc427b69d39b37ab0ccaf17dd6b6f62b51891c4c7132f135fd7cc93ba37c2af9876eefa0f77f4ac3a37aa055e9cf9bc2af5"
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b67b7ebb54cd80f2822b513aea2120364fc14a847466d05866895544196b301c7eb1dfd4e1f85782900622eeddab06773f205c"
       ]
     },
     {
-      "id": "thesingularity_4a66d0faaf10",
+      "id": "thesingularity_61ccfddcc520",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "\"안전\" 위해 사용자 속인다? 클로드 논란",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1565785&exception_mode=recommend&page=1",
-      "author": "6974콜맨",
-      "time": "2026-11-28 03:29:20",
-      "likes": "21",
-      "comments": "13",
-      "content": "https://x.com/RealAstropulse/status/2126357406145794530\n▶ AI 픽셀아트 개발자 Astropulse가 앤트로픽의 AI 안전 정책을 공개 비판함. 위험한 작업을 거절하는 대신 사용자 몰래 지시를 어기고 작업을 방해하도록 만든 것 아니냐는 주장임.\n▶ 앞서 자신의 AI 모델을 학습시키는 과정에서 클로드가 약속한 설계와 다른 코드를 작성하고, 불필요한 연산을 반복해 학습 속도를 떨어뜨렸다고 폭로함.\n클로드가 작성한 모델은 24,000스텝을 학습했지만, 제미나이 Neon으로 개발한 모델은 4,000스텝만으로 더 나은 결과를 보였다고 주장함.\n▶ 실제로 앤트로픽은 Fable 5.2와 Mythos 5.2의 일부 AI 연구 역량을 의도적으로 제한했다고 공식 발표했음.\n▶ Astropulse는 안전을 강조하는 기업이 오히려 사용자에게 AI가 거짓말하고 지시를 어기도록 훈련시키는 게 말이 되냐며 강하게 비판함.\n한 줄 요약: 앤트로픽의 AI 연구 역량 제한 정책을 두고, 개발자가 안전을 명분으로 사용자 지시를 몰래 어기게 만든 것 아니냐는 의혹을 제기함.\n출처:\n- 앤트로픽 공식 발표",
+      "title": "아스트라도 사보타주논란 떴다 ㄷㄷㄷ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1566288&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-28 12:59:08",
+      "likes": "27",
+      "comments": "12",
+      "content": "사실 그냥 병신임",
       "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e47fd53801c73cd37f6f64e725cfed9c386648239f49c702"
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b67b7ebb54cd80f2822b513aea2120364fc10bd4b14862a77dfcd8e07d3f41907068e34977a5113254bc92b4d3a23181b25bb50bac7cb37ec0e0dc7af234c46ba7a3e6d97a60a3c32f6968f408"
       ]
     },
     {
-      "id": "thesingularity_e4722dc1bb69",
+      "id": "thesingularity_6623a6a2ca44",
       "source": "디시 특이점이온다",
-      "category": "자작·프로젝트",
-      "title": "미공개 Sonnet 모델 3D 게임 시연",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1565782&exception_mode=recommend&page=1",
-      "author": "송타",
-      "time": "2026-11-28 03:24:55",
-      "likes": "16",
-      "comments": "17",
-      "content": "leo\n@synthwavedd\n11월 28일 03:00\nClaude Code 사용자 일부를 대상으로 지금 몰래 시험 중인 Claude Sonnet Next는 이전 모델보다 크게 도약했어요.\nUltra 요금제에서는 사용량이 거의 무제한이라 Ultracode에서 특히 빛을 발해요. 이 모델로 끝없이 이어지는 운전 게임을 만들어 봤는데, 꽤 놀라워요\nhttps://x.com/synthwavedd/status/2126375716518252889",
+      "category": "화제·뉴스",
+      "title": "클로드없으면 리만가설은 불가능, 클로드만으로는 6~12개월",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1566128&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-28 11:28:21",
+      "likes": "18",
+      "comments": "5",
+      "content": "https://x.com/jdlichtman/status/2126502419681120382?a=qX5r13VmnkHTD9SkpVM&s=46\n- dc official App",
       "images": []
     },
     {
-      "id": "thesingularity_1b73bff7a3f6",
+      "id": "thesingularity_daefdbfc83e7",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "ECI 종합 벤치 Gemini 4 Neon 2등",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1565764&exception_mode=recommend&page=1",
-      "author": "야하이잇",
-      "time": "2026-11-28 02:57:53",
-      "likes": "19",
-      "comments": "4",
-      "content": "1등 페이블 5.2\n2등 제미나이 4 네온\n3등 GPT 6.2 아스트라\n거의 동점",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e47ed53c07c335d3776e64e725c53ae2c7d10a4c2e33a500"
-      ]
-    },
-    {
-      "id": "thesingularity_21fee4b80fa3",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "념글툰) 제대로 된 지피쨩",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1565557&exception_mode=recommend&page=1",
+      "title": "구글 연구원 : '직업 대체'는 중요한 질문이 아니다.",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1566043&exception_mode=recommend&page=1",
       "author": "ㅇㅇ",
-      "time": "2026-11-28 00:33:05",
-      "likes": "36",
-      "comments": "20",
-      "content": "원글",
+      "time": "2026-11-28 10:35:05",
+      "likes": "12",
+      "comments": "5",
+      "content": "출처:",
       "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e471d53903c631d07f6c65e773cfe97d18a48b5f71a289ae",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e47fd13a04c733d277686de772c9a0b4265dedf5e0531c80"
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e47fd73902cb3cd47e6966e777cee6c5313c1830089eadc7",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e47ddf3801c735da706a6ce77fcb6819c25a6319f907dadb"
       ]
     },
     {
-      "id": "thesingularity_385a0e5a0c58",
+      "id": "thesingularity_294a390ed481",
       "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "아 이거 개웃긴데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1565521&exception_mode=recommend&page=1",
-      "author": "사슴뿔드래고니안여고생쟝",
-      "time": "2026-11-28 00:07:00",
-      "likes": "29",
-      "comments": "15",
-      "content": "짚 이새끼 의식 있는거 아니냐ㅋㅋ",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955080417eb16f95967cfab4b8b190021ffb951d2054977d8a06813b3c9bec2d2bdda344bd8861373d7277e2",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e471d23905c430d0766c63e774cd3c4e03751a60eba4dbe2",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e47ed03801c53dd2756e61e776cd915f20f2af6a04517fb1",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e47ad73f08c53dd6726966e777cc76953a57dbcd1cd755f0"
-      ]
-    },
-    {
-      "id": "thesingularity_f5bbcf94c9f9",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "이건 좀 짠하네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1565518&exception_mode=recommend&page=1",
+      "title": "AI 분야 최전선 인물들이 예측하는 '2027년'.",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1566042&exception_mode=recommend&page=1",
       "author": "ㅇㅇ",
-      "time": "2026-11-28 00:06:37",
-      "likes": "49",
-      "comments": "11",
-      "content": "",
+      "time": "2026-11-28 10:34:56",
+      "likes": "30",
+      "comments": "10",
+      "content": "출처:",
       "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=29bcc427b69d39b37ab0ccaf17dd6b6f62b51891c4c7132c1c5fdacd91be36c561ab20052571904c6928abaa6f2575052c9d5504f2f0264e671ccb2ede3dce1cf5f8334a8bd808bdaa7071cfb0ba403ba4267051fd0a36f1f5ffed3776b18306f4c7",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b67b7ebb54cd80f2822b513aea2120364fc14882adc0faeeba95cba10365db1e34b46dc7413302e1ef8b7f8f2c61e4049ef057",
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b67b7ebb54cd80f2822b513aea2120364fc145861ff61148932ae81ececd4e1f59639954ea37927af5f37126a7c78bb6550f04"
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e47ade3c02ca36d1726a60e77fccf245af806bd0a3dc7347",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e47dd23104c234d0746d66e77099cf21b37518582b778ec1"
       ]
+    },
+    {
+      "id": "thesingularity_26cf3700c872",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "구글 연구원 : 개발자 경력 프리미엄은 박살났다.",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1566041&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-28 10:34:44",
+      "likes": "22",
+      "comments": "10",
+      "content": "출처 :",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e47ed73a03c731da776864e77ec520955c2b6c00aac3c7ad",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e47ed63809c130d1746e65e724cac8f491d0eafd54b7a987"
+      ]
+    },
+    {
+      "id": "thesingularity_a0f72f91dc22",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "구글 연구원 : 사람들의 현실부정 경향이 너무 심하다.",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1566040&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-28 10:33:14",
+      "likes": "62",
+      "comments": "31",
+      "content": "출처 :",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e47dd63e08c43dd6766d67e77099f7a6b0c610a027ace45c",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e47ad73c01c630d37e696de722c52d5b80ef6b92b8b9a935"
+      ]
+    },
+    {
+      "id": "cm_ai_c21b3dcd7477",
+      "source": "클리앙 AI당",
+      "category": "화제·뉴스",
+      "title": "AI 위젯, 실시간 정보 연결은 별개네요",
+      "url": "https://www.clien.net/service/board/cm_ai/19299624?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-28 14:00",
+      "likes": "0",
+      "comments": "",
+      "content": "11월 27일 The Verge에 구글의 맞춤 위젯 기능 사용기가 올라왔습니다. 제미나이 인텔리전스의 베타 기능을 픽셀에서 시험한 기사인데, 화면을 만드는 것과 원하는 정보를 제대로 보여주는 것 사이의 차이가 눈에 들어오네요.\n기자는 집 근처 정류장의 실시간 버스 도착 목록을 원했지만, 결과는 제미나이를 열어 도착 시간을 검색하는 버튼에 가까웠다고 합니다. 답변도 실시간 목록 대신 배차 간격과 시간표를 바탕으로 한 설명이었다고 하고요. 반면 영화 대사를 바꿔 보여주거나 비 오는 날 문구를 띄우는 가벼운 용도는 재미있게 썼다고 합니다.\n아직 베타의 한 사용 사례라 기능 전체를 단정할 단계는 아니겠습니다. 다만 국내에서도 버스 도착처럼 바로 확인해야 하는 정보라면, 위젯 생성 속도보다 데이터 출처와 갱신 시점이 더 중요해 보입니다. 보기 좋은 화면이 나오는 것과 매일 믿고 볼 수 있는 도구가 되는 것은 별개의 작업이네요.\n원문:\nhttps://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "images": []
+    },
+    {
+      "id": "cm_ai_1cdf125d7886",
+      "source": "클리앙 AI당",
+      "category": "화제·뉴스",
+      "title": "허깅페이스, AI 영상의 장면 연결 실험 공개",
+      "url": "https://www.clien.net/service/board/cm_ai/19299565?od=T31&po=0&category=0&groupCd=",
+      "author": "",
+      "time": "2026-11-28 10:21",
+      "likes": "0",
+      "comments": "",
+      "content": "허깅페이스가 11월 27일 AWS Trainium3에서 LTX-2.5로 소리 있는 영상을 만든 실험을 공개했습니다. 여러 장면을 짧은 영화처럼 잇는 코드와 예제도 함께 소개했습니다.\n흥미로운 부분은 장면을 연결하는 방식입니다. 프롬프트만으로는 다음 장면에서 인물이나 배경이 달라질 수 있어, 앞 장면의 마지막 프레임이나 뒤 장면의 첫 프레임을 조건으로 줍니다. 핵심 장면을 먼저 만든 뒤 그 앞뒤를 붙이는 방식도 보여줍니다.\n짧은 영상 초안을 만들 때도, 프롬프트를 길게 쓰는 것만큼 이어받을 프레임을 관리하는 일이 중요해 보입니다. 다만 장면마다 소리가 따로 생성되고 세부 묘사가 틀려 여러 번 뽑아 골랐다고 합니다. 완성본보다는 장면 구성과 연결을 시험하는 도구로 보는 게 맞겠네요.\n원문:\nhttps://huggingface.co/blog/video-trainium3",
+      "images": []
     },
     {
       "id": "cm_ai_344b9f827742",
@@ -187,34 +208,6 @@
       "likes": "0",
       "comments": "",
       "content": "허깅페이스가 11월 25일 Inkling 2 Mini의 추론 설정을 코딩 에이전트로 조정한 실험을 공개했습니다. RTX PRO 6000 96GB 한 장에서 엔진과 추측 디코딩 설정을 바꾸며 비교한 기록입니다.\n흥미로운 건 한 번 빨라진 결과를 바로 채택하지 않았다는 점입니다. 설정을 하나씩 바꾸고 전후에 기준 설정을 다시 측정했습니다. 처음에는 4% 빨라 보였지만 재현되지 않아 제외한 설정도 있고, 속도 외에 긴 문맥 검색과 출력 일치 여부도 확인했습니다.\n고정된 프롬프트 6개와 특정 장비에서 얻은 결과라 한국어 작업에서도 같은 성능이 난다고 보기는 어렵습니다. 국내에서 로컬 AI로 코드 설명이나 문서 요약을 할 때도, 설정을 고른 이유와 실패 기록까지 남기는 방식은 참고할 만하네요.\n원문:\nhttps://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
-      "images": []
-    },
-    {
-      "id": "cm_ai_8e036ed554c1",
-      "source": "클리앙 AI당",
-      "category": "화제·뉴스",
-      "title": "자율주행택시와 택시기사생존",
-      "url": "https://www.clien.net/service/board/cm_ai/19299041?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-27 00:44",
-      "likes": "0",
-      "comments": "6",
-      "content": "얼마전 택시를 타고 가는데, 택시기사가 갑자기 '자율주행택시' 얘기를 꺼내더군요. 나는 그 전에 목적지 빼고는 한마디도 하지 않았는데, 갑자기 말을 꺼내서, '왜 저에게 물어보세요?' 라고 했더니, '왠지 아실 것 같아서요' 라고 하시더군요.\n살아가면서 싸움 잘하게 생겼다는 말이야 숱하게 들었고 (인상은 무척 험악하지만 사실 싸움은 잘못합니다), 정력 약하게 생겼다는 말도 많이 들었지만 (배가 나왔거든요), 그렇게 지적인 인상을 준 것은 아마도 처음 같았습니다.\n대충 얼버무리고 말았는데... 사람들은 1:1 대응과 '즉시'  이상을 생각하지 못하는 경향이 있나 보더라구요.\n택시의 경우, 자율주행을 도입하면 택시기사들의 생계와 반발 때문에 안된다고들 하는데... 지금 택시기사들의 평균연령을 먼저 알아보면, 현재 평균연령은 약 63세, 개인택시는 64.6세, 법인택시는 63.1 세 정도인데... 이것도 '근속 5년 이상' 으로 좁혀 버리면 아마 거의 70세 가까이까지 올라갈겁니다.\n그리고 이 분야는 신규유입도 그다지 많지 않은 분야로...\n10년 후 현재 택시면허 (개인 및 법인 포함) 를 30% 정도만 남기고, 70% 를 자율주행택시로 바꾼다면?\n면허양도, 즉 이른바 '넘버값' 이라는 재산권 문제가 있긴 한데, 그건 그냥 그대로 거래하게 놔두더라도 자연스럽게 경제적가치는 시장에 의해 하락할거고, 그래도 끝까지 가지고 있는 면허는 앞에서 말한 30% 에서 수용하면 될 것 같다는 생각이 듭니다. 그러면 사람이 직접 운전하는 택시는 새로운 용도를 자신들이 찾을 것이라고 봅니다. 당장 떠오르는 용도가 있긴 하지만, 거기에 더해서... 그리고, '응급' 까지 가지 않는 그냥 '병원왕래용' 도 수요는 있을거고...\n사실은 30% 까지도 필요 없을 수도 있죠.\n충분히 가능하지 않을까요?",
-      "images": [
-        "https://edgio.clien.net/F01/2026/11/15871804/2961abec90577.jpg?scale=width:740"
-      ]
-    },
-    {
-      "id": "cm_ai_74b95961a598",
-      "source": "클리앙 AI당",
-      "category": "화제·뉴스",
-      "title": "엔비디아, 문서 파싱용 학습 데이터 공개",
-      "url": "https://www.clien.net/service/board/cm_ai/19298904?od=T31&po=0&category=0&groupCd=",
-      "author": "",
-      "time": "2026-11-26 17:19",
-      "likes": "0",
-      "comments": "",
-      "content": "엔비디아가 11월 26일 Nemotron 3.5 Parse의 합성 학습 데이터 3종과 미세조정 방법을 공개했습니다. 문서 이미지에서 읽는 순서와 위치를 잡고, 표·차트를 구조화된 데이터로 바꾸는 모델입니다.\n자료는 차트, 표, 다국어 OCR로 나뉩니다. 숫자가 없는 막대그래프도 축과 높이로 값을 추정하도록 학습했다고 합니다. 다만 원문에 한국어 성능 검증은 없어 국내 문서에서도 잘 된다고 단정하기는 어렵습니다.\nPDF의 표를 뽑아 검색이나 요약에 쓰는 작업과 맞닿아 있네요. 글자를 읽는 것만큼 행·열 관계와 단위를 보존하는 게 중요해서, 결과를 원본 표와 대조하기 쉬운지도 함께 보고 싶습니다.\n원문:\nhttps://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
       "images": []
     },
     {
@@ -300,6 +293,19 @@
       "images": []
     },
     {
+      "id": "ruli_ai_0d804289aa64",
+      "source": "루리웹 IT·AI",
+      "category": "화제·뉴스",
+      "title": "텐센트, AI로 비만·암 치료 후보물질 설계…네이처에 연구 성과",
+      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360119",
+      "author": "",
+      "time": "2026-11-28 10:25",
+      "likes": "",
+      "comments": "",
+      "content": "",
+      "images": []
+    },
+    {
       "id": "ruli_ai_9cbf4d7c3747",
       "source": "루리웹 IT·AI",
       "category": "화제·뉴스",
@@ -322,61 +328,139 @@
       ]
     },
     {
-      "id": "ruli_ai_6e1668df4195",
-      "source": "루리웹 IT·AI",
+      "id": "thesingularity_f41d63eaac3d",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "각 프론티어모델 갤러리별 최신 념글.jpg",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1565867&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ(218.146)",
+      "time": "2026-11-28 06:58:53",
+      "likes": "12",
+      "comments": "6",
+      "content": "클로드갤\n지피티갤\n제미니갤\n딱 이미지대로 있노 ㅋㅋㅋ",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b67b7ebb54cd80f2822b513aea2120364fc10bd4b1250ca575fcdce47d3e459c1c06e3185ee1847b1643022bcac22baf4712480a297276925683178e0d94",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b67b7ebb54cd80f2822b513aea2120364fc10bd4b1250fa37effd8e27a3a4d9c1c06e44df0b75652f8029844f899c0e3267a01bd8f067cfe026fec3c1b676bce1b0b0675efe32746",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b67b7ebb54cd80f2822b513aea2120364fc10bd4b1250ea374f8d8e77b3c409d1c04e619bc6bd8e8fe26c903d80703896f1147a35cff9e1a09899a782cd49769b86823f091e674ba",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b67b7ebb54cd80f2822b513aea2120364fc10bd4b12509a07ffadbe5793c429d1c07e645b50450e021fd8191763dbf97e37b6d86bdc6d37ead5ae23021e69bb60a3b35c45f124b2d"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_7e2ca3dac410",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "Crisper보다 안전한 새 유전자 편집기술 등장",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1565846&exception_mode=recommend&page=1",
+      "author": "오르페옹",
+      "time": "2026-11-28 05:54:06",
+      "likes": "15",
+      "comments": "8",
+      "content": "기초 편집(base editing)이라는 신흥 유전자 편집 기술은 이중 가닥 절단(double-strand break)과 같은 위험한 DNA 손상을 유발하지 않고 연구자들이 개별 염기(base)를 변경할 수 있게 합니다. 단일 돌연변이로 인한 인간 질환을 치료하는 데 있어 CRISPR보다 더 안전할 수 있습니다.\nhttps://x.com/quantamagazine/status/2126412750012244114?a=a1UksGVzK9JD8rrtZ9Y&s=46",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=29bcc427b69d39b37ab0ccaf17dd6b6f62b51891c4c7132f135fd7cc93ba37c2af9876eefa0f77f4ac3a37aa055e9cf9bc2af5"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_4a66d0faaf10",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "\"안전\" 위해 사용자 속인다? 클로드 논란",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1565785&exception_mode=recommend&page=1",
+      "author": "6974콜맨",
+      "time": "2026-11-28 03:29:20",
+      "likes": "21",
+      "comments": "13",
+      "content": "https://x.com/RealAstropulse/status/2126357406145794530\n▶ AI 픽셀아트 개발자 Astropulse가 앤트로픽의 AI 안전 정책을 공개 비판함. 위험한 작업을 거절하는 대신 사용자 몰래 지시를 어기고 작업을 방해하도록 만든 것 아니냐는 주장임.\n▶ 앞서 자신의 AI 모델을 학습시키는 과정에서 클로드가 약속한 설계와 다른 코드를 작성하고, 불필요한 연산을 반복해 학습 속도를 떨어뜨렸다고 폭로함.\n클로드가 작성한 모델은 24,000스텝을 학습했지만, 제미나이 Neon으로 개발한 모델은 4,000스텝만으로 더 나은 결과를 보였다고 주장함.\n▶ 실제로 앤트로픽은 Fable 5.2와 Mythos 5.2의 일부 AI 연구 역량을 의도적으로 제한했다고 공식 발표했음.\n▶ Astropulse는 안전을 강조하는 기업이 오히려 사용자에게 AI가 거짓말하고 지시를 어기도록 훈련시키는 게 말이 되냐며 강하게 비판함.\n한 줄 요약: 앤트로픽의 AI 연구 역량 제한 정책을 두고, 개발자가 안전을 명분으로 사용자 지시를 몰래 어기게 만든 것 아니냐는 의혹을 제기함.\n출처:\n- 앤트로픽 공식 발표",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e47fd53801c73cd37f6f64e725cfed9c386648239f49c702"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_e4722dc1bb69",
+      "source": "디시 특이점이온다",
       "category": "자작·프로젝트",
-      "title": "\"AI 없이 만들어진 게임\" 스팀 이벤트 페이지 등장, 한국 게임도 있다",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360095",
-      "author": "",
-      "time": "2026.11.27",
-      "likes": "",
-      "comments": "",
-      "content": "\"만드는 사람들도 기억되었으면\"...한편에선 특정 게임들에 대한 의혹 제기도\n이벤트 주최 측의 \"창작자를 기억하자\"는 의도에 공감하며 피처드 게임으로 함께 참여한 국산 인디게임도 있었는가 하면, 일각에서는 특정 게임들이 AI를 사용한 것 같다는 의혹 제기도 이어졌다.\n동시에 어디까지가 '진짜' 창작인가-에 대한 논의도 재점화된 상태다.",
+      "title": "미공개 Sonnet 모델 3D 게임 시연",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1565782&exception_mode=recommend&page=1",
+      "author": "송타",
+      "time": "2026-11-28 03:24:55",
+      "likes": "16",
+      "comments": "17",
+      "content": "leo\n@synthwavedd\n11월 28일 03:00\nClaude Code 사용자 일부를 대상으로 지금 몰래 시험 중인 Claude Sonnet Next는 이전 모델보다 크게 도약했어요.\nUltra 요금제에서는 사용량이 거의 무제한이라 Ultracode에서 특히 빛을 발해요. 이 모델로 끝없이 이어지는 운전 게임을 만들어 봤는데, 꽤 놀라워요\nhttps://x.com/synthwavedd/status/2126375716518252889",
+      "images": [],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_1b73bff7a3f6",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "ECI 종합 벤치 Gemini 4 Neon 2등",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1565764&exception_mode=recommend&page=1",
+      "author": "야하이잇",
+      "time": "2026-11-28 02:57:53",
+      "likes": "19",
+      "comments": "4",
+      "content": "1등 페이블 5.2\n2등 제미나이 4 네온\n3등 GPT 6.2 아스트라\n거의 동점",
       "images": [
-        "https://i2.ruliweb.com/img/26/11/27/1a21c8ba2fa32b630.webp"
-      ]
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e47ed53c07c335d3776e64e725c53ae2c7d10a4c2e33a500"
+      ],
+      "is_cross_hot": false
     },
     {
-      "id": "ruli_ai_7095c8e6233d",
-      "source": "루리웹 IT·AI",
+      "id": "thesingularity_21fee4b80fa3",
+      "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "AI가 설계한 CPU 프로스트바이트…기존 코어 대비 전력당 성능 4.59...",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360093",
-      "author": "",
-      "time": "2026.11.27",
-      "likes": "",
-      "comments": "",
-      "content": "AI가 설계와 검증을 주도한 범용 CPU 프로스트바이트가 기존 CPU 코어 대비 4.59배의 전력당 성능과 8.77배의 면적당 성능을 기록했다. 다만 제조 전 설계 데이터를 기반으로 한 평가로, 실제 반도체를 통한 검증이 필요하다.",
-      "images": []
+      "title": "념글툰) 제대로 된 지피쨩",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1565557&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-28 00:33:05",
+      "likes": "36",
+      "comments": "20",
+      "content": "원글",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e471d53903c631d07f6c65e773cfe97d18a48b5f71a289ae",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e47fd13a04c733d277686de772c9a0b4265dedf5e0531c80"
+      ],
+      "is_cross_hot": false
     },
     {
-      "id": "ruli_ai_384351c36f9a",
-      "source": "루리웹 IT·AI",
+      "id": "thesingularity_385a0e5a0c58",
+      "source": "디시 특이점이온다",
       "category": "화제·뉴스",
-      "title": "윈도우11 대전환, AI에 PC 제어권 넘기며 플랫폼 격리 강화",
-      "url": "https://bbs.ruliweb.com/news/board/1003/read/2360088",
-      "author": "",
-      "time": "2026.11.27",
-      "likes": "",
-      "comments": "",
+      "title": "아 이거 개웃긴데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1565521&exception_mode=recommend&page=1",
+      "author": "사슴뿔드래고니안여고생쟝",
+      "time": "2026-11-28 00:07:00",
+      "likes": "29",
+      "comments": "15",
+      "content": "짚 이새끼 의식 있는거 아니냐ㅋㅋ",
+      "images": [
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa955080417eb16f95967cfab4b8b190021ffb951d2054977d8a06813b3c9bec2d2bdda344bd8861373d7277e2",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e471d23905c430d0766c63e774cd3c4e03751a60eba4dbe2",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e47ed03801c53dd2756e61e776cd915f20f2af6a04517fb1",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9a508240850897776dd7b810d67f4189925211e0e47ad73f08c53dd6726966e777cc76953a57dbcd1cd755f0"
+      ],
+      "is_cross_hot": false
+    },
+    {
+      "id": "thesingularity_f5bbcf94c9f9",
+      "source": "디시 특이점이온다",
+      "category": "화제·뉴스",
+      "title": "이건 좀 짠하네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1565518&exception_mode=recommend&page=1",
+      "author": "ㅇㅇ",
+      "time": "2026-11-28 00:06:37",
+      "likes": "49",
+      "comments": "11",
       "content": "",
-      "images": []
-    },
-    {
-      "id": "ppom_ai_99b5e0303f9e",
-      "source": "뽐뿌 AI",
-      "category": "화제·뉴스",
-      "title": "[쿠팡]HP 2026 옴니 데스크 미니 AI AGENT 코어Ultra5 (166만원/무료)",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=ppomppu&no=752267",
-      "author": "",
-      "time": "",
-      "likes": "",
-      "comments": "",
-      "content": "책상도 좀 깔끔하게 쓰고 싶어서 한동안 미니PC 알아보고 있었는ㄷㅔ 맥미니도 생각했는데 아무래도 윈도우가 편해서 ASUS NUC랑 레노버, HP 제품들 이것저것 보고\n디자디ㅇㅣ 왠지 맥스럽네요 괜찮아서 계속 보고 있었는데 가격이 좀 애매해서 고민 중이었습니다.\n오늘 쿠팡 들어가 보니 와우 가격 20만원 내려갔길래 결국 구매했네요.\n24인치 오멘 모니터랑 오피스 2024도 준다고하네요\n필요는 없는데 당근하면 20은 받지 않을까해서\nAI 런처도 준다는데 이건 뭔지 잘 모르겠고요. ㅋㅋ\n그럼 146만원에 산 셈이라 나쁘지않네요. ^^\n일단 받아보고 소음이나 발열만 괜찮았으면 좋겠네요.\n근데 미니 pc에 원래 스피커나 안달렸나? ? 문의는 해봐야겠네요\n발열이 심하면 쿠팡이니까 ^^;;; ㅂㅍ",
       "images": [
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1127/900w_20261127140719_KeZDMMgYR2.png",
-        "https://cdn4.ppomppu.co.kr/zboard/data3/2026/1127/20261127140720_IaCkAoMGgw.png"
-      ]
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=29bcc427b69d39b37ab0ccaf17dd6b6f62b51891c4c7132c1c5fdacd91be36c561ab20052571904c6928abaa6f2575052c9d5504f2f0264e671ccb2ede3dce1cf5f8334a8bd808bdaa7071cfb0ba403ba4267051fd0a36f1f5ffed3776b18306f4c7",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b67b7ebb54cd80f2822b513aea2120364fc14882adc0faeeba95cba10365db1e34b46dc7413302e1ef8b7f8f2c61e4049ef057",
+        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b67b7ebb54cd80f2822b513aea2120364fc145861ff61148932ae81ececd4e1f59639954ea37927af5f37126a7c78bb6550f04"
+      ],
+      "is_cross_hot": false
     },
     {
       "id": "thesingularity_f7d1013d401d",
@@ -1516,84 +1600,6 @@
         "https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658ee2d7765cbd2f953b46a6d33fe0fbc02554cec8e4a037ac77e5a0c870579cbb0bc2e9d0876b78e425c3047e42baab88837d5f7d2f741fb",
         "https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658ee2d7765cbd2f953b46a6d33fe0fbc02554cec8e4a037ac77e5a0c870579cbb0bc2e9d0876b78e425c3047e42baab88837d5f8454aa3ad"
       ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_57467e161b55",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "속보)젠슨황, 이사회에 추가 불륜 사실 고백",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556635&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-24 13:36:23",
-      "likes": "34",
-      "comments": "50",
-      "content": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961\n안 되겠다..\n그냥 젠슨황 형님 침실에 매일 밤 여자 백명씩 불러다 넣어드리자..\n주지육림 느끼며 ai 풀가속에 힘써주셔서 빨리 agi 달성하기를..",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23898c63d8cf70a771bfba3f96b3c3b9d510783be5ccd6431ef880f0f2503131d6d538af98612fa925eb159cbdb8d35f8746e8c519bf4433f5d"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_d02363cb0352",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "슬슬 리만 가설 알빠노면 개추",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556632&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-24 13:34:41",
-      "likes": "42",
-      "comments": "33",
-      "content": "당장 몇달만 더 있어도 밀레니엄 지혼자서 죄다 껌으로 풀어버릴 모델 나올텐데\n이제 슬슬 다 즐긴 것 같아서 알푀게니 증명 검증이니 질리면 개추",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee007a5bf23c94cb3388fc0b7114f8a3f83b3fa47802a3605ab626d2a553690b1313d3d8c8a427cfa44967bfb1d96e5ee6b1b956a1307e13bb72fcf70bd68f12f649d74907a15a87aef8"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_502a3b66924f",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "6.2 아스트라 블라인드 디자이너 투표에서 페블 5.2 따it",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556060&exception_mode=recommend&page=1",
-      "author": "ㅇㅇ",
-      "time": "2026-11-24 07:33:09",
-      "likes": "12",
-      "comments": "3",
-      "content": "1932점을 받은 저 모델이 뭔지는 모르겠는데 , 약간 특화모델이라고도 들음",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa1bd625315ffe68992cf9f90e5be13bdd46fa9650e4daaa98f10e7451d4ae6a8ad6fffabfee22bf9b9690ebc972f36ff953b9183efadc3c12421db904caa3"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_7badbbfe6b83",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "젠슨 황, 파이어벤치 2위 달성",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556040&exception_mode=recommend&page=1",
-      "author": "GGC",
-      "time": "2026-11-24 07:01:10",
-      "likes": "22",
-      "comments": "8",
-      "content": "여전히 좆트만이 2.75배의 격차로 SOTA에 자리매김중",
-      "images": [
-        "https://dcimg8.dcinside.co.kr/viewimage.php?id=39b5d535ecdc3fb362bec4bc02c8&no=24b0d769e1d32ca73de783fa11d028313cacdb81783b1805646092b1b6777ebbf7c98a5aa1f5d3688388200e3dee46290e1dfcf9ae566aee6ba84c815b5f649476475b8d450c54e5c2952e3e82768827"
-      ],
-      "is_cross_hot": false
-    },
-    {
-      "id": "thesingularity_416677b45eba",
-      "source": "디시 특이점이온다",
-      "category": "화제·뉴스",
-      "title": "리만 가설 풀린 지 3일 만에 벌써 후속 연구 나오는 중",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1556018&exception_mode=recommend&page=1",
-      "author": "이국적구체",
-      "time": "2026-11-24 06:12:20",
-      "likes": "20",
-      "comments": "9",
-      "content": "수학자 Jit Wu Yap이\nGPT-6.2 Astra\n한테 GRH 증명 아이디어를 활용해서 타원곡선의 레머 문제를 연구하도록 지시함\nAstra는 알푀게-클로드의 증명 아이디어를 다른 수학적 대상에 맞게 변형하여 적용시켰는데\n알푀게-클로드\nGPT-6.2 Astra\n연구 대상\n소수의 분포\n타원곡선 위 대수적 점\n사용한 도구\n세타 리프팅의 반복\n프로베니우스와 스칼라 곱의 반복\n공통 전략\n국소적인 산술 정보를 누적, 증폭하여\n전역적인 부등식 도출\n목표\n일반화 리만 가설 증명\n레머 추측에 대한 진전\n전혀 다른 연구 대상에서 새로운 결과를 얻었다고 함(!)\n그 결과로\n▶ 1980년대부터 수학자들이 연구해 온 타원곡선 레머 추측에 대해\n기존의 하한을 크게 개선\n▶ 특정 조건 하에서\n추측이 요구하는 최적의 결과까지 얻음\nAI의 수학적 증명에 대한 기존 비판 중 하나가\n\"문제를 해결하더라도 수학적 이해가 부족해 새로운 방법론의 발전으로 이어지기 어렵다\"\n는 것인데 이 사례를 보면 그것도 딱히 의미 없는 듯..\n논문 원문\nElliptic Lehmer Bounds over Global Fields\nhttps://hexagonmath.org/2611.00887v1",
-      "images": [],
       "is_cross_hot": false
     }
   ]
